@@ -1,0 +1,239 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,legbyes,wides,review_by,review_umpire,review_batter,review_decision,review_type,byes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Lucknow Super Giants,0,1,0.1,5.6,mandatory,AK Markram,Mohammed Siraj,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,0
+Lucknow Super Giants,0,2,0.1,5.6,mandatory,AK Markram,Mohammed Siraj,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,0
+Lucknow Super Giants,0,3,0.1,5.6,mandatory,AK Markram,Mohammed Siraj,MR Marsh,2,0,2,,,,,,,,,,,,,,,,,,2
+Lucknow Super Giants,0,4,0.1,5.6,mandatory,AK Markram,Mohammed Siraj,MR Marsh,0,1,1,1.0,,,,,,,,,,,,,,,,,3
+Lucknow Super Giants,0,5,0.1,5.6,mandatory,MR Marsh,Mohammed Siraj,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,4
+Lucknow Super Giants,0,6,0.1,5.6,mandatory,AK Markram,Mohammed Siraj,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,4
+Lucknow Super Giants,1,1,0.1,5.6,mandatory,MR Marsh,K Rabada,AK Markram,6,0,6,,,,,,,,,,,,,,,,,,10
+Lucknow Super Giants,1,2,0.1,5.6,mandatory,MR Marsh,K Rabada,AK Markram,4,0,4,,,,,,,,,,,,,,,,,,14
+Lucknow Super Giants,1,3,0.1,5.6,mandatory,MR Marsh,K Rabada,AK Markram,0,0,0,,,,,,,,,MR Marsh,caught,,,,,Shubman Gill,,,14
+Lucknow Super Giants,1,4,0.1,5.6,mandatory,RR Pant,K Rabada,AK Markram,4,0,4,,,,,,,,,,,,,,,,,,18
+Lucknow Super Giants,1,5,0.1,5.6,mandatory,RR Pant,K Rabada,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,19
+Lucknow Super Giants,1,6,0.1,5.6,mandatory,AK Markram,K Rabada,RR Pant,4,0,4,,,,,,,,,,,,,,,,,,23
+Lucknow Super Giants,2,1,0.1,5.6,mandatory,RR Pant,Mohammed Siraj,AK Markram,4,0,4,,,,,,,,,,,,,,,,,,27
+Lucknow Super Giants,2,2,0.1,5.6,mandatory,RR Pant,Mohammed Siraj,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,27
+Lucknow Super Giants,2,3,0.1,5.6,mandatory,RR Pant,Mohammed Siraj,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,28
+Lucknow Super Giants,2,4,0.1,5.6,mandatory,AK Markram,Mohammed Siraj,RR Pant,1,0,1,,,,,,,,,,,,,,,,,,29
+Lucknow Super Giants,2,5,0.1,5.6,mandatory,RR Pant,Mohammed Siraj,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,29
+Lucknow Super Giants,2,6,0.1,5.6,mandatory,RR Pant,Mohammed Siraj,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,30
+Lucknow Super Giants,3,1,0.1,5.6,mandatory,RR Pant,K Rabada,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,30
+Lucknow Super Giants,3,2,0.1,5.6,mandatory,RR Pant,K Rabada,AK Markram,6,0,6,,,,,,,,,,,,,,,,,,36
+Lucknow Super Giants,3,3,0.1,5.6,mandatory,RR Pant,K Rabada,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,37
+Lucknow Super Giants,3,4,0.1,5.6,mandatory,AK Markram,K Rabada,RR Pant,4,0,4,,,,,,,,,,,,,,,,,,41
+Lucknow Super Giants,3,5,0.1,5.6,mandatory,AK Markram,K Rabada,RR Pant,0,0,0,,,,,,,,,,,,,,,,,,41
+Lucknow Super Giants,3,6,0.1,5.6,mandatory,AK Markram,K Rabada,RR Pant,4,0,4,,,,,,,,,,,,,,,,,,45
+Lucknow Super Giants,4,1,0.1,5.6,mandatory,RR Pant,Mohammed Siraj,AK Markram,0,0,0,,,,,,,,,RR Pant,caught,,,,,R Tewatia,,,45
+Lucknow Super Giants,4,2,0.1,5.6,mandatory,A Badoni,Mohammed Siraj,AK Markram,0,1,1,1.0,,,,,,,,,,,,,,,,,46
+Lucknow Super Giants,4,3,0.1,5.6,mandatory,AK Markram,Mohammed Siraj,A Badoni,0,0,0,,,,,,,,,,,,,,,,,,46
+Lucknow Super Giants,4,4,0.1,5.6,mandatory,AK Markram,Mohammed Siraj,A Badoni,1,0,1,,,,,,,,,,,,,,,,,,47
+Lucknow Super Giants,4,5,0.1,5.6,mandatory,A Badoni,Mohammed Siraj,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,47
+Lucknow Super Giants,4,6,0.1,5.6,mandatory,A Badoni,Mohammed Siraj,AK Markram,0,1,1,,1.0,,,,,,,,,,,,,,,,48
+Lucknow Super Giants,4,7,0.1,5.6,mandatory,A Badoni,Mohammed Siraj,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,48
+Lucknow Super Giants,5,1,0.1,5.6,mandatory,AK Markram,Ashok Sharma,A Badoni,0,0,0,,,,,,,,,,,,,,,,,,48
+Lucknow Super Giants,5,2,0.1,5.6,mandatory,AK Markram,Ashok Sharma,A Badoni,6,0,6,,,,,,,,,,,,,,,,,,54
+Lucknow Super Giants,5,3,0.1,5.6,mandatory,AK Markram,Ashok Sharma,A Badoni,0,0,0,,,,,,,,,,,,,,,,,,54
+Lucknow Super Giants,5,4,0.1,5.6,mandatory,AK Markram,Ashok Sharma,A Badoni,0,1,1,1.0,,,,,,,,,,,,,,,,,55
+Lucknow Super Giants,5,5,0.1,5.6,mandatory,A Badoni,Ashok Sharma,AK Markram,4,0,4,,,,,,,,,,,,,,,,,,59
+Lucknow Super Giants,5,6,0.1,5.6,mandatory,A Badoni,Ashok Sharma,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,60
+Lucknow Super Giants,6,1,0.1,5.6,mandatory,A Badoni,M Prasidh Krishna,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,61
+Lucknow Super Giants,6,2,0.1,5.6,mandatory,AK Markram,M Prasidh Krishna,A Badoni,0,0,0,,,,,,,,,,,,,,,,,,61
+Lucknow Super Giants,6,3,0.1,5.6,mandatory,AK Markram,M Prasidh Krishna,A Badoni,0,0,0,,,,,,,,,,,,,,,,,,61
+Lucknow Super Giants,6,4,0.1,5.6,mandatory,AK Markram,M Prasidh Krishna,A Badoni,4,0,4,,,,,,,,,,,,,,,,,,65
+Lucknow Super Giants,6,5,0.1,5.6,mandatory,AK Markram,M Prasidh Krishna,A Badoni,4,0,4,,,,,,,,,,,,,,,,,,69
+Lucknow Super Giants,6,6,0.1,5.6,mandatory,AK Markram,M Prasidh Krishna,A Badoni,0,0,0,,,,,,,,,AK Markram,caught,,,,,Washington Sundar,,,69
+Lucknow Super Giants,7,1,0.1,5.6,mandatory,A Badoni,Rashid Khan,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,70
+Lucknow Super Giants,7,2,0.1,5.6,mandatory,N Pooran,Rashid Khan,A Badoni,1,0,1,,,,,,,,,,,,,,,,,,71
+Lucknow Super Giants,7,3,0.1,5.6,mandatory,A Badoni,Rashid Khan,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,72
+Lucknow Super Giants,7,4,0.1,5.6,mandatory,N Pooran,Rashid Khan,A Badoni,1,0,1,,,,,,,,,,,,,,,,,,73
+Lucknow Super Giants,7,5,0.1,5.6,mandatory,A Badoni,Rashid Khan,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,74
+Lucknow Super Giants,7,6,0.1,5.6,mandatory,N Pooran,Rashid Khan,A Badoni,0,0,0,,,,,,,,,,,,,,,,,,74
+Lucknow Super Giants,8,1,0.1,5.6,mandatory,A Badoni,M Prasidh Krishna,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,74
+Lucknow Super Giants,8,2,0.1,5.6,mandatory,A Badoni,M Prasidh Krishna,N Pooran,0,0,0,,,,,,,,,A Badoni,caught,,,,,GD Phillips,,,74
+Lucknow Super Giants,8,3,0.1,5.6,mandatory,Abdul Samad,M Prasidh Krishna,N Pooran,2,0,2,,,,,,,,,,,,,,,,,,76
+Lucknow Super Giants,8,4,0.1,5.6,mandatory,Abdul Samad,M Prasidh Krishna,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,77
+Lucknow Super Giants,8,5,0.1,5.6,mandatory,N Pooran,M Prasidh Krishna,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,77
+Lucknow Super Giants,8,6,0.1,5.6,mandatory,N Pooran,M Prasidh Krishna,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,77
+Lucknow Super Giants,9,1,0.1,5.6,mandatory,Abdul Samad,Rashid Khan,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,78
+Lucknow Super Giants,9,2,0.1,5.6,mandatory,N Pooran,Rashid Khan,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,79
+Lucknow Super Giants,9,3,0.1,5.6,mandatory,Abdul Samad,Rashid Khan,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,79
+Lucknow Super Giants,9,4,0.1,5.6,mandatory,Abdul Samad,Rashid Khan,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,79
+Lucknow Super Giants,9,5,0.1,5.6,mandatory,Abdul Samad,Rashid Khan,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,79
+Lucknow Super Giants,9,6,0.1,5.6,mandatory,Abdul Samad,Rashid Khan,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,80
+Lucknow Super Giants,10,1,0.1,5.6,mandatory,Abdul Samad,Ashok Sharma,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,80
+Lucknow Super Giants,10,2,0.1,5.6,mandatory,Abdul Samad,Ashok Sharma,N Pooran,2,0,2,,,,,,,,,,,,,,,,,,82
+Lucknow Super Giants,10,3,0.1,5.6,mandatory,Abdul Samad,Ashok Sharma,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,82
+Lucknow Super Giants,10,4,0.1,5.6,mandatory,Abdul Samad,Ashok Sharma,N Pooran,0,1,1,1.0,,,,,,,,,,,,,,,,,83
+Lucknow Super Giants,10,5,0.1,5.6,mandatory,N Pooran,Ashok Sharma,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,83
+Lucknow Super Giants,10,6,0.1,5.6,mandatory,N Pooran,Ashok Sharma,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,83
+Lucknow Super Giants,11,1,0.1,5.6,mandatory,Abdul Samad,Rashid Khan,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,84
+Lucknow Super Giants,11,2,0.1,5.6,mandatory,N Pooran,Rashid Khan,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,85
+Lucknow Super Giants,11,3,0.1,5.6,mandatory,Abdul Samad,Rashid Khan,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,86
+Lucknow Super Giants,11,4,0.1,5.6,mandatory,N Pooran,Rashid Khan,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,86
+Lucknow Super Giants,11,5,0.1,5.6,mandatory,N Pooran,Rashid Khan,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,87
+Lucknow Super Giants,11,6,0.1,5.6,mandatory,Abdul Samad,Rashid Khan,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,87
+Lucknow Super Giants,12,1,0.1,5.6,mandatory,N Pooran,K Rabada,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,87
+Lucknow Super Giants,12,2,0.1,5.6,mandatory,N Pooran,K Rabada,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,88
+Lucknow Super Giants,12,3,0.1,5.6,mandatory,Abdul Samad,K Rabada,N Pooran,4,0,4,,,,,,,,,,,,,,,,,,92
+Lucknow Super Giants,12,4,0.1,5.6,mandatory,Abdul Samad,K Rabada,N Pooran,4,0,4,,,,,,,,,,,,,,,,,,96
+Lucknow Super Giants,12,5,0.1,5.6,mandatory,Abdul Samad,K Rabada,N Pooran,0,0,0,,,Gujarat Titans,KN Ananthapadmanabhan,Abdul Samad,struck down,wicket,,,,,,,,,,,96
+Lucknow Super Giants,12,6,0.1,5.6,mandatory,Abdul Samad,K Rabada,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,96
+Lucknow Super Giants,13,1,0.1,5.6,mandatory,N Pooran,Rashid Khan,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,96
+Lucknow Super Giants,13,2,0.1,5.6,mandatory,N Pooran,Rashid Khan,Abdul Samad,6,0,6,,,,,,,,,,,,,,,,,,102
+Lucknow Super Giants,13,3,0.1,5.6,mandatory,N Pooran,Rashid Khan,Abdul Samad,6,0,6,,,,,,,,,,,,,,,,,,108
+Lucknow Super Giants,13,4,0.1,5.6,mandatory,N Pooran,Rashid Khan,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,108
+Lucknow Super Giants,13,5,0.1,5.6,mandatory,N Pooran,Rashid Khan,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,109
+Lucknow Super Giants,13,6,0.1,5.6,mandatory,Abdul Samad,Rashid Khan,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,109
+Lucknow Super Giants,14,1,0.1,5.6,mandatory,N Pooran,M Prasidh Krishna,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,109
+Lucknow Super Giants,14,2,0.1,5.6,mandatory,N Pooran,M Prasidh Krishna,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,109
+Lucknow Super Giants,14,3,0.1,5.6,mandatory,N Pooran,M Prasidh Krishna,Abdul Samad,0,0,0,,,,,,,,,N Pooran,caught,,,,,Shubman Gill,,,109
+Lucknow Super Giants,14,4,0.1,5.6,mandatory,MD Choudhary,M Prasidh Krishna,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,109
+Lucknow Super Giants,14,5,0.1,5.6,mandatory,MD Choudhary,M Prasidh Krishna,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,110
+Lucknow Super Giants,14,6,0.1,5.6,mandatory,Abdul Samad,M Prasidh Krishna,MD Choudhary,0,0,0,,,,,,,,,,,,,,,,,,110
+Lucknow Super Giants,15,1,0.1,5.6,mandatory,MD Choudhary,Mohammed Siraj,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,110
+Lucknow Super Giants,15,2,0.1,5.6,mandatory,MD Choudhary,Mohammed Siraj,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,110
+Lucknow Super Giants,15,3,0.1,5.6,mandatory,MD Choudhary,Mohammed Siraj,Abdul Samad,4,0,4,,,,,,,,,,,,,,,,,,114
+Lucknow Super Giants,15,4,0.1,5.6,mandatory,MD Choudhary,Mohammed Siraj,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,115
+Lucknow Super Giants,15,5,0.1,5.6,mandatory,Abdul Samad,Mohammed Siraj,MD Choudhary,1,0,1,,,,,,,,,,,,,,,,,,116
+Lucknow Super Giants,15,6,0.1,5.6,mandatory,MD Choudhary,Mohammed Siraj,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,117
+Lucknow Super Giants,16,1,0.1,5.6,mandatory,MD Choudhary,Ashok Sharma,Abdul Samad,0,1,1,1.0,,,,,,,,,,,,,,,,,118
+Lucknow Super Giants,16,2,0.1,5.6,mandatory,Abdul Samad,Ashok Sharma,MD Choudhary,0,0,0,,,,,,,,,Abdul Samad,caught,,,,,GD Phillips,,,118
+Lucknow Super Giants,16,3,0.1,5.6,mandatory,GF Linde,Ashok Sharma,MD Choudhary,0,0,0,,,,,,,,,,,GF Linde,A Badoni,Lucknow Super Giants,impact_player,,,,118
+Lucknow Super Giants,16,4,0.1,5.6,mandatory,GF Linde,Ashok Sharma,MD Choudhary,0,0,0,,,,,,,,,,,M Shahrukh Khan,Mohammed Siraj,Gujarat Titans,impact_player,,,,118
+Lucknow Super Giants,16,5,0.1,5.6,mandatory,GF Linde,Ashok Sharma,MD Choudhary,1,0,1,,,,,,,,,,,,,,,,,,119
+Lucknow Super Giants,16,6,0.1,5.6,mandatory,MD Choudhary,Ashok Sharma,GF Linde,1,0,1,,,,,,,,,,,,,,,,,,120
+Lucknow Super Giants,16,7,0.1,5.6,mandatory,GF Linde,Ashok Sharma,MD Choudhary,0,0,0,,,,,,,,,,,,,,,,,,120
+Lucknow Super Giants,17,1,0.1,5.6,mandatory,MD Choudhary,K Rabada,GF Linde,6,0,6,,,,,,,,,,,,,,,,,,126
+Lucknow Super Giants,17,2,0.1,5.6,mandatory,MD Choudhary,K Rabada,GF Linde,2,0,2,,,,,,,,,,,,,,,,,,128
+Lucknow Super Giants,17,3,0.1,5.6,mandatory,MD Choudhary,K Rabada,GF Linde,1,0,1,,,,,,,,,,,,,,,,,,129
+Lucknow Super Giants,17,4,0.1,5.6,mandatory,GF Linde,K Rabada,MD Choudhary,0,0,0,,,,,,,,,,,,,,,,,,129
+Lucknow Super Giants,17,5,0.1,5.6,mandatory,GF Linde,K Rabada,MD Choudhary,1,0,1,,,,,,,,,,,,,,,,,,130
+Lucknow Super Giants,17,6,0.1,5.6,mandatory,MD Choudhary,K Rabada,GF Linde,1,0,1,,,,,,,,,,,,,,,,,,131
+Lucknow Super Giants,18,1,0.1,5.6,mandatory,MD Choudhary,M Prasidh Krishna,GF Linde,0,0,0,,,,,,,,,MD Choudhary,caught,,,,,JC Buttler,,,131
+Lucknow Super Giants,18,2,0.1,5.6,mandatory,Mohammed Shami,M Prasidh Krishna,GF Linde,4,0,4,,,,,,,,,,,,,,,,,,135
+Lucknow Super Giants,18,3,0.1,5.6,mandatory,Mohammed Shami,M Prasidh Krishna,GF Linde,1,0,1,,,,,,,,,,,,,,,,,,136
+Lucknow Super Giants,18,4,0.1,5.6,mandatory,GF Linde,M Prasidh Krishna,Mohammed Shami,4,0,4,,,,,,,,,,,,,,,,,,140
+Lucknow Super Giants,18,5,0.1,5.6,mandatory,GF Linde,M Prasidh Krishna,Mohammed Shami,2,0,2,,,,,,,,,,,,,,,,,,142
+Lucknow Super Giants,18,6,0.1,5.6,mandatory,GF Linde,M Prasidh Krishna,Mohammed Shami,4,0,4,,,,,,,,,,,,,,,,,,146
+Lucknow Super Giants,19,1,0.1,5.6,mandatory,Mohammed Shami,Ashok Sharma,GF Linde,6,0,6,,,,,,,,,,,,,,,,,,152
+Lucknow Super Giants,19,2,0.1,5.6,mandatory,Mohammed Shami,Ashok Sharma,GF Linde,1,0,1,,,,,,,,,,,,,,,,,,153
+Lucknow Super Giants,19,3,0.1,5.6,mandatory,GF Linde,Ashok Sharma,Mohammed Shami,4,0,4,,,,,,,,,,,,,,,,,,157
+Lucknow Super Giants,19,4,0.1,5.6,mandatory,GF Linde,Ashok Sharma,Mohammed Shami,0,0,0,,,,,,,,,GF Linde,caught,,,,,M Shahrukh Khan,,,157
+Lucknow Super Giants,19,5,0.1,5.6,mandatory,Avesh Khan,Ashok Sharma,Mohammed Shami,4,0,4,,,,,,,,,,,,,,,,,,161
+Lucknow Super Giants,19,6,0.1,5.6,mandatory,Avesh Khan,Ashok Sharma,Mohammed Shami,0,2,2,,2.0,,,,,,,,,,,,,,,,163
+Lucknow Super Giants,19,7,0.1,5.6,mandatory,Mohammed Shami,Ashok Sharma,Avesh Khan,0,1,1,,,,,,,,1.0,,,,,,,,,,164
+Gujarat Titans,0,1,0.1,5.6,mandatory,B Sai Sudharsan,Mohammed Shami,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,0
+Gujarat Titans,0,2,0.1,5.6,mandatory,B Sai Sudharsan,Mohammed Shami,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,4
+Gujarat Titans,0,3,0.1,5.6,mandatory,B Sai Sudharsan,Mohammed Shami,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,4
+Gujarat Titans,0,4,0.1,5.6,mandatory,B Sai Sudharsan,Mohammed Shami,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,4
+Gujarat Titans,0,5,0.1,5.6,mandatory,B Sai Sudharsan,Mohammed Shami,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,4
+Gujarat Titans,0,6,0.1,5.6,mandatory,B Sai Sudharsan,Mohammed Shami,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,8
+Gujarat Titans,1,1,0.1,5.6,mandatory,Shubman Gill,Prince Yadav,B Sai Sudharsan,2,0,2,,,,,,,,,,,,,,,,20.0,165.0,10
+Gujarat Titans,1,2,0.1,5.6,mandatory,Shubman Gill,Prince Yadav,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,11
+Gujarat Titans,1,3,0.1,5.6,mandatory,B Sai Sudharsan,Prince Yadav,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,12
+Gujarat Titans,1,4,0.1,5.6,mandatory,Shubman Gill,Prince Yadav,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,16
+Gujarat Titans,1,5,0.1,5.6,mandatory,Shubman Gill,Prince Yadav,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,17
+Gujarat Titans,1,6,0.1,5.6,mandatory,B Sai Sudharsan,Prince Yadav,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,17
+Gujarat Titans,2,1,0.1,5.6,mandatory,Shubman Gill,Mohammed Shami,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,17
+Gujarat Titans,2,2,0.1,5.6,mandatory,Shubman Gill,Mohammed Shami,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,17
+Gujarat Titans,2,3,0.1,5.6,mandatory,Shubman Gill,Mohammed Shami,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,18
+Gujarat Titans,2,4,0.1,5.6,mandatory,B Sai Sudharsan,Mohammed Shami,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,18
+Gujarat Titans,2,5,0.1,5.6,mandatory,B Sai Sudharsan,Mohammed Shami,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,18
+Gujarat Titans,2,6,0.1,5.6,mandatory,B Sai Sudharsan,Mohammed Shami,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,19
+Gujarat Titans,3,1,0.1,5.6,mandatory,B Sai Sudharsan,Prince Yadav,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,20
+Gujarat Titans,3,2,0.1,5.6,mandatory,Shubman Gill,Prince Yadav,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,20
+Gujarat Titans,3,3,0.1,5.6,mandatory,Shubman Gill,Prince Yadav,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,20
+Gujarat Titans,3,4,0.1,5.6,mandatory,Shubman Gill,Prince Yadav,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,20
+Gujarat Titans,3,5,0.1,5.6,mandatory,Shubman Gill,Prince Yadav,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,21
+Gujarat Titans,3,6,0.1,5.6,mandatory,B Sai Sudharsan,Prince Yadav,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,25
+Gujarat Titans,4,1,0.1,5.6,mandatory,Shubman Gill,Mohammed Shami,B Sai Sudharsan,2,0,2,,,,,,,,,,,,,,,,20.0,165.0,27
+Gujarat Titans,4,2,0.1,5.6,mandatory,Shubman Gill,Mohammed Shami,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,27
+Gujarat Titans,4,3,0.1,5.6,mandatory,Shubman Gill,Mohammed Shami,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,31
+Gujarat Titans,4,4,0.1,5.6,mandatory,Shubman Gill,Mohammed Shami,B Sai Sudharsan,6,0,6,,,,,,,,,,,,,,,,20.0,165.0,37
+Gujarat Titans,4,5,0.1,5.6,mandatory,Shubman Gill,Mohammed Shami,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,41
+Gujarat Titans,4,6,0.1,5.6,mandatory,Shubman Gill,Mohammed Shami,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,45
+Gujarat Titans,5,1,0.1,5.6,mandatory,B Sai Sudharsan,DS Rathi,Shubman Gill,0,0,0,,,,,,,,,B Sai Sudharsan,caught,,,,,Avesh Khan,20.0,165.0,45
+Gujarat Titans,5,2,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,45
+Gujarat Titans,5,3,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,46
+Gujarat Titans,5,4,0.1,5.6,mandatory,Shubman Gill,DS Rathi,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,47
+Gujarat Titans,5,5,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,51
+Gujarat Titans,5,6,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,52
+Gujarat Titans,6,1,0.1,5.6,mandatory,JC Buttler,GF Linde,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,56
+Gujarat Titans,6,2,0.1,5.6,mandatory,JC Buttler,GF Linde,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,57
+Gujarat Titans,6,3,0.1,5.6,mandatory,Shubman Gill,GF Linde,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,58
+Gujarat Titans,6,4,0.1,5.6,mandatory,JC Buttler,GF Linde,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,59
+Gujarat Titans,6,5,0.1,5.6,mandatory,Shubman Gill,GF Linde,JC Buttler,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,63
+Gujarat Titans,6,6,0.1,5.6,mandatory,Shubman Gill,GF Linde,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,64
+Gujarat Titans,7,1,0.1,5.6,mandatory,Shubman Gill,DS Rathi,JC Buttler,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,64
+Gujarat Titans,7,2,0.1,5.6,mandatory,Shubman Gill,DS Rathi,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,65
+Gujarat Titans,7,3,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,66
+Gujarat Titans,7,4,0.1,5.6,mandatory,Shubman Gill,DS Rathi,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,67
+Gujarat Titans,7,5,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,68
+Gujarat Titans,7,6,0.1,5.6,mandatory,Shubman Gill,DS Rathi,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,69
+Gujarat Titans,8,1,0.1,5.6,mandatory,Shubman Gill,GF Linde,JC Buttler,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,73
+Gujarat Titans,8,2,0.1,5.6,mandatory,Shubman Gill,GF Linde,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,74
+Gujarat Titans,8,3,0.1,5.6,mandatory,JC Buttler,GF Linde,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,78
+Gujarat Titans,8,4,0.1,5.6,mandatory,JC Buttler,GF Linde,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,78
+Gujarat Titans,8,5,0.1,5.6,mandatory,JC Buttler,GF Linde,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,78
+Gujarat Titans,8,6,0.1,5.6,mandatory,JC Buttler,GF Linde,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,78
+Gujarat Titans,9,1,0.1,5.6,mandatory,Shubman Gill,Avesh Khan,JC Buttler,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,78
+Gujarat Titans,9,2,0.1,5.6,mandatory,Shubman Gill,Avesh Khan,JC Buttler,0,1,1,,1.0,,,,,,,,,,,,,,20.0,165.0,79
+Gujarat Titans,9,3,0.1,5.6,mandatory,Shubman Gill,Avesh Khan,JC Buttler,2,0,2,,,,,,,,,,,,,,,,20.0,165.0,81
+Gujarat Titans,9,4,0.1,5.6,mandatory,Shubman Gill,Avesh Khan,JC Buttler,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,81
+Gujarat Titans,9,5,0.1,5.6,mandatory,Shubman Gill,Avesh Khan,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,82
+Gujarat Titans,9,6,0.1,5.6,mandatory,JC Buttler,Avesh Khan,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,86
+Gujarat Titans,9,7,0.1,5.6,mandatory,JC Buttler,Avesh Khan,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,86
+Gujarat Titans,10,1,0.1,5.6,mandatory,Shubman Gill,DS Rathi,JC Buttler,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,86
+Gujarat Titans,10,2,0.1,5.6,mandatory,Shubman Gill,DS Rathi,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,87
+Gujarat Titans,10,3,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,87
+Gujarat Titans,10,4,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,2,0,2,,,,,,,,,,,,,,,,20.0,165.0,89
+Gujarat Titans,10,5,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,93
+Gujarat Titans,10,6,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,94
+Gujarat Titans,11,1,0.1,5.6,mandatory,JC Buttler,Avesh Khan,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,95
+Gujarat Titans,11,2,0.1,5.6,mandatory,Shubman Gill,Avesh Khan,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,96
+Gujarat Titans,11,3,0.1,5.6,mandatory,JC Buttler,Avesh Khan,Shubman Gill,2,0,2,,,,,,,,,,,,,,,,20.0,165.0,98
+Gujarat Titans,11,4,0.1,5.6,mandatory,JC Buttler,Avesh Khan,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,102
+Gujarat Titans,11,5,0.1,5.6,mandatory,JC Buttler,Avesh Khan,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,106
+Gujarat Titans,11,6,0.1,5.6,mandatory,JC Buttler,Avesh Khan,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,110
+Gujarat Titans,12,1,0.1,5.6,mandatory,Shubman Gill,DS Rathi,JC Buttler,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,110
+Gujarat Titans,12,2,0.1,5.6,mandatory,Shubman Gill,DS Rathi,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,111
+Gujarat Titans,12,3,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,0,1,1,,1.0,,,,,,,,,,,,,,20.0,165.0,112
+Gujarat Titans,12,4,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,116
+Gujarat Titans,12,5,0.1,5.6,mandatory,JC Buttler,DS Rathi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,117
+Gujarat Titans,12,6,0.1,5.6,mandatory,Shubman Gill,DS Rathi,JC Buttler,2,0,2,,,,,,,,,,,,,,,,20.0,165.0,119
+Gujarat Titans,12,7,0.1,5.6,mandatory,Shubman Gill,DS Rathi,JC Buttler,2,0,2,,,,,,,,,,,,,,,,20.0,165.0,121
+Gujarat Titans,13,1,0.1,5.6,mandatory,JC Buttler,GF Linde,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,121
+Gujarat Titans,13,2,0.1,5.6,mandatory,JC Buttler,GF Linde,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,121
+Gujarat Titans,13,3,0.1,5.6,mandatory,JC Buttler,GF Linde,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,122
+Gujarat Titans,13,4,0.1,5.6,mandatory,Shubman Gill,GF Linde,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,123
+Gujarat Titans,13,5,0.1,5.6,mandatory,JC Buttler,GF Linde,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,127
+Gujarat Titans,13,6,0.1,5.6,mandatory,JC Buttler,GF Linde,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,128
+Gujarat Titans,14,1,0.1,5.6,mandatory,JC Buttler,Prince Yadav,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,128
+Gujarat Titans,14,2,0.1,5.6,mandatory,JC Buttler,Prince Yadav,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,128
+Gujarat Titans,14,3,0.1,5.6,mandatory,JC Buttler,Prince Yadav,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,128
+Gujarat Titans,14,4,0.1,5.6,mandatory,JC Buttler,Prince Yadav,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,129
+Gujarat Titans,14,5,0.1,5.6,mandatory,Shubman Gill,Prince Yadav,JC Buttler,0,0,0,,,,,,,,,Shubman Gill,caught,,,,,RR Pant,20.0,165.0,129
+Gujarat Titans,14,6,0.1,5.6,mandatory,Washington Sundar,Prince Yadav,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,130
+Gujarat Titans,15,1,0.1,5.6,mandatory,Washington Sundar,Mohammed Shami,JC Buttler,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,130
+Gujarat Titans,15,2,0.1,5.6,mandatory,Washington Sundar,Mohammed Shami,JC Buttler,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,131
+Gujarat Titans,15,3,0.1,5.6,mandatory,JC Buttler,Mohammed Shami,Washington Sundar,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,135
+Gujarat Titans,15,4,0.1,5.6,mandatory,JC Buttler,Mohammed Shami,Washington Sundar,0,0,0,,,,,,,,,JC Buttler,caught,,,,,AK Markram,20.0,165.0,135
+Gujarat Titans,15,5,0.1,5.6,mandatory,R Tewatia,Mohammed Shami,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,136
+Gujarat Titans,15,6,0.1,5.6,mandatory,Washington Sundar,Mohammed Shami,R Tewatia,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,136
+Gujarat Titans,16,1,0.1,5.6,mandatory,R Tewatia,AK Markram,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,137
+Gujarat Titans,16,2,0.1,5.6,mandatory,Washington Sundar,AK Markram,R Tewatia,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,141
+Gujarat Titans,16,3,0.1,5.6,mandatory,Washington Sundar,AK Markram,R Tewatia,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,142
+Gujarat Titans,16,4,0.1,5.6,mandatory,R Tewatia,AK Markram,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,142
+Gujarat Titans,16,5,0.1,5.6,mandatory,R Tewatia,AK Markram,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,143
+Gujarat Titans,16,6,0.1,5.6,mandatory,Washington Sundar,AK Markram,R Tewatia,2,0,2,,,,,,,,,,,,,,,,20.0,165.0,145
+Gujarat Titans,17,1,0.1,5.6,mandatory,R Tewatia,Prince Yadav,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,146
+Gujarat Titans,17,2,0.1,5.6,mandatory,Washington Sundar,Prince Yadav,R Tewatia,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,147
+Gujarat Titans,17,3,0.1,5.6,mandatory,R Tewatia,Prince Yadav,Washington Sundar,0,1,1,,1.0,,,,,,,,,,,,,,20.0,165.0,148
+Gujarat Titans,17,4,0.1,5.6,mandatory,R Tewatia,Prince Yadav,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,149
+Gujarat Titans,17,5,0.1,5.6,mandatory,Washington Sundar,Prince Yadav,R Tewatia,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,153
+Gujarat Titans,17,6,0.1,5.6,mandatory,Washington Sundar,Prince Yadav,R Tewatia,6,0,6,,,,,,,,,,,,,,,,20.0,165.0,159
+Gujarat Titans,17,7,0.1,5.6,mandatory,Washington Sundar,Prince Yadav,R Tewatia,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,159
+Gujarat Titans,18,1,0.1,5.6,mandatory,R Tewatia,AK Markram,Washington Sundar,4,0,4,,,,,,,,,,,,,,,,20.0,165.0,163
+Gujarat Titans,18,2,0.1,5.6,mandatory,R Tewatia,AK Markram,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,164
+Gujarat Titans,18,3,0.1,5.6,mandatory,Washington Sundar,AK Markram,R Tewatia,0,0,0,,,,,,,,,,,,,,,,20.0,165.0,164
+Gujarat Titans,18,4,0.1,5.6,mandatory,Washington Sundar,AK Markram,R Tewatia,1,0,1,,,,,,,,,,,,,,,,20.0,165.0,165

@@ -1,0 +1,243 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,legbyes,wides,review_by,review_umpire,review_batter,review_decision,review_type,byes,noballs,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Punjab Kings,0,1,0.1,5.6,mandatory,P Simran Singh,JC Archer,Priyansh Arya,0,0,0,,,,,,,,,,,,,,,,,,,0
+Punjab Kings,0,2,0.1,5.6,mandatory,P Simran Singh,JC Archer,Priyansh Arya,4,0,4,,,,,,,,,,,,,,,,,,,4
+Punjab Kings,0,3,0.1,5.6,mandatory,P Simran Singh,JC Archer,Priyansh Arya,0,4,4,4.0,,,,,,,,,,,,,,,,,,8
+Punjab Kings,0,4,0.1,5.6,mandatory,P Simran Singh,JC Archer,Priyansh Arya,0,0,0,,,,,,,,,,,,,,,,,,,8
+Punjab Kings,0,5,0.1,5.6,mandatory,P Simran Singh,JC Archer,Priyansh Arya,0,0,0,,,,,,,,,,,,,,,,,,,8
+Punjab Kings,0,6,0.1,5.6,mandatory,P Simran Singh,JC Archer,Priyansh Arya,0,0,0,,,,,,,,,,,,,,,,,,,8
+Punjab Kings,1,1,0.1,5.6,mandatory,Priyansh Arya,N Burger,P Simran Singh,2,0,2,,,,,,,,,,,,,,,,,,,10
+Punjab Kings,1,2,0.1,5.6,mandatory,Priyansh Arya,N Burger,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,14
+Punjab Kings,1,3,0.1,5.6,mandatory,Priyansh Arya,N Burger,P Simran Singh,6,0,6,,,,,,,,,,,,,,,,,,,20
+Punjab Kings,1,4,0.1,5.6,mandatory,Priyansh Arya,N Burger,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,24
+Punjab Kings,1,5,0.1,5.6,mandatory,Priyansh Arya,N Burger,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,28
+Punjab Kings,1,6,0.1,5.6,mandatory,Priyansh Arya,N Burger,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,29
+Punjab Kings,2,1,0.1,5.6,mandatory,Priyansh Arya,JC Archer,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,33
+Punjab Kings,2,2,0.1,5.6,mandatory,Priyansh Arya,JC Archer,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,33
+Punjab Kings,2,3,0.1,5.6,mandatory,Priyansh Arya,JC Archer,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,33
+Punjab Kings,2,4,0.1,5.6,mandatory,Priyansh Arya,JC Archer,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,37
+Punjab Kings,2,5,0.1,5.6,mandatory,Priyansh Arya,JC Archer,P Simran Singh,0,0,0,,,,,,,,,,Priyansh Arya,caught,,,,,N Burger,,,37
+Punjab Kings,2,6,0.1,5.6,mandatory,C Connolly,JC Archer,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,37
+Punjab Kings,3,1,0.1,5.6,mandatory,P Simran Singh,N Burger,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,,37
+Punjab Kings,3,2,0.1,5.6,mandatory,P Simran Singh,N Burger,C Connolly,2,0,2,,,,,,,,,,,,,,,,,,,39
+Punjab Kings,3,3,0.1,5.6,mandatory,P Simran Singh,N Burger,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,,39
+Punjab Kings,3,4,0.1,5.6,mandatory,P Simran Singh,N Burger,C Connolly,4,0,4,,,,,,,,,,,,,,,,,,,43
+Punjab Kings,3,5,0.1,5.6,mandatory,P Simran Singh,N Burger,C Connolly,4,0,4,,,,,,,,,,,,,,,,,,,47
+Punjab Kings,3,6,0.1,5.6,mandatory,P Simran Singh,N Burger,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,48
+Punjab Kings,4,1,0.1,5.6,mandatory,P Simran Singh,Brijesh Sharma,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,,48
+Punjab Kings,4,2,0.1,5.6,mandatory,P Simran Singh,Brijesh Sharma,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,49
+Punjab Kings,4,3,0.1,5.6,mandatory,C Connolly,Brijesh Sharma,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,49
+Punjab Kings,4,4,0.1,5.6,mandatory,C Connolly,Brijesh Sharma,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,49
+Punjab Kings,4,5,0.1,5.6,mandatory,C Connolly,Brijesh Sharma,P Simran Singh,0,1,1,,1.0,,,,,,,,,,,,,,,,,50
+Punjab Kings,4,6,0.1,5.6,mandatory,C Connolly,Brijesh Sharma,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,51
+Punjab Kings,4,7,0.1,5.6,mandatory,P Simran Singh,Brijesh Sharma,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,52
+Punjab Kings,5,1,0.1,5.6,mandatory,P Simran Singh,N Burger,C Connolly,6,0,6,,,,,,,,,,,,,,,,,,,58
+Punjab Kings,5,2,0.1,5.6,mandatory,P Simran Singh,N Burger,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,59
+Punjab Kings,5,3,0.1,5.6,mandatory,C Connolly,N Burger,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,60
+Punjab Kings,5,4,0.1,5.6,mandatory,P Simran Singh,N Burger,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,,60
+Punjab Kings,5,5,0.1,5.6,mandatory,P Simran Singh,N Burger,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,61
+Punjab Kings,5,6,0.1,5.6,mandatory,C Connolly,N Burger,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,65
+Punjab Kings,6,1,0.1,5.6,mandatory,P Simran Singh,Yash Raj Punja,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,66
+Punjab Kings,6,2,0.1,5.6,mandatory,C Connolly,Yash Raj Punja,P Simran Singh,6,0,6,,,,,,,,,,,,,,,,,,,72
+Punjab Kings,6,3,0.1,5.6,mandatory,C Connolly,Yash Raj Punja,P Simran Singh,6,0,6,,,,,,,,,,,,,,,,,,,78
+Punjab Kings,6,4,0.1,5.6,mandatory,C Connolly,Yash Raj Punja,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,79
+Punjab Kings,6,5,0.1,5.6,mandatory,P Simran Singh,Yash Raj Punja,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,80
+Punjab Kings,6,6,0.1,5.6,mandatory,C Connolly,Yash Raj Punja,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,80
+Punjab Kings,7,1,0.1,5.6,mandatory,P Simran Singh,RA Jadeja,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,81
+Punjab Kings,7,2,0.1,5.6,mandatory,C Connolly,RA Jadeja,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,82
+Punjab Kings,7,3,0.1,5.6,mandatory,P Simran Singh,RA Jadeja,C Connolly,2,0,2,,,,,,,,,,,,,,,,,,,84
+Punjab Kings,7,4,0.1,5.6,mandatory,P Simran Singh,RA Jadeja,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,85
+Punjab Kings,7,5,0.1,5.6,mandatory,C Connolly,RA Jadeja,P Simran Singh,6,0,6,,,,,,,,,,,,,,,,,,,91
+Punjab Kings,7,6,0.1,5.6,mandatory,C Connolly,RA Jadeja,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,95
+Punjab Kings,8,1,0.1,5.6,mandatory,P Simran Singh,Yash Raj Punja,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,96
+Punjab Kings,8,2,0.1,5.6,mandatory,C Connolly,Yash Raj Punja,P Simran Singh,0,0,0,,,,,,,,,,C Connolly,caught,,,,,D Ferreira,,,96
+Punjab Kings,8,3,0.1,5.6,mandatory,SS Iyer,Yash Raj Punja,P Simran Singh,0,0,0,,,Rajasthan Royals,Nitin Menon,SS Iyer,struck down,wicket,,,,,,,,,,,,96
+Punjab Kings,8,4,0.1,5.6,mandatory,SS Iyer,Yash Raj Punja,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,96
+Punjab Kings,8,5,0.1,5.6,mandatory,SS Iyer,Yash Raj Punja,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,97
+Punjab Kings,8,6,0.1,5.6,mandatory,P Simran Singh,Yash Raj Punja,SS Iyer,4,0,4,,,,,,,,,,,,,,,,,,,101
+Punjab Kings,9,1,0.1,5.6,mandatory,SS Iyer,RA Jadeja,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,101
+Punjab Kings,9,2,0.1,5.6,mandatory,SS Iyer,RA Jadeja,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,102
+Punjab Kings,9,3,0.1,5.6,mandatory,P Simran Singh,RA Jadeja,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,103
+Punjab Kings,9,4,0.1,5.6,mandatory,SS Iyer,RA Jadeja,P Simran Singh,2,0,2,,,,,,,,,,,,,,,,,,,105
+Punjab Kings,9,5,0.1,5.6,mandatory,SS Iyer,RA Jadeja,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,106
+Punjab Kings,9,6,0.1,5.6,mandatory,P Simran Singh,RA Jadeja,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,107
+Punjab Kings,10,1,0.1,5.6,mandatory,P Simran Singh,JC Archer,SS Iyer,0,0,0,,,,,,,,,,,,,,,,,,,107
+Punjab Kings,10,2,0.1,5.6,mandatory,P Simran Singh,JC Archer,SS Iyer,4,0,4,,,,,,,,,,,,,,,,,,,111
+Punjab Kings,10,3,0.1,5.6,mandatory,P Simran Singh,JC Archer,SS Iyer,4,0,4,,,,,,,,,,,,,,,,,,,115
+Punjab Kings,10,4,0.1,5.6,mandatory,P Simran Singh,JC Archer,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,116
+Punjab Kings,10,5,0.1,5.6,mandatory,SS Iyer,JC Archer,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,117
+Punjab Kings,10,6,0.1,5.6,mandatory,P Simran Singh,JC Archer,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,118
+Punjab Kings,11,1,0.1,5.6,mandatory,P Simran Singh,RA Jadeja,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,119
+Punjab Kings,11,2,0.1,5.6,mandatory,SS Iyer,RA Jadeja,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,120
+Punjab Kings,11,3,0.1,5.6,mandatory,P Simran Singh,RA Jadeja,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,121
+Punjab Kings,11,4,0.1,5.6,mandatory,SS Iyer,RA Jadeja,P Simran Singh,0,4,4,,,,,,,,4.0,,,,,,,,,,,125
+Punjab Kings,11,5,0.1,5.6,mandatory,SS Iyer,RA Jadeja,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,126
+Punjab Kings,11,6,0.1,5.6,mandatory,P Simran Singh,RA Jadeja,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,127
+Punjab Kings,12,1,0.1,5.6,mandatory,P Simran Singh,Brijesh Sharma,SS Iyer,2,0,2,,,,,,,,,,,,,,,,,,,129
+Punjab Kings,12,2,0.1,5.6,mandatory,P Simran Singh,Brijesh Sharma,SS Iyer,0,0,0,,,,,,,,,,,,,,,,,,,129
+Punjab Kings,12,3,0.1,5.6,mandatory,P Simran Singh,Brijesh Sharma,SS Iyer,2,0,2,,,,,,,,,,,,,,,,,,,131
+Punjab Kings,12,4,0.1,5.6,mandatory,P Simran Singh,Brijesh Sharma,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,132
+Punjab Kings,12,5,0.1,5.6,mandatory,SS Iyer,Brijesh Sharma,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,133
+Punjab Kings,12,6,0.1,5.6,mandatory,P Simran Singh,Brijesh Sharma,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,134
+Punjab Kings,13,1,0.1,5.6,mandatory,P Simran Singh,Yash Raj Punja,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,135
+Punjab Kings,13,2,0.1,5.6,mandatory,SS Iyer,Yash Raj Punja,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,136
+Punjab Kings,13,3,0.1,5.6,mandatory,P Simran Singh,Yash Raj Punja,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,137
+Punjab Kings,13,4,0.1,5.6,mandatory,SS Iyer,Yash Raj Punja,P Simran Singh,6,0,6,,,,,,,,,,,,,,,,,,,143
+Punjab Kings,13,5,0.1,5.6,mandatory,SS Iyer,Yash Raj Punja,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,144
+Punjab Kings,13,6,0.1,5.6,mandatory,P Simran Singh,Yash Raj Punja,SS Iyer,0,0,0,,,,,,,,,,P Simran Singh,caught,,,,,R Parag,,,144
+Punjab Kings,14,1,0.1,5.6,mandatory,SS Iyer,RA Jadeja,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,,145
+Punjab Kings,14,2,0.1,5.6,mandatory,MP Stoinis,RA Jadeja,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,146
+Punjab Kings,14,3,0.1,5.6,mandatory,SS Iyer,RA Jadeja,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,,147
+Punjab Kings,14,4,0.1,5.6,mandatory,MP Stoinis,RA Jadeja,SS Iyer,0,0,0,,,,,,,,,,,,,,,,,,,147
+Punjab Kings,14,5,0.1,5.6,mandatory,MP Stoinis,RA Jadeja,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,148
+Punjab Kings,14,6,0.1,5.6,mandatory,SS Iyer,RA Jadeja,MP Stoinis,2,0,2,,,,,,,,,,,,,,,,,,,150
+Punjab Kings,15,1,0.1,5.6,mandatory,MP Stoinis,Yash Raj Punja,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,151
+Punjab Kings,15,2,0.1,5.6,mandatory,SS Iyer,Yash Raj Punja,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,,152
+Punjab Kings,15,3,0.1,5.6,mandatory,MP Stoinis,Yash Raj Punja,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,153
+Punjab Kings,15,4,0.1,5.6,mandatory,SS Iyer,Yash Raj Punja,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,,154
+Punjab Kings,15,5,0.1,5.6,mandatory,MP Stoinis,Yash Raj Punja,SS Iyer,0,0,0,,,,,,,,,,,,,,,,,,,154
+Punjab Kings,15,6,0.1,5.6,mandatory,MP Stoinis,Yash Raj Punja,SS Iyer,6,0,6,,,,,,,,,,,,,,,,,,,160
+Punjab Kings,16,1,0.1,5.6,mandatory,SS Iyer,Brijesh Sharma,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,,161
+Punjab Kings,16,2,0.1,5.6,mandatory,MP Stoinis,Brijesh Sharma,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,162
+Punjab Kings,16,3,0.1,5.6,mandatory,SS Iyer,Brijesh Sharma,MP Stoinis,0,0,0,,,,,,,,,,,,,,,,,,,162
+Punjab Kings,16,4,0.1,5.6,mandatory,SS Iyer,Brijesh Sharma,MP Stoinis,0,0,0,,,,,,,,,,,,,,,,,,,162
+Punjab Kings,16,5,0.1,5.6,mandatory,SS Iyer,Brijesh Sharma,MP Stoinis,4,0,4,,,,,,,,,,,,,,,,,,,166
+Punjab Kings,16,6,0.1,5.6,mandatory,SS Iyer,Brijesh Sharma,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,,167
+Punjab Kings,17,1,0.1,5.6,mandatory,SS Iyer,N Burger,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,,168
+Punjab Kings,17,2,0.1,5.6,mandatory,MP Stoinis,N Burger,SS Iyer,6,0,6,,,,,,,,,,,,,,,,,,,174
+Punjab Kings,17,3,0.1,5.6,mandatory,MP Stoinis,N Burger,SS Iyer,4,0,4,,,,,,,,,,,,,,,,,,,178
+Punjab Kings,17,4,0.1,5.6,mandatory,MP Stoinis,N Burger,SS Iyer,2,0,2,,,,,,,,,,,,,,,,,,,180
+Punjab Kings,17,5,0.1,5.6,mandatory,MP Stoinis,N Burger,SS Iyer,1,0,1,,,,,,,,,,,,,,,,,,,181
+Punjab Kings,17,6,0.1,5.6,mandatory,SS Iyer,N Burger,MP Stoinis,0,0,0,,,,,,,,,,SS Iyer,caught,,,,,Dhruv Jurel,,,181
+Punjab Kings,18,1,0.1,5.6,mandatory,MP Stoinis,JC Archer,Suryansh Shedge,6,0,6,,,,,,,,,,,,,,,,,,,187
+Punjab Kings,18,2,0.1,5.6,mandatory,MP Stoinis,JC Archer,Suryansh Shedge,6,0,6,,,,,,,,,,,,,,,,,,,193
+Punjab Kings,18,3,0.1,5.6,mandatory,MP Stoinis,JC Archer,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,,194
+Punjab Kings,18,4,0.1,5.6,mandatory,Suryansh Shedge,JC Archer,MP Stoinis,2,0,2,,,,,,,,,,,,,,,,,,,196
+Punjab Kings,18,5,0.1,5.6,mandatory,Suryansh Shedge,JC Archer,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,,197
+Punjab Kings,18,6,0.1,5.6,mandatory,MP Stoinis,JC Archer,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,,198
+Punjab Kings,19,1,0.1,5.6,mandatory,MP Stoinis,Brijesh Sharma,Suryansh Shedge,0,0,0,,,,,,,,,,,,,,,,,,,198
+Punjab Kings,19,2,0.1,5.6,mandatory,MP Stoinis,Brijesh Sharma,Suryansh Shedge,4,0,4,,,,,,,,,,,,,,,,,,,202
+Punjab Kings,19,3,0.1,5.6,mandatory,MP Stoinis,Brijesh Sharma,Suryansh Shedge,6,0,6,,,,,,,,,,,,,,,,,,,208
+Punjab Kings,19,4,0.1,5.6,mandatory,MP Stoinis,Brijesh Sharma,Suryansh Shedge,6,0,6,,,,,,,,,,,,,,,,,,,214
+Punjab Kings,19,5,0.1,5.6,mandatory,MP Stoinis,Brijesh Sharma,Suryansh Shedge,4,0,4,,,,,,,,,,,,,,,,,,,218
+Punjab Kings,19,6,0.1,5.6,mandatory,MP Stoinis,Brijesh Sharma,Suryansh Shedge,4,0,4,,,,,,,,,,,,,,,,,,,222
+Rajasthan Royals,0,1,0.1,5.6,mandatory,YBK Jaiswal,Arshdeep Singh,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,1
+Rajasthan Royals,0,2,0.1,5.6,mandatory,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,1
+Rajasthan Royals,0,3,0.1,5.6,mandatory,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,1
+Rajasthan Royals,0,4,0.1,5.6,mandatory,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,7
+Rajasthan Royals,0,5,0.1,5.6,mandatory,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,11
+Rajasthan Royals,0,6,0.1,5.6,mandatory,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,15
+Rajasthan Royals,1,1,0.1,5.6,mandatory,YBK Jaiswal,LH Ferguson,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,16
+Rajasthan Royals,1,2,0.1,5.6,mandatory,V Suryavanshi,LH Ferguson,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,16
+Rajasthan Royals,1,3,0.1,5.6,mandatory,V Suryavanshi,LH Ferguson,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,16
+Rajasthan Royals,1,4,0.1,5.6,mandatory,V Suryavanshi,LH Ferguson,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,20
+Rajasthan Royals,1,5,0.1,5.6,mandatory,V Suryavanshi,LH Ferguson,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,26
+Rajasthan Royals,1,6,0.1,5.6,mandatory,V Suryavanshi,LH Ferguson,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,32
+Rajasthan Royals,2,1,0.1,5.6,mandatory,YBK Jaiswal,M Jansen,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,36
+Rajasthan Royals,2,2,0.1,5.6,mandatory,YBK Jaiswal,M Jansen,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,37
+Rajasthan Royals,2,3,0.1,5.6,mandatory,V Suryavanshi,M Jansen,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,37
+Rajasthan Royals,2,4,0.1,5.6,mandatory,V Suryavanshi,M Jansen,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,43
+Rajasthan Royals,2,5,0.1,5.6,mandatory,V Suryavanshi,M Jansen,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,43
+Rajasthan Royals,2,6,0.1,5.6,mandatory,V Suryavanshi,M Jansen,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,44
+Rajasthan Royals,3,1,0.1,5.6,mandatory,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,0,1,1,,1.0,,,,,,,,,,Harpreet Brar,Priyansh Arya,Punjab Kings,impact_player,,20.0,223.0,45
+Rajasthan Royals,3,2,0.1,5.6,mandatory,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,51
+Rajasthan Royals,3,3,0.1,5.6,mandatory,V Suryavanshi,Arshdeep Singh,YBK Jaiswal,0,0,0,,,,,,,,,,V Suryavanshi,caught,,,,,SS Iyer,20.0,223.0,51
+Rajasthan Royals,3,4,0.1,5.6,mandatory,Dhruv Jurel,Arshdeep Singh,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,52
+Rajasthan Royals,3,5,0.1,5.6,mandatory,YBK Jaiswal,Arshdeep Singh,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,56
+Rajasthan Royals,3,6,0.1,5.6,mandatory,YBK Jaiswal,Arshdeep Singh,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,62
+Rajasthan Royals,3,7,0.1,5.6,mandatory,YBK Jaiswal,Arshdeep Singh,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,66
+Rajasthan Royals,4,1,0.1,5.6,mandatory,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,66
+Rajasthan Royals,4,2,0.1,5.6,mandatory,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,66
+Rajasthan Royals,4,3,0.1,5.6,mandatory,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,67
+Rajasthan Royals,4,4,0.1,5.6,mandatory,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,67
+Rajasthan Royals,4,5,0.1,5.6,mandatory,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,68
+Rajasthan Royals,4,6,0.1,5.6,mandatory,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,68
+Rajasthan Royals,5,1,0.1,5.6,mandatory,YBK Jaiswal,LH Ferguson,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,72
+Rajasthan Royals,5,2,0.1,5.6,mandatory,YBK Jaiswal,LH Ferguson,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,73
+Rajasthan Royals,5,3,0.1,5.6,mandatory,Dhruv Jurel,LH Ferguson,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,73
+Rajasthan Royals,5,4,0.1,5.6,mandatory,Dhruv Jurel,LH Ferguson,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,79
+Rajasthan Royals,5,5,0.1,5.6,mandatory,Dhruv Jurel,LH Ferguson,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,80
+Rajasthan Royals,5,6,0.1,5.6,mandatory,YBK Jaiswal,LH Ferguson,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,84
+Rajasthan Royals,6,1,0.1,5.6,mandatory,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,84
+Rajasthan Royals,6,2,0.1,5.6,mandatory,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,85
+Rajasthan Royals,6,3,0.1,5.6,mandatory,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,86
+Rajasthan Royals,6,4,0.1,5.6,mandatory,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,87
+Rajasthan Royals,6,5,0.1,5.6,mandatory,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,2,0,2,,,,,,,,,,,,,,,,,20.0,223.0,89
+Rajasthan Royals,6,6,0.1,5.6,mandatory,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,90
+Rajasthan Royals,7,1,0.1,5.6,mandatory,YBK Jaiswal,YS Chahal,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,91
+Rajasthan Royals,7,2,0.1,5.6,mandatory,Dhruv Jurel,YS Chahal,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,92
+Rajasthan Royals,7,3,0.1,5.6,mandatory,YBK Jaiswal,YS Chahal,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,93
+Rajasthan Royals,7,4,0.1,5.6,mandatory,Dhruv Jurel,YS Chahal,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,93
+Rajasthan Royals,7,5,0.1,5.6,mandatory,Dhruv Jurel,YS Chahal,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,94
+Rajasthan Royals,7,6,0.1,5.6,mandatory,YBK Jaiswal,YS Chahal,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,95
+Rajasthan Royals,8,1,0.1,5.6,mandatory,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,96
+Rajasthan Royals,8,2,0.1,5.6,mandatory,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,97
+Rajasthan Royals,8,3,0.1,5.6,mandatory,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,98
+Rajasthan Royals,8,4,0.1,5.6,mandatory,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,98
+Rajasthan Royals,8,5,0.1,5.6,mandatory,Dhruv Jurel,Harpreet Brar,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,99
+Rajasthan Royals,8,6,0.1,5.6,mandatory,YBK Jaiswal,Harpreet Brar,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,103
+Rajasthan Royals,9,1,0.1,5.6,mandatory,Dhruv Jurel,YS Chahal,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,103
+Rajasthan Royals,9,2,0.1,5.6,mandatory,Dhruv Jurel,YS Chahal,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,104
+Rajasthan Royals,9,3,0.1,5.6,mandatory,YBK Jaiswal,YS Chahal,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,105
+Rajasthan Royals,9,4,0.1,5.6,mandatory,Dhruv Jurel,YS Chahal,YBK Jaiswal,0,0,0,,,,,,,,,,Dhruv Jurel,caught,,,,,M Jansen,20.0,223.0,105
+Rajasthan Royals,9,5,0.1,5.6,mandatory,R Parag,YS Chahal,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,105
+Rajasthan Royals,9,6,0.1,5.6,mandatory,R Parag,YS Chahal,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,109
+Rajasthan Royals,10,1,0.1,5.6,mandatory,YBK Jaiswal,Harpreet Brar,R Parag,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,110
+Rajasthan Royals,10,2,0.1,5.6,mandatory,R Parag,Harpreet Brar,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,111
+Rajasthan Royals,10,3,0.1,5.6,mandatory,YBK Jaiswal,Harpreet Brar,R Parag,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,111
+Rajasthan Royals,10,4,0.1,5.6,mandatory,YBK Jaiswal,Harpreet Brar,R Parag,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,112
+Rajasthan Royals,10,5,0.1,5.6,mandatory,R Parag,Harpreet Brar,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,118
+Rajasthan Royals,10,6,0.1,5.6,mandatory,R Parag,Harpreet Brar,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,118
+Rajasthan Royals,11,1,0.1,5.6,mandatory,YBK Jaiswal,YS Chahal,R Parag,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,122
+Rajasthan Royals,11,2,0.1,5.6,mandatory,YBK Jaiswal,YS Chahal,R Parag,0,1,1,,1.0,,,,,,,,,,,,,,,20.0,223.0,123
+Rajasthan Royals,11,3,0.1,5.6,mandatory,YBK Jaiswal,YS Chahal,R Parag,0,0,0,,,,,,,,,,YBK Jaiswal,caught,,,,,Suryansh Shedge,20.0,223.0,123
+Rajasthan Royals,11,4,0.1,5.6,mandatory,D Ferreira,YS Chahal,R Parag,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,124
+Rajasthan Royals,11,5,0.1,5.6,mandatory,R Parag,YS Chahal,D Ferreira,2,0,2,,,,,,,,,,,,,,,,,20.0,223.0,126
+Rajasthan Royals,11,6,0.1,5.6,mandatory,R Parag,YS Chahal,D Ferreira,1,1,2,,,,,,,,,1.0,,,,,,,,20.0,223.0,128
+Rajasthan Royals,11,7,0.1,5.6,mandatory,D Ferreira,YS Chahal,R Parag,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,129
+Rajasthan Royals,11,8,0.1,5.6,mandatory,R Parag,YS Chahal,D Ferreira,2,0,2,,,,,,,,,,,,,,,,,20.0,223.0,131
+Rajasthan Royals,12,1,0.1,5.6,mandatory,D Ferreira,M Jansen,R Parag,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,132
+Rajasthan Royals,12,2,0.1,5.6,mandatory,R Parag,M Jansen,D Ferreira,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,132
+Rajasthan Royals,12,3,0.1,5.6,mandatory,R Parag,M Jansen,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,133
+Rajasthan Royals,12,4,0.1,5.6,mandatory,D Ferreira,M Jansen,R Parag,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,137
+Rajasthan Royals,12,5,0.1,5.6,mandatory,D Ferreira,M Jansen,R Parag,0,1,1,,,,,,,,1.0,,,,,,,,,20.0,223.0,138
+Rajasthan Royals,12,6,0.1,5.6,mandatory,R Parag,M Jansen,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,139
+Rajasthan Royals,13,1,0.1,5.6,mandatory,R Parag,YS Chahal,D Ferreira,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,145
+Rajasthan Royals,13,2,0.1,5.6,mandatory,R Parag,YS Chahal,D Ferreira,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,149
+Rajasthan Royals,13,3,0.1,5.6,mandatory,R Parag,YS Chahal,D Ferreira,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,149
+Rajasthan Royals,13,4,0.1,5.6,mandatory,R Parag,YS Chahal,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,150
+Rajasthan Royals,13,5,0.1,5.6,mandatory,D Ferreira,YS Chahal,R Parag,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,151
+Rajasthan Royals,13,6,0.1,5.6,mandatory,R Parag,YS Chahal,D Ferreira,0,0,0,,,,,,,,,,R Parag,caught,,,,,Suryansh Shedge,20.0,223.0,151
+Rajasthan Royals,14,1,0.1,5.6,mandatory,D Ferreira,Arshdeep Singh,SB Dubey,0,0,0,,,,,,,,,,,,SB Dubey,Yash Raj Punja,Rajasthan Royals,impact_player,,20.0,223.0,151
+Rajasthan Royals,14,2,0.1,5.6,mandatory,D Ferreira,Arshdeep Singh,SB Dubey,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,155
+Rajasthan Royals,14,3,0.1,5.6,mandatory,D Ferreira,Arshdeep Singh,SB Dubey,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,156
+Rajasthan Royals,14,4,0.1,5.6,mandatory,SB Dubey,Arshdeep Singh,D Ferreira,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,160
+Rajasthan Royals,14,5,0.1,5.6,mandatory,SB Dubey,Arshdeep Singh,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,161
+Rajasthan Royals,14,6,0.1,5.6,mandatory,D Ferreira,Arshdeep Singh,SB Dubey,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,165
+Rajasthan Royals,15,1,0.1,5.6,mandatory,SB Dubey,M Jansen,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,166
+Rajasthan Royals,15,2,0.1,5.6,mandatory,D Ferreira,M Jansen,SB Dubey,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,167
+Rajasthan Royals,15,3,0.1,5.6,mandatory,SB Dubey,M Jansen,D Ferreira,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,173
+Rajasthan Royals,15,4,0.1,5.6,mandatory,SB Dubey,M Jansen,D Ferreira,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,177
+Rajasthan Royals,15,5,0.1,5.6,mandatory,SB Dubey,M Jansen,D Ferreira,0,1,1,,1.0,,,,,,,,,,,,,,,20.0,223.0,178
+Rajasthan Royals,15,6,0.1,5.6,mandatory,SB Dubey,M Jansen,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,179
+Rajasthan Royals,15,7,0.1,5.6,mandatory,D Ferreira,M Jansen,SB Dubey,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,180
+Rajasthan Royals,16,1,0.1,5.6,mandatory,D Ferreira,LH Ferguson,SB Dubey,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,180
+Rajasthan Royals,16,2,0.1,5.6,mandatory,D Ferreira,LH Ferguson,SB Dubey,0,1,1,,1.0,,,,,,,,,,,,,,,20.0,223.0,181
+Rajasthan Royals,16,3,0.1,5.6,mandatory,D Ferreira,LH Ferguson,SB Dubey,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,181
+Rajasthan Royals,16,4,0.1,5.6,mandatory,D Ferreira,LH Ferguson,SB Dubey,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,181
+Rajasthan Royals,16,5,0.1,5.6,mandatory,D Ferreira,LH Ferguson,SB Dubey,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,182
+Rajasthan Royals,16,6,0.1,5.6,mandatory,SB Dubey,LH Ferguson,D Ferreira,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,186
+Rajasthan Royals,16,7,0.1,5.6,mandatory,SB Dubey,LH Ferguson,D Ferreira,2,0,2,,,,,,,,,,,,,,,,,20.0,223.0,188
+Rajasthan Royals,17,1,0.1,5.6,mandatory,D Ferreira,Arshdeep Singh,SB Dubey,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,194
+Rajasthan Royals,17,2,0.1,5.6,mandatory,D Ferreira,Arshdeep Singh,SB Dubey,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,198
+Rajasthan Royals,17,3,0.1,5.6,mandatory,D Ferreira,Arshdeep Singh,SB Dubey,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,198
+Rajasthan Royals,17,4,0.1,5.6,mandatory,D Ferreira,Arshdeep Singh,SB Dubey,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,199
+Rajasthan Royals,17,5,0.1,5.6,mandatory,SB Dubey,Arshdeep Singh,D Ferreira,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,199
+Rajasthan Royals,17,6,0.1,5.6,mandatory,SB Dubey,Arshdeep Singh,D Ferreira,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,205
+Rajasthan Royals,18,1,0.1,5.6,mandatory,D Ferreira,LH Ferguson,SB Dubey,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,209
+Rajasthan Royals,18,2,0.1,5.6,mandatory,D Ferreira,LH Ferguson,SB Dubey,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,215
+Rajasthan Royals,18,3,0.1,5.6,mandatory,D Ferreira,LH Ferguson,SB Dubey,0,0,0,,,,,,,,,,,,,,,,,20.0,223.0,215
+Rajasthan Royals,18,4,0.1,5.6,mandatory,D Ferreira,LH Ferguson,SB Dubey,4,0,4,,,,,,,,,,,,,,,,,20.0,223.0,219
+Rajasthan Royals,18,5,0.1,5.6,mandatory,D Ferreira,LH Ferguson,SB Dubey,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,220
+Rajasthan Royals,18,6,0.1,5.6,mandatory,SB Dubey,LH Ferguson,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,221
+Rajasthan Royals,19,1,0.1,5.6,mandatory,SB Dubey,M Jansen,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,20.0,223.0,222
+Rajasthan Royals,19,2,0.1,5.6,mandatory,D Ferreira,M Jansen,SB Dubey,6,0,6,,,,,,,,,,,,,,,,,20.0,223.0,228

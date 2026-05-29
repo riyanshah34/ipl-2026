@@ -1,0 +1,235 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,legbyes,byes,wides,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,overs_deliveries_wickets_fielders_substitute,target_overs,target_runs,current_team_total
+Mumbai Indians,0,1,0.1,5.6,mandatory,WG Jacks,Mukesh Choudhary,RD Rickelton,0,0,0,,,,,,,,,,,,,,0
+Mumbai Indians,0,2,0.1,5.6,mandatory,WG Jacks,Mukesh Choudhary,RD Rickelton,0,0,0,,,,,,,,,,,,,,0
+Mumbai Indians,0,3,0.1,5.6,mandatory,WG Jacks,Mukesh Choudhary,RD Rickelton,1,0,1,,,,,,,,,,,,,,1
+Mumbai Indians,0,4,0.1,5.6,mandatory,RD Rickelton,Mukesh Choudhary,WG Jacks,0,0,0,,,,,,,,,,,,,,1
+Mumbai Indians,0,5,0.1,5.6,mandatory,RD Rickelton,Mukesh Choudhary,WG Jacks,0,0,0,,,,,,,,,,,,,,1
+Mumbai Indians,0,6,0.1,5.6,mandatory,RD Rickelton,Mukesh Choudhary,WG Jacks,0,0,0,,,,,,,,,,,,,,1
+Mumbai Indians,1,1,0.1,5.6,mandatory,WG Jacks,A Kamboj,RD Rickelton,0,0,0,,,,,,,,,,,,,,1
+Mumbai Indians,1,2,0.1,5.6,mandatory,WG Jacks,A Kamboj,RD Rickelton,0,0,0,,,,WG Jacks,caught,,,,,RS Ghosh,,,,1
+Mumbai Indians,1,3,0.1,5.6,mandatory,Naman Dhir,A Kamboj,RD Rickelton,0,0,0,,,,,,,,,,,,,,1
+Mumbai Indians,1,4,0.1,5.6,mandatory,Naman Dhir,A Kamboj,RD Rickelton,4,0,4,,,,,,,,,,,,,,5
+Mumbai Indians,1,5,0.1,5.6,mandatory,Naman Dhir,A Kamboj,RD Rickelton,0,0,0,,,,,,,,,,,,,,5
+Mumbai Indians,1,6,0.1,5.6,mandatory,Naman Dhir,A Kamboj,RD Rickelton,0,0,0,,,,,,,,,,,,,,5
+Mumbai Indians,2,1,0.1,5.6,mandatory,RD Rickelton,Mukesh Choudhary,Naman Dhir,0,0,0,,,,,,,,,,,,,,5
+Mumbai Indians,2,2,0.1,5.6,mandatory,RD Rickelton,Mukesh Choudhary,Naman Dhir,6,0,6,,,,,,,,,,,,,,11
+Mumbai Indians,2,3,0.1,5.6,mandatory,RD Rickelton,Mukesh Choudhary,Naman Dhir,6,0,6,,,,,,,,,,,,,,17
+Mumbai Indians,2,4,0.1,5.6,mandatory,RD Rickelton,Mukesh Choudhary,Naman Dhir,0,0,0,,,,,,,,,,,,,,17
+Mumbai Indians,2,5,0.1,5.6,mandatory,RD Rickelton,Mukesh Choudhary,Naman Dhir,1,0,1,,,,,,,,,,,,,,18
+Mumbai Indians,2,6,0.1,5.6,mandatory,Naman Dhir,Mukesh Choudhary,RD Rickelton,2,0,2,,,,,,,,,,,,,,20
+Mumbai Indians,3,1,0.1,5.6,mandatory,RD Rickelton,A Kamboj,Naman Dhir,1,0,1,,,,,,,,,,,,,,21
+Mumbai Indians,3,2,0.1,5.6,mandatory,Naman Dhir,A Kamboj,RD Rickelton,6,0,6,,,,,,,,,,,,,,27
+Mumbai Indians,3,3,0.1,5.6,mandatory,Naman Dhir,A Kamboj,RD Rickelton,1,0,1,,,,,,,,,,,,,,28
+Mumbai Indians,3,4,0.1,5.6,mandatory,RD Rickelton,A Kamboj,Naman Dhir,0,0,0,,,,,,,,,,,,,,28
+Mumbai Indians,3,5,0.1,5.6,mandatory,RD Rickelton,A Kamboj,Naman Dhir,0,0,0,,,,,,,,,,,,,,28
+Mumbai Indians,3,6,0.1,5.6,mandatory,RD Rickelton,A Kamboj,Naman Dhir,1,0,1,,,,,,,,,,,,,,29
+Mumbai Indians,4,1,0.1,5.6,mandatory,RD Rickelton,PR Veer,Naman Dhir,0,0,0,,,,,,,,,,,,,,29
+Mumbai Indians,4,2,0.1,5.6,mandatory,RD Rickelton,PR Veer,Naman Dhir,0,0,0,,,,,,,,,,,,,,29
+Mumbai Indians,4,3,0.1,5.6,mandatory,RD Rickelton,PR Veer,Naman Dhir,6,0,6,,,,,,,,,,,,,,35
+Mumbai Indians,4,4,0.1,5.6,mandatory,RD Rickelton,PR Veer,Naman Dhir,0,0,0,,,,,,,,,,,,,,35
+Mumbai Indians,4,5,0.1,5.6,mandatory,RD Rickelton,PR Veer,Naman Dhir,6,0,6,,,,,,,,,,,,,,41
+Mumbai Indians,4,6,0.1,5.6,mandatory,RD Rickelton,PR Veer,Naman Dhir,6,0,6,,,,,,,,,,,,,,47
+Mumbai Indians,5,1,0.1,5.6,mandatory,Naman Dhir,Mukesh Choudhary,RD Rickelton,0,0,0,,,,,,,,,,,,,,47
+Mumbai Indians,5,2,0.1,5.6,mandatory,Naman Dhir,Mukesh Choudhary,RD Rickelton,6,0,6,,,,,,,,,,,,,,53
+Mumbai Indians,5,3,0.1,5.6,mandatory,Naman Dhir,Mukesh Choudhary,RD Rickelton,0,1,1,1.0,,,,,,,,,,,,,54
+Mumbai Indians,5,4,0.1,5.6,mandatory,RD Rickelton,Mukesh Choudhary,Naman Dhir,2,0,2,,,,,,,,,,,,,,56
+Mumbai Indians,5,5,0.1,5.6,mandatory,RD Rickelton,Mukesh Choudhary,Naman Dhir,0,0,0,,,,,,,,,,,,,,56
+Mumbai Indians,5,6,0.1,5.6,mandatory,RD Rickelton,Mukesh Choudhary,Naman Dhir,1,0,1,,,,,,,,,,,,,,57
+Mumbai Indians,6,1,0.1,5.6,mandatory,RD Rickelton,Noor Ahmad,Naman Dhir,1,0,1,,,,,,,,,,,,,,58
+Mumbai Indians,6,2,0.1,5.6,mandatory,Naman Dhir,Noor Ahmad,RD Rickelton,1,0,1,,,,,,,,,,,,,,59
+Mumbai Indians,6,3,0.1,5.6,mandatory,RD Rickelton,Noor Ahmad,Naman Dhir,0,0,0,,,,,,,,,,,,,,59
+Mumbai Indians,6,4,0.1,5.6,mandatory,RD Rickelton,Noor Ahmad,Naman Dhir,0,0,0,,,,RD Rickelton,caught,,,,,Urvil Patel,,,,59
+Mumbai Indians,6,5,0.1,5.6,mandatory,SA Yadav,Noor Ahmad,Naman Dhir,4,0,4,,,,,,,,,,,,,,63
+Mumbai Indians,6,6,0.1,5.6,mandatory,SA Yadav,Noor Ahmad,Naman Dhir,0,0,0,,,,,,,,,,,,,,63
+Mumbai Indians,7,1,0.1,5.6,mandatory,Naman Dhir,PR Veer,SA Yadav,0,0,0,,,,,,,,,,,,,,63
+Mumbai Indians,7,2,0.1,5.6,mandatory,Naman Dhir,PR Veer,SA Yadav,4,0,4,,,,,,,,,,,,,,67
+Mumbai Indians,7,3,0.1,5.6,mandatory,Naman Dhir,PR Veer,SA Yadav,1,0,1,,,,,,,,,,,,,,68
+Mumbai Indians,7,4,0.1,5.6,mandatory,SA Yadav,PR Veer,Naman Dhir,0,0,0,,,,,,,,,,,,,,68
+Mumbai Indians,7,5,0.1,5.6,mandatory,SA Yadav,PR Veer,Naman Dhir,1,0,1,,,,,,,,,,,,,,69
+Mumbai Indians,7,6,0.1,5.6,mandatory,Naman Dhir,PR Veer,SA Yadav,1,0,1,,,,,,,,,,,,,,70
+Mumbai Indians,8,1,0.1,5.6,mandatory,Naman Dhir,RS Ghosh,SA Yadav,1,0,1,,,,,,,,,,,,,,71
+Mumbai Indians,8,2,0.1,5.6,mandatory,SA Yadav,RS Ghosh,Naman Dhir,0,0,0,,,,,,,,,,,,,,71
+Mumbai Indians,8,3,0.1,5.6,mandatory,SA Yadav,RS Ghosh,Naman Dhir,4,0,4,,,,,,,,,,,,,,75
+Mumbai Indians,8,4,0.1,5.6,mandatory,SA Yadav,RS Ghosh,Naman Dhir,0,0,0,,,,,,,,,,,,,,75
+Mumbai Indians,8,5,0.1,5.6,mandatory,SA Yadav,RS Ghosh,Naman Dhir,1,0,1,,,,,,,,,,,,,,76
+Mumbai Indians,8,6,0.1,5.6,mandatory,Naman Dhir,RS Ghosh,SA Yadav,1,0,1,,,,,,,,,,,,,,77
+Mumbai Indians,9,1,0.1,5.6,mandatory,Naman Dhir,Noor Ahmad,SA Yadav,1,0,1,,,,,,,,,,,,,,78
+Mumbai Indians,9,2,0.1,5.6,mandatory,SA Yadav,Noor Ahmad,Naman Dhir,4,0,4,,,,,,,,,,,,,,82
+Mumbai Indians,9,3,0.1,5.6,mandatory,SA Yadav,Noor Ahmad,Naman Dhir,6,0,6,,,,,,,,,,,,,,88
+Mumbai Indians,9,4,0.1,5.6,mandatory,SA Yadav,Noor Ahmad,Naman Dhir,1,0,1,,,,,,,,,,,,,,89
+Mumbai Indians,9,5,0.1,5.6,mandatory,Naman Dhir,Noor Ahmad,SA Yadav,0,0,0,,,,,,,,,,,,,,89
+Mumbai Indians,9,6,0.1,5.6,mandatory,Naman Dhir,Noor Ahmad,SA Yadav,1,0,1,,,,,,,,,,,,,,90
+Mumbai Indians,10,1,0.1,5.6,mandatory,Naman Dhir,RS Ghosh,SA Yadav,4,0,4,,,,,,,,,,,,,,94
+Mumbai Indians,10,2,0.1,5.6,mandatory,Naman Dhir,RS Ghosh,SA Yadav,4,0,4,,,,,,,,,,,,,,98
+Mumbai Indians,10,3,0.1,5.6,mandatory,Naman Dhir,RS Ghosh,SA Yadav,1,0,1,,,,,,,,,,,,,,99
+Mumbai Indians,10,4,0.1,5.6,mandatory,SA Yadav,RS Ghosh,Naman Dhir,0,0,0,,,,SA Yadav,caught,,,,,D Brevis,,,,99
+Mumbai Indians,10,5,0.1,5.6,mandatory,Tilak Varma,RS Ghosh,Naman Dhir,1,0,1,,,,,,,,,,,,,,100
+Mumbai Indians,10,6,0.1,5.6,mandatory,Naman Dhir,RS Ghosh,Tilak Varma,0,0,0,,,,,,,,,,,,,,100
+Mumbai Indians,11,1,0.1,5.6,mandatory,Tilak Varma,J Overton,Naman Dhir,0,0,0,,,,,,,,,,,,,,100
+Mumbai Indians,11,2,0.1,5.6,mandatory,Tilak Varma,J Overton,Naman Dhir,1,0,1,,,,,,,,,,,,,,101
+Mumbai Indians,11,3,0.1,5.6,mandatory,Naman Dhir,J Overton,Tilak Varma,3,0,3,,,,,,,,,,,,,,104
+Mumbai Indians,11,4,0.1,5.6,mandatory,Tilak Varma,J Overton,Naman Dhir,0,0,0,,,,,,,,,,,,,,104
+Mumbai Indians,11,5,0.1,5.6,mandatory,Tilak Varma,J Overton,Naman Dhir,2,0,2,,,,,,,,,,,,,,106
+Mumbai Indians,11,6,0.1,5.6,mandatory,Tilak Varma,J Overton,Naman Dhir,0,0,0,,,,,,,,,,,,,,106
+Mumbai Indians,12,1,0.1,5.6,mandatory,Naman Dhir,Noor Ahmad,Tilak Varma,0,0,0,,,,,,,,,,,,,,106
+Mumbai Indians,12,2,0.1,5.6,mandatory,Naman Dhir,Noor Ahmad,Tilak Varma,1,0,1,,,,,,,,,,,,,,107
+Mumbai Indians,12,3,0.1,5.6,mandatory,Tilak Varma,Noor Ahmad,Naman Dhir,1,0,1,,,,,,,,,,,,,,108
+Mumbai Indians,12,4,0.1,5.6,mandatory,Naman Dhir,Noor Ahmad,Tilak Varma,1,0,1,,,,,,,,,,,,,,109
+Mumbai Indians,12,5,0.1,5.6,mandatory,Tilak Varma,Noor Ahmad,Naman Dhir,0,0,0,,,,Tilak Varma,caught,,,,,RD Gaikwad,,,,109
+Mumbai Indians,12,6,0.1,5.6,mandatory,HH Pandya,Noor Ahmad,Naman Dhir,1,0,1,,,,,,,,,,,,,,110
+Mumbai Indians,13,1,0.1,5.6,mandatory,HH Pandya,J Overton,Naman Dhir,0,1,1,,1.0,,,,,,,,,,,,111
+Mumbai Indians,13,2,0.1,5.6,mandatory,Naman Dhir,J Overton,HH Pandya,1,0,1,,,,,,,,,,,,,,112
+Mumbai Indians,13,3,0.1,5.6,mandatory,HH Pandya,J Overton,Naman Dhir,0,0,0,,,,,,,,,,,,,,112
+Mumbai Indians,13,4,0.1,5.6,mandatory,HH Pandya,J Overton,Naman Dhir,0,0,0,,,,,,,,,,,,,,112
+Mumbai Indians,13,5,0.1,5.6,mandatory,HH Pandya,J Overton,Naman Dhir,0,0,0,,,,,,,,,,,,,,112
+Mumbai Indians,13,6,0.1,5.6,mandatory,HH Pandya,J Overton,Naman Dhir,1,0,1,,,,,,,,,,,,,,113
+Mumbai Indians,14,1,0.1,5.6,mandatory,HH Pandya,RS Ghosh,Naman Dhir,4,0,4,,,,,,,,,,,,,,117
+Mumbai Indians,14,2,0.1,5.6,mandatory,HH Pandya,RS Ghosh,Naman Dhir,0,0,0,,,,,,,,,,,,,,117
+Mumbai Indians,14,3,0.1,5.6,mandatory,HH Pandya,RS Ghosh,Naman Dhir,1,0,1,,,,,,,,,,,,,,118
+Mumbai Indians,14,4,0.1,5.6,mandatory,Naman Dhir,RS Ghosh,HH Pandya,0,0,0,,,,,,,,,,,,,,118
+Mumbai Indians,14,5,0.1,5.6,mandatory,Naman Dhir,RS Ghosh,HH Pandya,1,0,1,,,,,,,,,,,,,,119
+Mumbai Indians,14,6,0.1,5.6,mandatory,HH Pandya,RS Ghosh,Naman Dhir,1,0,1,,,,,,,,,,,,,,120
+Mumbai Indians,15,1,0.1,5.6,mandatory,HH Pandya,Noor Ahmad,Naman Dhir,0,1,1,1.0,,,,,,,,,,,,,121
+Mumbai Indians,15,2,0.1,5.6,mandatory,Naman Dhir,Noor Ahmad,HH Pandya,1,0,1,,,,,,,,,,,,,,122
+Mumbai Indians,15,3,0.1,5.6,mandatory,HH Pandya,Noor Ahmad,Naman Dhir,0,0,0,,,,,,,,,,,,,,122
+Mumbai Indians,15,4,0.1,5.6,mandatory,HH Pandya,Noor Ahmad,Naman Dhir,1,0,1,,,,,,,,,,,,,,123
+Mumbai Indians,15,5,0.1,5.6,mandatory,Naman Dhir,Noor Ahmad,HH Pandya,1,0,1,,,,,,,,,,,,,,124
+Mumbai Indians,15,6,0.1,5.6,mandatory,HH Pandya,Noor Ahmad,Naman Dhir,0,0,0,,,,,,,,,,,,,,124
+Mumbai Indians,16,1,0.1,5.6,mandatory,Naman Dhir,J Overton,HH Pandya,2,0,2,,,,,,,,,,,,,,126
+Mumbai Indians,16,2,0.1,5.6,mandatory,Naman Dhir,J Overton,HH Pandya,1,0,1,,,,,,,,,,,,,,127
+Mumbai Indians,16,3,0.1,5.6,mandatory,HH Pandya,J Overton,Naman Dhir,1,0,1,,,,,,,,,,,,,,128
+Mumbai Indians,16,4,0.1,5.6,mandatory,Naman Dhir,J Overton,HH Pandya,6,0,6,,,,,,,,,,,,,,134
+Mumbai Indians,16,5,0.1,5.6,mandatory,Naman Dhir,J Overton,HH Pandya,0,0,0,,,,Naman Dhir,caught,,,,,SN Khan,True,,,134
+Mumbai Indians,16,6,0.1,5.6,mandatory,R Minz,J Overton,HH Pandya,1,0,1,,,,,,,,,,,,,,135
+Mumbai Indians,17,1,0.1,5.6,mandatory,R Minz,A Kamboj,HH Pandya,4,0,4,,,,,,,,,,,,,,139
+Mumbai Indians,17,2,0.1,5.6,mandatory,R Minz,A Kamboj,HH Pandya,0,0,0,,,,R Minz,bowled,,,,,,,,,139
+Mumbai Indians,17,3,0.1,5.6,mandatory,Krish Bhagat,A Kamboj,HH Pandya,0,0,0,,,,,,,,,,,,,,139
+Mumbai Indians,17,4,0.1,5.6,mandatory,Krish Bhagat,A Kamboj,HH Pandya,1,0,1,,,,,,,,,,,,,,140
+Mumbai Indians,17,5,0.1,5.6,mandatory,HH Pandya,A Kamboj,Krish Bhagat,1,0,1,,,,,,,,,,,,,,141
+Mumbai Indians,17,6,0.1,5.6,mandatory,Krish Bhagat,A Kamboj,HH Pandya,1,0,1,,,,,,,,,,,,,,142
+Mumbai Indians,18,1,0.1,5.6,mandatory,Krish Bhagat,J Overton,HH Pandya,0,0,0,,,,,,,,,,,,,,142
+Mumbai Indians,18,2,0.1,5.6,mandatory,Krish Bhagat,J Overton,HH Pandya,1,0,1,,,,,,,,,,,,,,143
+Mumbai Indians,18,3,0.1,5.6,mandatory,HH Pandya,J Overton,Krish Bhagat,0,0,0,,,,,,,,,,,,,,143
+Mumbai Indians,18,4,0.1,5.6,mandatory,HH Pandya,J Overton,Krish Bhagat,0,0,0,,,,,,,,,,,,,,143
+Mumbai Indians,18,5,0.1,5.6,mandatory,HH Pandya,J Overton,Krish Bhagat,2,0,2,,,,,,,,,,,,,,145
+Mumbai Indians,18,6,0.1,5.6,mandatory,HH Pandya,J Overton,Krish Bhagat,1,0,1,,,,,,,,,,,,,,146
+Mumbai Indians,19,1,0.1,5.6,mandatory,HH Pandya,A Kamboj,Krish Bhagat,4,0,4,,,,,,,,,,,,,,150
+Mumbai Indians,19,2,0.1,5.6,mandatory,HH Pandya,A Kamboj,Krish Bhagat,0,1,1,,,1.0,,,,,,,,,,,151
+Mumbai Indians,19,3,0.1,5.6,mandatory,HH Pandya,A Kamboj,Krish Bhagat,0,0,0,,,,,,,,,,,,,,151
+Mumbai Indians,19,4,0.1,5.6,mandatory,HH Pandya,A Kamboj,Krish Bhagat,0,0,0,,,,HH Pandya,caught,,,,,D Brevis,,,,151
+Mumbai Indians,19,5,0.1,5.6,mandatory,TA Boult,A Kamboj,Krish Bhagat,6,0,6,,,,,,,,,,,,,,157
+Mumbai Indians,19,6,0.1,5.6,mandatory,TA Boult,A Kamboj,Krish Bhagat,1,0,1,,,,,,,,,,,,,,158
+Mumbai Indians,19,7,0.1,5.6,mandatory,Krish Bhagat,A Kamboj,TA Boult,0,1,1,,1.0,,,,,,,,,,,,159
+Chennai Super Kings,0,1,0.1,5.6,mandatory,SV Samson,TA Boult,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,1
+Chennai Super Kings,0,2,0.1,5.6,mandatory,RD Gaikwad,TA Boult,SV Samson,0,0,0,,,,,,,,,,,,20.0,160.0,1
+Chennai Super Kings,0,3,0.1,5.6,mandatory,RD Gaikwad,TA Boult,SV Samson,1,0,1,,,,,,,,,,,,20.0,160.0,2
+Chennai Super Kings,0,4,0.1,5.6,mandatory,SV Samson,TA Boult,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,2
+Chennai Super Kings,0,5,0.1,5.6,mandatory,SV Samson,TA Boult,RD Gaikwad,4,0,4,,,,,,,,,,,,20.0,160.0,6
+Chennai Super Kings,0,6,0.1,5.6,mandatory,SV Samson,TA Boult,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,7
+Chennai Super Kings,1,1,0.1,5.6,mandatory,SV Samson,JJ Bumrah,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,7
+Chennai Super Kings,1,2,0.1,5.6,mandatory,SV Samson,JJ Bumrah,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,8
+Chennai Super Kings,1,3,0.1,5.6,mandatory,RD Gaikwad,JJ Bumrah,SV Samson,1,0,1,,,,,,,,,,,,20.0,160.0,9
+Chennai Super Kings,1,4,0.1,5.6,mandatory,SV Samson,JJ Bumrah,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,9
+Chennai Super Kings,1,5,0.1,5.6,mandatory,SV Samson,JJ Bumrah,RD Gaikwad,4,0,4,,,,,,,,,,,,20.0,160.0,13
+Chennai Super Kings,1,6,0.1,5.6,mandatory,SV Samson,JJ Bumrah,RD Gaikwad,0,0,0,,,,SV Samson,caught,,,,,RD Rickelton,,20.0,160.0,13
+Chennai Super Kings,2,1,0.1,5.6,mandatory,RD Gaikwad,TA Boult,Urvil Patel,4,0,4,,,,,,,,,,,,20.0,160.0,17
+Chennai Super Kings,2,2,0.1,5.6,mandatory,RD Gaikwad,TA Boult,Urvil Patel,2,0,2,,,,,,,,,,,,20.0,160.0,19
+Chennai Super Kings,2,3,0.1,5.6,mandatory,RD Gaikwad,TA Boult,Urvil Patel,0,0,0,,,,,,,,,,,,20.0,160.0,19
+Chennai Super Kings,2,4,0.1,5.6,mandatory,RD Gaikwad,TA Boult,Urvil Patel,0,1,1,,,1.0,,,,,,,,,20.0,160.0,20
+Chennai Super Kings,2,5,0.1,5.6,mandatory,RD Gaikwad,TA Boult,Urvil Patel,0,0,0,,,,,,,,,,,,20.0,160.0,20
+Chennai Super Kings,2,6,0.1,5.6,mandatory,RD Gaikwad,TA Boult,Urvil Patel,4,0,4,,,,,,,,,,,,20.0,160.0,24
+Chennai Super Kings,2,7,0.1,5.6,mandatory,RD Gaikwad,TA Boult,Urvil Patel,6,0,6,,,,,,,,,,,,20.0,160.0,30
+Chennai Super Kings,3,1,0.1,5.6,mandatory,Urvil Patel,JJ Bumrah,RD Gaikwad,2,0,2,,,,,,,,,,,,20.0,160.0,32
+Chennai Super Kings,3,2,0.1,5.6,mandatory,Urvil Patel,JJ Bumrah,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,32
+Chennai Super Kings,3,3,0.1,5.6,mandatory,Urvil Patel,JJ Bumrah,RD Gaikwad,4,0,4,,,,,,,,,,,,20.0,160.0,36
+Chennai Super Kings,3,4,0.1,5.6,mandatory,Urvil Patel,JJ Bumrah,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,36
+Chennai Super Kings,3,5,0.1,5.6,mandatory,Urvil Patel,JJ Bumrah,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,36
+Chennai Super Kings,3,6,0.1,5.6,mandatory,Urvil Patel,JJ Bumrah,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,37
+Chennai Super Kings,4,1,0.1,5.6,mandatory,Urvil Patel,Krish Bhagat,RD Gaikwad,6,0,6,,,,,,,,,,,,20.0,160.0,43
+Chennai Super Kings,4,2,0.1,5.6,mandatory,Urvil Patel,Krish Bhagat,RD Gaikwad,4,0,4,,,,,,,,,,,,20.0,160.0,47
+Chennai Super Kings,4,3,0.1,5.6,mandatory,Urvil Patel,Krish Bhagat,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,48
+Chennai Super Kings,4,4,0.1,5.6,mandatory,RD Gaikwad,Krish Bhagat,Urvil Patel,1,0,1,,,,,,,,,,,,20.0,160.0,49
+Chennai Super Kings,4,5,0.1,5.6,mandatory,Urvil Patel,Krish Bhagat,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,49
+Chennai Super Kings,4,6,0.1,5.6,mandatory,Urvil Patel,Krish Bhagat,RD Gaikwad,6,0,6,,,,,,,,,,,,20.0,160.0,55
+Chennai Super Kings,5,1,0.1,5.6,mandatory,RD Gaikwad,AM Ghazanfar,Urvil Patel,0,0,0,,,,,,Raghu Sharma,R Minz,Mumbai Indians,impact_player,,,20.0,160.0,55
+Chennai Super Kings,5,2,0.1,5.6,mandatory,RD Gaikwad,AM Ghazanfar,Urvil Patel,6,0,6,,,,,,,,,,,,20.0,160.0,61
+Chennai Super Kings,5,3,0.1,5.6,mandatory,RD Gaikwad,AM Ghazanfar,Urvil Patel,1,0,1,,,,,,,,,,,,20.0,160.0,62
+Chennai Super Kings,5,4,0.1,5.6,mandatory,Urvil Patel,AM Ghazanfar,RD Gaikwad,0,0,0,,,,Urvil Patel,bowled,,,,,,,20.0,160.0,62
+Chennai Super Kings,5,5,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,0,0,0,,,,,,Kartik Sharma,Mukesh Choudhary,Chennai Super Kings,impact_player,,,20.0,160.0,62
+Chennai Super Kings,5,6,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,62
+Chennai Super Kings,6,1,0.1,5.6,mandatory,RD Gaikwad,Raghu Sharma,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,63
+Chennai Super Kings,6,2,0.1,5.6,mandatory,Kartik Sharma,Raghu Sharma,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,63
+Chennai Super Kings,6,3,0.1,5.6,mandatory,Kartik Sharma,Raghu Sharma,RD Gaikwad,4,0,4,,,,,,,,,,,,20.0,160.0,67
+Chennai Super Kings,6,4,0.1,5.6,mandatory,Kartik Sharma,Raghu Sharma,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,68
+Chennai Super Kings,6,5,0.1,5.6,mandatory,RD Gaikwad,Raghu Sharma,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,69
+Chennai Super Kings,6,6,0.1,5.6,mandatory,Kartik Sharma,Raghu Sharma,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,69
+Chennai Super Kings,7,1,0.1,5.6,mandatory,RD Gaikwad,AM Ghazanfar,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,70
+Chennai Super Kings,7,2,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,71
+Chennai Super Kings,7,3,0.1,5.6,mandatory,RD Gaikwad,AM Ghazanfar,Kartik Sharma,2,0,2,,,,,,,,,,,,20.0,160.0,73
+Chennai Super Kings,7,4,0.1,5.6,mandatory,RD Gaikwad,AM Ghazanfar,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,74
+Chennai Super Kings,7,5,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,74
+Chennai Super Kings,7,6,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,6,0,6,,,,,,,,,,,,20.0,160.0,80
+Chennai Super Kings,8,1,0.1,5.6,mandatory,RD Gaikwad,Raghu Sharma,Kartik Sharma,0,0,0,,,,,,,,,,,,20.0,160.0,80
+Chennai Super Kings,8,2,0.1,5.6,mandatory,RD Gaikwad,Raghu Sharma,Kartik Sharma,2,0,2,,,,,,,,,,,,20.0,160.0,82
+Chennai Super Kings,8,3,0.1,5.6,mandatory,RD Gaikwad,Raghu Sharma,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,83
+Chennai Super Kings,8,4,0.1,5.6,mandatory,Kartik Sharma,Raghu Sharma,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,83
+Chennai Super Kings,8,5,0.1,5.6,mandatory,Kartik Sharma,Raghu Sharma,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,84
+Chennai Super Kings,8,6,0.1,5.6,mandatory,RD Gaikwad,Raghu Sharma,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,85
+Chennai Super Kings,9,1,0.1,5.6,mandatory,RD Gaikwad,HH Pandya,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,86
+Chennai Super Kings,9,2,0.1,5.6,mandatory,Kartik Sharma,HH Pandya,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,87
+Chennai Super Kings,9,3,0.1,5.6,mandatory,RD Gaikwad,HH Pandya,Kartik Sharma,0,1,1,,,1.0,,,,,,,,,20.0,160.0,88
+Chennai Super Kings,9,4,0.1,5.6,mandatory,RD Gaikwad,HH Pandya,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,89
+Chennai Super Kings,9,5,0.1,5.6,mandatory,Kartik Sharma,HH Pandya,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,90
+Chennai Super Kings,9,6,0.1,5.6,mandatory,RD Gaikwad,HH Pandya,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,91
+Chennai Super Kings,9,7,0.1,5.6,mandatory,Kartik Sharma,HH Pandya,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,92
+Chennai Super Kings,10,1,0.1,5.6,mandatory,Kartik Sharma,Raghu Sharma,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,92
+Chennai Super Kings,10,2,0.1,5.6,mandatory,Kartik Sharma,Raghu Sharma,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,92
+Chennai Super Kings,10,3,0.1,5.6,mandatory,Kartik Sharma,Raghu Sharma,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,93
+Chennai Super Kings,10,4,0.1,5.6,mandatory,RD Gaikwad,Raghu Sharma,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,94
+Chennai Super Kings,10,5,0.1,5.6,mandatory,Kartik Sharma,Raghu Sharma,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,95
+Chennai Super Kings,10,6,0.1,5.6,mandatory,RD Gaikwad,Raghu Sharma,Kartik Sharma,2,0,2,,,,,,,,,,,,20.0,160.0,97
+Chennai Super Kings,11,1,0.1,5.6,mandatory,Kartik Sharma,HH Pandya,RD Gaikwad,6,0,6,,,,,,,,,,,,20.0,160.0,103
+Chennai Super Kings,11,2,0.1,5.6,mandatory,Kartik Sharma,HH Pandya,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,104
+Chennai Super Kings,11,3,0.1,5.6,mandatory,RD Gaikwad,HH Pandya,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,105
+Chennai Super Kings,11,4,0.1,5.6,mandatory,Kartik Sharma,HH Pandya,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,106
+Chennai Super Kings,11,5,0.1,5.6,mandatory,RD Gaikwad,HH Pandya,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,107
+Chennai Super Kings,11,6,0.1,5.6,mandatory,Kartik Sharma,HH Pandya,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,107
+Chennai Super Kings,12,1,0.1,5.6,mandatory,RD Gaikwad,Raghu Sharma,Kartik Sharma,2,0,2,,,,,,,,,,,,20.0,160.0,109
+Chennai Super Kings,12,2,0.1,5.6,mandatory,RD Gaikwad,Raghu Sharma,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,110
+Chennai Super Kings,12,3,0.1,5.6,mandatory,Kartik Sharma,Raghu Sharma,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,111
+Chennai Super Kings,12,4,0.1,5.6,mandatory,RD Gaikwad,Raghu Sharma,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,112
+Chennai Super Kings,12,5,0.1,5.6,mandatory,Kartik Sharma,Raghu Sharma,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,113
+Chennai Super Kings,12,6,0.1,5.6,mandatory,RD Gaikwad,Raghu Sharma,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,114
+Chennai Super Kings,13,1,0.1,5.6,mandatory,RD Gaikwad,AM Ghazanfar,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,115
+Chennai Super Kings,13,2,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,116
+Chennai Super Kings,13,3,0.1,5.6,mandatory,RD Gaikwad,AM Ghazanfar,Kartik Sharma,0,0,0,,,,,,,,,,,,20.0,160.0,116
+Chennai Super Kings,13,4,0.1,5.6,mandatory,RD Gaikwad,AM Ghazanfar,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,117
+Chennai Super Kings,13,5,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,118
+Chennai Super Kings,13,6,0.1,5.6,mandatory,RD Gaikwad,AM Ghazanfar,Kartik Sharma,4,0,4,,,,,,,,,,,,20.0,160.0,122
+Chennai Super Kings,14,1,0.1,5.6,mandatory,Kartik Sharma,JJ Bumrah,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,123
+Chennai Super Kings,14,2,0.1,5.6,mandatory,RD Gaikwad,JJ Bumrah,Kartik Sharma,4,0,4,,,,,,,,,,,,20.0,160.0,127
+Chennai Super Kings,14,3,0.1,5.6,mandatory,RD Gaikwad,JJ Bumrah,Kartik Sharma,0,0,0,,,,,,,,,,,,20.0,160.0,127
+Chennai Super Kings,14,4,0.1,5.6,mandatory,RD Gaikwad,JJ Bumrah,Kartik Sharma,0,0,0,,,,,,,,,,,,20.0,160.0,127
+Chennai Super Kings,14,5,0.1,5.6,mandatory,RD Gaikwad,JJ Bumrah,Kartik Sharma,0,1,1,,,1.0,,,,,,,,,20.0,160.0,128
+Chennai Super Kings,14,6,0.1,5.6,mandatory,RD Gaikwad,JJ Bumrah,Kartik Sharma,0,0,0,,,,,,,,,,,,20.0,160.0,128
+Chennai Super Kings,14,7,0.1,5.6,mandatory,RD Gaikwad,JJ Bumrah,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,129
+Chennai Super Kings,15,1,0.1,5.6,mandatory,RD Gaikwad,TA Boult,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,130
+Chennai Super Kings,15,2,0.1,5.6,mandatory,Kartik Sharma,TA Boult,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,131
+Chennai Super Kings,15,3,0.1,5.6,mandatory,RD Gaikwad,TA Boult,Kartik Sharma,0,1,1,,,1.0,,,,,,,,,20.0,160.0,132
+Chennai Super Kings,15,4,0.1,5.6,mandatory,RD Gaikwad,TA Boult,Kartik Sharma,4,0,4,,,,,,,,,,,,20.0,160.0,136
+Chennai Super Kings,15,5,0.1,5.6,mandatory,RD Gaikwad,TA Boult,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,137
+Chennai Super Kings,15,6,0.1,5.6,mandatory,Kartik Sharma,TA Boult,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,138
+Chennai Super Kings,15,7,0.1,5.6,mandatory,RD Gaikwad,TA Boult,Kartik Sharma,0,0,0,,,,,,,,,,,,20.0,160.0,138
+Chennai Super Kings,16,1,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,4,0,4,,,,,,,,,,,,20.0,160.0,142
+Chennai Super Kings,16,2,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,142
+Chennai Super Kings,16,3,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,6,0,6,,,,,,,,,,,,20.0,160.0,148
+Chennai Super Kings,16,4,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,148
+Chennai Super Kings,16,5,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,4,0,4,,,,,,,,,,,,20.0,160.0,152
+Chennai Super Kings,16,6,0.1,5.6,mandatory,Kartik Sharma,AM Ghazanfar,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,152
+Chennai Super Kings,17,1,0.1,5.6,mandatory,RD Gaikwad,Krish Bhagat,Kartik Sharma,1,0,1,,,,,,,,,,,,20.0,160.0,153
+Chennai Super Kings,17,2,0.1,5.6,mandatory,Kartik Sharma,Krish Bhagat,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,153
+Chennai Super Kings,17,3,0.1,5.6,mandatory,Kartik Sharma,Krish Bhagat,RD Gaikwad,0,0,0,,,,,,,,,,,,20.0,160.0,153
+Chennai Super Kings,17,4,0.1,5.6,mandatory,Kartik Sharma,Krish Bhagat,RD Gaikwad,2,0,2,,,,,,,,,,,,20.0,160.0,155
+Chennai Super Kings,17,5,0.1,5.6,mandatory,Kartik Sharma,Krish Bhagat,RD Gaikwad,1,0,1,,,,,,,,,,,,20.0,160.0,156
+Chennai Super Kings,17,6,0.1,5.6,mandatory,RD Gaikwad,Krish Bhagat,Kartik Sharma,0,0,0,,,,,,,,,,,,20.0,160.0,156
+Chennai Super Kings,18,1,0.1,5.6,mandatory,Kartik Sharma,TA Boult,RD Gaikwad,4,0,4,,,,,,,,,,,,20.0,160.0,160

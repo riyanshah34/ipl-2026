@@ -1,0 +1,235 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,noballs,review_by,review_umpire,review_batter,review_decision,review_type,byes,legbyes,umpires_call,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Gujarat Titans,0,1,0.1,5.6,mandatory,B Sai Sudharsan,JC Archer,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,4
+Gujarat Titans,0,2,0.1,5.6,mandatory,B Sai Sudharsan,JC Archer,Shubman Gill,0,1,1,1.0,,,,,,,,,,,,,,,,,,,5
+Gujarat Titans,0,3,0.1,5.6,mandatory,B Sai Sudharsan,JC Archer,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,5
+Gujarat Titans,0,4,0.1,5.6,mandatory,B Sai Sudharsan,JC Archer,Shubman Gill,1,1,2,,1.0,,,,,,,,,,,,,,,,,,7
+Gujarat Titans,0,5,0.1,5.6,mandatory,Shubman Gill,JC Archer,B Sai Sudharsan,0,5,5,5.0,,,,,,,,,,,,,,,,,,,12
+Gujarat Titans,0,6,0.1,5.6,mandatory,Shubman Gill,JC Archer,B Sai Sudharsan,0,1,1,1.0,,,,,,,,,,,,,,,,,,,13
+Gujarat Titans,0,7,0.1,5.6,mandatory,Shubman Gill,JC Archer,B Sai Sudharsan,0,1,1,1.0,,,,,,,,,,,,,,,,,,,14
+Gujarat Titans,0,8,0.1,5.6,mandatory,Shubman Gill,JC Archer,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,,,,14
+Gujarat Titans,0,9,0.1,5.6,mandatory,Shubman Gill,JC Archer,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,15
+Gujarat Titans,0,10,0.1,5.6,mandatory,B Sai Sudharsan,JC Archer,Shubman Gill,2,0,2,,,,,,,,,,,,,,,,,,,,17
+Gujarat Titans,0,11,0.1,5.6,mandatory,B Sai Sudharsan,JC Archer,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,18
+Gujarat Titans,1,1,0.1,5.6,mandatory,B Sai Sudharsan,TU Deshpande,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,18
+Gujarat Titans,1,2,0.1,5.6,mandatory,B Sai Sudharsan,TU Deshpande,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,19
+Gujarat Titans,1,3,0.1,5.6,mandatory,Shubman Gill,TU Deshpande,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,20
+Gujarat Titans,1,4,0.1,5.6,mandatory,B Sai Sudharsan,TU Deshpande,Shubman Gill,0,1,1,1.0,,,,,,,,,,,,,,,,,,,21
+Gujarat Titans,1,5,0.1,5.6,mandatory,B Sai Sudharsan,TU Deshpande,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,25
+Gujarat Titans,1,6,0.1,5.6,mandatory,B Sai Sudharsan,TU Deshpande,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,25
+Gujarat Titans,1,7,0.1,5.6,mandatory,B Sai Sudharsan,TU Deshpande,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,26
+Gujarat Titans,2,1,0.1,5.6,mandatory,B Sai Sudharsan,Brijesh Sharma,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,26
+Gujarat Titans,2,2,0.1,5.6,mandatory,B Sai Sudharsan,Brijesh Sharma,Shubman Gill,0,1,1,1.0,,,,,,,,,,,,,,,,,,,27
+Gujarat Titans,2,3,0.1,5.6,mandatory,B Sai Sudharsan,Brijesh Sharma,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,27
+Gujarat Titans,2,4,0.1,5.6,mandatory,B Sai Sudharsan,Brijesh Sharma,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,31
+Gujarat Titans,2,5,0.1,5.6,mandatory,B Sai Sudharsan,Brijesh Sharma,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,31
+Gujarat Titans,2,6,0.1,5.6,mandatory,B Sai Sudharsan,Brijesh Sharma,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,,,,37
+Gujarat Titans,2,7,0.1,5.6,mandatory,B Sai Sudharsan,Brijesh Sharma,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,37
+Gujarat Titans,3,1,0.1,5.6,mandatory,Shubman Gill,TU Deshpande,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,,,,41
+Gujarat Titans,3,2,0.1,5.6,mandatory,Shubman Gill,TU Deshpande,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,42
+Gujarat Titans,3,3,0.1,5.6,mandatory,B Sai Sudharsan,TU Deshpande,Shubman Gill,0,0,0,,,Rajasthan Royals,HAS Khalid,B Sai Sudharsan,struck down,wicket,,,,,,,,,,,,,42
+Gujarat Titans,3,4,0.1,5.6,mandatory,B Sai Sudharsan,TU Deshpande,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,42
+Gujarat Titans,3,5,0.1,5.6,mandatory,B Sai Sudharsan,TU Deshpande,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,,,,48
+Gujarat Titans,3,6,0.1,5.6,mandatory,B Sai Sudharsan,TU Deshpande,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,52
+Gujarat Titans,4,1,0.1,5.6,mandatory,Shubman Gill,JC Archer,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,,,,56
+Gujarat Titans,4,2,0.1,5.6,mandatory,Shubman Gill,JC Archer,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,,,,56
+Gujarat Titans,4,3,0.1,5.6,mandatory,Shubman Gill,JC Archer,B Sai Sudharsan,6,0,6,,,,,,,,,,,,,,,,,,,,62
+Gujarat Titans,4,4,0.1,5.6,mandatory,Shubman Gill,JC Archer,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,,,,62
+Gujarat Titans,4,5,0.1,5.6,mandatory,Shubman Gill,JC Archer,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,,,,66
+Gujarat Titans,4,6,0.1,5.6,mandatory,Shubman Gill,JC Archer,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,67
+Gujarat Titans,5,1,0.1,5.6,mandatory,Shubman Gill,Brijesh Sharma,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,,,,71
+Gujarat Titans,5,2,0.1,5.6,mandatory,Shubman Gill,Brijesh Sharma,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,72
+Gujarat Titans,5,3,0.1,5.6,mandatory,B Sai Sudharsan,Brijesh Sharma,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,76
+Gujarat Titans,5,4,0.1,5.6,mandatory,B Sai Sudharsan,Brijesh Sharma,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,77
+Gujarat Titans,5,5,0.1,5.6,mandatory,Shubman Gill,Brijesh Sharma,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,,,,81
+Gujarat Titans,5,6,0.1,5.6,mandatory,Shubman Gill,Brijesh Sharma,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,82
+Gujarat Titans,6,1,0.1,5.6,mandatory,Shubman Gill,Yash Raj Punja,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,83
+Gujarat Titans,6,2,0.1,5.6,mandatory,B Sai Sudharsan,Yash Raj Punja,Shubman Gill,0,1,1,,,,,,,,1.0,,,,,,,,,,,,84
+Gujarat Titans,6,3,0.1,5.6,mandatory,Shubman Gill,Yash Raj Punja,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,85
+Gujarat Titans,6,4,0.1,5.6,mandatory,B Sai Sudharsan,Yash Raj Punja,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,86
+Gujarat Titans,6,5,0.1,5.6,mandatory,Shubman Gill,Yash Raj Punja,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,,,,90
+Gujarat Titans,6,6,0.1,5.6,mandatory,Shubman Gill,Yash Raj Punja,B Sai Sudharsan,0,1,1,1.0,,,,,,,,,,,,,,,,,,,91
+Gujarat Titans,6,7,0.1,5.6,mandatory,Shubman Gill,Yash Raj Punja,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,92
+Gujarat Titans,7,1,0.1,5.6,mandatory,Shubman Gill,RA Jadeja,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,,,,92
+Gujarat Titans,7,2,0.1,5.6,mandatory,Shubman Gill,RA Jadeja,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,93
+Gujarat Titans,7,3,0.1,5.6,mandatory,B Sai Sudharsan,RA Jadeja,Shubman Gill,2,0,2,,,,,,,,,,,,,,,,,,,,95
+Gujarat Titans,7,4,0.1,5.6,mandatory,B Sai Sudharsan,RA Jadeja,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,96
+Gujarat Titans,7,5,0.1,5.6,mandatory,Shubman Gill,RA Jadeja,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,97
+Gujarat Titans,7,6,0.1,5.6,mandatory,B Sai Sudharsan,RA Jadeja,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,98
+Gujarat Titans,8,1,0.1,5.6,mandatory,B Sai Sudharsan,Yash Raj Punja,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,102
+Gujarat Titans,8,2,0.1,5.6,mandatory,B Sai Sudharsan,Yash Raj Punja,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,103
+Gujarat Titans,8,3,0.1,5.6,mandatory,Shubman Gill,Yash Raj Punja,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,104
+Gujarat Titans,8,4,0.1,5.6,mandatory,B Sai Sudharsan,Yash Raj Punja,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,105
+Gujarat Titans,8,5,0.1,5.6,mandatory,Shubman Gill,Yash Raj Punja,B Sai Sudharsan,2,0,2,,,,,,,,,,,,,,,,,,,,107
+Gujarat Titans,8,6,0.1,5.6,mandatory,Shubman Gill,Yash Raj Punja,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,108
+Gujarat Titans,9,1,0.1,5.6,mandatory,Shubman Gill,RA Jadeja,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,109
+Gujarat Titans,9,2,0.1,5.6,mandatory,B Sai Sudharsan,RA Jadeja,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,110
+Gujarat Titans,9,3,0.1,5.6,mandatory,Shubman Gill,RA Jadeja,B Sai Sudharsan,2,0,2,,,,,,,,,,,,,,,,,,,,112
+Gujarat Titans,9,4,0.1,5.6,mandatory,Shubman Gill,RA Jadeja,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,113
+Gujarat Titans,9,5,0.1,5.6,mandatory,B Sai Sudharsan,RA Jadeja,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,114
+Gujarat Titans,9,6,0.1,5.6,mandatory,Shubman Gill,RA Jadeja,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,,,,114
+Gujarat Titans,10,1,0.1,5.6,mandatory,B Sai Sudharsan,Yash Raj Punja,Shubman Gill,2,0,2,,,,,,,,,,,,,,,,,,,,116
+Gujarat Titans,10,2,0.1,5.6,mandatory,B Sai Sudharsan,Yash Raj Punja,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,117
+Gujarat Titans,10,3,0.1,5.6,mandatory,Shubman Gill,Yash Raj Punja,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,118
+Gujarat Titans,10,4,0.1,5.6,mandatory,B Sai Sudharsan,Yash Raj Punja,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,118
+Gujarat Titans,10,5,0.1,5.6,mandatory,B Sai Sudharsan,Yash Raj Punja,Shubman Gill,0,0,0,,,,,,,,,,,B Sai Sudharsan,caught,,,,,JC Archer,,,118
+Gujarat Titans,10,6,0.1,5.6,mandatory,JC Buttler,Yash Raj Punja,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,119
+Gujarat Titans,11,1,0.1,5.6,mandatory,JC Buttler,RA Jadeja,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,123
+Gujarat Titans,11,2,0.1,5.6,mandatory,JC Buttler,RA Jadeja,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,124
+Gujarat Titans,11,3,0.1,5.6,mandatory,Shubman Gill,RA Jadeja,JC Buttler,4,0,4,,,,,,,,,,,,,,,,,,,,128
+Gujarat Titans,11,4,0.1,5.6,mandatory,Shubman Gill,RA Jadeja,JC Buttler,6,0,6,,,,,,,,,,,,,,,,,,,,134
+Gujarat Titans,11,5,0.1,5.6,mandatory,Shubman Gill,RA Jadeja,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,,,135
+Gujarat Titans,11,6,0.1,5.6,mandatory,JC Buttler,RA Jadeja,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,136
+Gujarat Titans,12,1,0.1,5.6,mandatory,JC Buttler,Yash Raj Punja,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,136
+Gujarat Titans,12,2,0.1,5.6,mandatory,JC Buttler,Yash Raj Punja,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,,,,142
+Gujarat Titans,12,3,0.1,5.6,mandatory,JC Buttler,Yash Raj Punja,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,142
+Gujarat Titans,12,4,0.1,5.6,mandatory,JC Buttler,Yash Raj Punja,Shubman Gill,0,1,1,,,,,,,,,1.0,,,,,,,,,,,143
+Gujarat Titans,12,5,0.1,5.6,mandatory,Shubman Gill,Yash Raj Punja,JC Buttler,2,0,2,,,,,,,,,,,,,,,,,,,,145
+Gujarat Titans,12,6,0.1,5.6,mandatory,Shubman Gill,Yash Raj Punja,JC Buttler,0,1,1,1.0,,,,,,,,,,,,,,,,,,,146
+Gujarat Titans,12,7,0.1,5.6,mandatory,Shubman Gill,Yash Raj Punja,JC Buttler,4,0,4,,,,,,,,,,,,,,,,,,,,150
+Gujarat Titans,13,1,0.1,5.6,mandatory,JC Buttler,RA Jadeja,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,150
+Gujarat Titans,13,2,0.1,5.6,mandatory,JC Buttler,RA Jadeja,Shubman Gill,0,0,0,,,,,,,,,,,JC Buttler,caught,,,,,D Ferreira,,,150
+Gujarat Titans,13,3,0.1,5.6,mandatory,Washington Sundar,RA Jadeja,Shubman Gill,2,0,2,,,,,,,,,,,,,,,,,,,,152
+Gujarat Titans,13,4,0.1,5.6,mandatory,Washington Sundar,RA Jadeja,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,152
+Gujarat Titans,13,5,0.1,5.6,mandatory,Washington Sundar,RA Jadeja,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,153
+Gujarat Titans,13,6,0.1,5.6,mandatory,Shubman Gill,RA Jadeja,Washington Sundar,2,0,2,,,,,,,,,,,,,,,,,,,,155
+Gujarat Titans,14,1,0.1,5.6,mandatory,Washington Sundar,D Ferreira,Shubman Gill,4,0,4,,,,,,,,,,,,,V Suryavanshi,Yash Raj Punja,Rajasthan Royals,impact_player,,,,159
+Gujarat Titans,14,2,0.1,5.6,mandatory,Washington Sundar,D Ferreira,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,160
+Gujarat Titans,14,3,0.1,5.6,mandatory,Shubman Gill,D Ferreira,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,,,160
+Gujarat Titans,14,4,0.1,5.6,mandatory,Shubman Gill,D Ferreira,Washington Sundar,4,0,4,,,,,,,,,,,,,,,,,,,,164
+Gujarat Titans,14,5,0.1,5.6,mandatory,Shubman Gill,D Ferreira,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,165
+Gujarat Titans,14,6,0.1,5.6,mandatory,Washington Sundar,D Ferreira,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,166
+Gujarat Titans,15,1,0.1,5.6,mandatory,Washington Sundar,JC Archer,Shubman Gill,0,1,1,1.0,,,,,,,,,,,,,,,,,,,167
+Gujarat Titans,15,2,0.1,5.6,mandatory,Washington Sundar,JC Archer,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,,,,173
+Gujarat Titans,15,3,0.1,5.6,mandatory,Washington Sundar,JC Archer,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,174
+Gujarat Titans,15,4,0.1,5.6,mandatory,Shubman Gill,JC Archer,Washington Sundar,2,0,2,,,,,,,,,,,,,,,,,,,,176
+Gujarat Titans,15,5,0.1,5.6,mandatory,Shubman Gill,JC Archer,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,177
+Gujarat Titans,15,6,0.1,5.6,mandatory,Washington Sundar,JC Archer,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,178
+Gujarat Titans,15,7,0.1,5.6,mandatory,Shubman Gill,JC Archer,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,179
+Gujarat Titans,16,1,0.1,5.6,mandatory,Shubman Gill,Brijesh Sharma,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,,,,185
+Gujarat Titans,16,2,0.1,5.6,mandatory,Shubman Gill,Brijesh Sharma,Washington Sundar,0,0,0,,,,,,,,,,,Shubman Gill,caught,,,,,TU Deshpande,,,185
+Gujarat Titans,16,3,0.1,5.6,mandatory,JO Holder,Brijesh Sharma,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,186
+Gujarat Titans,16,4,0.1,5.6,mandatory,Washington Sundar,Brijesh Sharma,JO Holder,0,0,0,,,,,,,,,,,,,,,,,,,,186
+Gujarat Titans,16,5,0.1,5.6,mandatory,Washington Sundar,Brijesh Sharma,JO Holder,4,0,4,,,,,,,,,,,,,,,,,,,,190
+Gujarat Titans,16,6,0.1,5.6,mandatory,Washington Sundar,Brijesh Sharma,JO Holder,6,0,6,,,,,,,,,,,,,,,,,,,,196
+Gujarat Titans,17,1,0.1,5.6,mandatory,JO Holder,TU Deshpande,Washington Sundar,4,0,4,,,,,,,,,,,,,,,,,,,,200
+Gujarat Titans,17,2,0.1,5.6,mandatory,JO Holder,TU Deshpande,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,201
+Gujarat Titans,17,3,0.1,5.6,mandatory,Washington Sundar,TU Deshpande,JO Holder,0,1,1,1.0,,,,,,,,,,,,,,,,,,,202
+Gujarat Titans,17,4,0.1,5.6,mandatory,Washington Sundar,TU Deshpande,JO Holder,1,0,1,,,,,,,,,,,,,,,,,,,,203
+Gujarat Titans,17,5,0.1,5.6,mandatory,JO Holder,TU Deshpande,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,,,203
+Gujarat Titans,17,6,0.1,5.6,mandatory,JO Holder,TU Deshpande,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,,,203
+Gujarat Titans,17,7,0.1,5.6,mandatory,JO Holder,TU Deshpande,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,204
+Gujarat Titans,18,1,0.1,5.6,mandatory,JO Holder,Brijesh Sharma,Washington Sundar,0,1,1,1.0,,,,,,,,,,,,,,,,,,,205
+Gujarat Titans,18,2,0.1,5.6,mandatory,JO Holder,Brijesh Sharma,Washington Sundar,0,0,0,,,,,,,,,,,JO Holder,caught,,,,,YBK Jaiswal,,,205
+Gujarat Titans,18,3,0.1,5.6,mandatory,R Tewatia,Brijesh Sharma,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,206
+Gujarat Titans,18,4,0.1,5.6,mandatory,Washington Sundar,Brijesh Sharma,R Tewatia,2,0,2,,,,,,,,,,,,,,,,,,,,208
+Gujarat Titans,18,5,0.1,5.6,mandatory,Washington Sundar,Brijesh Sharma,R Tewatia,0,0,0,,,,,,,,,,,,,,,,,,,,208
+Gujarat Titans,18,6,0.1,5.6,mandatory,Washington Sundar,Brijesh Sharma,R Tewatia,0,0,0,,,,,,,,,,,,,,,,,,,,208
+Gujarat Titans,18,7,0.1,5.6,mandatory,Washington Sundar,Brijesh Sharma,R Tewatia,0,0,0,,,,,,,,,,,,,,,,,,,,208
+Gujarat Titans,19,1,0.1,5.6,mandatory,R Tewatia,TU Deshpande,Washington Sundar,0,1,1,1.0,,,,,,,,,,,,,,,,,,,209
+Gujarat Titans,19,2,0.1,5.6,mandatory,R Tewatia,TU Deshpande,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,,,,215
+Gujarat Titans,19,3,0.1,5.6,mandatory,R Tewatia,TU Deshpande,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,,,,221
+Gujarat Titans,19,4,0.1,5.6,mandatory,R Tewatia,TU Deshpande,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,222
+Gujarat Titans,19,5,0.1,5.6,mandatory,Washington Sundar,TU Deshpande,R Tewatia,6,0,6,,,,,,,,,,,,,,,,,,,,228
+Gujarat Titans,19,6,0.1,5.6,mandatory,Washington Sundar,TU Deshpande,R Tewatia,0,0,0,,,,,,,,,,,,,,,,,,,,228
+Gujarat Titans,19,7,0.1,5.6,mandatory,Washington Sundar,TU Deshpande,R Tewatia,1,0,1,,,,,,,,,,,,,,,,,,,,229
+Rajasthan Royals,0,1,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Siraj,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,1
+Rajasthan Royals,0,2,0.1,5.6,mandatory,V Suryavanshi,Mohammed Siraj,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,,20.0,230.0,7
+Rajasthan Royals,0,3,0.1,5.6,mandatory,V Suryavanshi,Mohammed Siraj,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,7
+Rajasthan Royals,0,4,0.1,5.6,mandatory,V Suryavanshi,Mohammed Siraj,YBK Jaiswal,2,0,2,,,,,,,,,,,,,,,,,,20.0,230.0,9
+Rajasthan Royals,0,5,0.1,5.6,mandatory,V Suryavanshi,Mohammed Siraj,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,9
+Rajasthan Royals,0,6,0.1,5.6,mandatory,V Suryavanshi,Mohammed Siraj,YBK Jaiswal,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,230.0,10
+Rajasthan Royals,0,7,0.1,5.6,mandatory,V Suryavanshi,Mohammed Siraj,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,11
+Rajasthan Royals,1,1,0.1,5.6,mandatory,V Suryavanshi,K Rabada,YBK Jaiswal,2,0,2,,,,,,,,,,,,,,,,,,20.0,230.0,13
+Rajasthan Royals,1,2,0.1,5.6,mandatory,V Suryavanshi,K Rabada,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,,20.0,230.0,19
+Rajasthan Royals,1,3,0.1,5.6,mandatory,V Suryavanshi,K Rabada,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,,20.0,230.0,25
+Rajasthan Royals,1,4,0.1,5.6,mandatory,V Suryavanshi,K Rabada,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,25
+Rajasthan Royals,1,5,0.1,5.6,mandatory,V Suryavanshi,K Rabada,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,25
+Rajasthan Royals,1,6,0.1,5.6,mandatory,V Suryavanshi,K Rabada,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,26
+Rajasthan Royals,2,1,0.1,5.6,mandatory,V Suryavanshi,Mohammed Siraj,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,30
+Rajasthan Royals,2,2,0.1,5.6,mandatory,V Suryavanshi,Mohammed Siraj,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,30
+Rajasthan Royals,2,3,0.1,5.6,mandatory,V Suryavanshi,Mohammed Siraj,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,34
+Rajasthan Royals,2,4,0.1,5.6,mandatory,V Suryavanshi,Mohammed Siraj,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,38
+Rajasthan Royals,2,5,0.1,5.6,mandatory,V Suryavanshi,Mohammed Siraj,YBK Jaiswal,0,0,0,,,,,,,,,,,V Suryavanshi,caught,,,,,Arshad Khan,20.0,230.0,38
+Rajasthan Royals,2,6,0.1,5.6,mandatory,Dhruv Jurel,Mohammed Siraj,YBK Jaiswal,0,0,0,,,,,,,,,,,,,R Sai Kishore,R Tewatia,Gujarat Titans,impact_player,,20.0,230.0,38
+Rajasthan Royals,3,1,0.1,5.6,mandatory,YBK Jaiswal,K Rabada,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,38
+Rajasthan Royals,3,2,0.1,5.6,mandatory,YBK Jaiswal,K Rabada,Dhruv Jurel,2,0,2,,,,,,,,,,,,,,,,,,20.0,230.0,40
+Rajasthan Royals,3,3,0.1,5.6,mandatory,YBK Jaiswal,K Rabada,Dhruv Jurel,0,0,0,,,,,,,,,,,YBK Jaiswal,caught,,,,,N Sindhu,20.0,230.0,40
+Rajasthan Royals,3,4,0.1,5.6,mandatory,SO Hetmyer,K Rabada,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,40
+Rajasthan Royals,3,5,0.1,5.6,mandatory,SO Hetmyer,K Rabada,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,40
+Rajasthan Royals,3,6,0.1,5.6,mandatory,SO Hetmyer,K Rabada,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,40
+Rajasthan Royals,4,1,0.1,5.6,mandatory,Dhruv Jurel,Mohammed Siraj,SO Hetmyer,6,0,6,,,,,,,,,,,,,,,,,,20.0,230.0,46
+Rajasthan Royals,4,2,0.1,5.6,mandatory,Dhruv Jurel,Mohammed Siraj,SO Hetmyer,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,50
+Rajasthan Royals,4,3,0.1,5.6,mandatory,Dhruv Jurel,Mohammed Siraj,SO Hetmyer,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,50
+Rajasthan Royals,4,4,0.1,5.6,mandatory,Dhruv Jurel,Mohammed Siraj,SO Hetmyer,6,0,6,,,,,,,,,,,,,,,,,,20.0,230.0,56
+Rajasthan Royals,4,5,0.1,5.6,mandatory,Dhruv Jurel,Mohammed Siraj,SO Hetmyer,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,56
+Rajasthan Royals,4,6,0.1,5.6,mandatory,Dhruv Jurel,Mohammed Siraj,SO Hetmyer,6,0,6,,,,,,,,,,,,,,,,,,20.0,230.0,62
+Rajasthan Royals,5,1,0.1,5.6,mandatory,SO Hetmyer,K Rabada,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,66
+Rajasthan Royals,5,2,0.1,5.6,mandatory,SO Hetmyer,K Rabada,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,66
+Rajasthan Royals,5,3,0.1,5.6,mandatory,SO Hetmyer,K Rabada,Dhruv Jurel,2,0,2,,,,,,,,,,,,,,,,,,20.0,230.0,68
+Rajasthan Royals,5,4,0.1,5.6,mandatory,SO Hetmyer,K Rabada,Dhruv Jurel,0,0,0,,,,,,,,,,,SO Hetmyer,caught,,,,,JO Holder,20.0,230.0,68
+Rajasthan Royals,5,5,0.1,5.6,mandatory,RA Jadeja,K Rabada,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,,20.0,230.0,74
+Rajasthan Royals,5,6,0.1,5.6,mandatory,RA Jadeja,K Rabada,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,78
+Rajasthan Royals,6,1,0.1,5.6,mandatory,Dhruv Jurel,R Sai Kishore,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,79
+Rajasthan Royals,6,2,0.1,5.6,mandatory,RA Jadeja,R Sai Kishore,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,80
+Rajasthan Royals,6,3,0.1,5.6,mandatory,Dhruv Jurel,R Sai Kishore,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,81
+Rajasthan Royals,6,4,0.1,5.6,mandatory,RA Jadeja,R Sai Kishore,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,81
+Rajasthan Royals,6,5,0.1,5.6,mandatory,RA Jadeja,R Sai Kishore,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,85
+Rajasthan Royals,6,6,0.1,5.6,mandatory,RA Jadeja,R Sai Kishore,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,86
+Rajasthan Royals,7,1,0.1,5.6,mandatory,RA Jadeja,Rashid Khan,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,86
+Rajasthan Royals,7,2,0.1,5.6,mandatory,RA Jadeja,Rashid Khan,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,87
+Rajasthan Royals,7,3,0.1,5.6,mandatory,Dhruv Jurel,Rashid Khan,RA Jadeja,0,0,0,,,,,,,,,,,Dhruv Jurel,bowled,,,,,,20.0,230.0,87
+Rajasthan Royals,7,4,0.1,5.6,mandatory,D Ferreira,Rashid Khan,RA Jadeja,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,91
+Rajasthan Royals,7,5,0.1,5.6,mandatory,D Ferreira,Rashid Khan,RA Jadeja,0,0,0,,,,,,,,,,,D Ferreira,bowled,,,,,,20.0,230.0,91
+Rajasthan Royals,7,6,0.1,5.6,mandatory,SB Dubey,Rashid Khan,RA Jadeja,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,91
+Rajasthan Royals,8,1,0.1,5.6,mandatory,RA Jadeja,Washington Sundar,SB Dubey,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,91
+Rajasthan Royals,8,2,0.1,5.6,mandatory,RA Jadeja,Washington Sundar,SB Dubey,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,91
+Rajasthan Royals,8,3,0.1,5.6,mandatory,RA Jadeja,Washington Sundar,SB Dubey,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,92
+Rajasthan Royals,8,4,0.1,5.6,mandatory,SB Dubey,Washington Sundar,RA Jadeja,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,92
+Rajasthan Royals,8,5,0.1,5.6,mandatory,SB Dubey,Washington Sundar,RA Jadeja,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,92
+Rajasthan Royals,8,6,0.1,5.6,mandatory,SB Dubey,Washington Sundar,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,93
+Rajasthan Royals,9,1,0.1,5.6,mandatory,SB Dubey,Rashid Khan,RA Jadeja,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,97
+Rajasthan Royals,9,2,0.1,5.6,mandatory,SB Dubey,Rashid Khan,RA Jadeja,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,97
+Rajasthan Royals,9,3,0.1,5.6,mandatory,SB Dubey,Rashid Khan,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,98
+Rajasthan Royals,9,4,0.1,5.6,mandatory,RA Jadeja,Rashid Khan,SB Dubey,0,0,0,,,Gujarat Titans,VK Sharma,RA Jadeja,struck down,wicket,,,True,,,,,,,,20.0,230.0,98
+Rajasthan Royals,9,5,0.1,5.6,mandatory,RA Jadeja,Rashid Khan,SB Dubey,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,99
+Rajasthan Royals,9,6,0.1,5.6,mandatory,SB Dubey,Rashid Khan,RA Jadeja,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,99
+Rajasthan Royals,10,1,0.1,5.6,mandatory,RA Jadeja,Washington Sundar,SB Dubey,2,0,2,,,,,,,,,,,,,,,,,,20.0,230.0,101
+Rajasthan Royals,10,2,0.1,5.6,mandatory,RA Jadeja,Washington Sundar,SB Dubey,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,102
+Rajasthan Royals,10,3,0.1,5.6,mandatory,SB Dubey,Washington Sundar,RA Jadeja,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,102
+Rajasthan Royals,10,4,0.1,5.6,mandatory,SB Dubey,Washington Sundar,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,103
+Rajasthan Royals,10,5,0.1,5.6,mandatory,RA Jadeja,Washington Sundar,SB Dubey,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,103
+Rajasthan Royals,10,6,0.1,5.6,mandatory,RA Jadeja,Washington Sundar,SB Dubey,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,107
+Rajasthan Royals,11,1,0.1,5.6,mandatory,SB Dubey,Rashid Khan,RA Jadeja,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,107
+Rajasthan Royals,11,2,0.1,5.6,mandatory,SB Dubey,Rashid Khan,RA Jadeja,2,0,2,,,,,,,,,,,,,,,,,,20.0,230.0,109
+Rajasthan Royals,11,3,0.1,5.6,mandatory,SB Dubey,Rashid Khan,RA Jadeja,6,0,6,,,,,,,,,,,,,,,,,,20.0,230.0,115
+Rajasthan Royals,11,4,0.1,5.6,mandatory,SB Dubey,Rashid Khan,RA Jadeja,0,0,0,,,,,,,,,,,SB Dubey,bowled,,,,,,20.0,230.0,115
+Rajasthan Royals,11,5,0.1,5.6,mandatory,MD Shanaka,Rashid Khan,RA Jadeja,2,0,2,,,,,,,,,,,,,,,,,,20.0,230.0,117
+Rajasthan Royals,11,6,0.1,5.6,mandatory,MD Shanaka,Rashid Khan,RA Jadeja,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,121
+Rajasthan Royals,12,1,0.1,5.6,mandatory,RA Jadeja,JO Holder,MD Shanaka,2,0,2,,,,,,,,,,,,,,,,,,20.0,230.0,123
+Rajasthan Royals,12,2,0.1,5.6,mandatory,RA Jadeja,JO Holder,MD Shanaka,2,0,2,,,,,,,,,,,,,,,,,,20.0,230.0,125
+Rajasthan Royals,12,3,0.1,5.6,mandatory,RA Jadeja,JO Holder,MD Shanaka,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,126
+Rajasthan Royals,12,4,0.1,5.6,mandatory,MD Shanaka,JO Holder,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,127
+Rajasthan Royals,12,5,0.1,5.6,mandatory,RA Jadeja,JO Holder,MD Shanaka,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,128
+Rajasthan Royals,12,6,0.1,5.6,mandatory,MD Shanaka,JO Holder,RA Jadeja,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,128
+Rajasthan Royals,13,1,0.1,5.6,mandatory,RA Jadeja,Rashid Khan,MD Shanaka,0,1,1,,,,,,,,,1.0,,,,,,,,,20.0,230.0,129
+Rajasthan Royals,13,2,0.1,5.6,mandatory,MD Shanaka,Rashid Khan,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,130
+Rajasthan Royals,13,3,0.1,5.6,mandatory,RA Jadeja,Rashid Khan,MD Shanaka,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,130
+Rajasthan Royals,13,4,0.1,5.6,mandatory,RA Jadeja,Rashid Khan,MD Shanaka,6,0,6,,,,,,,,,,,,,,,,,,20.0,230.0,136
+Rajasthan Royals,13,5,0.1,5.6,mandatory,RA Jadeja,Rashid Khan,MD Shanaka,0,0,0,,,Rajasthan Royals,VK Sharma,RA Jadeja,struck down,wicket,,,,RA Jadeja,lbw,,,,,,20.0,230.0,136
+Rajasthan Royals,13,6,0.1,5.6,mandatory,JC Archer,Rashid Khan,MD Shanaka,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,137
+Rajasthan Royals,14,1,0.1,5.6,mandatory,JC Archer,JO Holder,MD Shanaka,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,141
+Rajasthan Royals,14,2,0.1,5.6,mandatory,JC Archer,JO Holder,MD Shanaka,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,141
+Rajasthan Royals,14,3,0.1,5.6,mandatory,JC Archer,JO Holder,MD Shanaka,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,141
+Rajasthan Royals,14,4,0.1,5.6,mandatory,JC Archer,JO Holder,MD Shanaka,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,141
+Rajasthan Royals,14,5,0.1,5.6,mandatory,JC Archer,JO Holder,MD Shanaka,0,0,0,,,,,,,,,,,JC Archer,caught,,,,,JC Buttler,20.0,230.0,141
+Rajasthan Royals,14,6,0.1,5.6,mandatory,TU Deshpande,JO Holder,MD Shanaka,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,141
+Rajasthan Royals,15,1,0.1,5.6,mandatory,MD Shanaka,Mohammed Siraj,TU Deshpande,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,142
+Rajasthan Royals,15,2,0.1,5.6,mandatory,TU Deshpande,Mohammed Siraj,MD Shanaka,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,143
+Rajasthan Royals,15,3,0.1,5.6,mandatory,MD Shanaka,Mohammed Siraj,TU Deshpande,2,0,2,,,,,,,,,,,,,,,,,,20.0,230.0,145
+Rajasthan Royals,15,4,0.1,5.6,mandatory,MD Shanaka,Mohammed Siraj,TU Deshpande,4,0,4,,,,,,,,,,,,,,,,,,20.0,230.0,149
+Rajasthan Royals,15,5,0.1,5.6,mandatory,MD Shanaka,Mohammed Siraj,TU Deshpande,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,230.0,150
+Rajasthan Royals,15,6,0.1,5.6,mandatory,MD Shanaka,Mohammed Siraj,TU Deshpande,0,0,0,,,,,,,,,,,,,,,,,,20.0,230.0,150
+Rajasthan Royals,15,7,0.1,5.6,mandatory,MD Shanaka,Mohammed Siraj,TU Deshpande,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,151
+Rajasthan Royals,16,1,0.1,5.6,mandatory,MD Shanaka,JO Holder,TU Deshpande,0,0,0,,,,,,,,,,,MD Shanaka,caught,,,,,Shubman Gill,20.0,230.0,151
+Rajasthan Royals,16,2,0.1,5.6,mandatory,Brijesh Sharma,JO Holder,TU Deshpande,1,0,1,,,,,,,,,,,,,,,,,,20.0,230.0,152
+Rajasthan Royals,16,3,0.1,5.6,mandatory,TU Deshpande,JO Holder,Brijesh Sharma,0,0,0,,,,,,,,,,,TU Deshpande,caught,,,,,Washington Sundar,20.0,230.0,152

@@ -1,0 +1,248 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,wides,batter_runs,extra_runs,total_runs,legbyes,review_by,review_umpire,review_batter,review_decision,review_type,noballs,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,overs_deliveries_wickets_fielders_substitute,target_overs,target_runs,current_team_total
+Kolkata Knight Riders,0,1,0.1,5.6,mandatory,AM Rahane,TA Boult,FH Allen,1.0,0,1,1,,,,,,,,,,,,,,,,,,1
+Kolkata Knight Riders,0,2,0.1,5.6,mandatory,AM Rahane,TA Boult,FH Allen,,0,0,0,,,,,,,,,,,,,,,,,,1
+Kolkata Knight Riders,0,3,0.1,5.6,mandatory,AM Rahane,TA Boult,FH Allen,,0,0,0,,,,,,,,,,,,,,,,,,1
+Kolkata Knight Riders,0,4,0.1,5.6,mandatory,AM Rahane,TA Boult,FH Allen,1.0,0,1,1,,,,,,,,,,,,,,,,,,2
+Kolkata Knight Riders,0,5,0.1,5.6,mandatory,AM Rahane,TA Boult,FH Allen,,6,0,6,,,,,,,,,,,,,,,,,,8
+Kolkata Knight Riders,0,6,0.1,5.6,mandatory,AM Rahane,TA Boult,FH Allen,,0,0,0,,,,,,,,,,,,,,,,,,8
+Kolkata Knight Riders,0,7,0.1,5.6,mandatory,AM Rahane,TA Boult,FH Allen,,2,0,2,,,,,,,,,,,,,,,,,,10
+Kolkata Knight Riders,0,8,0.1,5.6,mandatory,AM Rahane,TA Boult,FH Allen,,0,0,0,,,,,,,,,,,,,,,,,,10
+Kolkata Knight Riders,1,1,0.1,5.6,mandatory,FH Allen,HH Pandya,AM Rahane,,0,0,0,,,,,,,,,,,,,,,,,,10
+Kolkata Knight Riders,1,2,0.1,5.6,mandatory,FH Allen,HH Pandya,AM Rahane,,0,0,0,,,,,,,,,,,,,,,,,,10
+Kolkata Knight Riders,1,3,0.1,5.6,mandatory,FH Allen,HH Pandya,AM Rahane,,0,0,0,,,,,,,,,,,,,,,,,,10
+Kolkata Knight Riders,1,4,0.1,5.6,mandatory,FH Allen,HH Pandya,AM Rahane,,4,0,4,,,,,,,,,,,,,,,,,,14
+Kolkata Knight Riders,1,5,0.1,5.6,mandatory,FH Allen,HH Pandya,AM Rahane,,0,0,0,,,,,,,,,,,,,,,,,,14
+Kolkata Knight Riders,1,6,0.1,5.6,mandatory,FH Allen,HH Pandya,AM Rahane,,0,0,0,,,,,,,,,,,,,,,,,,14
+Kolkata Knight Riders,2,1,0.1,5.6,mandatory,AM Rahane,AM Ghazanfar,FH Allen,,1,0,1,,,,,,,,,,,,,,,,,,15
+Kolkata Knight Riders,2,2,0.1,5.6,mandatory,FH Allen,AM Ghazanfar,AM Rahane,,0,0,0,,,,,,,,,,,,,,,,,,15
+Kolkata Knight Riders,2,3,0.1,5.6,mandatory,FH Allen,AM Ghazanfar,AM Rahane,,4,0,4,,,,,,,,,,,,,,,,,,19
+Kolkata Knight Riders,2,4,0.1,5.6,mandatory,FH Allen,AM Ghazanfar,AM Rahane,,6,0,6,,,,,,,,,,,,,,,,,,25
+Kolkata Knight Riders,2,5,0.1,5.6,mandatory,FH Allen,AM Ghazanfar,AM Rahane,,0,0,0,,,,,,,,,,,,,,,,,,25
+Kolkata Knight Riders,2,6,0.1,5.6,mandatory,FH Allen,AM Ghazanfar,AM Rahane,,6,0,6,,,,,,,,,,,,,,,,,,31
+Kolkata Knight Riders,3,1,0.1,5.6,mandatory,AM Rahane,HH Pandya,FH Allen,,6,0,6,,,,,,,,,,,,,,,,,,37
+Kolkata Knight Riders,3,2,0.1,5.6,mandatory,AM Rahane,HH Pandya,FH Allen,,6,0,6,,,,,,,,,,,,,,,,,,43
+Kolkata Knight Riders,3,3,0.1,5.6,mandatory,AM Rahane,HH Pandya,FH Allen,,0,1,1,1.0,,,,,,,,,,,,,,,,,44
+Kolkata Knight Riders,3,4,0.1,5.6,mandatory,FH Allen,HH Pandya,AM Rahane,,4,0,4,,,,,,,,,,,,,,,,,,48
+Kolkata Knight Riders,3,5,0.1,5.6,mandatory,FH Allen,HH Pandya,AM Rahane,1.0,0,1,1,,,,,,,,,,,,,,,,,,49
+Kolkata Knight Riders,3,6,0.1,5.6,mandatory,FH Allen,HH Pandya,AM Rahane,,4,0,4,,,,,,,,,,,,,,,,,,53
+Kolkata Knight Riders,3,7,0.1,5.6,mandatory,FH Allen,HH Pandya,AM Rahane,,4,0,4,,,,,,,,,,,,,,,,,,57
+Kolkata Knight Riders,4,1,0.1,5.6,mandatory,AM Rahane,JJ Bumrah,FH Allen,,4,0,4,,,,,,,,,,,,,,,,,,61
+Kolkata Knight Riders,4,2,0.1,5.6,mandatory,AM Rahane,JJ Bumrah,FH Allen,,1,0,1,,,,,,,,,,,,,,,,,,62
+Kolkata Knight Riders,4,3,0.1,5.6,mandatory,FH Allen,JJ Bumrah,AM Rahane,,4,0,4,,,,,,,,,,,,,,,,,,66
+Kolkata Knight Riders,4,4,0.1,5.6,mandatory,FH Allen,JJ Bumrah,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,67
+Kolkata Knight Riders,4,5,0.1,5.6,mandatory,AM Rahane,JJ Bumrah,FH Allen,,0,0,0,,,,,,,,,,,,,,,,,,67
+Kolkata Knight Riders,4,6,0.1,5.6,mandatory,AM Rahane,JJ Bumrah,FH Allen,,1,0,1,,,,,,,,,,,,,,,,,,68
+Kolkata Knight Riders,5,1,0.1,5.6,mandatory,AM Rahane,SN Thakur,FH Allen,,1,0,1,,,,,,,,,,,,,,,,,,69
+Kolkata Knight Riders,5,2,0.1,5.6,mandatory,FH Allen,SN Thakur,AM Rahane,,0,0,0,,,,,,,,FH Allen,caught,,,,,Tilak Varma,,,,69
+Kolkata Knight Riders,5,3,0.1,5.6,mandatory,C Green,SN Thakur,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,70
+Kolkata Knight Riders,5,4,0.1,5.6,mandatory,AM Rahane,SN Thakur,C Green,,4,0,4,,,,,,,,,,,,,,,,,,74
+Kolkata Knight Riders,5,5,0.1,5.6,mandatory,AM Rahane,SN Thakur,C Green,,0,0,0,,,,,,,,,,,,,,,,,,74
+Kolkata Knight Riders,5,6,0.1,5.6,mandatory,AM Rahane,SN Thakur,C Green,,4,0,4,,,,,,,,,,,,,,,,,,78
+Kolkata Knight Riders,6,1,0.1,5.6,mandatory,C Green,M Markande,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,79
+Kolkata Knight Riders,6,2,0.1,5.6,mandatory,AM Rahane,M Markande,C Green,,2,0,2,,,,,,,,,,,,,,,,,,81
+Kolkata Knight Riders,6,3,0.1,5.6,mandatory,AM Rahane,M Markande,C Green,,0,0,0,,Mumbai Indians,Anish Sahasrabudhe,AM Rahane,struck down,wicket,,,,,,,,,,,,81
+Kolkata Knight Riders,6,4,0.1,5.6,mandatory,AM Rahane,M Markande,C Green,,6,0,6,,,,,,,,,,,,,,,,,,87
+Kolkata Knight Riders,6,5,0.1,5.6,mandatory,AM Rahane,M Markande,C Green,,1,0,1,,,,,,,,,,,,,,,,,,88
+Kolkata Knight Riders,6,6,0.1,5.6,mandatory,C Green,M Markande,AM Rahane,,6,0,6,,,,,,,,,,,,,,,,,,94
+Kolkata Knight Riders,7,1,0.1,5.6,mandatory,AM Rahane,AM Ghazanfar,C Green,,1,0,1,,,,,,,,,,,,,,,,,,95
+Kolkata Knight Riders,7,2,0.1,5.6,mandatory,C Green,AM Ghazanfar,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,96
+Kolkata Knight Riders,7,3,0.1,5.6,mandatory,AM Rahane,AM Ghazanfar,C Green,,1,0,1,,,,,,,,,,,,,,,,,,97
+Kolkata Knight Riders,7,4,0.1,5.6,mandatory,C Green,AM Ghazanfar,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,98
+Kolkata Knight Riders,7,5,0.1,5.6,mandatory,AM Rahane,AM Ghazanfar,C Green,1.0,0,1,1,,,,,,,,,,,,,,,,,,99
+Kolkata Knight Riders,7,6,0.1,5.6,mandatory,AM Rahane,AM Ghazanfar,C Green,,1,0,1,,,,,,,,,,,,,,,,,,100
+Kolkata Knight Riders,7,7,0.1,5.6,mandatory,C Green,AM Ghazanfar,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,101
+Kolkata Knight Riders,8,1,0.1,5.6,mandatory,C Green,SN Thakur,AM Rahane,,2,0,2,,,,,,,,,,,,,,,,,,103
+Kolkata Knight Riders,8,2,0.1,5.6,mandatory,C Green,SN Thakur,AM Rahane,,4,0,4,,,,,,,,,,,,,,,,,,107
+Kolkata Knight Riders,8,3,0.1,5.6,mandatory,C Green,SN Thakur,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,108
+Kolkata Knight Riders,8,4,0.1,5.6,mandatory,AM Rahane,SN Thakur,C Green,,1,0,1,,,,,,,,,,,,,,,,,,109
+Kolkata Knight Riders,8,5,0.1,5.6,mandatory,C Green,SN Thakur,AM Rahane,,0,0,0,,,,,,,,C Green,caught,,,,,SE Rutherford,,,,109
+Kolkata Knight Riders,8,6,0.1,5.6,mandatory,A Raghuvanshi,SN Thakur,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,110
+Kolkata Knight Riders,9,1,0.1,5.6,mandatory,A Raghuvanshi,TA Boult,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,111
+Kolkata Knight Riders,9,2,0.1,5.6,mandatory,AM Rahane,TA Boult,A Raghuvanshi,,2,0,2,,,,,,,,,,,,,,,,,,113
+Kolkata Knight Riders,9,3,0.1,5.6,mandatory,AM Rahane,TA Boult,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,114
+Kolkata Knight Riders,9,4,0.1,5.6,mandatory,A Raghuvanshi,TA Boult,AM Rahane,,4,0,4,,,,,,,,,,,,,,,,,,118
+Kolkata Knight Riders,9,5,0.1,5.6,mandatory,A Raghuvanshi,TA Boult,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,119
+Kolkata Knight Riders,9,6,0.1,5.6,mandatory,AM Rahane,TA Boult,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,120
+Kolkata Knight Riders,10,1,0.1,5.6,mandatory,AM Rahane,AM Ghazanfar,A Raghuvanshi,,6,0,6,,,,,,,,,,,,,,,,,,126
+Kolkata Knight Riders,10,2,0.1,5.6,mandatory,AM Rahane,AM Ghazanfar,A Raghuvanshi,,2,0,2,,,,,,,,,,,,,,,,,,128
+Kolkata Knight Riders,10,3,0.1,5.6,mandatory,AM Rahane,AM Ghazanfar,A Raghuvanshi,,2,0,2,,,,,,,,,,,,,,,,,,130
+Kolkata Knight Riders,10,4,0.1,5.6,mandatory,AM Rahane,AM Ghazanfar,A Raghuvanshi,,0,0,0,,,,,,,,,,,,,,,,,,130
+Kolkata Knight Riders,10,5,0.1,5.6,mandatory,AM Rahane,AM Ghazanfar,A Raghuvanshi,,0,1,1,1.0,,,,,,,,,,,,,,,,,131
+Kolkata Knight Riders,10,6,0.1,5.6,mandatory,A Raghuvanshi,AM Ghazanfar,AM Rahane,,0,0,0,,,,,,,,,,,,,,,,,,131
+Kolkata Knight Riders,11,1,0.1,5.6,mandatory,AM Rahane,JJ Bumrah,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,132
+Kolkata Knight Riders,11,2,0.1,5.6,mandatory,A Raghuvanshi,JJ Bumrah,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,133
+Kolkata Knight Riders,11,3,0.1,5.6,mandatory,AM Rahane,JJ Bumrah,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,134
+Kolkata Knight Riders,11,4,0.1,5.6,mandatory,A Raghuvanshi,JJ Bumrah,AM Rahane,,0,0,0,,,,,,,,,,,,,,,,,,134
+Kolkata Knight Riders,11,5,0.1,5.6,mandatory,A Raghuvanshi,JJ Bumrah,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,135
+Kolkata Knight Riders,11,6,0.1,5.6,mandatory,AM Rahane,JJ Bumrah,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,136
+Kolkata Knight Riders,12,1,0.1,5.6,mandatory,AM Rahane,TA Boult,A Raghuvanshi,,0,0,0,,,,,,,,,,,,,,,,,,136
+Kolkata Knight Riders,12,2,0.1,5.6,mandatory,AM Rahane,TA Boult,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,137
+Kolkata Knight Riders,12,3,0.1,5.6,mandatory,A Raghuvanshi,TA Boult,AM Rahane,,0,0,0,,,,,,,,,,,,,,,,,,137
+Kolkata Knight Riders,12,4,0.1,5.6,mandatory,A Raghuvanshi,TA Boult,AM Rahane,,2,0,2,,,,,,,,,,,,,,,,,,139
+Kolkata Knight Riders,12,5,0.1,5.6,mandatory,A Raghuvanshi,TA Boult,AM Rahane,,4,0,4,,,,,,,,,,,,,,,,,,143
+Kolkata Knight Riders,12,6,0.1,5.6,mandatory,A Raghuvanshi,TA Boult,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,144
+Kolkata Knight Riders,13,1,0.1,5.6,mandatory,A Raghuvanshi,SN Thakur,AM Rahane,,0,0,0,,,,,,,,,,,,,,,,,,144
+Kolkata Knight Riders,13,2,0.1,5.6,mandatory,A Raghuvanshi,SN Thakur,AM Rahane,,1,0,1,,,,,,,,,,,,,,,,,,145
+Kolkata Knight Riders,13,3,0.1,5.6,mandatory,AM Rahane,SN Thakur,A Raghuvanshi,,0,0,0,,,,,,,,AM Rahane,caught,,,,,HH Pandya,,,,145
+Kolkata Knight Riders,13,4,0.1,5.6,mandatory,RK Singh,SN Thakur,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,146
+Kolkata Knight Riders,13,5,0.1,5.6,mandatory,A Raghuvanshi,SN Thakur,RK Singh,,4,0,4,,,,,,,,,,,,,,,,,,150
+Kolkata Knight Riders,13,6,0.1,5.6,mandatory,A Raghuvanshi,SN Thakur,RK Singh,,0,0,0,,,,,,,,,,,,,,,,,,150
+Kolkata Knight Riders,14,1,0.1,5.6,mandatory,RK Singh,AM Ghazanfar,A Raghuvanshi,,4,0,4,,,,,,,,,,,,,,,,,,154
+Kolkata Knight Riders,14,2,0.1,5.6,mandatory,RK Singh,AM Ghazanfar,A Raghuvanshi,,2,0,2,,,,,,,,,,,,,,,,,,156
+Kolkata Knight Riders,14,3,0.1,5.6,mandatory,RK Singh,AM Ghazanfar,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,157
+Kolkata Knight Riders,14,4,0.1,5.6,mandatory,A Raghuvanshi,AM Ghazanfar,RK Singh,,0,0,0,,,,,,,,,,,,,,,,,,157
+Kolkata Knight Riders,14,5,0.1,5.6,mandatory,A Raghuvanshi,AM Ghazanfar,RK Singh,,4,0,4,,,,,,,,,,,,,,,,,,161
+Kolkata Knight Riders,14,6,0.1,5.6,mandatory,A Raghuvanshi,AM Ghazanfar,RK Singh,,6,0,6,,,,,,,,,,,,,,,,,,167
+Kolkata Knight Riders,15,1,0.1,5.6,mandatory,RK Singh,TA Boult,A Raghuvanshi,,4,0,4,,,,,,,,,,,,,,,,,,171
+Kolkata Knight Riders,15,2,0.1,5.6,mandatory,RK Singh,TA Boult,A Raghuvanshi,,0,0,0,,,,,,,,,,,,,,,,,,171
+Kolkata Knight Riders,15,3,0.1,5.6,mandatory,RK Singh,TA Boult,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,172
+Kolkata Knight Riders,15,4,0.1,5.6,mandatory,A Raghuvanshi,TA Boult,RK Singh,,1,0,1,,,,,,,,,,,,,,,,,,173
+Kolkata Knight Riders,15,5,0.1,5.6,mandatory,RK Singh,TA Boult,A Raghuvanshi,1.0,0,1,1,,,,,,,,,,,,,,,,,,174
+Kolkata Knight Riders,15,6,0.1,5.6,mandatory,RK Singh,TA Boult,A Raghuvanshi,,2,0,2,,,,,,,,,,,,,,,,,,176
+Kolkata Knight Riders,15,7,0.1,5.6,mandatory,RK Singh,TA Boult,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,177
+Kolkata Knight Riders,16,1,0.1,5.6,mandatory,RK Singh,SN Thakur,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,178
+Kolkata Knight Riders,16,2,0.1,5.6,mandatory,A Raghuvanshi,SN Thakur,RK Singh,,2,0,2,,,,,,,,,,,,,,,,,,180
+Kolkata Knight Riders,16,3,0.1,5.6,mandatory,A Raghuvanshi,SN Thakur,RK Singh,,6,0,6,,,,,,,,,,,,,,,,,,186
+Kolkata Knight Riders,16,4,0.1,5.6,mandatory,A Raghuvanshi,SN Thakur,RK Singh,,1,0,1,,,,,,,,,,,,,,,,,,187
+Kolkata Knight Riders,16,5,0.1,5.6,mandatory,RK Singh,SN Thakur,A Raghuvanshi,,0,0,0,,,,,,,,,,,,,,,,,,187
+Kolkata Knight Riders,16,6,0.1,5.6,mandatory,RK Singh,SN Thakur,A Raghuvanshi,,4,0,4,,,,,,,,,,,,,,,,,,191
+Kolkata Knight Riders,17,1,0.1,5.6,mandatory,A Raghuvanshi,JJ Bumrah,RK Singh,,4,0,4,,,,,,,,,,,,,,,,,,195
+Kolkata Knight Riders,17,2,0.1,5.6,mandatory,A Raghuvanshi,JJ Bumrah,RK Singh,,0,0,0,,,,,,,,,,,,,,,,,,195
+Kolkata Knight Riders,17,3,0.1,5.6,mandatory,A Raghuvanshi,JJ Bumrah,RK Singh,,1,0,1,,,,,,,,,,,,,,,,,,196
+Kolkata Knight Riders,17,4,0.1,5.6,mandatory,RK Singh,JJ Bumrah,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,197
+Kolkata Knight Riders,17,5,0.1,5.6,mandatory,A Raghuvanshi,JJ Bumrah,RK Singh,,1,0,1,,,,,,,,,,,,,,,,,,198
+Kolkata Knight Riders,17,6,0.1,5.6,mandatory,RK Singh,JJ Bumrah,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,199
+Kolkata Knight Riders,18,1,0.1,5.6,mandatory,RK Singh,HH Pandya,A Raghuvanshi,,1,0,1,,,,,,,,,,,,,,,,,,200
+Kolkata Knight Riders,18,2,0.1,5.6,mandatory,A Raghuvanshi,HH Pandya,RK Singh,1.0,0,1,1,,,,,,,,,,,,,,,,,,201
+Kolkata Knight Riders,18,3,0.1,5.6,mandatory,A Raghuvanshi,HH Pandya,RK Singh,,4,0,4,,,,,,,,,,,,,,,,,,205
+Kolkata Knight Riders,18,4,0.1,5.6,mandatory,A Raghuvanshi,HH Pandya,RK Singh,,0,0,0,,,,,,,,A Raghuvanshi,caught,,,,,Tilak Varma,,,,205
+Kolkata Knight Riders,18,5,0.1,5.6,mandatory,Ramandeep Singh,HH Pandya,RK Singh,,1,0,1,,,,,,,,,,,,,,,,,,206
+Kolkata Knight Riders,18,6,0.1,5.6,mandatory,RK Singh,HH Pandya,Ramandeep Singh,,1,0,1,,,,,,,,,,,,,,,,,,207
+Kolkata Knight Riders,18,7,0.1,5.6,mandatory,Ramandeep Singh,HH Pandya,RK Singh,,2,0,2,,,,,,,,,,,,,,,,,,209
+Kolkata Knight Riders,19,1,0.1,5.6,mandatory,RK Singh,JJ Bumrah,Ramandeep Singh,,0,1,1,,,,,,,1.0,,,,,,,,,,,210
+Kolkata Knight Riders,19,2,0.1,5.6,mandatory,RK Singh,JJ Bumrah,Ramandeep Singh,1.0,0,1,1,,,,,,,,,,,,,,,,,,211
+Kolkata Knight Riders,19,3,0.1,5.6,mandatory,RK Singh,JJ Bumrah,Ramandeep Singh,,1,0,1,,,,,,,,,,,,,,,,,,212
+Kolkata Knight Riders,19,4,0.1,5.6,mandatory,Ramandeep Singh,JJ Bumrah,RK Singh,,1,0,1,,,,,,,,,,,,,,,,,,213
+Kolkata Knight Riders,19,5,0.1,5.6,mandatory,RK Singh,JJ Bumrah,Ramandeep Singh,,4,0,4,,,,,,,,,,,,,,,,,,217
+Kolkata Knight Riders,19,6,0.1,5.6,mandatory,RK Singh,JJ Bumrah,Ramandeep Singh,,2,0,2,,,,,,,,,,,,,,,,,,219
+Kolkata Knight Riders,19,7,0.1,5.6,mandatory,RK Singh,JJ Bumrah,Ramandeep Singh,,1,0,1,,,,,,,,,,,,,,,,,,220
+Kolkata Knight Riders,19,8,0.1,5.6,mandatory,Ramandeep Singh,JJ Bumrah,RK Singh,,0,0,0,,,,,,,,,,,,,,,,,,220
+Mumbai Indians,0,1,0.1,5.6,mandatory,RD Rickelton,VG Arora,RG Sharma,,1,0,1,,,,,,,,,,Kartik Tyagi,FH Allen,Kolkata Knight Riders,impact_player,,,20.0,221.0,1
+Mumbai Indians,0,2,0.1,5.6,mandatory,RG Sharma,VG Arora,RD Rickelton,,0,1,1,1.0,,,,,,,,,,,,,,,20.0,221.0,2
+Mumbai Indians,0,3,0.1,5.6,mandatory,RD Rickelton,VG Arora,RG Sharma,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,6
+Mumbai Indians,0,4,0.1,5.6,mandatory,RD Rickelton,VG Arora,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,6
+Mumbai Indians,0,5,0.1,5.6,mandatory,RD Rickelton,VG Arora,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,6
+Mumbai Indians,0,6,0.1,5.6,mandatory,RD Rickelton,VG Arora,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,6
+Mumbai Indians,1,1,0.1,5.6,mandatory,RG Sharma,B Muzarabani,RD Rickelton,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,6
+Mumbai Indians,1,2,0.1,5.6,mandatory,RG Sharma,B Muzarabani,RD Rickelton,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,6
+Mumbai Indians,1,3,0.1,5.6,mandatory,RG Sharma,B Muzarabani,RD Rickelton,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,10
+Mumbai Indians,1,4,0.1,5.6,mandatory,RG Sharma,B Muzarabani,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,11
+Mumbai Indians,1,5,0.1,5.6,mandatory,RD Rickelton,B Muzarabani,RG Sharma,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,15
+Mumbai Indians,1,6,0.1,5.6,mandatory,RD Rickelton,B Muzarabani,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,15
+Mumbai Indians,2,1,0.1,5.6,mandatory,RG Sharma,VG Arora,RD Rickelton,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,15
+Mumbai Indians,2,2,0.1,5.6,mandatory,RG Sharma,VG Arora,RD Rickelton,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,21
+Mumbai Indians,2,3,0.1,5.6,mandatory,RG Sharma,VG Arora,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,22
+Mumbai Indians,2,4,0.1,5.6,mandatory,RD Rickelton,VG Arora,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,22
+Mumbai Indians,2,5,0.1,5.6,mandatory,RD Rickelton,VG Arora,RG Sharma,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,28
+Mumbai Indians,2,6,0.1,5.6,mandatory,RD Rickelton,VG Arora,RG Sharma,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,34
+Mumbai Indians,3,1,0.1,5.6,mandatory,RG Sharma,B Muzarabani,RD Rickelton,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,40
+Mumbai Indians,3,2,0.1,5.6,mandatory,RG Sharma,B Muzarabani,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,41
+Mumbai Indians,3,3,0.1,5.6,mandatory,RD Rickelton,B Muzarabani,RG Sharma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,42
+Mumbai Indians,3,4,0.1,5.6,mandatory,RG Sharma,B Muzarabani,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,43
+Mumbai Indians,3,5,0.1,5.6,mandatory,RD Rickelton,B Muzarabani,RG Sharma,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,49
+Mumbai Indians,3,6,0.1,5.6,mandatory,RD Rickelton,B Muzarabani,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,49
+Mumbai Indians,4,1,0.1,5.6,mandatory,RG Sharma,CV Varun,RD Rickelton,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,53
+Mumbai Indians,4,2,0.1,5.6,mandatory,RG Sharma,CV Varun,RD Rickelton,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,59
+Mumbai Indians,4,3,0.1,5.6,mandatory,RG Sharma,CV Varun,RD Rickelton,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,59
+Mumbai Indians,4,4,0.1,5.6,mandatory,RG Sharma,CV Varun,RD Rickelton,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,63
+Mumbai Indians,4,5,0.1,5.6,mandatory,RG Sharma,CV Varun,RD Rickelton,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,63
+Mumbai Indians,4,6,0.1,5.6,mandatory,RG Sharma,CV Varun,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,64
+Mumbai Indians,5,1,0.1,5.6,mandatory,RG Sharma,Kartik Tyagi,RD Rickelton,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,70
+Mumbai Indians,5,2,0.1,5.6,mandatory,RG Sharma,Kartik Tyagi,RD Rickelton,,2,0,2,,,,,,,,,,,,,,,,20.0,221.0,72
+Mumbai Indians,5,3,0.1,5.6,mandatory,RG Sharma,Kartik Tyagi,RD Rickelton,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,72
+Mumbai Indians,5,4,0.1,5.6,mandatory,RG Sharma,Kartik Tyagi,RD Rickelton,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,78
+Mumbai Indians,5,5,0.1,5.6,mandatory,RG Sharma,Kartik Tyagi,RD Rickelton,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,78
+Mumbai Indians,5,6,0.1,5.6,mandatory,RG Sharma,Kartik Tyagi,RD Rickelton,,2,0,2,,,,,,,,,,,,,,,,20.0,221.0,80
+Mumbai Indians,6,1,0.1,5.6,mandatory,RD Rickelton,SP Narine,RG Sharma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,81
+Mumbai Indians,6,2,0.1,5.6,mandatory,RG Sharma,SP Narine,RD Rickelton,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,81
+Mumbai Indians,6,3,0.1,5.6,mandatory,RG Sharma,SP Narine,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,82
+Mumbai Indians,6,4,0.1,5.6,mandatory,RD Rickelton,SP Narine,RG Sharma,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,88
+Mumbai Indians,6,5,0.1,5.6,mandatory,RD Rickelton,SP Narine,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,88
+Mumbai Indians,6,6,0.1,5.6,mandatory,RD Rickelton,SP Narine,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,88
+Mumbai Indians,7,1,0.1,5.6,mandatory,RG Sharma,CV Varun,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,89
+Mumbai Indians,7,2,0.1,5.6,mandatory,RD Rickelton,CV Varun,RG Sharma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,90
+Mumbai Indians,7,3,0.1,5.6,mandatory,RG Sharma,CV Varun,RD Rickelton,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,94
+Mumbai Indians,7,4,0.1,5.6,mandatory,RG Sharma,CV Varun,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,95
+Mumbai Indians,7,5,0.1,5.6,mandatory,RD Rickelton,CV Varun,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,95
+Mumbai Indians,7,6,0.1,5.6,mandatory,RD Rickelton,CV Varun,RG Sharma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,96
+Mumbai Indians,8,1,0.1,5.6,mandatory,RD Rickelton,SP Narine,RG Sharma,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,102
+Mumbai Indians,8,2,0.1,5.6,mandatory,RD Rickelton,SP Narine,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,102
+Mumbai Indians,8,3,0.1,5.6,mandatory,RD Rickelton,SP Narine,RG Sharma,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,108
+Mumbai Indians,8,4,0.1,5.6,mandatory,RD Rickelton,SP Narine,RG Sharma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,109
+Mumbai Indians,8,5,0.1,5.6,mandatory,RG Sharma,SP Narine,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,110
+Mumbai Indians,8,6,0.1,5.6,mandatory,RD Rickelton,SP Narine,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,110
+Mumbai Indians,9,1,0.1,5.6,mandatory,RG Sharma,Kartik Tyagi,RD Rickelton,,1,1,2,,,,,,,1.0,,,,,,,,,20.0,221.0,112
+Mumbai Indians,9,2,0.1,5.6,mandatory,RD Rickelton,Kartik Tyagi,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,112
+Mumbai Indians,9,3,0.1,5.6,mandatory,RD Rickelton,Kartik Tyagi,RG Sharma,,2,0,2,,,,,,,,,,,,,,,,20.0,221.0,114
+Mumbai Indians,9,4,0.1,5.6,mandatory,RD Rickelton,Kartik Tyagi,RG Sharma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,115
+Mumbai Indians,9,5,0.1,5.6,mandatory,RG Sharma,Kartik Tyagi,RD Rickelton,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,119
+Mumbai Indians,9,6,0.1,5.6,mandatory,RG Sharma,Kartik Tyagi,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,120
+Mumbai Indians,9,7,0.1,5.6,mandatory,RD Rickelton,Kartik Tyagi,RG Sharma,,2,0,2,,,,,,,,,,,,,,,,20.0,221.0,122
+Mumbai Indians,10,1,0.1,5.6,mandatory,RG Sharma,CV Varun,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,123
+Mumbai Indians,10,2,0.1,5.6,mandatory,RD Rickelton,CV Varun,RG Sharma,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,129
+Mumbai Indians,10,3,0.1,5.6,mandatory,RD Rickelton,CV Varun,RG Sharma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,129
+Mumbai Indians,10,4,0.1,5.6,mandatory,RD Rickelton,CV Varun,RG Sharma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,130
+Mumbai Indians,10,5,0.1,5.6,mandatory,RG Sharma,CV Varun,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,131
+Mumbai Indians,10,6,0.1,5.6,mandatory,RD Rickelton,CV Varun,RG Sharma,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,135
+Mumbai Indians,11,1,0.1,5.6,mandatory,RG Sharma,VG Arora,RD Rickelton,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,139
+Mumbai Indians,11,2,0.1,5.6,mandatory,RG Sharma,VG Arora,RD Rickelton,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,145
+Mumbai Indians,11,3,0.1,5.6,mandatory,RG Sharma,VG Arora,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,146
+Mumbai Indians,11,4,0.1,5.6,mandatory,RD Rickelton,VG Arora,RG Sharma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,147
+Mumbai Indians,11,5,0.1,5.6,mandatory,RG Sharma,VG Arora,RD Rickelton,1.0,0,1,1,,,,,,,,,,,,,,,,20.0,221.0,148
+Mumbai Indians,11,6,0.1,5.6,mandatory,RG Sharma,VG Arora,RD Rickelton,,0,0,0,,,,,,,,RG Sharma,caught,,,,,AS Roy,,20.0,221.0,148
+Mumbai Indians,11,7,0.1,5.6,mandatory,SA Yadav,VG Arora,RD Rickelton,,4,0,4,,,,,,,,,,SA Yadav,JJ Bumrah,Mumbai Indians,impact_player,,,20.0,221.0,152
+Mumbai Indians,12,1,0.1,5.6,mandatory,RD Rickelton,AS Roy,SA Yadav,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,152
+Mumbai Indians,12,2,0.1,5.6,mandatory,RD Rickelton,AS Roy,SA Yadav,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,153
+Mumbai Indians,12,3,0.1,5.6,mandatory,SA Yadav,AS Roy,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,154
+Mumbai Indians,12,4,0.1,5.6,mandatory,RD Rickelton,AS Roy,SA Yadav,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,155
+Mumbai Indians,12,5,0.1,5.6,mandatory,SA Yadav,AS Roy,RD Rickelton,1.0,0,1,1,,,,,,,,,,,,,,,,20.0,221.0,156
+Mumbai Indians,12,6,0.1,5.6,mandatory,SA Yadav,AS Roy,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,157
+Mumbai Indians,12,7,0.1,5.6,mandatory,RD Rickelton,AS Roy,SA Yadav,,6,0,6,,,,,,,,,,,,,,,,20.0,221.0,163
+Mumbai Indians,13,1,0.1,5.6,mandatory,SA Yadav,CV Varun,RD Rickelton,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,167
+Mumbai Indians,13,2,0.1,5.6,mandatory,SA Yadav,CV Varun,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,168
+Mumbai Indians,13,3,0.1,5.6,mandatory,RD Rickelton,CV Varun,SA Yadav,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,169
+Mumbai Indians,13,4,0.1,5.6,mandatory,SA Yadav,CV Varun,RD Rickelton,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,170
+Mumbai Indians,13,5,0.1,5.6,mandatory,RD Rickelton,CV Varun,SA Yadav,1.0,0,1,1,,,,,,,,,,,,,,,,20.0,221.0,171
+Mumbai Indians,13,6,0.1,5.6,mandatory,RD Rickelton,CV Varun,SA Yadav,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,171
+Mumbai Indians,13,7,0.1,5.6,mandatory,RD Rickelton,CV Varun,SA Yadav,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,175
+Mumbai Indians,14,1,0.1,5.6,mandatory,SA Yadav,Kartik Tyagi,RD Rickelton,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,179
+Mumbai Indians,14,2,0.1,5.6,mandatory,SA Yadav,Kartik Tyagi,RD Rickelton,,0,0,0,,,,,,,,SA Yadav,caught,,,,,RK Singh,,20.0,221.0,179
+Mumbai Indians,14,3,0.1,5.6,mandatory,Tilak Varma,Kartik Tyagi,RD Rickelton,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,183
+Mumbai Indians,14,4,0.1,5.6,mandatory,Tilak Varma,Kartik Tyagi,RD Rickelton,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,183
+Mumbai Indians,14,5,0.1,5.6,mandatory,Tilak Varma,Kartik Tyagi,RD Rickelton,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,183
+Mumbai Indians,14,6,0.1,5.6,mandatory,Tilak Varma,Kartik Tyagi,RD Rickelton,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,183
+Mumbai Indians,15,1,0.1,5.6,mandatory,RD Rickelton,B Muzarabani,Tilak Varma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,183
+Mumbai Indians,15,2,0.1,5.6,mandatory,RD Rickelton,B Muzarabani,Tilak Varma,,1,0,1,,,,,,,,RD Rickelton,run out,,,,,AS Roy,,20.0,221.0,184
+Mumbai Indians,15,3,0.1,5.6,mandatory,Tilak Varma,B Muzarabani,HH Pandya,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,185
+Mumbai Indians,15,4,0.1,5.6,mandatory,HH Pandya,B Muzarabani,Tilak Varma,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,189
+Mumbai Indians,15,5,0.1,5.6,mandatory,HH Pandya,B Muzarabani,Tilak Varma,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,193
+Mumbai Indians,15,6,0.1,5.6,mandatory,HH Pandya,B Muzarabani,Tilak Varma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,193
+Mumbai Indians,16,1,0.1,5.6,mandatory,Tilak Varma,Kartik Tyagi,HH Pandya,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,194
+Mumbai Indians,16,2,0.1,5.6,mandatory,HH Pandya,Kartik Tyagi,Tilak Varma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,195
+Mumbai Indians,16,3,0.1,5.6,mandatory,Tilak Varma,Kartik Tyagi,HH Pandya,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,195
+Mumbai Indians,16,4,0.1,5.6,mandatory,Tilak Varma,Kartik Tyagi,HH Pandya,,0,1,1,1.0,Kolkata Knight Riders,Anish Sahasrabudhe,Tilak Varma,struck down,wicket,,,,,,,,,,20.0,221.0,196
+Mumbai Indians,16,5,0.1,5.6,mandatory,HH Pandya,Kartik Tyagi,Tilak Varma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,197
+Mumbai Indians,16,6,0.1,5.6,mandatory,Tilak Varma,Kartik Tyagi,HH Pandya,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,201
+Mumbai Indians,17,1,0.1,5.6,mandatory,HH Pandya,VG Arora,Tilak Varma,,0,0,0,,,,,,,,,,,,,,,,20.0,221.0,201
+Mumbai Indians,17,2,0.1,5.6,mandatory,HH Pandya,VG Arora,Tilak Varma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,202
+Mumbai Indians,17,3,0.1,5.6,mandatory,Tilak Varma,VG Arora,HH Pandya,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,206
+Mumbai Indians,17,4,0.1,5.6,mandatory,Tilak Varma,VG Arora,HH Pandya,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,207
+Mumbai Indians,17,5,0.1,5.6,mandatory,HH Pandya,VG Arora,Tilak Varma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,208
+Mumbai Indians,17,6,0.1,5.6,mandatory,Tilak Varma,VG Arora,HH Pandya,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,212
+Mumbai Indians,18,1,0.1,5.6,mandatory,HH Pandya,SP Narine,Tilak Varma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,213
+Mumbai Indians,18,2,0.1,5.6,mandatory,Tilak Varma,SP Narine,HH Pandya,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,214
+Mumbai Indians,18,3,0.1,5.6,mandatory,HH Pandya,SP Narine,Tilak Varma,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,215
+Mumbai Indians,18,4,0.1,5.6,mandatory,Tilak Varma,SP Narine,HH Pandya,,0,0,0,,,,,,,,Tilak Varma,caught,,,,,MK Pandey,True,20.0,221.0,215
+Mumbai Indians,18,5,0.1,5.6,mandatory,Naman Dhir,SP Narine,HH Pandya,,1,0,1,,,,,,,,,,,,,,,,20.0,221.0,216
+Mumbai Indians,18,6,0.1,5.6,mandatory,HH Pandya,SP Narine,Naman Dhir,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,220
+Mumbai Indians,19,1,0.1,5.6,mandatory,Naman Dhir,AS Roy,HH Pandya,,4,0,4,,,,,,,,,,,,,,,,20.0,221.0,224

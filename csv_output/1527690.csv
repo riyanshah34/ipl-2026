@@ -1,0 +1,252 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,wides,batter_runs,extra_runs,total_runs,byes,noballs,review_by,review_umpire,review_batter,review_decision,review_type,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Sunrisers Hyderabad,0,1,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,1.0,0,1,1,,,,,,,,,,,,,,,,,1
+Sunrisers Hyderabad,0,2,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,,4,0,4,,,,,,,,,,,,,,,,,5
+Sunrisers Hyderabad,0,3,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,,1,0,1,,,,,,,,,,,,,,,,,6
+Sunrisers Hyderabad,0,4,0.1,5.7,mandatory,TM Head,Arshdeep Singh,Abhishek Sharma,1.0,0,1,1,,,,,,,,,,,,,,,,,7
+Sunrisers Hyderabad,0,5,0.1,5.7,mandatory,TM Head,Arshdeep Singh,Abhishek Sharma,,0,0,0,,,,,,,,,,,,,,,,,7
+Sunrisers Hyderabad,0,6,0.1,5.7,mandatory,TM Head,Arshdeep Singh,Abhishek Sharma,,0,0,0,,,,,,,,,,,,,,,,,7
+Sunrisers Hyderabad,0,7,0.1,5.7,mandatory,TM Head,Arshdeep Singh,Abhishek Sharma,,0,0,0,,,,,,,,,,,,,,,,,7
+Sunrisers Hyderabad,0,8,0.1,5.7,mandatory,TM Head,Arshdeep Singh,Abhishek Sharma,,2,0,2,,,,,,,,,,,,,,,,,9
+Sunrisers Hyderabad,1,1,0.1,5.7,mandatory,Abhishek Sharma,XC Bartlett,TM Head,,4,0,4,,,,,,,,,,,,,,,,,13
+Sunrisers Hyderabad,1,2,0.1,5.7,mandatory,Abhishek Sharma,XC Bartlett,TM Head,,0,1,1,1.0,,,,,,,,,,,,,,,,14
+Sunrisers Hyderabad,1,3,0.1,5.7,mandatory,TM Head,XC Bartlett,Abhishek Sharma,,1,0,1,,,,,,,,,,,,,,,,,15
+Sunrisers Hyderabad,1,4,0.1,5.7,mandatory,Abhishek Sharma,XC Bartlett,TM Head,,0,0,0,,,,,,,,,,,,,,,,,15
+Sunrisers Hyderabad,1,5,0.1,5.7,mandatory,Abhishek Sharma,XC Bartlett,TM Head,,4,0,4,,,,,,,,,,,,,,,,,19
+Sunrisers Hyderabad,1,6,0.1,5.7,mandatory,Abhishek Sharma,XC Bartlett,TM Head,,1,0,1,,,,,,,,,,,,,,,,,20
+Sunrisers Hyderabad,2,1,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,,4,0,4,,,,,,,,,,,,,,,,,24
+Sunrisers Hyderabad,2,2,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,,4,0,4,,,,,,,,,,,,,,,,,28
+Sunrisers Hyderabad,2,3,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,1.0,0,1,1,,,,,,,,,,,,,,,,,29
+Sunrisers Hyderabad,2,4,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,,0,0,0,,,,,,,,,,,,,,,,,29
+Sunrisers Hyderabad,2,5,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,1.0,0,1,1,,,,,,,,,,,,,,,,,30
+Sunrisers Hyderabad,2,6,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,1.0,0,1,1,,,,,,,,,,,,,,,,,31
+Sunrisers Hyderabad,2,7,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,1.0,0,1,1,,,,,,,,,,,,,,,,,32
+Sunrisers Hyderabad,2,8,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,,6,0,6,,,,,,,,,,,,,,,,,38
+Sunrisers Hyderabad,2,9,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,,6,0,6,,,,,,,,,,,,,,,,,44
+Sunrisers Hyderabad,2,10,0.1,5.7,mandatory,Abhishek Sharma,Arshdeep Singh,TM Head,,0,0,0,,,,,,,,,,,,,,,,,44
+Sunrisers Hyderabad,3,1,0.1,5.7,mandatory,TM Head,M Jansen,Abhishek Sharma,,0,0,0,,,,,,,,,,,,,,,,,44
+Sunrisers Hyderabad,3,2,0.1,5.7,mandatory,TM Head,M Jansen,Abhishek Sharma,,4,0,4,,,,,,,,,,,,,,,,,48
+Sunrisers Hyderabad,3,3,0.1,5.7,mandatory,TM Head,M Jansen,Abhishek Sharma,,1,0,1,,,,,,,,,,,,,,,,,49
+Sunrisers Hyderabad,3,4,0.1,5.7,mandatory,Abhishek Sharma,M Jansen,TM Head,,1,0,1,,,,,,,,,,,,,,,,,50
+Sunrisers Hyderabad,3,5,0.1,5.7,mandatory,TM Head,M Jansen,Abhishek Sharma,,6,0,6,,,,,,,,,,,,,,,,,56
+Sunrisers Hyderabad,3,6,0.1,5.7,mandatory,TM Head,M Jansen,Abhishek Sharma,,4,0,4,,,,,,,,,,,,,,,,,60
+Sunrisers Hyderabad,4,1,0.1,5.7,mandatory,Abhishek Sharma,Vijaykumar Vyshak,TM Head,,6,0,6,,,,,,,,,,,,,,,,,66
+Sunrisers Hyderabad,4,2,0.1,5.7,mandatory,Abhishek Sharma,Vijaykumar Vyshak,TM Head,,0,0,0,,,,,,,,,,,,,,,,,66
+Sunrisers Hyderabad,4,3,0.1,5.7,mandatory,Abhishek Sharma,Vijaykumar Vyshak,TM Head,,6,0,6,,,,,,,,,,,,,,,,,72
+Sunrisers Hyderabad,4,4,0.1,5.7,mandatory,Abhishek Sharma,Vijaykumar Vyshak,TM Head,,6,0,6,,,,,,,,,,,,,,,,,78
+Sunrisers Hyderabad,4,5,0.1,5.7,mandatory,Abhishek Sharma,Vijaykumar Vyshak,TM Head,,0,0,0,,,,,,,,,,,,,,,,,78
+Sunrisers Hyderabad,4,6,0.1,5.7,mandatory,Abhishek Sharma,Vijaykumar Vyshak,TM Head,,6,0,6,,,,,,,,,,,,,,,,,84
+Sunrisers Hyderabad,5,1,0.1,5.7,mandatory,TM Head,XC Bartlett,Abhishek Sharma,,4,0,4,,,,,,,,,,,,,,,,,88
+Sunrisers Hyderabad,5,2,0.1,5.7,mandatory,TM Head,XC Bartlett,Abhishek Sharma,,4,0,4,,,,,,,,,,,,,,,,,92
+Sunrisers Hyderabad,5,3,0.1,5.7,mandatory,TM Head,XC Bartlett,Abhishek Sharma,,4,0,4,,,,,,,,,,,,,,,,,96
+Sunrisers Hyderabad,5,4,0.1,5.7,mandatory,TM Head,XC Bartlett,Abhishek Sharma,,0,1,1,,1.0,,,,,,,,,,,,,,,97
+Sunrisers Hyderabad,5,5,0.1,5.7,mandatory,TM Head,XC Bartlett,Abhishek Sharma,,1,0,1,,,,,,,,,,,,,,,,,98
+Sunrisers Hyderabad,5,6,0.1,5.7,mandatory,Abhishek Sharma,XC Bartlett,TM Head,,6,0,6,,,,,,,,,,,,,,,,,104
+Sunrisers Hyderabad,5,7,0.1,5.7,mandatory,Abhishek Sharma,XC Bartlett,TM Head,,1,0,1,,,,,,,,,,,,,,,,,105
+Sunrisers Hyderabad,6,1,0.1,5.7,mandatory,Abhishek Sharma,Shashank Singh,TM Head,,0,0,0,,,,,,,,,,,,,,,,,105
+Sunrisers Hyderabad,6,2,0.1,5.7,mandatory,Abhishek Sharma,Shashank Singh,TM Head,,1,0,1,,,,,,,,,,,,,,,,,106
+Sunrisers Hyderabad,6,3,0.1,5.7,mandatory,TM Head,Shashank Singh,Abhishek Sharma,,2,0,2,,,,,,,,,,,,,,,,,108
+Sunrisers Hyderabad,6,4,0.1,5.7,mandatory,TM Head,Shashank Singh,Abhishek Sharma,,2,0,2,,,,,,,,,,,,,,,,,110
+Sunrisers Hyderabad,6,5,0.1,5.7,mandatory,TM Head,Shashank Singh,Abhishek Sharma,,0,0,0,,,,,,,,,,,,,,,,,110
+Sunrisers Hyderabad,6,6,0.1,5.7,mandatory,TM Head,Shashank Singh,Abhishek Sharma,,1,0,1,,,,,,,,,,,,,,,,,111
+Sunrisers Hyderabad,7,1,0.1,5.7,mandatory,TM Head,YS Chahal,Abhishek Sharma,,0,0,0,,,,,,,,,,,,,,,,,111
+Sunrisers Hyderabad,7,2,0.1,5.7,mandatory,TM Head,YS Chahal,Abhishek Sharma,,1,0,1,,,,,,,,,,,,,,,,,112
+Sunrisers Hyderabad,7,3,0.1,5.7,mandatory,Abhishek Sharma,YS Chahal,TM Head,,0,0,0,,,,,,,,,,,,,,,,,112
+Sunrisers Hyderabad,7,4,0.1,5.7,mandatory,Abhishek Sharma,YS Chahal,TM Head,,1,0,1,,,,,,,,,,,,,,,,,113
+Sunrisers Hyderabad,7,5,0.1,5.7,mandatory,TM Head,YS Chahal,Abhishek Sharma,,1,0,1,,,,,,,,,,,,,,,,,114
+Sunrisers Hyderabad,7,6,0.1,5.7,mandatory,Abhishek Sharma,YS Chahal,TM Head,,6,0,6,,,,,,,,,,,,,,,,,120
+Sunrisers Hyderabad,8,1,0.1,5.7,mandatory,TM Head,Shashank Singh,Abhishek Sharma,,0,0,0,,,,,,,,TM Head,caught,,,,,XC Bartlett,,,120
+Sunrisers Hyderabad,8,2,0.1,5.7,mandatory,Ishan Kishan,Shashank Singh,Abhishek Sharma,,1,0,1,,,,,,,,,,,,,,,,,121
+Sunrisers Hyderabad,8,3,0.1,5.7,mandatory,Abhishek Sharma,Shashank Singh,Ishan Kishan,1.0,0,1,1,,,,,,,,,,,,,,,,,122
+Sunrisers Hyderabad,8,4,0.1,5.7,mandatory,Abhishek Sharma,Shashank Singh,Ishan Kishan,,0,0,0,,,,,,,,Abhishek Sharma,caught,,,,,Arshdeep Singh,,,122
+Sunrisers Hyderabad,8,5,0.1,5.7,mandatory,H Klaasen,Shashank Singh,Ishan Kishan,,0,0,0,,,,,,,,,,,,,,,,,122
+Sunrisers Hyderabad,8,6,0.1,5.7,mandatory,H Klaasen,Shashank Singh,Ishan Kishan,,1,0,1,,,,,,,,,,,,,,,,,123
+Sunrisers Hyderabad,8,7,0.1,5.7,mandatory,Ishan Kishan,Shashank Singh,H Klaasen,,0,0,0,,,,,,,,,,,,,,,,,123
+Sunrisers Hyderabad,9,1,0.1,5.7,mandatory,H Klaasen,YS Chahal,Ishan Kishan,,0,0,0,,,,,,,,,,,,,,,,,123
+Sunrisers Hyderabad,9,2,0.1,5.7,mandatory,H Klaasen,YS Chahal,Ishan Kishan,,1,0,1,,,,,,,,,,,,,,,,,124
+Sunrisers Hyderabad,9,3,0.1,5.7,mandatory,Ishan Kishan,YS Chahal,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,125
+Sunrisers Hyderabad,9,4,0.1,5.7,mandatory,H Klaasen,YS Chahal,Ishan Kishan,1.0,0,1,1,,,,,,,,,,,,,,,,,126
+Sunrisers Hyderabad,9,5,0.1,5.7,mandatory,H Klaasen,YS Chahal,Ishan Kishan,1.0,0,1,1,,,,,,,,,,,,,,,,,127
+Sunrisers Hyderabad,9,6,0.1,5.7,mandatory,H Klaasen,YS Chahal,Ishan Kishan,,2,0,2,,,,,,,,,,,,,,,,,129
+Sunrisers Hyderabad,9,7,0.1,5.7,mandatory,H Klaasen,YS Chahal,Ishan Kishan,1.0,0,1,1,,,,,,,,,,,,,,,,,130
+Sunrisers Hyderabad,9,8,0.1,5.7,mandatory,H Klaasen,YS Chahal,Ishan Kishan,,1,0,1,,,,,,,,,,,,,,,,,131
+Sunrisers Hyderabad,9,9,0.1,5.7,mandatory,Ishan Kishan,YS Chahal,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,132
+Sunrisers Hyderabad,10,1,0.1,5.7,mandatory,Ishan Kishan,Shashank Singh,H Klaasen,,4,0,4,,,,,,,,,,,,,,,,,136
+Sunrisers Hyderabad,10,2,0.1,5.7,mandatory,Ishan Kishan,Shashank Singh,H Klaasen,,0,0,0,,,,,,,,,,,,,,,,,136
+Sunrisers Hyderabad,10,3,0.1,5.7,mandatory,Ishan Kishan,Shashank Singh,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,137
+Sunrisers Hyderabad,10,4,0.1,5.7,mandatory,H Klaasen,Shashank Singh,Ishan Kishan,,4,0,4,,,,,,,,,,,,,,,,,141
+Sunrisers Hyderabad,10,5,0.1,5.7,mandatory,H Klaasen,Shashank Singh,Ishan Kishan,,1,0,1,,,,,,,,,,,,,,,,,142
+Sunrisers Hyderabad,10,6,0.1,5.7,mandatory,Ishan Kishan,Shashank Singh,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,143
+Sunrisers Hyderabad,11,1,0.1,5.7,mandatory,Ishan Kishan,M Jansen,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,144
+Sunrisers Hyderabad,11,2,0.1,5.7,mandatory,H Klaasen,M Jansen,Ishan Kishan,,1,0,1,,,,,,,,,,,,,,,,,145
+Sunrisers Hyderabad,11,3,0.1,5.7,mandatory,Ishan Kishan,M Jansen,H Klaasen,,4,0,4,,,,,,,,,,,,,,,,,149
+Sunrisers Hyderabad,11,4,0.1,5.7,mandatory,Ishan Kishan,M Jansen,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,150
+Sunrisers Hyderabad,11,5,0.1,5.7,mandatory,H Klaasen,M Jansen,Ishan Kishan,,0,0,0,,,,,,,,,,,,,,,,,150
+Sunrisers Hyderabad,11,6,0.1,5.7,mandatory,H Klaasen,M Jansen,Ishan Kishan,,1,0,1,,,,,,,,,,,,,,,,,151
+Sunrisers Hyderabad,12,1,0.1,5.7,mandatory,H Klaasen,Vijaykumar Vyshak,Ishan Kishan,,1,0,1,,,,,,,,,,,,,,,,,152
+Sunrisers Hyderabad,12,2,0.1,5.7,mandatory,Ishan Kishan,Vijaykumar Vyshak,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,153
+Sunrisers Hyderabad,12,3,0.1,5.7,mandatory,H Klaasen,Vijaykumar Vyshak,Ishan Kishan,,2,0,2,,,,,,,,,,,,,,,,,155
+Sunrisers Hyderabad,12,4,0.1,5.7,mandatory,H Klaasen,Vijaykumar Vyshak,Ishan Kishan,,0,0,0,,,,,,,,,,,,,,,,,155
+Sunrisers Hyderabad,12,5,0.1,5.7,mandatory,H Klaasen,Vijaykumar Vyshak,Ishan Kishan,,1,0,1,,,,,,,,,,,,,,,,,156
+Sunrisers Hyderabad,12,6,0.1,5.7,mandatory,Ishan Kishan,Vijaykumar Vyshak,H Klaasen,,4,0,4,,,,,,,,,,,,,,,,,160
+Sunrisers Hyderabad,13,1,0.1,5.7,mandatory,H Klaasen,Arshdeep Singh,Ishan Kishan,,1,0,1,,,,,,,,,,,,,,,,,161
+Sunrisers Hyderabad,13,2,0.1,5.7,mandatory,Ishan Kishan,Arshdeep Singh,H Klaasen,,6,0,6,,,,,,,,,,,,,,,,,167
+Sunrisers Hyderabad,13,3,0.1,5.7,mandatory,Ishan Kishan,Arshdeep Singh,H Klaasen,,0,0,0,,,,,,,,,,,,,,,,,167
+Sunrisers Hyderabad,13,4,0.1,5.7,mandatory,Ishan Kishan,Arshdeep Singh,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,168
+Sunrisers Hyderabad,13,5,0.1,5.7,mandatory,H Klaasen,Arshdeep Singh,Ishan Kishan,,1,0,1,,,,,,,,,,,,,,,,,169
+Sunrisers Hyderabad,13,6,0.1,5.7,mandatory,Ishan Kishan,Arshdeep Singh,H Klaasen,,0,0,0,,,,,,,,Ishan Kishan,caught,,,,,M Jansen,,,169
+Sunrisers Hyderabad,14,1,0.1,5.7,mandatory,H Klaasen,M Jansen,Aniket Verma,,2,0,2,,,,,,,,,,,,,,,,,171
+Sunrisers Hyderabad,14,2,0.1,5.7,mandatory,H Klaasen,M Jansen,Aniket Verma,,1,0,1,,,,,,,,,,,,,,,,,172
+Sunrisers Hyderabad,14,3,0.1,5.7,mandatory,Aniket Verma,M Jansen,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,173
+Sunrisers Hyderabad,14,4,0.1,5.7,mandatory,H Klaasen,M Jansen,Aniket Verma,,1,0,1,,,,,,,,,,,,,,,,,174
+Sunrisers Hyderabad,14,5,0.1,5.7,mandatory,Aniket Verma,M Jansen,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,175
+Sunrisers Hyderabad,14,6,0.1,5.7,mandatory,H Klaasen,M Jansen,Aniket Verma,,1,0,1,,,,,,,,,,,,,,,,,176
+Sunrisers Hyderabad,15,1,0.1,5.7,mandatory,H Klaasen,XC Bartlett,Aniket Verma,,1,0,1,,,,,,,,,,,,,,,,,177
+Sunrisers Hyderabad,15,2,0.1,5.7,mandatory,Aniket Verma,XC Bartlett,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,178
+Sunrisers Hyderabad,15,3,0.1,5.7,mandatory,H Klaasen,XC Bartlett,Aniket Verma,,1,0,1,,,,,,,,,,,,,,,,,179
+Sunrisers Hyderabad,15,4,0.1,5.7,mandatory,Aniket Verma,XC Bartlett,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,180
+Sunrisers Hyderabad,15,5,0.1,5.7,mandatory,H Klaasen,XC Bartlett,Aniket Verma,,1,0,1,,,,,,,,,,,,,,,,,181
+Sunrisers Hyderabad,15,6,0.1,5.7,mandatory,Aniket Verma,XC Bartlett,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,182
+Sunrisers Hyderabad,16,1,0.1,5.7,mandatory,Aniket Verma,YS Chahal,H Klaasen,,6,0,6,,,,,,,,,,,,,,,,,188
+Sunrisers Hyderabad,16,2,0.1,5.7,mandatory,Aniket Verma,YS Chahal,H Klaasen,,2,0,2,,,,,,,,,,,,,,,,,190
+Sunrisers Hyderabad,16,3,0.1,5.7,mandatory,Aniket Verma,YS Chahal,H Klaasen,,4,0,4,,,,,,,,,,,,,,,,,194
+Sunrisers Hyderabad,16,4,0.1,5.7,mandatory,Aniket Verma,YS Chahal,H Klaasen,,1,0,1,,,,,,,,Aniket Verma,run out,,,,,P Simran Singh,,,195
+Sunrisers Hyderabad,16,5,0.1,5.7,mandatory,Aniket Verma,YS Chahal,H Klaasen,,1,0,1,,,,,,,,Aniket Verma,run out,,,,,MP Stoinis,,,196
+Sunrisers Hyderabad,16,6,0.1,5.7,mandatory,S Arora,YS Chahal,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,197
+Sunrisers Hyderabad,16,7,0.1,5.7,mandatory,H Klaasen,YS Chahal,S Arora,,1,0,1,,,,,,,,,,,,,,,,,198
+Sunrisers Hyderabad,17,1,0.1,5.7,mandatory,H Klaasen,M Jansen,S Arora,1.0,0,1,1,,,,,,,,,,,,,,,,,199
+Sunrisers Hyderabad,17,2,0.1,5.7,mandatory,H Klaasen,M Jansen,S Arora,,1,0,1,,,,,,,,,,,,,,,,,200
+Sunrisers Hyderabad,17,3,0.1,5.7,mandatory,S Arora,M Jansen,H Klaasen,,0,0,0,,,,,,,,,,,,,,,,,200
+Sunrisers Hyderabad,17,4,0.1,5.7,mandatory,S Arora,M Jansen,H Klaasen,,0,0,0,,,,,,,,,,,,,,,,,200
+Sunrisers Hyderabad,17,5,0.1,5.7,mandatory,S Arora,M Jansen,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,201
+Sunrisers Hyderabad,17,6,0.1,5.7,mandatory,H Klaasen,M Jansen,S Arora,,0,0,0,,,,,,,,,,,,,,,,,201
+Sunrisers Hyderabad,17,7,0.1,5.7,mandatory,H Klaasen,M Jansen,S Arora,,6,0,6,,,,,,,,,,,,,,,,,207
+Sunrisers Hyderabad,18,1,0.1,5.7,mandatory,S Arora,Arshdeep Singh,H Klaasen,,6,0,6,,,,,,,,,,,,,,,,,213
+Sunrisers Hyderabad,18,2,0.1,5.7,mandatory,S Arora,Arshdeep Singh,H Klaasen,,0,0,0,,,,,,,,,,,,,,,,,213
+Sunrisers Hyderabad,18,3,0.1,5.7,mandatory,S Arora,Arshdeep Singh,H Klaasen,,1,0,1,,,,,,,,,,,,,,,,,214
+Sunrisers Hyderabad,18,4,0.1,5.7,mandatory,H Klaasen,Arshdeep Singh,S Arora,,1,0,1,,,,,,,,,,,,,,,,,215
+Sunrisers Hyderabad,18,5,0.1,5.7,mandatory,S Arora,Arshdeep Singh,H Klaasen,,0,0,0,,,,,,,,S Arora,caught,,,,,XC Bartlett,,,215
+Sunrisers Hyderabad,18,6,0.1,5.7,mandatory,Nithish Kumar Reddy,Arshdeep Singh,H Klaasen,,0,0,0,,,Punjab Kings,R Pandit,Nithish Kumar Reddy,struck down,wicket,,,,,,,,,,215
+Sunrisers Hyderabad,19,1,0.1,5.7,mandatory,H Klaasen,XC Bartlett,Nithish Kumar Reddy,,2,0,2,,,,,,,,,,,,,,,,,217
+Sunrisers Hyderabad,19,2,0.1,5.7,mandatory,H Klaasen,XC Bartlett,Nithish Kumar Reddy,,2,0,2,,,,,,,,,,,,,,,,,219
+Sunrisers Hyderabad,19,3,0.1,5.7,mandatory,H Klaasen,XC Bartlett,Nithish Kumar Reddy,,0,0,0,,,Punjab Kings,A Bengeri,H Klaasen,struck down,wicket,,,,,,,,,,219
+Sunrisers Hyderabad,19,4,0.1,5.7,mandatory,H Klaasen,XC Bartlett,Nithish Kumar Reddy,,0,0,0,,,,,,,,H Klaasen,caught,,,,,C Connolly,,,219
+Sunrisers Hyderabad,19,5,0.1,5.7,mandatory,Harsh Dubey,XC Bartlett,Nithish Kumar Reddy,,0,0,0,,,,,,,,,,,,,,,,,219
+Sunrisers Hyderabad,19,6,0.1,5.7,mandatory,Harsh Dubey,XC Bartlett,Nithish Kumar Reddy,,1,0,1,,,,,,,,,,,,,,,,,220
+Punjab Kings,0,1,0.1,5.6,mandatory,Priyansh Arya,Harsh Dubey,P Simran Singh,,4,0,4,,,,,,,,,,JD Unadkat,TM Head,Sunrisers Hyderabad,impact_player,,20.0,220.0,4
+Punjab Kings,0,2,0.1,5.6,mandatory,Priyansh Arya,Harsh Dubey,P Simran Singh,,2,0,2,,,,,,,,,,,,,,,20.0,220.0,6
+Punjab Kings,0,3,0.1,5.6,mandatory,Priyansh Arya,Harsh Dubey,P Simran Singh,,0,0,0,,,Sunrisers Hyderabad,A Bengeri,Priyansh Arya,struck down,wicket,,,,,,,,20.0,220.0,6
+Punjab Kings,0,4,0.1,5.6,mandatory,Priyansh Arya,Harsh Dubey,P Simran Singh,,2,0,2,,,,,,,,,,,,,,,20.0,220.0,8
+Punjab Kings,0,5,0.1,5.6,mandatory,Priyansh Arya,Harsh Dubey,P Simran Singh,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,14
+Punjab Kings,0,6,0.1,5.6,mandatory,Priyansh Arya,Harsh Dubey,P Simran Singh,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,18
+Punjab Kings,1,1,0.1,5.6,mandatory,P Simran Singh,JD Unadkat,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,22
+Punjab Kings,1,2,0.1,5.6,mandatory,P Simran Singh,JD Unadkat,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,22
+Punjab Kings,1,3,0.1,5.6,mandatory,P Simran Singh,JD Unadkat,Priyansh Arya,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,28
+Punjab Kings,1,4,0.1,5.6,mandatory,P Simran Singh,JD Unadkat,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,29
+Punjab Kings,1,5,0.1,5.6,mandatory,Priyansh Arya,JD Unadkat,P Simran Singh,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,29
+Punjab Kings,1,6,0.1,5.6,mandatory,Priyansh Arya,JD Unadkat,P Simran Singh,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,29
+Punjab Kings,2,1,0.1,5.6,mandatory,P Simran Singh,E Malinga,Priyansh Arya,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,35
+Punjab Kings,2,2,0.1,5.6,mandatory,P Simran Singh,E Malinga,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,35
+Punjab Kings,2,3,0.1,5.6,mandatory,P Simran Singh,E Malinga,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,39
+Punjab Kings,2,4,0.1,5.6,mandatory,P Simran Singh,E Malinga,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,39
+Punjab Kings,2,5,0.1,5.6,mandatory,P Simran Singh,E Malinga,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,39
+Punjab Kings,2,6,0.1,5.6,mandatory,P Simran Singh,E Malinga,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,40
+Punjab Kings,3,1,0.1,5.6,mandatory,P Simran Singh,JD Unadkat,Priyansh Arya,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,46
+Punjab Kings,3,2,0.1,5.6,mandatory,P Simran Singh,JD Unadkat,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,46
+Punjab Kings,3,3,0.1,5.6,mandatory,P Simran Singh,JD Unadkat,Priyansh Arya,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,52
+Punjab Kings,3,4,0.1,5.6,mandatory,P Simran Singh,JD Unadkat,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,53
+Punjab Kings,3,5,0.1,5.6,mandatory,Priyansh Arya,JD Unadkat,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,54
+Punjab Kings,3,6,0.1,5.6,mandatory,P Simran Singh,JD Unadkat,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,55
+Punjab Kings,4,1,0.1,5.6,mandatory,P Simran Singh,E Malinga,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,59
+Punjab Kings,4,2,0.1,5.6,mandatory,P Simran Singh,E Malinga,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,60
+Punjab Kings,4,3,0.1,5.6,mandatory,Priyansh Arya,E Malinga,P Simran Singh,1.0,0,1,1,,,,,,,,,,,,,,,20.0,220.0,61
+Punjab Kings,4,4,0.1,5.6,mandatory,Priyansh Arya,E Malinga,P Simran Singh,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,67
+Punjab Kings,4,5,0.1,5.6,mandatory,Priyansh Arya,E Malinga,P Simran Singh,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,71
+Punjab Kings,4,6,0.1,5.6,mandatory,Priyansh Arya,E Malinga,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,72
+Punjab Kings,4,7,0.1,5.6,mandatory,P Simran Singh,E Malinga,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,72
+Punjab Kings,5,1,0.1,5.6,mandatory,Priyansh Arya,HV Patel,P Simran Singh,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,78
+Punjab Kings,5,2,0.1,5.6,mandatory,Priyansh Arya,HV Patel,P Simran Singh,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,84
+Punjab Kings,5,3,0.1,5.6,mandatory,Priyansh Arya,HV Patel,P Simran Singh,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,88
+Punjab Kings,5,4,0.1,5.6,mandatory,Priyansh Arya,HV Patel,P Simran Singh,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,92
+Punjab Kings,5,5,0.1,5.6,mandatory,Priyansh Arya,HV Patel,P Simran Singh,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,92
+Punjab Kings,5,6,0.1,5.6,mandatory,Priyansh Arya,HV Patel,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,93
+Punjab Kings,6,1,0.1,5.6,mandatory,Priyansh Arya,Shivang Kumar,P Simran Singh,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,99
+Punjab Kings,6,2,0.1,5.6,mandatory,Priyansh Arya,Shivang Kumar,P Simran Singh,,0,0,0,,,,,,,,Priyansh Arya,caught,,,,,Nithish Kumar Reddy,20.0,220.0,99
+Punjab Kings,6,3,0.1,5.6,mandatory,C Connolly,Shivang Kumar,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,100
+Punjab Kings,6,4,0.1,5.6,mandatory,P Simran Singh,Shivang Kumar,C Connolly,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,101
+Punjab Kings,6,5,0.1,5.6,mandatory,C Connolly,Shivang Kumar,P Simran Singh,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,101
+Punjab Kings,6,6,0.1,5.6,mandatory,C Connolly,Shivang Kumar,P Simran Singh,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,101
+Punjab Kings,7,1,0.1,5.6,mandatory,P Simran Singh,Harsh Dubey,C Connolly,1.0,0,1,1,,,,,,,,,,,,,,,20.0,220.0,102
+Punjab Kings,7,2,0.1,5.6,mandatory,P Simran Singh,Harsh Dubey,C Connolly,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,103
+Punjab Kings,7,3,0.1,5.6,mandatory,C Connolly,Harsh Dubey,P Simran Singh,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,103
+Punjab Kings,7,4,0.1,5.6,mandatory,C Connolly,Harsh Dubey,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,104
+Punjab Kings,7,5,0.1,5.6,mandatory,P Simran Singh,Harsh Dubey,C Connolly,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,105
+Punjab Kings,7,6,0.1,5.6,mandatory,C Connolly,Harsh Dubey,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,106
+Punjab Kings,7,7,0.1,5.6,mandatory,P Simran Singh,Harsh Dubey,C Connolly,1.0,0,1,1,,,,,,,,,,,,,,,20.0,220.0,107
+Punjab Kings,7,8,0.1,5.6,mandatory,P Simran Singh,Harsh Dubey,C Connolly,,2,0,2,,,,,,,,,,,,,,,20.0,220.0,109
+Punjab Kings,8,1,0.1,5.6,mandatory,C Connolly,Shivang Kumar,P Simran Singh,1.0,0,1,1,,,,,,,,,,,,,,,20.0,220.0,110
+Punjab Kings,8,2,0.1,5.6,mandatory,C Connolly,Shivang Kumar,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,111
+Punjab Kings,8,3,0.1,5.6,mandatory,P Simran Singh,Shivang Kumar,C Connolly,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,112
+Punjab Kings,8,4,0.1,5.6,mandatory,C Connolly,Shivang Kumar,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,113
+Punjab Kings,8,5,0.1,5.6,mandatory,P Simran Singh,Shivang Kumar,C Connolly,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,117
+Punjab Kings,8,6,0.1,5.6,mandatory,P Simran Singh,Shivang Kumar,C Connolly,,0,0,0,,,,,,,,P Simran Singh,caught,,,,,H Klaasen,20.0,220.0,117
+Punjab Kings,8,7,0.1,5.6,mandatory,SS Iyer,Shivang Kumar,C Connolly,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,118
+Punjab Kings,9,1,0.1,5.6,mandatory,SS Iyer,Nithish Kumar Reddy,C Connolly,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,118
+Punjab Kings,9,2,0.1,5.6,mandatory,SS Iyer,Nithish Kumar Reddy,C Connolly,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,119
+Punjab Kings,9,3,0.1,5.6,mandatory,C Connolly,Nithish Kumar Reddy,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,120
+Punjab Kings,9,4,0.1,5.6,mandatory,SS Iyer,Nithish Kumar Reddy,C Connolly,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,121
+Punjab Kings,9,5,0.1,5.6,mandatory,C Connolly,Nithish Kumar Reddy,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,122
+Punjab Kings,9,6,0.1,5.6,mandatory,SS Iyer,Nithish Kumar Reddy,C Connolly,,2,0,2,,,,,,,,,,,,,,,20.0,220.0,124
+Punjab Kings,10,1,0.1,5.6,mandatory,C Connolly,Shivang Kumar,SS Iyer,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,128
+Punjab Kings,10,2,0.1,5.6,mandatory,C Connolly,Shivang Kumar,SS Iyer,,0,0,0,,,,,,,,C Connolly,caught,,,,,Aniket Verma,20.0,220.0,128
+Punjab Kings,10,3,0.1,5.6,mandatory,N Wadhera,Shivang Kumar,SS Iyer,,1,0,1,,,,,,,,,,N Wadhera,YS Chahal,Punjab Kings,impact_player,,20.0,220.0,129
+Punjab Kings,10,4,0.1,5.6,mandatory,SS Iyer,Shivang Kumar,N Wadhera,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,130
+Punjab Kings,10,5,0.1,5.6,mandatory,N Wadhera,Shivang Kumar,SS Iyer,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,130
+Punjab Kings,10,6,0.1,5.6,mandatory,N Wadhera,Shivang Kumar,SS Iyer,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,136
+Punjab Kings,11,1,0.1,5.6,mandatory,SS Iyer,Nithish Kumar Reddy,N Wadhera,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,137
+Punjab Kings,11,2,0.1,5.6,mandatory,N Wadhera,Nithish Kumar Reddy,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,138
+Punjab Kings,11,3,0.1,5.6,mandatory,SS Iyer,Nithish Kumar Reddy,N Wadhera,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,139
+Punjab Kings,11,4,0.1,5.6,mandatory,N Wadhera,Nithish Kumar Reddy,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,140
+Punjab Kings,11,5,0.1,5.6,mandatory,SS Iyer,Nithish Kumar Reddy,N Wadhera,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,146
+Punjab Kings,11,6,0.1,5.6,mandatory,SS Iyer,Nithish Kumar Reddy,N Wadhera,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,150
+Punjab Kings,12,1,0.1,5.6,mandatory,N Wadhera,Shivang Kumar,SS Iyer,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,150
+Punjab Kings,12,2,0.1,5.6,mandatory,N Wadhera,Shivang Kumar,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,151
+Punjab Kings,12,3,0.1,5.6,mandatory,SS Iyer,Shivang Kumar,N Wadhera,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,151
+Punjab Kings,12,4,0.1,5.6,mandatory,SS Iyer,Shivang Kumar,N Wadhera,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,152
+Punjab Kings,12,5,0.1,5.6,mandatory,N Wadhera,Shivang Kumar,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,153
+Punjab Kings,12,6,0.1,5.6,mandatory,SS Iyer,Shivang Kumar,N Wadhera,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,154
+Punjab Kings,13,1,0.1,5.6,mandatory,SS Iyer,Harsh Dubey,N Wadhera,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,154
+Punjab Kings,13,2,0.1,5.6,mandatory,SS Iyer,Harsh Dubey,N Wadhera,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,158
+Punjab Kings,13,3,0.1,5.6,mandatory,SS Iyer,Harsh Dubey,N Wadhera,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,159
+Punjab Kings,13,4,0.1,5.6,mandatory,N Wadhera,Harsh Dubey,SS Iyer,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,159
+Punjab Kings,13,5,0.1,5.6,mandatory,N Wadhera,Harsh Dubey,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,160
+Punjab Kings,13,6,0.1,5.6,mandatory,SS Iyer,Harsh Dubey,N Wadhera,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,161
+Punjab Kings,14,1,0.1,5.6,mandatory,SS Iyer,HV Patel,N Wadhera,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,162
+Punjab Kings,14,2,0.1,5.6,mandatory,N Wadhera,HV Patel,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,163
+Punjab Kings,14,3,0.1,5.6,mandatory,SS Iyer,HV Patel,N Wadhera,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,163
+Punjab Kings,14,4,0.1,5.6,mandatory,SS Iyer,HV Patel,N Wadhera,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,169
+Punjab Kings,14,5,0.1,5.6,mandatory,SS Iyer,HV Patel,N Wadhera,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,173
+Punjab Kings,14,6,0.1,5.6,mandatory,SS Iyer,HV Patel,N Wadhera,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,179
+Punjab Kings,15,1,0.1,5.6,mandatory,N Wadhera,E Malinga,SS Iyer,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,179
+Punjab Kings,15,2,0.1,5.6,mandatory,N Wadhera,E Malinga,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,180
+Punjab Kings,15,3,0.1,5.6,mandatory,SS Iyer,E Malinga,N Wadhera,1.0,0,1,1,,,,,,,,,,,,,,,20.0,220.0,181
+Punjab Kings,15,4,0.1,5.6,mandatory,SS Iyer,E Malinga,N Wadhera,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,185
+Punjab Kings,15,5,0.1,5.6,mandatory,SS Iyer,E Malinga,N Wadhera,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,191
+Punjab Kings,15,6,0.1,5.6,mandatory,SS Iyer,E Malinga,N Wadhera,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,191
+Punjab Kings,15,7,0.1,5.6,mandatory,SS Iyer,E Malinga,N Wadhera,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,197
+Punjab Kings,16,1,0.1,5.6,mandatory,N Wadhera,Harsh Dubey,SS Iyer,,0,0,0,,,,,,,,N Wadhera,bowled,,,,,,20.0,220.0,197
+Punjab Kings,16,2,0.1,5.6,mandatory,Shashank Singh,Harsh Dubey,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,198
+Punjab Kings,16,3,0.1,5.6,mandatory,SS Iyer,Harsh Dubey,Shashank Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,199
+Punjab Kings,16,4,0.1,5.6,mandatory,Shashank Singh,Harsh Dubey,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,200
+Punjab Kings,16,5,0.1,5.6,mandatory,SS Iyer,Harsh Dubey,Shashank Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,201
+Punjab Kings,16,6,0.1,5.6,mandatory,Shashank Singh,Harsh Dubey,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,202
+Punjab Kings,17,1,0.1,5.6,mandatory,Shashank Singh,JD Unadkat,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,203
+Punjab Kings,17,2,0.1,5.6,mandatory,SS Iyer,JD Unadkat,Shashank Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,204
+Punjab Kings,17,3,0.1,5.6,mandatory,Shashank Singh,JD Unadkat,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,205
+Punjab Kings,17,4,0.1,5.6,mandatory,SS Iyer,JD Unadkat,Shashank Singh,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,209
+Punjab Kings,17,5,0.1,5.6,mandatory,SS Iyer,JD Unadkat,Shashank Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,210
+Punjab Kings,17,6,0.1,5.6,mandatory,Shashank Singh,JD Unadkat,SS Iyer,,6,0,6,,,,,,,,,,,,,,,20.0,220.0,216
+Punjab Kings,18,1,0.1,5.6,mandatory,SS Iyer,Abhishek Sharma,Shashank Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,217
+Punjab Kings,18,2,0.1,5.6,mandatory,Shashank Singh,Abhishek Sharma,SS Iyer,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,218
+Punjab Kings,18,3,0.1,5.6,mandatory,SS Iyer,Abhishek Sharma,Shashank Singh,,1,0,1,,,,,,,,,,,,,,,20.0,220.0,219
+Punjab Kings,18,4,0.1,5.6,mandatory,Shashank Singh,Abhishek Sharma,SS Iyer,,0,0,0,,,,,,,,,,,,,,,20.0,220.0,219
+Punjab Kings,18,5,0.1,5.6,mandatory,Shashank Singh,Abhishek Sharma,SS Iyer,,4,0,4,,,,,,,,,,,,,,,20.0,220.0,223

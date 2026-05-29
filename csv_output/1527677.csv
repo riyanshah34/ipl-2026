@@ -1,0 +1,251 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,legbyes,noballs,review_by,review_umpire,review_batter,review_decision,review_type,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Gujarat Titans,0,1,0.1,5.6,mandatory,B Sai Sudharsan,Arshdeep Singh,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,1
+Gujarat Titans,0,2,0.1,5.6,mandatory,Shubman Gill,Arshdeep Singh,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,2
+Gujarat Titans,0,3,0.1,5.6,mandatory,B Sai Sudharsan,Arshdeep Singh,Shubman Gill,0,1,1,1.0,,,,,,,,,,,,,,,,,3
+Gujarat Titans,0,4,0.1,5.6,mandatory,B Sai Sudharsan,Arshdeep Singh,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,7
+Gujarat Titans,0,5,0.1,5.6,mandatory,B Sai Sudharsan,Arshdeep Singh,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,7
+Gujarat Titans,0,6,0.1,5.6,mandatory,B Sai Sudharsan,Arshdeep Singh,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,8
+Gujarat Titans,0,7,0.1,5.6,mandatory,Shubman Gill,Arshdeep Singh,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,9
+Gujarat Titans,1,1,0.1,5.6,mandatory,Shubman Gill,XC Bartlett,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,,9
+Gujarat Titans,1,2,0.1,5.6,mandatory,Shubman Gill,XC Bartlett,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,,13
+Gujarat Titans,1,3,0.1,5.6,mandatory,Shubman Gill,XC Bartlett,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,,17
+Gujarat Titans,1,4,0.1,5.6,mandatory,Shubman Gill,XC Bartlett,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,18
+Gujarat Titans,1,5,0.1,5.6,mandatory,B Sai Sudharsan,XC Bartlett,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,19
+Gujarat Titans,1,6,0.1,5.6,mandatory,Shubman Gill,XC Bartlett,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,,23
+Gujarat Titans,2,1,0.1,5.6,mandatory,B Sai Sudharsan,Arshdeep Singh,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,27
+Gujarat Titans,2,2,0.1,5.6,mandatory,B Sai Sudharsan,Arshdeep Singh,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,27
+Gujarat Titans,2,3,0.1,5.6,mandatory,B Sai Sudharsan,Arshdeep Singh,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,28
+Gujarat Titans,2,4,0.1,5.6,mandatory,Shubman Gill,Arshdeep Singh,B Sai Sudharsan,0,1,1,1.0,,,,,,,,,,,,,,,,,29
+Gujarat Titans,2,5,0.1,5.6,mandatory,Shubman Gill,Arshdeep Singh,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,,33
+Gujarat Titans,2,6,0.1,5.6,mandatory,Shubman Gill,Arshdeep Singh,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,,33
+Gujarat Titans,2,7,0.1,5.6,mandatory,Shubman Gill,Arshdeep Singh,B Sai Sudharsan,2,0,2,,,,,,,,,,,,,,,,,,35
+Gujarat Titans,3,1,0.1,5.6,mandatory,B Sai Sudharsan,M Jansen,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,36
+Gujarat Titans,3,2,0.1,5.6,mandatory,Shubman Gill,M Jansen,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,37
+Gujarat Titans,3,3,0.1,5.6,mandatory,B Sai Sudharsan,M Jansen,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,37
+Gujarat Titans,3,4,0.1,5.6,mandatory,B Sai Sudharsan,M Jansen,Shubman Gill,0,0,0,,,,,,,,,B Sai Sudharsan,caught,,,,,SS Iyer,,,37
+Gujarat Titans,3,5,0.1,5.6,mandatory,JC Buttler,M Jansen,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,37
+Gujarat Titans,3,6,0.1,5.6,mandatory,JC Buttler,M Jansen,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,37
+Gujarat Titans,4,1,0.1,5.6,mandatory,Shubman Gill,Vijaykumar Vyshak,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,,37
+Gujarat Titans,4,2,0.1,5.6,mandatory,Shubman Gill,Vijaykumar Vyshak,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,38
+Gujarat Titans,4,3,0.1,5.6,mandatory,JC Buttler,Vijaykumar Vyshak,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,42
+Gujarat Titans,4,4,0.1,5.6,mandatory,JC Buttler,Vijaykumar Vyshak,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,43
+Gujarat Titans,4,5,0.1,5.6,mandatory,Shubman Gill,Vijaykumar Vyshak,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,,43
+Gujarat Titans,4,6,0.1,5.6,mandatory,Shubman Gill,Vijaykumar Vyshak,JC Buttler,4,0,4,,,,,,,,,,,,,,,,,,47
+Gujarat Titans,5,1,0.1,5.6,mandatory,JC Buttler,M Jansen,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,48
+Gujarat Titans,5,2,0.1,5.6,mandatory,Shubman Gill,M Jansen,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,49
+Gujarat Titans,5,3,0.1,5.6,mandatory,JC Buttler,M Jansen,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,49
+Gujarat Titans,5,4,0.1,5.6,mandatory,JC Buttler,M Jansen,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,53
+Gujarat Titans,5,5,0.1,5.6,mandatory,JC Buttler,M Jansen,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,53
+Gujarat Titans,5,6,0.1,5.6,mandatory,JC Buttler,M Jansen,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,54
+Gujarat Titans,6,1,0.1,5.6,mandatory,JC Buttler,Vijaykumar Vyshak,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,55
+Gujarat Titans,6,2,0.1,5.6,mandatory,Shubman Gill,Vijaykumar Vyshak,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,56
+Gujarat Titans,6,3,0.1,5.6,mandatory,JC Buttler,Vijaykumar Vyshak,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,,62
+Gujarat Titans,6,4,0.1,5.6,mandatory,JC Buttler,Vijaykumar Vyshak,Shubman Gill,0,1,1,,1.0,,,,,,,,,,,,,,,,63
+Gujarat Titans,6,5,0.1,5.6,mandatory,Shubman Gill,Vijaykumar Vyshak,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,,63
+Gujarat Titans,6,6,0.1,5.6,mandatory,Shubman Gill,Vijaykumar Vyshak,JC Buttler,2,0,2,,,,,,,,,,,,,,,,,,65
+Gujarat Titans,7,1,0.1,5.6,mandatory,JC Buttler,YS Chahal,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,66
+Gujarat Titans,7,2,0.1,5.6,mandatory,Shubman Gill,YS Chahal,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,,66
+Gujarat Titans,7,3,0.1,5.6,mandatory,Shubman Gill,YS Chahal,JC Buttler,0,1,1,,1.0,,,,,,,,,,,,,,,,67
+Gujarat Titans,7,4,0.1,5.6,mandatory,JC Buttler,YS Chahal,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,68
+Gujarat Titans,7,5,0.1,5.6,mandatory,Shubman Gill,YS Chahal,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,69
+Gujarat Titans,7,6,0.1,5.6,mandatory,JC Buttler,YS Chahal,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,70
+Gujarat Titans,8,1,0.1,5.6,mandatory,JC Buttler,XC Bartlett,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,70
+Gujarat Titans,8,2,0.1,5.6,mandatory,JC Buttler,XC Bartlett,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,70
+Gujarat Titans,8,3,0.1,5.6,mandatory,JC Buttler,XC Bartlett,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,71
+Gujarat Titans,8,4,0.1,5.6,mandatory,Shubman Gill,XC Bartlett,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,,71
+Gujarat Titans,8,5,0.1,5.6,mandatory,Shubman Gill,XC Bartlett,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,72
+Gujarat Titans,8,6,0.1,5.6,mandatory,JC Buttler,XC Bartlett,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,76
+Gujarat Titans,9,1,0.1,5.6,mandatory,Shubman Gill,YS Chahal,JC Buttler,0,1,1,1.0,,,,,,,,,,,,,,,,,77
+Gujarat Titans,9,2,0.1,5.6,mandatory,Shubman Gill,YS Chahal,JC Buttler,4,0,4,,,,,,,,,,,,,,,,,,81
+Gujarat Titans,9,3,0.1,5.6,mandatory,Shubman Gill,YS Chahal,JC Buttler,2,0,2,,,,,,,,,,,,,,,,,,83
+Gujarat Titans,9,4,0.1,5.6,mandatory,Shubman Gill,YS Chahal,JC Buttler,0,0,0,,,,,,,,,Shubman Gill,caught,,,,,C Connolly,,,83
+Gujarat Titans,9,5,0.1,5.6,mandatory,GD Phillips,YS Chahal,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,,83
+Gujarat Titans,9,6,0.1,5.6,mandatory,GD Phillips,YS Chahal,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,84
+Gujarat Titans,9,7,0.1,5.6,mandatory,JC Buttler,YS Chahal,GD Phillips,0,0,0,,,,,,,,,,,,,,,,,,84
+Gujarat Titans,10,1,0.1,5.6,mandatory,GD Phillips,M Jansen,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,85
+Gujarat Titans,10,2,0.1,5.6,mandatory,JC Buttler,M Jansen,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,,86
+Gujarat Titans,10,3,0.1,5.6,mandatory,GD Phillips,M Jansen,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,87
+Gujarat Titans,10,4,0.1,5.6,mandatory,JC Buttler,M Jansen,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,,88
+Gujarat Titans,10,5,0.1,5.6,mandatory,GD Phillips,M Jansen,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,89
+Gujarat Titans,10,6,0.1,5.6,mandatory,JC Buttler,M Jansen,GD Phillips,0,0,0,,,,,,,,,,,,,,,,,,89
+Gujarat Titans,11,1,0.1,5.6,mandatory,GD Phillips,YS Chahal,JC Buttler,6,0,6,,,,,,,,,,,,,,,,,,95
+Gujarat Titans,11,2,0.1,5.6,mandatory,GD Phillips,YS Chahal,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,96
+Gujarat Titans,11,3,0.1,5.6,mandatory,JC Buttler,YS Chahal,GD Phillips,0,0,0,,,,,,,,,,,,,,,,,,96
+Gujarat Titans,11,4,0.1,5.6,mandatory,JC Buttler,YS Chahal,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,,97
+Gujarat Titans,11,5,0.1,5.6,mandatory,GD Phillips,YS Chahal,JC Buttler,4,0,4,,,,,,,,,,,,,,,,,,101
+Gujarat Titans,11,6,0.1,5.6,mandatory,GD Phillips,YS Chahal,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,102
+Gujarat Titans,12,1,0.1,5.6,mandatory,GD Phillips,XC Bartlett,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,103
+Gujarat Titans,12,2,0.1,5.6,mandatory,JC Buttler,XC Bartlett,GD Phillips,0,0,0,,,,,,,,,,,,,,,,,,103
+Gujarat Titans,12,3,0.1,5.6,mandatory,JC Buttler,XC Bartlett,GD Phillips,6,0,6,,,,,,,,,,,,,,,,,,109
+Gujarat Titans,12,4,0.1,5.6,mandatory,JC Buttler,XC Bartlett,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,,110
+Gujarat Titans,12,5,0.1,5.6,mandatory,GD Phillips,XC Bartlett,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,,110
+Gujarat Titans,12,6,0.1,5.6,mandatory,GD Phillips,XC Bartlett,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,111
+Gujarat Titans,13,1,0.1,5.6,mandatory,GD Phillips,Vijaykumar Vyshak,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,112
+Gujarat Titans,13,2,0.1,5.6,mandatory,JC Buttler,Vijaykumar Vyshak,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,,113
+Gujarat Titans,13,3,0.1,5.6,mandatory,GD Phillips,Vijaykumar Vyshak,JC Buttler,2,0,2,,,,,,,,,,,,,,,,,,115
+Gujarat Titans,13,4,0.1,5.6,mandatory,GD Phillips,Vijaykumar Vyshak,JC Buttler,2,0,2,,,,,,,,,,,,,,,,,,117
+Gujarat Titans,13,5,0.1,5.6,mandatory,GD Phillips,Vijaykumar Vyshak,JC Buttler,2,0,2,,,,,,,,,,,,,,,,,,119
+Gujarat Titans,13,6,0.1,5.6,mandatory,GD Phillips,Vijaykumar Vyshak,JC Buttler,0,0,0,,,,,,,,,GD Phillips,caught,,,,,M Jansen,,,119
+Gujarat Titans,14,1,0.1,5.6,mandatory,JC Buttler,Arshdeep Singh,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,120
+Gujarat Titans,14,2,0.1,5.6,mandatory,Washington Sundar,Arshdeep Singh,JC Buttler,2,0,2,,,,,,,,,,,,,,,,,,122
+Gujarat Titans,14,3,0.1,5.6,mandatory,Washington Sundar,Arshdeep Singh,JC Buttler,4,0,4,,,,,,,,,,,,,,,,,,126
+Gujarat Titans,14,4,0.1,5.6,mandatory,Washington Sundar,Arshdeep Singh,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,,126
+Gujarat Titans,14,5,0.1,5.6,mandatory,Washington Sundar,Arshdeep Singh,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,,126
+Gujarat Titans,14,6,0.1,5.6,mandatory,Washington Sundar,Arshdeep Singh,JC Buttler,0,1,1,1.0,,,,,,,,,,,,,,,,,127
+Gujarat Titans,14,7,0.1,5.6,mandatory,Washington Sundar,Arshdeep Singh,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,128
+Gujarat Titans,15,1,0.1,5.6,mandatory,Washington Sundar,YS Chahal,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,129
+Gujarat Titans,15,2,0.1,5.6,mandatory,JC Buttler,YS Chahal,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,129
+Gujarat Titans,15,3,0.1,5.6,mandatory,JC Buttler,YS Chahal,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,129
+Gujarat Titans,15,4,0.1,5.6,mandatory,JC Buttler,YS Chahal,Washington Sundar,0,0,0,,,,,,,,,JC Buttler,caught,,,,,XC Bartlett,,,129
+Gujarat Titans,15,5,0.1,5.6,mandatory,M Shahrukh Khan,YS Chahal,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,130
+Gujarat Titans,15,6,0.1,5.6,mandatory,Washington Sundar,YS Chahal,M Shahrukh Khan,1,0,1,,,,,,,,,,,,,,,,,,131
+Gujarat Titans,16,1,0.1,5.6,mandatory,Washington Sundar,M Jansen,M Shahrukh Khan,1,0,1,,,,,,,,,,,Priyansh Arya,YS Chahal,Punjab Kings,impact_player,,,,132
+Gujarat Titans,16,2,0.1,5.6,mandatory,M Shahrukh Khan,M Jansen,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,133
+Gujarat Titans,16,3,0.1,5.6,mandatory,Washington Sundar,M Jansen,M Shahrukh Khan,1,0,1,,,,,,,,,,,,,,,,,,134
+Gujarat Titans,16,4,0.1,5.6,mandatory,M Shahrukh Khan,M Jansen,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,135
+Gujarat Titans,16,5,0.1,5.6,mandatory,Washington Sundar,M Jansen,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,135
+Gujarat Titans,16,6,0.1,5.6,mandatory,Washington Sundar,M Jansen,M Shahrukh Khan,2,0,2,,,,,,,,,,,,,,,,,,137
+Gujarat Titans,17,1,0.1,5.6,mandatory,M Shahrukh Khan,XC Bartlett,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,138
+Gujarat Titans,17,2,0.1,5.6,mandatory,Washington Sundar,XC Bartlett,M Shahrukh Khan,0,1,1,1.0,,,,,,,,,,,,,,,,,139
+Gujarat Titans,17,3,0.1,5.6,mandatory,Washington Sundar,XC Bartlett,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,139
+Gujarat Titans,17,4,0.1,5.6,mandatory,Washington Sundar,XC Bartlett,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,139
+Gujarat Titans,17,5,0.1,5.6,mandatory,Washington Sundar,XC Bartlett,M Shahrukh Khan,4,0,4,,,,,,,,,,,,,,,,,,143
+Gujarat Titans,17,6,0.1,5.6,mandatory,Washington Sundar,XC Bartlett,M Shahrukh Khan,1,0,1,,,,,,,,,,,,,,,,,,144
+Gujarat Titans,17,7,0.1,5.6,mandatory,M Shahrukh Khan,XC Bartlett,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,144
+Gujarat Titans,18,1,0.1,5.6,mandatory,Washington Sundar,Vijaykumar Vyshak,M Shahrukh Khan,0,0,0,,,,,,,,,Washington Sundar,caught,,,,,Arshdeep Singh,,,144
+Gujarat Titans,18,2,0.1,5.6,mandatory,R Tewatia,Vijaykumar Vyshak,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,144
+Gujarat Titans,18,3,0.1,5.6,mandatory,R Tewatia,Vijaykumar Vyshak,M Shahrukh Khan,2,0,2,,,,,,,,,,,,,,,,,,146
+Gujarat Titans,18,4,0.1,5.6,mandatory,R Tewatia,Vijaykumar Vyshak,M Shahrukh Khan,2,0,2,,,,,,,,,,,,,,,,,,148
+Gujarat Titans,18,5,0.1,5.6,mandatory,R Tewatia,Vijaykumar Vyshak,M Shahrukh Khan,0,1,1,1.0,,,,,,,,,,,,,,,,,149
+Gujarat Titans,18,6,0.1,5.6,mandatory,R Tewatia,Vijaykumar Vyshak,M Shahrukh Khan,1,0,1,,,,,,,,,,,,,,,,,,150
+Gujarat Titans,18,7,0.1,5.6,mandatory,M Shahrukh Khan,Vijaykumar Vyshak,R Tewatia,0,0,0,,,,,,,,,M Shahrukh Khan,caught,,,,,Arshdeep Singh,,,150
+Gujarat Titans,19,1,0.1,5.6,mandatory,R Tewatia,Arshdeep Singh,Rashid Khan,0,1,1,1.0,,,,,,,,,,,,,,,,,151
+Gujarat Titans,19,2,0.1,5.6,mandatory,R Tewatia,Arshdeep Singh,Rashid Khan,0,0,0,,,,,,,,,,,,,,,,,,151
+Gujarat Titans,19,3,0.1,5.6,mandatory,R Tewatia,Arshdeep Singh,Rashid Khan,0,0,0,,,,,,,,,,,,,,,,,,151
+Gujarat Titans,19,4,0.1,5.6,mandatory,R Tewatia,Arshdeep Singh,Rashid Khan,4,0,4,,,,,,,,,,,,,,,,,,155
+Gujarat Titans,19,5,0.1,5.6,mandatory,R Tewatia,Arshdeep Singh,Rashid Khan,1,1,2,,,1.0,,,,,,,,,,,,,,,157
+Gujarat Titans,19,6,0.1,5.6,mandatory,Rashid Khan,Arshdeep Singh,R Tewatia,0,1,1,1.0,,,,,,,,,,,,,,,,,158
+Gujarat Titans,19,7,0.1,5.6,mandatory,Rashid Khan,Arshdeep Singh,R Tewatia,0,2,2,2.0,,,,,,,,,,,,,,,,,160
+Gujarat Titans,19,8,0.1,5.6,mandatory,R Tewatia,Arshdeep Singh,Rashid Khan,0,0,0,,,,,,,,,,,,,,,,,,160
+Gujarat Titans,19,9,0.1,5.6,mandatory,R Tewatia,Arshdeep Singh,Rashid Khan,1,0,1,,,,,,,,,,,,,,,,,,161
+Gujarat Titans,19,10,0.1,5.6,mandatory,Rashid Khan,Arshdeep Singh,R Tewatia,0,1,1,1.0,,,,,,,,,,,,,,,,,162
+Gujarat Titans,19,11,0.1,5.6,mandatory,Rashid Khan,Arshdeep Singh,R Tewatia,0,0,0,,,,,,,,,,,,,,,,,,162
+Punjab Kings,0,1,0.1,5.6,mandatory,Priyansh Arya,Mohammed Siraj,P Simran Singh,0,0,0,,,,,,,,,,,M Prasidh Krishna,M Shahrukh Khan,Gujarat Titans,impact_player,,20.0,163.0,0
+Punjab Kings,0,2,0.1,5.6,mandatory,Priyansh Arya,Mohammed Siraj,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,0
+Punjab Kings,0,3,0.1,5.6,mandatory,Priyansh Arya,Mohammed Siraj,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,0
+Punjab Kings,0,4,0.1,5.6,mandatory,Priyansh Arya,Mohammed Siraj,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,0
+Punjab Kings,0,5,0.1,5.6,mandatory,Priyansh Arya,Mohammed Siraj,P Simran Singh,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,6
+Punjab Kings,0,6,0.1,5.6,mandatory,Priyansh Arya,Mohammed Siraj,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,7
+Punjab Kings,1,1,0.1,5.6,mandatory,Priyansh Arya,K Rabada,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,7
+Punjab Kings,1,2,0.1,5.6,mandatory,Priyansh Arya,K Rabada,P Simran Singh,0,0,0,,,,,,,,,Priyansh Arya,caught,,,,,Ashok Sharma,20.0,163.0,7
+Punjab Kings,1,3,0.1,5.6,mandatory,C Connolly,K Rabada,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,7
+Punjab Kings,1,4,0.1,5.6,mandatory,C Connolly,K Rabada,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,8
+Punjab Kings,1,5,0.1,5.6,mandatory,P Simran Singh,K Rabada,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,9
+Punjab Kings,1,6,0.1,5.6,mandatory,C Connolly,K Rabada,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,10
+Punjab Kings,2,1,0.1,5.6,mandatory,C Connolly,Mohammed Siraj,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,10
+Punjab Kings,2,2,0.1,5.6,mandatory,C Connolly,Mohammed Siraj,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,11
+Punjab Kings,2,3,0.1,5.6,mandatory,P Simran Singh,Mohammed Siraj,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,11
+Punjab Kings,2,4,0.1,5.6,mandatory,P Simran Singh,Mohammed Siraj,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,12
+Punjab Kings,2,5,0.1,5.6,mandatory,C Connolly,Mohammed Siraj,P Simran Singh,2,0,2,,,,,,,,,,,,,,,,20.0,163.0,14
+Punjab Kings,2,6,0.1,5.6,mandatory,C Connolly,Mohammed Siraj,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,20.0,163.0,18
+Punjab Kings,3,1,0.1,5.6,mandatory,P Simran Singh,K Rabada,C Connolly,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,24
+Punjab Kings,3,2,0.1,5.6,mandatory,P Simran Singh,K Rabada,C Connolly,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,30
+Punjab Kings,3,3,0.1,5.6,mandatory,P Simran Singh,K Rabada,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,30
+Punjab Kings,3,4,0.1,5.6,mandatory,P Simran Singh,K Rabada,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,31
+Punjab Kings,3,5,0.1,5.6,mandatory,C Connolly,K Rabada,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,31
+Punjab Kings,3,6,0.1,5.6,mandatory,C Connolly,K Rabada,P Simran Singh,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,37
+Punjab Kings,4,1,0.1,5.6,mandatory,P Simran Singh,Ashok Sharma,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,38
+Punjab Kings,4,2,0.1,5.6,mandatory,C Connolly,Ashok Sharma,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,38
+Punjab Kings,4,3,0.1,5.6,mandatory,C Connolly,Ashok Sharma,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,38
+Punjab Kings,4,4,0.1,5.6,mandatory,C Connolly,Ashok Sharma,P Simran Singh,0,1,1,1.0,,,,,,,,,,,,,,,20.0,163.0,39
+Punjab Kings,4,5,0.1,5.6,mandatory,C Connolly,Ashok Sharma,P Simran Singh,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,45
+Punjab Kings,4,6,0.1,5.6,mandatory,C Connolly,Ashok Sharma,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,46
+Punjab Kings,4,7,0.1,5.6,mandatory,P Simran Singh,Ashok Sharma,C Connolly,4,0,4,,,,,,,,,,,,,,,,20.0,163.0,50
+Punjab Kings,5,1,0.1,5.6,mandatory,C Connolly,Rashid Khan,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,50
+Punjab Kings,5,2,0.1,5.6,mandatory,C Connolly,Rashid Khan,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,20.0,163.0,54
+Punjab Kings,5,3,0.1,5.6,mandatory,C Connolly,Rashid Khan,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,55
+Punjab Kings,5,4,0.1,5.6,mandatory,P Simran Singh,Rashid Khan,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,55
+Punjab Kings,5,5,0.1,5.6,mandatory,P Simran Singh,Rashid Khan,C Connolly,0,0,0,,,,Punjab Kings,Abhijit Bhattacharya,P Simran Singh,upheld,wicket,,,,,,,,20.0,163.0,55
+Punjab Kings,5,6,0.1,5.6,mandatory,P Simran Singh,Rashid Khan,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,55
+Punjab Kings,6,1,0.1,5.6,mandatory,C Connolly,Washington Sundar,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,56
+Punjab Kings,6,2,0.1,5.6,mandatory,P Simran Singh,Washington Sundar,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,56
+Punjab Kings,6,3,0.1,5.6,mandatory,P Simran Singh,Washington Sundar,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,57
+Punjab Kings,6,4,0.1,5.6,mandatory,C Connolly,Washington Sundar,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,58
+Punjab Kings,6,5,0.1,5.6,mandatory,P Simran Singh,Washington Sundar,C Connolly,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,64
+Punjab Kings,6,6,0.1,5.6,mandatory,P Simran Singh,Washington Sundar,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,64
+Punjab Kings,7,1,0.1,5.6,mandatory,C Connolly,Rashid Khan,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,64
+Punjab Kings,7,2,0.1,5.6,mandatory,C Connolly,Rashid Khan,P Simran Singh,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,70
+Punjab Kings,7,3,0.1,5.6,mandatory,C Connolly,Rashid Khan,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,71
+Punjab Kings,7,4,0.1,5.6,mandatory,P Simran Singh,Rashid Khan,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,71
+Punjab Kings,7,5,0.1,5.6,mandatory,P Simran Singh,Rashid Khan,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,71
+Punjab Kings,7,6,0.1,5.6,mandatory,P Simran Singh,Rashid Khan,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,72
+Punjab Kings,8,1,0.1,5.6,mandatory,P Simran Singh,Washington Sundar,C Connolly,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,78
+Punjab Kings,8,2,0.1,5.6,mandatory,P Simran Singh,Washington Sundar,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,79
+Punjab Kings,8,3,0.1,5.6,mandatory,C Connolly,Washington Sundar,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,79
+Punjab Kings,8,4,0.1,5.6,mandatory,C Connolly,Washington Sundar,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,80
+Punjab Kings,8,5,0.1,5.6,mandatory,P Simran Singh,Washington Sundar,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,81
+Punjab Kings,8,6,0.1,5.6,mandatory,C Connolly,Washington Sundar,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,81
+Punjab Kings,9,1,0.1,5.6,mandatory,P Simran Singh,Rashid Khan,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,82
+Punjab Kings,9,2,0.1,5.6,mandatory,C Connolly,Rashid Khan,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,83
+Punjab Kings,9,3,0.1,5.6,mandatory,P Simran Singh,Rashid Khan,C Connolly,0,0,0,,,,,,,,,P Simran Singh,caught,,,,,M Prasidh Krishna,20.0,163.0,83
+Punjab Kings,9,4,0.1,5.6,mandatory,SS Iyer,Rashid Khan,C Connolly,2,0,2,,,,,,,,,,,,,,,,20.0,163.0,85
+Punjab Kings,9,5,0.1,5.6,mandatory,SS Iyer,Rashid Khan,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,86
+Punjab Kings,9,6,0.1,5.6,mandatory,C Connolly,Rashid Khan,SS Iyer,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,86
+Punjab Kings,10,1,0.1,5.6,mandatory,SS Iyer,Ashok Sharma,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,86
+Punjab Kings,10,2,0.1,5.6,mandatory,SS Iyer,Ashok Sharma,C Connolly,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,92
+Punjab Kings,10,3,0.1,5.6,mandatory,SS Iyer,Ashok Sharma,C Connolly,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,98
+Punjab Kings,10,4,0.1,5.6,mandatory,SS Iyer,Ashok Sharma,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,98
+Punjab Kings,10,5,0.1,5.6,mandatory,SS Iyer,Ashok Sharma,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,98
+Punjab Kings,10,6,0.1,5.6,mandatory,SS Iyer,Ashok Sharma,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,99
+Punjab Kings,11,1,0.1,5.6,mandatory,SS Iyer,Rashid Khan,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,100
+Punjab Kings,11,2,0.1,5.6,mandatory,C Connolly,Rashid Khan,SS Iyer,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,106
+Punjab Kings,11,3,0.1,5.6,mandatory,C Connolly,Rashid Khan,SS Iyer,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,107
+Punjab Kings,11,4,0.1,5.6,mandatory,SS Iyer,Rashid Khan,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,108
+Punjab Kings,11,5,0.1,5.6,mandatory,C Connolly,Rashid Khan,SS Iyer,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,108
+Punjab Kings,11,6,0.1,5.6,mandatory,C Connolly,Rashid Khan,SS Iyer,2,0,2,,,,,,,,,,,,,,,,20.0,163.0,110
+Punjab Kings,12,1,0.1,5.6,mandatory,SS Iyer,M Prasidh Krishna,C Connolly,0,0,0,,,,,,,,,SS Iyer,caught,,,,,Washington Sundar,20.0,163.0,110
+Punjab Kings,12,2,0.1,5.6,mandatory,N Wadhera,M Prasidh Krishna,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,110
+Punjab Kings,12,3,0.1,5.6,mandatory,N Wadhera,M Prasidh Krishna,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,110
+Punjab Kings,12,4,0.1,5.6,mandatory,N Wadhera,M Prasidh Krishna,C Connolly,2,0,2,,,,,,,,,,,,,,,,20.0,163.0,112
+Punjab Kings,12,5,0.1,5.6,mandatory,N Wadhera,M Prasidh Krishna,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,112
+Punjab Kings,12,6,0.1,5.6,mandatory,N Wadhera,M Prasidh Krishna,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,113
+Punjab Kings,13,1,0.1,5.6,mandatory,N Wadhera,Washington Sundar,C Connolly,0,0,0,,,,,,,,,N Wadhera,caught,,,,,Shubman Gill,20.0,163.0,113
+Punjab Kings,13,2,0.1,5.6,mandatory,Shashank Singh,Washington Sundar,C Connolly,2,0,2,,,,,,,,,,,,,,,,20.0,163.0,115
+Punjab Kings,13,3,0.1,5.6,mandatory,Shashank Singh,Washington Sundar,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,116
+Punjab Kings,13,4,0.1,5.6,mandatory,C Connolly,Washington Sundar,Shashank Singh,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,116
+Punjab Kings,13,5,0.1,5.6,mandatory,C Connolly,Washington Sundar,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,117
+Punjab Kings,13,6,0.1,5.6,mandatory,Shashank Singh,Washington Sundar,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,118
+Punjab Kings,14,1,0.1,5.6,mandatory,Shashank Singh,M Prasidh Krishna,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,118
+Punjab Kings,14,2,0.1,5.6,mandatory,Shashank Singh,M Prasidh Krishna,C Connolly,0,0,0,,,,,,,,,Shashank Singh,caught,,,,,JC Buttler,20.0,163.0,118
+Punjab Kings,14,3,0.1,5.6,mandatory,MP Stoinis,M Prasidh Krishna,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,118
+Punjab Kings,14,4,0.1,5.6,mandatory,MP Stoinis,M Prasidh Krishna,C Connolly,0,0,0,,,,,,,,,MP Stoinis,caught,,,,,Rashid Khan,20.0,163.0,118
+Punjab Kings,14,5,0.1,5.6,mandatory,M Jansen,M Prasidh Krishna,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,119
+Punjab Kings,14,6,0.1,5.6,mandatory,C Connolly,M Prasidh Krishna,M Jansen,0,1,1,1.0,,,,,,,,,,,,,,,20.0,163.0,120
+Punjab Kings,14,7,0.1,5.6,mandatory,C Connolly,M Prasidh Krishna,M Jansen,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,121
+Punjab Kings,15,1,0.1,5.6,mandatory,C Connolly,K Rabada,M Jansen,4,0,4,,,,,,,,,,,,,,,,20.0,163.0,125
+Punjab Kings,15,2,0.1,5.6,mandatory,C Connolly,K Rabada,M Jansen,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,126
+Punjab Kings,15,3,0.1,5.6,mandatory,M Jansen,K Rabada,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,126
+Punjab Kings,15,4,0.1,5.6,mandatory,M Jansen,K Rabada,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,127
+Punjab Kings,15,5,0.1,5.6,mandatory,C Connolly,K Rabada,M Jansen,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,127
+Punjab Kings,15,6,0.1,5.6,mandatory,C Connolly,K Rabada,M Jansen,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,133
+Punjab Kings,16,1,0.1,5.6,mandatory,M Jansen,M Prasidh Krishna,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,133
+Punjab Kings,16,2,0.1,5.6,mandatory,M Jansen,M Prasidh Krishna,C Connolly,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,139
+Punjab Kings,16,3,0.1,5.6,mandatory,M Jansen,M Prasidh Krishna,C Connolly,0,1,1,1.0,,,,,,,,,,,,,,,20.0,163.0,140
+Punjab Kings,16,4,0.1,5.6,mandatory,M Jansen,M Prasidh Krishna,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,141
+Punjab Kings,16,5,0.1,5.6,mandatory,C Connolly,M Prasidh Krishna,M Jansen,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,141
+Punjab Kings,16,6,0.1,5.6,mandatory,C Connolly,M Prasidh Krishna,M Jansen,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,142
+Punjab Kings,16,7,0.1,5.6,mandatory,M Jansen,M Prasidh Krishna,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,142
+Punjab Kings,17,1,0.1,5.6,mandatory,C Connolly,Ashok Sharma,M Jansen,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,143
+Punjab Kings,17,2,0.1,5.6,mandatory,M Jansen,Ashok Sharma,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,143
+Punjab Kings,17,3,0.1,5.6,mandatory,M Jansen,Ashok Sharma,C Connolly,0,1,1,1.0,,,,,,,,,,,,,,,20.0,163.0,144
+Punjab Kings,17,4,0.1,5.6,mandatory,M Jansen,Ashok Sharma,C Connolly,0,0,0,,,,,,,,,,,,,,,,20.0,163.0,144
+Punjab Kings,17,5,0.1,5.6,mandatory,M Jansen,Ashok Sharma,C Connolly,0,0,0,,,,,,,,,M Jansen,caught,,,,,Shubman Gill,20.0,163.0,144
+Punjab Kings,17,6,0.1,5.6,mandatory,XC Bartlett,Ashok Sharma,C Connolly,2,0,2,,,,,,,,,,,,,,,,20.0,163.0,146
+Punjab Kings,17,7,0.1,5.6,mandatory,XC Bartlett,Ashok Sharma,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,147
+Punjab Kings,18,1,0.1,5.6,mandatory,XC Bartlett,M Prasidh Krishna,C Connolly,6,0,6,,,,,,,,,,,,,,,,20.0,163.0,153
+Punjab Kings,18,2,0.1,5.6,mandatory,XC Bartlett,M Prasidh Krishna,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,154
+Punjab Kings,18,3,0.1,5.6,mandatory,C Connolly,M Prasidh Krishna,XC Bartlett,4,0,4,,,,,,,,,,,,,,,,20.0,163.0,158
+Punjab Kings,18,4,0.1,5.6,mandatory,C Connolly,M Prasidh Krishna,XC Bartlett,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,159
+Punjab Kings,18,5,0.1,5.6,mandatory,XC Bartlett,M Prasidh Krishna,C Connolly,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,160
+Punjab Kings,18,6,0.1,5.6,mandatory,C Connolly,M Prasidh Krishna,XC Bartlett,1,0,1,,,,,,,,,,,,,,,,20.0,163.0,161
+Punjab Kings,19,1,0.1,5.6,mandatory,C Connolly,Washington Sundar,XC Bartlett,4,0,4,,,,,,,,,,,,,,,,20.0,163.0,165

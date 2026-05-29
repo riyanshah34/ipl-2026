@@ -1,0 +1,254 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,wides,batter_runs,extra_runs,total_runs,legbyes,review_by,review_umpire,review_batter,review_decision,review_type,noballs,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Punjab Kings,0,1,0.1,5.6,mandatory,Priyansh Arya,Mohammed Shami,P Simran Singh,1.0,0,1,1,,,,,,,,,,,,,,,,,1
+Punjab Kings,0,2,0.1,5.6,mandatory,Priyansh Arya,Mohammed Shami,P Simran Singh,,0,0,0,,,,,,,,,,,,,,,,,1
+Punjab Kings,0,3,0.1,5.6,mandatory,Priyansh Arya,Mohammed Shami,P Simran Singh,1.0,0,1,1,,,,,,,,,,,,,,,,,2
+Punjab Kings,0,4,0.1,5.6,mandatory,Priyansh Arya,Mohammed Shami,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,,,3
+Punjab Kings,0,5,0.1,5.6,mandatory,P Simran Singh,Mohammed Shami,Priyansh Arya,,0,0,0,,,,,,,,P Simran Singh,caught,,,,,MR Marsh,,,3
+Punjab Kings,0,6,0.1,5.6,mandatory,C Connolly,Mohammed Shami,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,3
+Punjab Kings,0,7,0.1,5.6,mandatory,C Connolly,Mohammed Shami,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,3
+Punjab Kings,0,8,0.1,5.6,mandatory,C Connolly,Mohammed Shami,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,,,7
+Punjab Kings,1,1,0.1,5.6,mandatory,Priyansh Arya,Mohsin Khan,C Connolly,,6,0,6,,,,,,,,,,,,,,,,,13
+Punjab Kings,1,2,0.1,5.6,mandatory,Priyansh Arya,Mohsin Khan,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,14
+Punjab Kings,1,3,0.1,5.6,mandatory,C Connolly,Mohsin Khan,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,14
+Punjab Kings,1,4,0.1,5.6,mandatory,C Connolly,Mohsin Khan,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,14
+Punjab Kings,1,5,0.1,5.6,mandatory,C Connolly,Mohsin Khan,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,14
+Punjab Kings,1,6,0.1,5.6,mandatory,C Connolly,Mohsin Khan,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,15
+Punjab Kings,2,1,0.1,5.6,mandatory,C Connolly,Mohammed Shami,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,,,19
+Punjab Kings,2,2,0.1,5.6,mandatory,C Connolly,Mohammed Shami,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,19
+Punjab Kings,2,3,0.1,5.6,mandatory,C Connolly,Mohammed Shami,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,20
+Punjab Kings,2,4,0.1,5.6,mandatory,Priyansh Arya,Mohammed Shami,C Connolly,,4,0,4,,,,,,,,,,,,,,,,,24
+Punjab Kings,2,5,0.1,5.6,mandatory,Priyansh Arya,Mohammed Shami,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,25
+Punjab Kings,2,6,0.1,5.6,mandatory,C Connolly,Mohammed Shami,Priyansh Arya,,0,1,1,1.0,,,,,,,,,,,,,,,,26
+Punjab Kings,3,1,0.1,5.6,mandatory,C Connolly,Mohsin Khan,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,26
+Punjab Kings,3,2,0.1,5.6,mandatory,C Connolly,Mohsin Khan,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,,,30
+Punjab Kings,3,3,0.1,5.6,mandatory,C Connolly,Mohsin Khan,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,30
+Punjab Kings,3,4,0.1,5.6,mandatory,C Connolly,Mohsin Khan,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,31
+Punjab Kings,3,5,0.1,5.6,mandatory,Priyansh Arya,Mohsin Khan,C Connolly,,2,0,2,,,,,,,,,,,,,,,,,33
+Punjab Kings,3,6,0.1,5.6,mandatory,Priyansh Arya,Mohsin Khan,C Connolly,,6,0,6,,,,,,,,,,,,,,,,,39
+Punjab Kings,4,1,0.1,5.6,mandatory,C Connolly,Prince Yadav,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,39
+Punjab Kings,4,2,0.1,5.6,mandatory,C Connolly,Prince Yadav,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,39
+Punjab Kings,4,3,0.1,5.6,mandatory,C Connolly,Prince Yadav,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,39
+Punjab Kings,4,4,0.1,5.6,mandatory,C Connolly,Prince Yadav,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,39
+Punjab Kings,4,5,0.1,5.6,mandatory,C Connolly,Prince Yadav,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,39
+Punjab Kings,4,6,0.1,5.6,mandatory,C Connolly,Prince Yadav,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,,,43
+Punjab Kings,5,1,0.1,5.6,mandatory,Priyansh Arya,Mohsin Khan,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,44
+Punjab Kings,5,2,0.1,5.6,mandatory,C Connolly,Mohsin Khan,Priyansh Arya,,0,1,1,1.0,,,,,,,,,,,,,,,,45
+Punjab Kings,5,3,0.1,5.6,mandatory,Priyansh Arya,Mohsin Khan,C Connolly,,4,0,4,,,,,,,,,,,,,,,,,49
+Punjab Kings,5,4,0.1,5.6,mandatory,Priyansh Arya,Mohsin Khan,C Connolly,,6,0,6,,,,,,,,,,,,,,,,,55
+Punjab Kings,5,5,0.1,5.6,mandatory,Priyansh Arya,Mohsin Khan,C Connolly,,2,0,2,,,,,,,,,,,,,,,,,57
+Punjab Kings,5,6,0.1,5.6,mandatory,Priyansh Arya,Mohsin Khan,C Connolly,,6,0,6,,,,,,,,,,,,,,,,,63
+Punjab Kings,6,1,0.1,5.6,mandatory,C Connolly,A Badoni,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,,,67
+Punjab Kings,6,2,0.1,5.6,mandatory,C Connolly,A Badoni,Priyansh Arya,,6,0,6,,,,,,,,,,,,,,,,,73
+Punjab Kings,6,3,0.1,5.6,mandatory,C Connolly,A Badoni,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,74
+Punjab Kings,6,4,0.1,5.6,mandatory,Priyansh Arya,A Badoni,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,75
+Punjab Kings,6,5,0.1,5.6,mandatory,C Connolly,A Badoni,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,76
+Punjab Kings,6,6,0.1,5.6,mandatory,Priyansh Arya,A Badoni,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,77
+Punjab Kings,7,1,0.1,5.6,mandatory,Priyansh Arya,Avesh Khan,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,78
+Punjab Kings,7,2,0.1,5.6,mandatory,C Connolly,Avesh Khan,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,78
+Punjab Kings,7,3,0.1,5.6,mandatory,C Connolly,Avesh Khan,Priyansh Arya,,6,0,6,,,,,,,,,,,,,,,,,84
+Punjab Kings,7,4,0.1,5.6,mandatory,C Connolly,Avesh Khan,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,85
+Punjab Kings,7,5,0.1,5.6,mandatory,Priyansh Arya,Avesh Khan,C Connolly,,4,0,4,,,,,,,,,,,,,,,,,89
+Punjab Kings,7,6,0.1,5.6,mandatory,Priyansh Arya,Avesh Khan,C Connolly,,2,0,2,,,,,,,,,,,,,,,,,91
+Punjab Kings,8,1,0.1,5.6,mandatory,C Connolly,M Siddharth,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,92
+Punjab Kings,8,2,0.1,5.6,mandatory,Priyansh Arya,M Siddharth,C Connolly,,2,0,2,,,,,,,,,,,,,,,,,94
+Punjab Kings,8,3,0.1,5.6,mandatory,Priyansh Arya,M Siddharth,C Connolly,,4,0,4,,,,,,,,,,,,,,,,,98
+Punjab Kings,8,4,0.1,5.6,mandatory,Priyansh Arya,M Siddharth,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,99
+Punjab Kings,8,5,0.1,5.6,mandatory,C Connolly,M Siddharth,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,100
+Punjab Kings,8,6,0.1,5.6,mandatory,Priyansh Arya,M Siddharth,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,101
+Punjab Kings,9,1,0.1,5.6,mandatory,Priyansh Arya,Prince Yadav,C Connolly,,0,0,0,,,,,,,,,,,,,,,,,101
+Punjab Kings,9,2,0.1,5.6,mandatory,Priyansh Arya,Prince Yadav,C Connolly,,0,0,0,,,,,,,,,,,,,,,,,101
+Punjab Kings,9,3,0.1,5.6,mandatory,Priyansh Arya,Prince Yadav,C Connolly,,6,0,6,,,,,,,,,,,,,,,,,107
+Punjab Kings,9,4,0.1,5.6,mandatory,Priyansh Arya,Prince Yadav,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,108
+Punjab Kings,9,5,0.1,5.6,mandatory,C Connolly,Prince Yadav,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,109
+Punjab Kings,9,6,0.1,5.6,mandatory,Priyansh Arya,Prince Yadav,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,110
+Punjab Kings,10,1,0.1,5.6,mandatory,Priyansh Arya,Mohammed Shami,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,111
+Punjab Kings,10,2,0.1,5.6,mandatory,C Connolly,Mohammed Shami,Priyansh Arya,,6,0,6,,,,,,,,,,,,,,,,,117
+Punjab Kings,10,3,0.1,5.6,mandatory,C Connolly,Mohammed Shami,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,118
+Punjab Kings,10,4,0.1,5.6,mandatory,Priyansh Arya,Mohammed Shami,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,119
+Punjab Kings,10,5,0.1,5.6,mandatory,C Connolly,Mohammed Shami,Priyansh Arya,,6,0,6,,,,,,,,,,,,,,,,,125
+Punjab Kings,10,6,0.1,5.6,mandatory,C Connolly,Mohammed Shami,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,,,129
+Punjab Kings,11,1,0.1,5.6,mandatory,Priyansh Arya,Avesh Khan,C Connolly,,6,0,6,,,,,,,,,,,,,,,,,135
+Punjab Kings,11,2,0.1,5.6,mandatory,Priyansh Arya,Avesh Khan,C Connolly,,6,0,6,,,,,,,,,,,,,,,,,141
+Punjab Kings,11,3,0.1,5.6,mandatory,Priyansh Arya,Avesh Khan,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,142
+Punjab Kings,11,4,0.1,5.6,mandatory,C Connolly,Avesh Khan,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,,,146
+Punjab Kings,11,5,0.1,5.6,mandatory,C Connolly,Avesh Khan,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,147
+Punjab Kings,11,6,0.1,5.6,mandatory,Priyansh Arya,Avesh Khan,C Connolly,,0,0,0,,,,,,,,,,,,,,,,,147
+Punjab Kings,12,1,0.1,5.6,mandatory,C Connolly,AK Markram,Priyansh Arya,,6,0,6,,,,,,,,,,,,,,,,,153
+Punjab Kings,12,2,0.1,5.6,mandatory,C Connolly,AK Markram,Priyansh Arya,,6,0,6,,,,,,,,,,,,,,,,,159
+Punjab Kings,12,3,0.1,5.6,mandatory,C Connolly,AK Markram,Priyansh Arya,,6,0,6,,,,,,,,,,,,,,,,,165
+Punjab Kings,12,4,0.1,5.6,mandatory,C Connolly,AK Markram,Priyansh Arya,1.0,0,1,1,,,,,,,,,,,,,,,,,166
+Punjab Kings,12,5,0.1,5.6,mandatory,C Connolly,AK Markram,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,167
+Punjab Kings,12,6,0.1,5.6,mandatory,Priyansh Arya,AK Markram,C Connolly,,6,0,6,,,,,,,,,,,,,,,,,173
+Punjab Kings,12,7,0.1,5.6,mandatory,Priyansh Arya,AK Markram,C Connolly,,6,0,6,,,,,,,,,,,,,,,,,179
+Punjab Kings,13,1,0.1,5.6,mandatory,C Connolly,Prince Yadav,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,179
+Punjab Kings,13,2,0.1,5.6,mandatory,C Connolly,Prince Yadav,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,,,183
+Punjab Kings,13,3,0.1,5.6,mandatory,C Connolly,Prince Yadav,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,184
+Punjab Kings,13,4,0.1,5.6,mandatory,Priyansh Arya,Prince Yadav,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,185
+Punjab Kings,13,5,0.1,5.6,mandatory,C Connolly,Prince Yadav,Priyansh Arya,,0,0,0,,,,,,,,C Connolly,caught,,,,,M Siddharth,,,185
+Punjab Kings,13,6,0.1,5.6,mandatory,SS Iyer,Prince Yadav,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,186
+Punjab Kings,14,1,0.1,5.6,mandatory,SS Iyer,M Siddharth,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,187
+Punjab Kings,14,2,0.1,5.6,mandatory,Priyansh Arya,M Siddharth,SS Iyer,,0,0,0,,,,,,,,Priyansh Arya,caught,,,,,MR Marsh,,,187
+Punjab Kings,14,3,0.1,5.6,mandatory,MP Stoinis,M Siddharth,SS Iyer,,2,0,2,,,,,,,,,,,,,,,,,189
+Punjab Kings,14,4,0.1,5.6,mandatory,MP Stoinis,M Siddharth,SS Iyer,,1,0,1,,,,,,,,,,,,,,,,,190
+Punjab Kings,14,5,0.1,5.6,mandatory,SS Iyer,M Siddharth,MP Stoinis,,2,0,2,,,,,,,,,,,,,,,,,192
+Punjab Kings,14,6,0.1,5.6,mandatory,SS Iyer,M Siddharth,MP Stoinis,,1,0,1,,,,,,,,,,,,,,,,,193
+Punjab Kings,15,1,0.1,5.6,mandatory,SS Iyer,Mohsin Khan,MP Stoinis,,0,0,0,,,,,,,,,,,,,,,,,193
+Punjab Kings,15,2,0.1,5.6,mandatory,SS Iyer,Mohsin Khan,MP Stoinis,,0,0,0,,,,,,,,SS Iyer,caught,,,,,Mohammed Shami,,,193
+Punjab Kings,15,3,0.1,5.6,mandatory,N Wadhera,Mohsin Khan,MP Stoinis,,1,0,1,,,,,,,,,,,,,,,,,194
+Punjab Kings,15,4,0.1,5.6,mandatory,MP Stoinis,Mohsin Khan,N Wadhera,,1,0,1,,,,,,,,,,,,,,,,,195
+Punjab Kings,15,5,0.1,5.6,mandatory,N Wadhera,Mohsin Khan,MP Stoinis,,0,0,0,,,,,,,,,,,,,,,,,195
+Punjab Kings,15,6,0.1,5.6,mandatory,N Wadhera,Mohsin Khan,MP Stoinis,,1,0,1,,,,,,,,,,,,,,,,,196
+Punjab Kings,16,1,0.1,5.6,mandatory,N Wadhera,M Siddharth,MP Stoinis,,1,0,1,,,,,,,,,,Himmat Singh,Mohsin Khan,Lucknow Super Giants,impact_player,,,,197
+Punjab Kings,16,2,0.1,5.6,mandatory,MP Stoinis,M Siddharth,N Wadhera,,1,0,1,,,,,,,,,,,,,,,,,198
+Punjab Kings,16,3,0.1,5.6,mandatory,N Wadhera,M Siddharth,MP Stoinis,,4,0,4,,,,,,,,,,,,,,,,,202
+Punjab Kings,16,4,0.1,5.6,mandatory,N Wadhera,M Siddharth,MP Stoinis,,6,0,6,,,,,,,,,,,,,,,,,208
+Punjab Kings,16,5,0.1,5.6,mandatory,N Wadhera,M Siddharth,MP Stoinis,,0,0,0,,,,,,,,N Wadhera,caught,,,,,N Pooran,,,208
+Punjab Kings,16,6,0.1,5.6,mandatory,Shashank Singh,M Siddharth,MP Stoinis,,6,0,6,,,,,,,,,,,,,,,,,214
+Punjab Kings,17,1,0.1,5.6,mandatory,MP Stoinis,Avesh Khan,Shashank Singh,,4,0,4,,,,,,,,,,,,,,,,,218
+Punjab Kings,17,2,0.1,5.6,mandatory,MP Stoinis,Avesh Khan,Shashank Singh,,6,0,6,,,,,,,,,,,,,,,,,224
+Punjab Kings,17,3,0.1,5.6,mandatory,MP Stoinis,Avesh Khan,Shashank Singh,,0,0,0,,,,,,,,,,,,,,,,,224
+Punjab Kings,17,4,0.1,5.6,mandatory,MP Stoinis,Avesh Khan,Shashank Singh,,4,0,4,,,,,,,,,,,,,,,,,228
+Punjab Kings,17,5,0.1,5.6,mandatory,MP Stoinis,Avesh Khan,Shashank Singh,,0,1,1,1.0,,,,,,,,,,,,,,,,229
+Punjab Kings,17,6,0.1,5.6,mandatory,Shashank Singh,Avesh Khan,MP Stoinis,,0,0,0,,,,,,,,,,,,,,,,,229
+Punjab Kings,18,1,0.1,5.6,mandatory,MP Stoinis,Mohammed Shami,Shashank Singh,1.0,0,1,1,,,,,,,,,,,,,,,,,230
+Punjab Kings,18,2,0.1,5.6,mandatory,MP Stoinis,Mohammed Shami,Shashank Singh,1.0,0,1,1,,,,,,,,,,,,,,,,,231
+Punjab Kings,18,3,0.1,5.6,mandatory,MP Stoinis,Mohammed Shami,Shashank Singh,,0,0,0,,,,,,,,,,,,,,,,,231
+Punjab Kings,18,4,0.1,5.6,mandatory,MP Stoinis,Mohammed Shami,Shashank Singh,,0,0,0,,,,,,,,,,,,,,,,,231
+Punjab Kings,18,5,0.1,5.6,mandatory,MP Stoinis,Mohammed Shami,Shashank Singh,,6,0,6,,,,,,,,,,,,,,,,,237
+Punjab Kings,18,6,0.1,5.6,mandatory,MP Stoinis,Mohammed Shami,Shashank Singh,,1,0,1,,,,,,,,,,,,,,,,,238
+Punjab Kings,18,7,0.1,5.6,mandatory,Shashank Singh,Mohammed Shami,MP Stoinis,1.0,0,1,1,,,,,,,,,,,,,,,,,239
+Punjab Kings,18,8,0.1,5.6,mandatory,Shashank Singh,Mohammed Shami,MP Stoinis,,6,0,6,,,,,,,,,,,,,,,,,245
+Punjab Kings,18,9,0.1,5.6,mandatory,Shashank Singh,Mohammed Shami,MP Stoinis,,4,0,4,,,,,,,,,,,,,,,,,249
+Punjab Kings,19,1,0.1,5.6,mandatory,MP Stoinis,Prince Yadav,Shashank Singh,,1,0,1,,,,,,,,,,,,,,,,,250
+Punjab Kings,19,2,0.1,5.6,mandatory,Shashank Singh,Prince Yadav,MP Stoinis,,1,0,1,,,,,,,,,,,,,,,,,251
+Punjab Kings,19,3,0.1,5.6,mandatory,MP Stoinis,Prince Yadav,Shashank Singh,,1,0,1,,,,,,,,,,,,,,,,,252
+Punjab Kings,19,4,0.1,5.6,mandatory,Shashank Singh,Prince Yadav,MP Stoinis,,0,0,0,,,,,,,,Shashank Singh,caught,,,,,AK Markram,,,252
+Punjab Kings,19,5,0.1,5.6,mandatory,M Jansen,Prince Yadav,MP Stoinis,,1,0,1,,,,,,,,,,,,,,,,,253
+Punjab Kings,19,6,0.1,5.6,mandatory,MP Stoinis,Prince Yadav,M Jansen,,1,0,1,,,,,,,,MP Stoinis,run out,,,,,N Pooran,,,254
+Lucknow Super Giants,0,1,0.1,5.6,mandatory,MR Marsh,Arshdeep Singh,A Badoni,,1,0,1,,,,,,,,,,Vijaykumar Vyshak,N Wadhera,Punjab Kings,impact_player,,20.0,255.0,1
+Lucknow Super Giants,0,2,0.1,5.6,mandatory,A Badoni,Arshdeep Singh,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,1
+Lucknow Super Giants,0,3,0.1,5.6,mandatory,A Badoni,Arshdeep Singh,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,1
+Lucknow Super Giants,0,4,0.1,5.6,mandatory,A Badoni,Arshdeep Singh,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,1
+Lucknow Super Giants,0,5,0.1,5.6,mandatory,A Badoni,Arshdeep Singh,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,2
+Lucknow Super Giants,0,6,0.1,5.6,mandatory,MR Marsh,Arshdeep Singh,A Badoni,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,2
+Lucknow Super Giants,1,1,0.1,5.6,mandatory,A Badoni,XC Bartlett,MR Marsh,1.0,0,1,1,,,,,,,,,,,,,,,20.0,255.0,3
+Lucknow Super Giants,1,2,0.1,5.6,mandatory,A Badoni,XC Bartlett,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,4
+Lucknow Super Giants,1,3,0.1,5.6,mandatory,MR Marsh,XC Bartlett,A Badoni,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,4
+Lucknow Super Giants,1,4,0.1,5.6,mandatory,MR Marsh,XC Bartlett,A Badoni,,6,0,6,,,,,,,,,,,,,,,20.0,255.0,10
+Lucknow Super Giants,1,5,0.1,5.6,mandatory,MR Marsh,XC Bartlett,A Badoni,,2,0,2,,,,,,,,,,,,,,,20.0,255.0,12
+Lucknow Super Giants,1,6,0.1,5.6,mandatory,MR Marsh,XC Bartlett,A Badoni,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,12
+Lucknow Super Giants,1,7,0.1,5.6,mandatory,MR Marsh,XC Bartlett,A Badoni,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,12
+Lucknow Super Giants,2,1,0.1,5.6,mandatory,A Badoni,Arshdeep Singh,MR Marsh,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,16
+Lucknow Super Giants,2,2,0.1,5.6,mandatory,A Badoni,Arshdeep Singh,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,16
+Lucknow Super Giants,2,3,0.1,5.6,mandatory,A Badoni,Arshdeep Singh,MR Marsh,,3,0,3,,,,,,,,,,,,,,,20.0,255.0,19
+Lucknow Super Giants,2,4,0.1,5.6,mandatory,MR Marsh,Arshdeep Singh,A Badoni,,2,0,2,,,,,,,,,,,,,,,20.0,255.0,21
+Lucknow Super Giants,2,5,0.1,5.6,mandatory,MR Marsh,Arshdeep Singh,A Badoni,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,25
+Lucknow Super Giants,2,6,0.1,5.6,mandatory,MR Marsh,Arshdeep Singh,A Badoni,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,29
+Lucknow Super Giants,3,1,0.1,5.6,mandatory,A Badoni,XC Bartlett,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,29
+Lucknow Super Giants,3,2,0.1,5.6,mandatory,A Badoni,XC Bartlett,MR Marsh,,6,0,6,,,,,,,,,,,,,,,20.0,255.0,35
+Lucknow Super Giants,3,3,0.1,5.6,mandatory,A Badoni,XC Bartlett,MR Marsh,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,39
+Lucknow Super Giants,3,4,0.1,5.6,mandatory,A Badoni,XC Bartlett,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,40
+Lucknow Super Giants,3,5,0.1,5.6,mandatory,MR Marsh,XC Bartlett,A Badoni,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,40
+Lucknow Super Giants,3,6,0.1,5.6,mandatory,MR Marsh,XC Bartlett,A Badoni,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,44
+Lucknow Super Giants,4,1,0.1,5.6,mandatory,A Badoni,M Jansen,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,45
+Lucknow Super Giants,4,2,0.1,5.6,mandatory,MR Marsh,M Jansen,A Badoni,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,45
+Lucknow Super Giants,4,3,0.1,5.6,mandatory,MR Marsh,M Jansen,A Badoni,,0,1,1,1.0,,,,,,,,,,,,,,20.0,255.0,46
+Lucknow Super Giants,4,4,0.1,5.6,mandatory,A Badoni,M Jansen,MR Marsh,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,50
+Lucknow Super Giants,4,5,0.1,5.6,mandatory,A Badoni,M Jansen,MR Marsh,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,54
+Lucknow Super Giants,4,6,0.1,5.6,mandatory,A Badoni,M Jansen,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,55
+Lucknow Super Giants,5,1,0.1,5.6,mandatory,A Badoni,Vijaykumar Vyshak,MR Marsh,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,59
+Lucknow Super Giants,5,2,0.1,5.6,mandatory,A Badoni,Vijaykumar Vyshak,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,60
+Lucknow Super Giants,5,3,0.1,5.6,mandatory,MR Marsh,Vijaykumar Vyshak,A Badoni,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,61
+Lucknow Super Giants,5,4,0.1,5.6,mandatory,A Badoni,Vijaykumar Vyshak,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,61
+Lucknow Super Giants,5,5,0.1,5.6,mandatory,A Badoni,Vijaykumar Vyshak,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,61
+Lucknow Super Giants,5,6,0.1,5.6,mandatory,A Badoni,Vijaykumar Vyshak,MR Marsh,,0,0,0,,,,,,,,A Badoni,caught,,,,,XC Bartlett,20.0,255.0,61
+Lucknow Super Giants,6,1,0.1,5.6,mandatory,MR Marsh,M Jansen,RR Pant,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,62
+Lucknow Super Giants,6,2,0.1,5.6,mandatory,RR Pant,M Jansen,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,63
+Lucknow Super Giants,6,3,0.1,5.6,mandatory,MR Marsh,M Jansen,RR Pant,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,64
+Lucknow Super Giants,6,4,0.1,5.6,mandatory,RR Pant,M Jansen,MR Marsh,,6,0,6,,,,,,,,,,,,,,,20.0,255.0,70
+Lucknow Super Giants,6,5,0.1,5.6,mandatory,RR Pant,M Jansen,MR Marsh,,6,0,6,,,,,,,,,,,,,,,20.0,255.0,76
+Lucknow Super Giants,6,6,0.1,5.6,mandatory,RR Pant,M Jansen,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,76
+Lucknow Super Giants,7,1,0.1,5.6,mandatory,MR Marsh,YS Chahal,RR Pant,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,77
+Lucknow Super Giants,7,2,0.1,5.6,mandatory,RR Pant,YS Chahal,MR Marsh,,2,0,2,,,,,,,,,,,,,,,20.0,255.0,79
+Lucknow Super Giants,7,3,0.1,5.6,mandatory,RR Pant,YS Chahal,MR Marsh,,2,0,2,,,,,,,,,,,,,,,20.0,255.0,81
+Lucknow Super Giants,7,4,0.1,5.6,mandatory,RR Pant,YS Chahal,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,82
+Lucknow Super Giants,7,5,0.1,5.6,mandatory,MR Marsh,YS Chahal,RR Pant,,6,0,6,,,,,,,,,,,,,,,20.0,255.0,88
+Lucknow Super Giants,7,6,0.1,5.6,mandatory,MR Marsh,YS Chahal,RR Pant,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,89
+Lucknow Super Giants,8,1,0.1,5.6,mandatory,MR Marsh,Vijaykumar Vyshak,RR Pant,1.0,0,1,1,,,,,,,,,,,,,,,20.0,255.0,90
+Lucknow Super Giants,8,2,0.1,5.6,mandatory,MR Marsh,Vijaykumar Vyshak,RR Pant,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,91
+Lucknow Super Giants,8,3,0.1,5.6,mandatory,RR Pant,Vijaykumar Vyshak,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,92
+Lucknow Super Giants,8,4,0.1,5.6,mandatory,MR Marsh,Vijaykumar Vyshak,RR Pant,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,93
+Lucknow Super Giants,8,5,0.1,5.6,mandatory,RR Pant,Vijaykumar Vyshak,MR Marsh,1.0,0,1,1,,,,,,,,,,,,,,,20.0,255.0,94
+Lucknow Super Giants,8,6,0.1,5.6,mandatory,RR Pant,Vijaykumar Vyshak,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,95
+Lucknow Super Giants,8,7,0.1,5.6,mandatory,MR Marsh,Vijaykumar Vyshak,RR Pant,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,96
+Lucknow Super Giants,8,8,0.1,5.6,mandatory,RR Pant,Vijaykumar Vyshak,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,97
+Lucknow Super Giants,9,1,0.1,5.6,mandatory,RR Pant,YS Chahal,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,97
+Lucknow Super Giants,9,2,0.1,5.6,mandatory,RR Pant,YS Chahal,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,98
+Lucknow Super Giants,9,3,0.1,5.6,mandatory,MR Marsh,YS Chahal,RR Pant,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,99
+Lucknow Super Giants,9,4,0.1,5.6,mandatory,RR Pant,YS Chahal,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,100
+Lucknow Super Giants,9,5,0.1,5.6,mandatory,MR Marsh,YS Chahal,RR Pant,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,101
+Lucknow Super Giants,9,6,0.1,5.6,mandatory,RR Pant,YS Chahal,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,102
+Lucknow Super Giants,10,1,0.1,5.6,mandatory,RR Pant,Vijaykumar Vyshak,MR Marsh,1.0,0,1,1,,,,,,,,,,,,,,,20.0,255.0,103
+Lucknow Super Giants,10,2,0.1,5.6,mandatory,RR Pant,Vijaykumar Vyshak,MR Marsh,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,107
+Lucknow Super Giants,10,3,0.1,5.6,mandatory,RR Pant,Vijaykumar Vyshak,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,108
+Lucknow Super Giants,10,4,0.1,5.6,mandatory,MR Marsh,Vijaykumar Vyshak,RR Pant,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,108
+Lucknow Super Giants,10,5,0.1,5.6,mandatory,MR Marsh,Vijaykumar Vyshak,RR Pant,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,109
+Lucknow Super Giants,10,6,0.1,5.6,mandatory,RR Pant,Vijaykumar Vyshak,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,109
+Lucknow Super Giants,10,7,0.1,5.6,mandatory,RR Pant,Vijaykumar Vyshak,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,109
+Lucknow Super Giants,11,1,0.1,5.6,mandatory,MR Marsh,YS Chahal,RR Pant,,0,0,0,,,,,,,,MR Marsh,caught,,,,,XC Bartlett,20.0,255.0,109
+Lucknow Super Giants,11,2,0.1,5.6,mandatory,N Pooran,YS Chahal,RR Pant,,0,1,1,1.0,,,,,,,,,,,,,,20.0,255.0,110
+Lucknow Super Giants,11,3,0.1,5.6,mandatory,RR Pant,YS Chahal,N Pooran,,6,0,6,,,,,,,,,,,,,,,20.0,255.0,116
+Lucknow Super Giants,11,4,0.1,5.6,mandatory,RR Pant,YS Chahal,N Pooran,,6,0,6,,,,,,,,,,,,,,,20.0,255.0,122
+Lucknow Super Giants,11,5,0.1,5.6,mandatory,RR Pant,YS Chahal,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,123
+Lucknow Super Giants,11,6,0.1,5.6,mandatory,N Pooran,YS Chahal,RR Pant,,0,0,0,,Punjab Kings,K Kelkar,N Pooran,struck down,wicket,,,,,,,,,20.0,255.0,123
+Lucknow Super Giants,12,1,0.1,5.6,mandatory,RR Pant,Arshdeep Singh,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,124
+Lucknow Super Giants,12,2,0.1,5.6,mandatory,N Pooran,Arshdeep Singh,RR Pant,,2,0,2,,,,,,,,,,,,,,,20.0,255.0,126
+Lucknow Super Giants,12,3,0.1,5.6,mandatory,N Pooran,Arshdeep Singh,RR Pant,1.0,0,1,1,,,,,,,,,,,,,,,20.0,255.0,127
+Lucknow Super Giants,12,4,0.1,5.6,mandatory,N Pooran,Arshdeep Singh,RR Pant,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,128
+Lucknow Super Giants,12,5,0.1,5.6,mandatory,RR Pant,Arshdeep Singh,N Pooran,,0,0,0,,Lucknow Super Giants,J Madanagopal,RR Pant,struck down,wicket,,RR Pant,caught,,,,,P Simran Singh,20.0,255.0,128
+Lucknow Super Giants,12,6,0.1,5.6,mandatory,AK Markram,Arshdeep Singh,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,129
+Lucknow Super Giants,12,7,0.1,5.6,mandatory,N Pooran,Arshdeep Singh,AK Markram,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,133
+Lucknow Super Giants,13,1,0.1,5.6,mandatory,AK Markram,YS Chahal,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,134
+Lucknow Super Giants,13,2,0.1,5.6,mandatory,N Pooran,YS Chahal,AK Markram,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,134
+Lucknow Super Giants,13,3,0.1,5.6,mandatory,N Pooran,YS Chahal,AK Markram,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,135
+Lucknow Super Giants,13,4,0.1,5.6,mandatory,AK Markram,YS Chahal,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,136
+Lucknow Super Giants,13,5,0.1,5.6,mandatory,N Pooran,YS Chahal,AK Markram,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,137
+Lucknow Super Giants,13,6,0.1,5.6,mandatory,AK Markram,YS Chahal,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,138
+Lucknow Super Giants,14,1,0.1,5.6,mandatory,AK Markram,M Jansen,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,139
+Lucknow Super Giants,14,2,0.1,5.6,mandatory,N Pooran,M Jansen,AK Markram,,0,0,0,,,,,,,,N Pooran,caught,,,,,SS Iyer,20.0,255.0,139
+Lucknow Super Giants,14,3,0.1,5.6,mandatory,MD Choudhary,M Jansen,AK Markram,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,139
+Lucknow Super Giants,14,4,0.1,5.6,mandatory,MD Choudhary,M Jansen,AK Markram,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,140
+Lucknow Super Giants,14,5,0.1,5.6,mandatory,AK Markram,M Jansen,MD Choudhary,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,141
+Lucknow Super Giants,14,6,0.1,5.6,mandatory,MD Choudhary,M Jansen,AK Markram,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,142
+Lucknow Super Giants,15,1,0.1,5.6,mandatory,MD Choudhary,XC Bartlett,AK Markram,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,143
+Lucknow Super Giants,15,2,0.1,5.6,mandatory,AK Markram,XC Bartlett,MD Choudhary,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,144
+Lucknow Super Giants,15,3,0.1,5.6,mandatory,MD Choudhary,XC Bartlett,AK Markram,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,145
+Lucknow Super Giants,15,4,0.1,5.6,mandatory,AK Markram,XC Bartlett,MD Choudhary,,6,0,6,,,,,,,,,,,,,,,20.0,255.0,151
+Lucknow Super Giants,15,5,0.1,5.6,mandatory,AK Markram,XC Bartlett,MD Choudhary,,6,0,6,,,,,,,,,,,,,,,20.0,255.0,157
+Lucknow Super Giants,15,6,0.1,5.6,mandatory,AK Markram,XC Bartlett,MD Choudhary,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,158
+Lucknow Super Giants,16,1,0.1,5.6,mandatory,AK Markram,Vijaykumar Vyshak,MD Choudhary,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,159
+Lucknow Super Giants,16,2,0.1,5.6,mandatory,MD Choudhary,Vijaykumar Vyshak,AK Markram,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,159
+Lucknow Super Giants,16,3,0.1,5.6,mandatory,MD Choudhary,Vijaykumar Vyshak,AK Markram,,6,0,6,,,,,,,,,,,,,,,20.0,255.0,165
+Lucknow Super Giants,16,4,0.1,5.6,mandatory,MD Choudhary,Vijaykumar Vyshak,AK Markram,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,166
+Lucknow Super Giants,16,5,0.1,5.6,mandatory,AK Markram,Vijaykumar Vyshak,MD Choudhary,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,166
+Lucknow Super Giants,16,6,0.1,5.6,mandatory,AK Markram,Vijaykumar Vyshak,MD Choudhary,,0,1,1,,,,,,,1.0,,,,,,,,20.0,255.0,167
+Lucknow Super Giants,16,7,0.1,5.6,mandatory,AK Markram,Vijaykumar Vyshak,MD Choudhary,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,167
+Lucknow Super Giants,17,1,0.1,5.6,mandatory,MD Choudhary,Arshdeep Singh,AK Markram,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,167
+Lucknow Super Giants,17,2,0.1,5.6,mandatory,MD Choudhary,Arshdeep Singh,AK Markram,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,171
+Lucknow Super Giants,17,3,0.1,5.6,mandatory,MD Choudhary,Arshdeep Singh,AK Markram,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,171
+Lucknow Super Giants,17,4,0.1,5.6,mandatory,MD Choudhary,Arshdeep Singh,AK Markram,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,172
+Lucknow Super Giants,17,5,0.1,5.6,mandatory,AK Markram,Arshdeep Singh,MD Choudhary,,6,0,6,,,,,,,,,,,,,,,20.0,255.0,178
+Lucknow Super Giants,17,6,0.1,5.6,mandatory,AK Markram,Arshdeep Singh,MD Choudhary,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,179
+Lucknow Super Giants,18,1,0.1,5.6,mandatory,AK Markram,XC Bartlett,MD Choudhary,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,183
+Lucknow Super Giants,18,2,0.1,5.6,mandatory,AK Markram,XC Bartlett,MD Choudhary,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,187
+Lucknow Super Giants,18,3,0.1,5.6,mandatory,AK Markram,XC Bartlett,MD Choudhary,1.0,0,1,1,,,,,,,,,,,,,,,20.0,255.0,188
+Lucknow Super Giants,18,4,0.1,5.6,mandatory,AK Markram,XC Bartlett,MD Choudhary,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,189
+Lucknow Super Giants,18,5,0.1,5.6,mandatory,MD Choudhary,XC Bartlett,AK Markram,,2,0,2,,,,,,,,,,,,,,,20.0,255.0,191
+Lucknow Super Giants,18,6,0.1,5.6,mandatory,MD Choudhary,XC Bartlett,AK Markram,,0,0,0,,,,,,,,,,,,,,,20.0,255.0,191
+Lucknow Super Giants,18,7,0.1,5.6,mandatory,MD Choudhary,XC Bartlett,AK Markram,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,192
+Lucknow Super Giants,19,1,0.1,5.6,mandatory,MD Choudhary,M Jansen,AK Markram,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,193
+Lucknow Super Giants,19,2,0.1,5.6,mandatory,AK Markram,M Jansen,MD Choudhary,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,194
+Lucknow Super Giants,19,3,0.1,5.6,mandatory,MD Choudhary,M Jansen,AK Markram,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,195
+Lucknow Super Giants,19,4,0.1,5.6,mandatory,AK Markram,M Jansen,MD Choudhary,,4,0,4,,,,,,,,,,,,,,,20.0,255.0,199
+Lucknow Super Giants,19,5,0.1,5.6,mandatory,AK Markram,M Jansen,MD Choudhary,,0,0,0,,,,,,,,AK Markram,caught,,,,,MP Stoinis,20.0,255.0,199
+Lucknow Super Giants,19,6,0.1,5.6,mandatory,Himmat Singh,M Jansen,MD Choudhary,,1,0,1,,,,,,,,,,,,,,,20.0,255.0,200

@@ -1,0 +1,259 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,review_by,review_umpire,review_batter,review_decision,review_type,noballs,legbyes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,overs_deliveries_wickets_fielders_substitute,target_overs,target_runs,current_team_total
+Sunrisers Hyderabad,0,1,0.1,5.6,mandatory,Abhishek Sharma,B Kumar,TM Head,0,0,0,,,,,,,,,,,,,,,,,,,0
+Sunrisers Hyderabad,0,2,0.1,5.6,mandatory,Abhishek Sharma,B Kumar,TM Head,0,2,2,2.0,,,,,,,,,,,,,,,,,,2
+Sunrisers Hyderabad,0,3,0.1,5.6,mandatory,TM Head,B Kumar,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,,6
+Sunrisers Hyderabad,0,4,0.1,5.6,mandatory,TM Head,B Kumar,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,6
+Sunrisers Hyderabad,0,5,0.1,5.6,mandatory,TM Head,B Kumar,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,7
+Sunrisers Hyderabad,0,6,0.1,5.6,mandatory,Abhishek Sharma,B Kumar,TM Head,6,0,6,,,,,,,,,,,,,,,,,,,13
+Sunrisers Hyderabad,0,7,0.1,5.6,mandatory,Abhishek Sharma,B Kumar,TM Head,0,0,0,,,,,,,,,,,,,,,,,,,13
+Sunrisers Hyderabad,1,1,0.1,5.6,mandatory,TM Head,JR Hazlewood,Abhishek Sharma,2,0,2,,,,,,,,,,,,,,,,,,,15
+Sunrisers Hyderabad,1,2,0.1,5.6,mandatory,TM Head,JR Hazlewood,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,15
+Sunrisers Hyderabad,1,3,0.1,5.6,mandatory,TM Head,JR Hazlewood,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,16
+Sunrisers Hyderabad,1,4,0.1,5.6,mandatory,Abhishek Sharma,JR Hazlewood,TM Head,1,0,1,,,,,,,,,,,,,,,,,,,17
+Sunrisers Hyderabad,1,5,0.1,5.6,mandatory,TM Head,JR Hazlewood,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,17
+Sunrisers Hyderabad,1,6,0.1,5.6,mandatory,TM Head,JR Hazlewood,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,,21
+Sunrisers Hyderabad,2,1,0.1,5.6,mandatory,Abhishek Sharma,B Kumar,TM Head,4,0,4,,,,,,,,,,,,,,,,,,,25
+Sunrisers Hyderabad,2,2,0.1,5.6,mandatory,Abhishek Sharma,B Kumar,TM Head,4,0,4,,,,,,,,,,,,,,,,,,,29
+Sunrisers Hyderabad,2,3,0.1,5.6,mandatory,Abhishek Sharma,B Kumar,TM Head,1,0,1,,,,,,,,,,,,,,,,,,,30
+Sunrisers Hyderabad,2,4,0.1,5.6,mandatory,TM Head,B Kumar,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,31
+Sunrisers Hyderabad,2,5,0.1,5.6,mandatory,Abhishek Sharma,B Kumar,TM Head,1,0,1,,,,,,,,,,,,,,,,,,,32
+Sunrisers Hyderabad,2,6,0.1,5.6,mandatory,TM Head,B Kumar,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,33
+Sunrisers Hyderabad,3,1,0.1,5.6,mandatory,TM Head,Rasikh Salam,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,,37
+Sunrisers Hyderabad,3,2,0.1,5.6,mandatory,TM Head,Rasikh Salam,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,,41
+Sunrisers Hyderabad,3,3,0.1,5.6,mandatory,TM Head,Rasikh Salam,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,41
+Sunrisers Hyderabad,3,4,0.1,5.6,mandatory,TM Head,Rasikh Salam,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,,45
+Sunrisers Hyderabad,3,5,0.1,5.6,mandatory,TM Head,Rasikh Salam,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,45
+Sunrisers Hyderabad,3,6,0.1,5.6,mandatory,TM Head,Rasikh Salam,Abhishek Sharma,0,0,0,,,,,,,,,TM Head,bowled,,,,,,,,,45
+Sunrisers Hyderabad,4,1,0.1,5.6,mandatory,Abhishek Sharma,JR Hazlewood,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,,45
+Sunrisers Hyderabad,4,2,0.1,5.6,mandatory,Abhishek Sharma,JR Hazlewood,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,46
+Sunrisers Hyderabad,4,3,0.1,5.6,mandatory,Ishan Kishan,JR Hazlewood,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,47
+Sunrisers Hyderabad,4,4,0.1,5.6,mandatory,Abhishek Sharma,JR Hazlewood,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,,47
+Sunrisers Hyderabad,4,5,0.1,5.6,mandatory,Abhishek Sharma,JR Hazlewood,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,,,,,48
+Sunrisers Hyderabad,4,6,0.1,5.6,mandatory,Abhishek Sharma,JR Hazlewood,Ishan Kishan,3,0,3,,,,,,,,,,,,,,,,,,,51
+Sunrisers Hyderabad,4,7,0.1,5.6,mandatory,Ishan Kishan,JR Hazlewood,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,52
+Sunrisers Hyderabad,5,1,0.1,5.6,mandatory,Ishan Kishan,Rasikh Salam,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,52
+Sunrisers Hyderabad,5,2,0.1,5.6,mandatory,Ishan Kishan,Rasikh Salam,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,53
+Sunrisers Hyderabad,5,3,0.1,5.6,mandatory,Abhishek Sharma,Rasikh Salam,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,,57
+Sunrisers Hyderabad,5,4,0.1,5.6,mandatory,Abhishek Sharma,Rasikh Salam,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,58
+Sunrisers Hyderabad,5,5,0.1,5.6,mandatory,Ishan Kishan,Rasikh Salam,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,,62
+Sunrisers Hyderabad,5,6,0.1,5.6,mandatory,Ishan Kishan,Rasikh Salam,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,63
+Sunrisers Hyderabad,6,1,0.1,5.6,mandatory,Ishan Kishan,Suyash Sharma,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,63
+Sunrisers Hyderabad,6,2,0.1,5.6,mandatory,Ishan Kishan,Suyash Sharma,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,64
+Sunrisers Hyderabad,6,3,0.1,5.6,mandatory,Abhishek Sharma,Suyash Sharma,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,,70
+Sunrisers Hyderabad,6,4,0.1,5.6,mandatory,Abhishek Sharma,Suyash Sharma,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,,76
+Sunrisers Hyderabad,6,5,0.1,5.6,mandatory,Abhishek Sharma,Suyash Sharma,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,77
+Sunrisers Hyderabad,6,6,0.1,5.6,mandatory,Ishan Kishan,Suyash Sharma,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,77
+Sunrisers Hyderabad,7,1,0.1,5.6,mandatory,Abhishek Sharma,R Shepherd,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,,83
+Sunrisers Hyderabad,7,2,0.1,5.6,mandatory,Abhishek Sharma,R Shepherd,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,84
+Sunrisers Hyderabad,7,3,0.1,5.6,mandatory,Ishan Kishan,R Shepherd,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,84
+Sunrisers Hyderabad,7,4,0.1,5.6,mandatory,Ishan Kishan,R Shepherd,Abhishek Sharma,0,1,1,1.0,,,,,,,,,,,,,,,,,,85
+Sunrisers Hyderabad,7,5,0.1,5.6,mandatory,Ishan Kishan,R Shepherd,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,86
+Sunrisers Hyderabad,7,6,0.1,5.6,mandatory,Abhishek Sharma,R Shepherd,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,,92
+Sunrisers Hyderabad,7,7,0.1,5.6,mandatory,Abhishek Sharma,R Shepherd,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,,96
+Sunrisers Hyderabad,8,1,0.1,5.6,mandatory,Ishan Kishan,Suyash Sharma,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,97
+Sunrisers Hyderabad,8,2,0.1,5.6,mandatory,Abhishek Sharma,Suyash Sharma,Ishan Kishan,0,0,0,,,,,,,,,Abhishek Sharma,caught,,,,,JM Cox,True,,,97
+Sunrisers Hyderabad,8,3,0.1,5.6,mandatory,H Klaasen,Suyash Sharma,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,,97
+Sunrisers Hyderabad,8,4,0.1,5.6,mandatory,H Klaasen,Suyash Sharma,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,98
+Sunrisers Hyderabad,8,5,0.1,5.6,mandatory,Ishan Kishan,Suyash Sharma,H Klaasen,4,0,4,,,,,,,,,,,,,,,,,,,102
+Sunrisers Hyderabad,8,6,0.1,5.6,mandatory,Ishan Kishan,Suyash Sharma,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,103
+Sunrisers Hyderabad,9,1,0.1,5.6,mandatory,Ishan Kishan,R Shepherd,H Klaasen,2,0,2,,,,,,,,,,,,,,,,,,,105
+Sunrisers Hyderabad,9,2,0.1,5.6,mandatory,Ishan Kishan,R Shepherd,H Klaasen,2,0,2,,,,,,,,,,,,,,,,,,,107
+Sunrisers Hyderabad,9,3,0.1,5.6,mandatory,Ishan Kishan,R Shepherd,H Klaasen,0,1,1,1.0,,,,,,,,,,,,,,,,,,108
+Sunrisers Hyderabad,9,4,0.1,5.6,mandatory,Ishan Kishan,R Shepherd,H Klaasen,2,0,2,,,,,,,,,,,,,,,,,,,110
+Sunrisers Hyderabad,9,5,0.1,5.6,mandatory,Ishan Kishan,R Shepherd,H Klaasen,4,0,4,,,,,,,,,,,,,,,,,,,114
+Sunrisers Hyderabad,9,6,0.1,5.6,mandatory,Ishan Kishan,R Shepherd,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,115
+Sunrisers Hyderabad,9,7,0.1,5.6,mandatory,H Klaasen,R Shepherd,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,116
+Sunrisers Hyderabad,10,1,0.1,5.6,mandatory,H Klaasen,KH Pandya,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,117
+Sunrisers Hyderabad,10,2,0.1,5.6,mandatory,Ishan Kishan,KH Pandya,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,,117
+Sunrisers Hyderabad,10,3,0.1,5.6,mandatory,Ishan Kishan,KH Pandya,H Klaasen,6,0,6,,,,,,,,,,,,,,,,,,,123
+Sunrisers Hyderabad,10,4,0.1,5.6,mandatory,Ishan Kishan,KH Pandya,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,124
+Sunrisers Hyderabad,10,5,0.1,5.6,mandatory,H Klaasen,KH Pandya,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,,124
+Sunrisers Hyderabad,10,6,0.1,5.6,mandatory,H Klaasen,KH Pandya,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,,124
+Sunrisers Hyderabad,11,1,0.1,5.6,mandatory,Ishan Kishan,R Shepherd,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,125
+Sunrisers Hyderabad,11,2,0.1,5.6,mandatory,H Klaasen,R Shepherd,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,,125
+Sunrisers Hyderabad,11,3,0.1,5.6,mandatory,H Klaasen,R Shepherd,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,126
+Sunrisers Hyderabad,11,4,0.1,5.6,mandatory,Ishan Kishan,R Shepherd,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,127
+Sunrisers Hyderabad,11,5,0.1,5.6,mandatory,H Klaasen,R Shepherd,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,128
+Sunrisers Hyderabad,11,6,0.1,5.6,mandatory,Ishan Kishan,R Shepherd,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,129
+Sunrisers Hyderabad,12,1,0.1,5.6,mandatory,Ishan Kishan,JR Hazlewood,H Klaasen,0,1,1,1.0,,,,,,,,,,,,,,,,,,130
+Sunrisers Hyderabad,12,2,0.1,5.6,mandatory,Ishan Kishan,JR Hazlewood,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,131
+Sunrisers Hyderabad,12,3,0.1,5.6,mandatory,H Klaasen,JR Hazlewood,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,,137
+Sunrisers Hyderabad,12,4,0.1,5.6,mandatory,H Klaasen,JR Hazlewood,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,,,,,138
+Sunrisers Hyderabad,12,5,0.1,5.6,mandatory,H Klaasen,JR Hazlewood,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,,,,,139
+Sunrisers Hyderabad,12,6,0.1,5.6,mandatory,H Klaasen,JR Hazlewood,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,,145
+Sunrisers Hyderabad,12,7,0.1,5.6,mandatory,H Klaasen,JR Hazlewood,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,,149
+Sunrisers Hyderabad,12,8,0.1,5.6,mandatory,H Klaasen,JR Hazlewood,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,,155
+Sunrisers Hyderabad,12,9,0.1,5.6,mandatory,H Klaasen,JR Hazlewood,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,156
+Sunrisers Hyderabad,13,1,0.1,5.6,mandatory,H Klaasen,Suyash Sharma,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,,162
+Sunrisers Hyderabad,13,2,0.1,5.6,mandatory,H Klaasen,Suyash Sharma,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,,162
+Sunrisers Hyderabad,13,3,0.1,5.6,mandatory,H Klaasen,Suyash Sharma,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,,,,,163
+Sunrisers Hyderabad,13,4,0.1,5.6,mandatory,H Klaasen,Suyash Sharma,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,164
+Sunrisers Hyderabad,13,5,0.1,5.6,mandatory,Ishan Kishan,Suyash Sharma,H Klaasen,6,0,6,,,,,,,,,,,,,,,,,,,170
+Sunrisers Hyderabad,13,6,0.1,5.6,mandatory,Ishan Kishan,Suyash Sharma,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,,170
+Sunrisers Hyderabad,13,7,0.1,5.6,mandatory,Ishan Kishan,Suyash Sharma,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,171
+Sunrisers Hyderabad,14,1,0.1,5.6,mandatory,Ishan Kishan,B Kumar,H Klaasen,4,0,4,,,,,,,,,,,,,,,,,,,175
+Sunrisers Hyderabad,14,2,0.1,5.6,mandatory,Ishan Kishan,B Kumar,H Klaasen,0,1,1,1.0,,,,,,,,,,,,,,,,,,176
+Sunrisers Hyderabad,14,3,0.1,5.6,mandatory,Ishan Kishan,B Kumar,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,177
+Sunrisers Hyderabad,14,4,0.1,5.6,mandatory,H Klaasen,B Kumar,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,,177
+Sunrisers Hyderabad,14,5,0.1,5.6,mandatory,H Klaasen,B Kumar,Ishan Kishan,2,0,2,,,,,,,,,,,,,,,,,,,179
+Sunrisers Hyderabad,14,6,0.1,5.6,mandatory,H Klaasen,B Kumar,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,,183
+Sunrisers Hyderabad,14,7,0.1,5.6,mandatory,H Klaasen,B Kumar,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,,189
+Sunrisers Hyderabad,15,1,0.1,5.6,mandatory,Ishan Kishan,Rasikh Salam,H Klaasen,6,0,6,,,,,,,,,,,,,,,,,,,195
+Sunrisers Hyderabad,15,2,0.1,5.6,mandatory,Ishan Kishan,Rasikh Salam,H Klaasen,4,0,4,,,,,,,,,,,,,,,,,,,199
+Sunrisers Hyderabad,15,3,0.1,5.6,mandatory,Ishan Kishan,Rasikh Salam,H Klaasen,0,1,1,1.0,,,,,,,,,,,,,,,,,,200
+Sunrisers Hyderabad,15,4,0.1,5.6,mandatory,Ishan Kishan,Rasikh Salam,H Klaasen,4,0,4,,,,,,,,,,,,,,,,,,,204
+Sunrisers Hyderabad,15,5,0.1,5.6,mandatory,Ishan Kishan,Rasikh Salam,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,205
+Sunrisers Hyderabad,15,6,0.1,5.6,mandatory,H Klaasen,Rasikh Salam,Ishan Kishan,2,0,2,,,,,,,,,,,,,,,,,,,207
+Sunrisers Hyderabad,15,7,0.1,5.6,mandatory,H Klaasen,Rasikh Salam,Ishan Kishan,2,0,2,,,,,,,,,,,TH David,Suyash Sharma,Royal Challengers Bengaluru,impact_player,,,,,209
+Sunrisers Hyderabad,16,1,0.1,5.6,mandatory,Ishan Kishan,KH Pandya,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,210
+Sunrisers Hyderabad,16,2,0.1,5.6,mandatory,H Klaasen,KH Pandya,Ishan Kishan,0,0,0,,,,,,,,,H Klaasen,caught,,,,,VR Iyer,,,,210
+Sunrisers Hyderabad,16,3,0.1,5.6,mandatory,Nithish Kumar Reddy,KH Pandya,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,,216
+Sunrisers Hyderabad,16,4,0.1,5.6,mandatory,Nithish Kumar Reddy,KH Pandya,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,,,,,217
+Sunrisers Hyderabad,16,5,0.1,5.6,mandatory,Nithish Kumar Reddy,KH Pandya,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,,223
+Sunrisers Hyderabad,16,6,0.1,5.6,mandatory,Nithish Kumar Reddy,KH Pandya,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,,223
+Sunrisers Hyderabad,16,7,0.1,5.6,mandatory,Nithish Kumar Reddy,KH Pandya,Ishan Kishan,2,0,2,,,,,,,,,,,,,,,,,,,225
+Sunrisers Hyderabad,17,1,0.1,5.6,mandatory,Ishan Kishan,JR Hazlewood,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,,226
+Sunrisers Hyderabad,17,2,0.1,5.6,mandatory,Nithish Kumar Reddy,JR Hazlewood,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,227
+Sunrisers Hyderabad,17,3,0.1,5.6,mandatory,Ishan Kishan,JR Hazlewood,Nithish Kumar Reddy,4,0,4,,,,,,,,,,,,,,,,,,,231
+Sunrisers Hyderabad,17,4,0.1,5.6,mandatory,Ishan Kishan,JR Hazlewood,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,,,,,231
+Sunrisers Hyderabad,17,5,0.1,5.6,mandatory,Ishan Kishan,JR Hazlewood,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,,232
+Sunrisers Hyderabad,17,6,0.1,5.6,mandatory,Nithish Kumar Reddy,JR Hazlewood,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,,238
+Sunrisers Hyderabad,18,1,0.1,5.6,mandatory,Ishan Kishan,B Kumar,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,,239
+Sunrisers Hyderabad,18,2,0.1,5.6,mandatory,Nithish Kumar Reddy,B Kumar,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,240
+Sunrisers Hyderabad,18,3,0.1,5.6,mandatory,Ishan Kishan,B Kumar,Nithish Kumar Reddy,4,0,4,,,,,,,,,,,,,,,,,,,244
+Sunrisers Hyderabad,18,4,0.1,5.6,mandatory,Ishan Kishan,B Kumar,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,,245
+Sunrisers Hyderabad,18,5,0.1,5.6,mandatory,Nithish Kumar Reddy,B Kumar,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,,245
+Sunrisers Hyderabad,18,6,0.1,5.6,mandatory,Nithish Kumar Reddy,B Kumar,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,246
+Sunrisers Hyderabad,19,1,0.1,5.6,mandatory,Nithish Kumar Reddy,Rasikh Salam,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,247
+Sunrisers Hyderabad,19,2,0.1,5.6,mandatory,Ishan Kishan,Rasikh Salam,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,,248
+Sunrisers Hyderabad,19,3,0.1,5.6,mandatory,Nithish Kumar Reddy,Rasikh Salam,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,,252
+Sunrisers Hyderabad,19,4,0.1,5.6,mandatory,Nithish Kumar Reddy,Rasikh Salam,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,,,,,253
+Sunrisers Hyderabad,19,5,0.1,5.6,mandatory,Nithish Kumar Reddy,Rasikh Salam,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,,,,,254
+Sunrisers Hyderabad,19,6,0.1,5.6,mandatory,Nithish Kumar Reddy,Rasikh Salam,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,,255
+Sunrisers Hyderabad,19,7,0.1,5.6,mandatory,Ishan Kishan,Rasikh Salam,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,,,,,255
+Sunrisers Hyderabad,19,8,0.1,5.6,mandatory,Ishan Kishan,Rasikh Salam,Nithish Kumar Reddy,0,0,0,,,,,,,,,Ishan Kishan,caught,,,,,D Padikkal,,,,255
+Royal Challengers Bengaluru,0,1,0.1,5.6,mandatory,VR Iyer,PJ Cummins,V Kohli,2,0,2,,,,,,,,,,,HV Patel,S Arora,Sunrisers Hyderabad,impact_player,,,20.0,256.0,2
+Royal Challengers Bengaluru,0,2,0.1,5.6,mandatory,VR Iyer,PJ Cummins,V Kohli,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,3
+Royal Challengers Bengaluru,0,3,0.1,5.6,mandatory,V Kohli,PJ Cummins,VR Iyer,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,3
+Royal Challengers Bengaluru,0,4,0.1,5.6,mandatory,V Kohli,PJ Cummins,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,4
+Royal Challengers Bengaluru,0,5,0.1,5.6,mandatory,VR Iyer,PJ Cummins,V Kohli,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,8
+Royal Challengers Bengaluru,0,6,0.1,5.6,mandatory,VR Iyer,PJ Cummins,V Kohli,6,0,6,,,,,,,,,,,,,,,,,20.0,256.0,14
+Royal Challengers Bengaluru,1,1,0.1,5.6,mandatory,V Kohli,E Malinga,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,15
+Royal Challengers Bengaluru,1,2,0.1,5.6,mandatory,VR Iyer,E Malinga,V Kohli,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,15
+Royal Challengers Bengaluru,1,3,0.1,5.6,mandatory,VR Iyer,E Malinga,V Kohli,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,15
+Royal Challengers Bengaluru,1,4,0.1,5.6,mandatory,VR Iyer,E Malinga,V Kohli,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,15
+Royal Challengers Bengaluru,1,5,0.1,5.6,mandatory,VR Iyer,E Malinga,V Kohli,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,15
+Royal Challengers Bengaluru,1,6,0.1,5.6,mandatory,VR Iyer,E Malinga,V Kohli,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,19
+Royal Challengers Bengaluru,2,1,0.1,5.6,mandatory,V Kohli,PJ Cummins,VR Iyer,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,23
+Royal Challengers Bengaluru,2,2,0.1,5.6,mandatory,V Kohli,PJ Cummins,VR Iyer,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,27
+Royal Challengers Bengaluru,2,3,0.1,5.6,mandatory,V Kohli,PJ Cummins,VR Iyer,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,256.0,28
+Royal Challengers Bengaluru,2,4,0.1,5.6,mandatory,V Kohli,PJ Cummins,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,29
+Royal Challengers Bengaluru,2,5,0.1,5.6,mandatory,VR Iyer,PJ Cummins,V Kohli,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,33
+Royal Challengers Bengaluru,2,6,0.1,5.6,mandatory,VR Iyer,PJ Cummins,V Kohli,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,33
+Royal Challengers Bengaluru,2,7,0.1,5.6,mandatory,VR Iyer,PJ Cummins,V Kohli,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,34
+Royal Challengers Bengaluru,3,1,0.1,5.6,mandatory,VR Iyer,Shivang Kumar,V Kohli,6,0,6,,,,,,,,,,,,,,,,,20.0,256.0,40
+Royal Challengers Bengaluru,3,2,0.1,5.6,mandatory,VR Iyer,Shivang Kumar,V Kohli,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,44
+Royal Challengers Bengaluru,3,3,0.1,5.6,mandatory,VR Iyer,Shivang Kumar,V Kohli,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,44
+Royal Challengers Bengaluru,3,4,0.1,5.6,mandatory,VR Iyer,Shivang Kumar,V Kohli,6,0,6,,,,,,,,,,,,,,,,,20.0,256.0,50
+Royal Challengers Bengaluru,3,5,0.1,5.6,mandatory,VR Iyer,Shivang Kumar,V Kohli,6,0,6,,,,,,,,,,,,,,,,,20.0,256.0,56
+Royal Challengers Bengaluru,3,6,0.1,5.6,mandatory,VR Iyer,Shivang Kumar,V Kohli,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,256.0,57
+Royal Challengers Bengaluru,3,7,0.1,5.6,mandatory,VR Iyer,Shivang Kumar,V Kohli,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,57
+Royal Challengers Bengaluru,4,1,0.1,5.6,mandatory,V Kohli,E Malinga,VR Iyer,2,0,2,,,,,,,,,,,,,,,,,20.0,256.0,59
+Royal Challengers Bengaluru,4,2,0.1,5.6,mandatory,V Kohli,E Malinga,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,60
+Royal Challengers Bengaluru,4,3,0.1,5.6,mandatory,VR Iyer,E Malinga,V Kohli,0,0,0,,,,,,,,,VR Iyer,caught,,,,,Abhishek Sharma,,20.0,256.0,60
+Royal Challengers Bengaluru,4,4,0.1,5.6,mandatory,D Padikkal,E Malinga,V Kohli,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,64
+Royal Challengers Bengaluru,4,5,0.1,5.6,mandatory,D Padikkal,E Malinga,V Kohli,6,0,6,,,,,,,,,,,,,,,,,20.0,256.0,70
+Royal Challengers Bengaluru,4,6,0.1,5.6,mandatory,D Padikkal,E Malinga,V Kohli,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,71
+Royal Challengers Bengaluru,5,1,0.1,5.6,mandatory,D Padikkal,Sakib Hussain,V Kohli,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,72
+Royal Challengers Bengaluru,5,2,0.1,5.6,mandatory,V Kohli,Sakib Hussain,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,73
+Royal Challengers Bengaluru,5,3,0.1,5.6,mandatory,D Padikkal,Sakib Hussain,V Kohli,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,74
+Royal Challengers Bengaluru,5,4,0.1,5.6,mandatory,V Kohli,Sakib Hussain,D Padikkal,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,74
+Royal Challengers Bengaluru,5,5,0.1,5.6,mandatory,V Kohli,Sakib Hussain,D Padikkal,0,0,0,,,,,,,,,V Kohli,caught,,,,,R Smaran,,20.0,256.0,74
+Royal Challengers Bengaluru,5,6,0.1,5.6,mandatory,RM Patidar,Sakib Hussain,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,75
+Royal Challengers Bengaluru,6,1,0.1,5.6,mandatory,RM Patidar,HV Patel,D Padikkal,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,79
+Royal Challengers Bengaluru,6,2,0.1,5.6,mandatory,RM Patidar,HV Patel,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,80
+Royal Challengers Bengaluru,6,3,0.1,5.6,mandatory,D Padikkal,HV Patel,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,81
+Royal Challengers Bengaluru,6,4,0.1,5.6,mandatory,RM Patidar,HV Patel,D Padikkal,2,0,2,,,,,,,,,,,,,,,,,20.0,256.0,83
+Royal Challengers Bengaluru,6,5,0.1,5.6,mandatory,RM Patidar,HV Patel,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,84
+Royal Challengers Bengaluru,6,6,0.1,5.6,mandatory,D Padikkal,HV Patel,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,85
+Royal Challengers Bengaluru,7,1,0.1,5.6,mandatory,D Padikkal,Sakib Hussain,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,89
+Royal Challengers Bengaluru,7,2,0.1,5.6,mandatory,D Padikkal,Sakib Hussain,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,89
+Royal Challengers Bengaluru,7,3,0.1,5.6,mandatory,D Padikkal,Sakib Hussain,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,89
+Royal Challengers Bengaluru,7,4,0.1,5.6,mandatory,D Padikkal,Sakib Hussain,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,90
+Royal Challengers Bengaluru,7,5,0.1,5.6,mandatory,RM Patidar,Sakib Hussain,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,91
+Royal Challengers Bengaluru,7,6,0.1,5.6,mandatory,D Padikkal,Sakib Hussain,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,91
+Royal Challengers Bengaluru,8,1,0.1,5.6,mandatory,RM Patidar,E Malinga,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,92
+Royal Challengers Bengaluru,8,2,0.1,5.6,mandatory,D Padikkal,E Malinga,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,93
+Royal Challengers Bengaluru,8,3,0.1,5.6,mandatory,RM Patidar,E Malinga,D Padikkal,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,93
+Royal Challengers Bengaluru,8,4,0.1,5.6,mandatory,RM Patidar,E Malinga,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,94
+Royal Challengers Bengaluru,8,5,0.1,5.6,mandatory,D Padikkal,E Malinga,RM Patidar,0,0,0,,,,,,,,,D Padikkal,caught,,,,,Abhishek Sharma,,20.0,256.0,94
+Royal Challengers Bengaluru,8,6,0.1,5.6,mandatory,KH Pandya,E Malinga,RM Patidar,0,0,0,,Sunrisers Hyderabad,Amit Rana,KH Pandya,struck down,wicket,,,,,,,,,,,20.0,256.0,94
+Royal Challengers Bengaluru,9,1,0.1,5.6,mandatory,RM Patidar,HV Patel,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,95
+Royal Challengers Bengaluru,9,2,0.1,5.6,mandatory,KH Pandya,HV Patel,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,96
+Royal Challengers Bengaluru,9,3,0.1,5.6,mandatory,RM Patidar,HV Patel,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,97
+Royal Challengers Bengaluru,9,4,0.1,5.6,mandatory,KH Pandya,HV Patel,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,98
+Royal Challengers Bengaluru,9,5,0.1,5.6,mandatory,RM Patidar,HV Patel,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,99
+Royal Challengers Bengaluru,9,6,0.1,5.6,mandatory,KH Pandya,HV Patel,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,100
+Royal Challengers Bengaluru,10,1,0.1,5.6,mandatory,KH Pandya,PJ Cummins,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,104
+Royal Challengers Bengaluru,10,2,0.1,5.6,mandatory,KH Pandya,PJ Cummins,RM Patidar,0,2,2,2.0,,,,,,,,,,,,,,,,20.0,256.0,106
+Royal Challengers Bengaluru,10,3,0.1,5.6,mandatory,RM Patidar,PJ Cummins,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,107
+Royal Challengers Bengaluru,10,4,0.1,5.6,mandatory,KH Pandya,PJ Cummins,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,107
+Royal Challengers Bengaluru,10,5,0.1,5.6,mandatory,KH Pandya,PJ Cummins,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,108
+Royal Challengers Bengaluru,10,6,0.1,5.6,mandatory,RM Patidar,PJ Cummins,KH Pandya,1,1,2,,,,,,,1.0,,,,,,,,,,20.0,256.0,110
+Royal Challengers Bengaluru,10,7,0.1,5.6,mandatory,KH Pandya,PJ Cummins,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,111
+Royal Challengers Bengaluru,10,8,0.1,5.6,mandatory,RM Patidar,PJ Cummins,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,112
+Royal Challengers Bengaluru,11,1,0.1,5.6,mandatory,RM Patidar,Shivang Kumar,KH Pandya,0,0,0,,Sunrisers Hyderabad,J Madanagopal,RM Patidar,struck down,wicket,,,,,,,,,,,20.0,256.0,112
+Royal Challengers Bengaluru,11,2,0.1,5.6,mandatory,RM Patidar,Shivang Kumar,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,113
+Royal Challengers Bengaluru,11,3,0.1,5.6,mandatory,KH Pandya,Shivang Kumar,RM Patidar,2,0,2,,,,,,,,,,,,,,,,,20.0,256.0,115
+Royal Challengers Bengaluru,11,4,0.1,5.6,mandatory,KH Pandya,Shivang Kumar,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,116
+Royal Challengers Bengaluru,11,5,0.1,5.6,mandatory,RM Patidar,Shivang Kumar,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,117
+Royal Challengers Bengaluru,11,6,0.1,5.6,mandatory,KH Pandya,Shivang Kumar,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,121
+Royal Challengers Bengaluru,12,1,0.1,5.6,mandatory,RM Patidar,Sakib Hussain,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,122
+Royal Challengers Bengaluru,12,2,0.1,5.6,mandatory,KH Pandya,Sakib Hussain,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,122
+Royal Challengers Bengaluru,12,3,0.1,5.6,mandatory,KH Pandya,Sakib Hussain,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,126
+Royal Challengers Bengaluru,12,4,0.1,5.6,mandatory,KH Pandya,Sakib Hussain,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,126
+Royal Challengers Bengaluru,12,5,0.1,5.6,mandatory,KH Pandya,Sakib Hussain,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,127
+Royal Challengers Bengaluru,12,6,0.1,5.6,mandatory,RM Patidar,Sakib Hussain,KH Pandya,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,127
+Royal Challengers Bengaluru,13,1,0.1,5.6,mandatory,KH Pandya,HV Patel,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,131
+Royal Challengers Bengaluru,13,2,0.1,5.6,mandatory,KH Pandya,HV Patel,RM Patidar,2,0,2,,,,,,,,,,,,,,,,,20.0,256.0,133
+Royal Challengers Bengaluru,13,3,0.1,5.6,mandatory,KH Pandya,HV Patel,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,134
+Royal Challengers Bengaluru,13,4,0.1,5.6,mandatory,RM Patidar,HV Patel,KH Pandya,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,134
+Royal Challengers Bengaluru,13,5,0.1,5.6,mandatory,RM Patidar,HV Patel,KH Pandya,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,138
+Royal Challengers Bengaluru,13,6,0.1,5.6,mandatory,RM Patidar,HV Patel,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,139
+Royal Challengers Bengaluru,14,1,0.1,5.6,mandatory,RM Patidar,Nithish Kumar Reddy,KH Pandya,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,143
+Royal Challengers Bengaluru,14,2,0.1,5.6,mandatory,RM Patidar,Nithish Kumar Reddy,KH Pandya,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,256.0,144
+Royal Challengers Bengaluru,14,3,0.1,5.6,mandatory,RM Patidar,Nithish Kumar Reddy,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,145
+Royal Challengers Bengaluru,14,4,0.1,5.6,mandatory,KH Pandya,Nithish Kumar Reddy,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,146
+Royal Challengers Bengaluru,14,5,0.1,5.6,mandatory,RM Patidar,Nithish Kumar Reddy,KH Pandya,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,146
+Royal Challengers Bengaluru,14,6,0.1,5.6,mandatory,RM Patidar,Nithish Kumar Reddy,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,147
+Royal Challengers Bengaluru,14,7,0.1,5.6,mandatory,KH Pandya,Nithish Kumar Reddy,RM Patidar,2,0,2,,,,,,,,,,,,,,,,,20.0,256.0,149
+Royal Challengers Bengaluru,15,1,0.1,5.6,mandatory,RM Patidar,E Malinga,KH Pandya,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,149
+Royal Challengers Bengaluru,15,2,0.1,5.6,mandatory,RM Patidar,E Malinga,KH Pandya,2,0,2,,,,,,,,,,,,,,,,,20.0,256.0,151
+Royal Challengers Bengaluru,15,3,0.1,5.6,mandatory,RM Patidar,E Malinga,KH Pandya,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,151
+Royal Challengers Bengaluru,15,4,0.1,5.6,mandatory,RM Patidar,E Malinga,KH Pandya,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,155
+Royal Challengers Bengaluru,15,5,0.1,5.6,mandatory,RM Patidar,E Malinga,KH Pandya,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,159
+Royal Challengers Bengaluru,15,6,0.1,5.6,mandatory,RM Patidar,E Malinga,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,160
+Royal Challengers Bengaluru,16,1,0.1,5.6,mandatory,RM Patidar,PJ Cummins,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,161
+Royal Challengers Bengaluru,16,2,0.1,5.6,mandatory,KH Pandya,PJ Cummins,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,161
+Royal Challengers Bengaluru,16,3,0.1,5.6,mandatory,KH Pandya,PJ Cummins,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,162
+Royal Challengers Bengaluru,16,4,0.1,5.6,mandatory,RM Patidar,PJ Cummins,KH Pandya,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,166
+Royal Challengers Bengaluru,16,5,0.1,5.6,mandatory,RM Patidar,PJ Cummins,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,167
+Royal Challengers Bengaluru,16,6,0.1,5.6,mandatory,KH Pandya,PJ Cummins,RM Patidar,0,1,1,,,,,,,,1.0,,,,,,,,,20.0,256.0,168
+Royal Challengers Bengaluru,17,1,0.1,5.6,mandatory,KH Pandya,HV Patel,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,169
+Royal Challengers Bengaluru,17,2,0.1,5.6,mandatory,RM Patidar,HV Patel,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,170
+Royal Challengers Bengaluru,17,3,0.1,5.6,mandatory,KH Pandya,HV Patel,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,170
+Royal Challengers Bengaluru,17,4,0.1,5.6,mandatory,KH Pandya,HV Patel,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,170
+Royal Challengers Bengaluru,17,5,0.1,5.6,mandatory,KH Pandya,HV Patel,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,171
+Royal Challengers Bengaluru,17,6,0.1,5.6,mandatory,RM Patidar,HV Patel,KH Pandya,6,0,6,,,,,,,,,,,,,,,,,20.0,256.0,177
+Royal Challengers Bengaluru,18,1,0.1,5.6,mandatory,KH Pandya,TM Head,RM Patidar,0,1,1,,,,,,,,1.0,,,,,,,,,20.0,256.0,178
+Royal Challengers Bengaluru,18,2,0.1,5.6,mandatory,RM Patidar,TM Head,KH Pandya,0,0,0,,,,,,,,,RM Patidar,caught,,,,,R Smaran,,20.0,256.0,178
+Royal Challengers Bengaluru,18,3,0.1,5.6,mandatory,TH David,TM Head,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,179
+Royal Challengers Bengaluru,18,4,0.1,5.6,mandatory,KH Pandya,TM Head,TH David,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,183
+Royal Challengers Bengaluru,18,5,0.1,5.6,mandatory,KH Pandya,TM Head,TH David,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,184
+Royal Challengers Bengaluru,18,6,0.1,5.6,mandatory,TH David,TM Head,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,185
+Royal Challengers Bengaluru,19,1,0.1,5.6,mandatory,TH David,Sakib Hussain,KH Pandya,2,0,2,,,,,,,,,,,,,,,,,20.0,256.0,187
+Royal Challengers Bengaluru,19,2,0.1,5.6,mandatory,TH David,Sakib Hussain,KH Pandya,0,0,0,,,,,,,,,,,,,,,,,20.0,256.0,187
+Royal Challengers Bengaluru,19,3,0.1,5.6,mandatory,TH David,Sakib Hussain,KH Pandya,6,0,6,,,,,,,,,,,,,,,,,20.0,256.0,193
+Royal Challengers Bengaluru,19,4,0.1,5.6,mandatory,TH David,Sakib Hussain,KH Pandya,4,0,4,,,,,,,,,,,,,,,,,20.0,256.0,197
+Royal Challengers Bengaluru,19,5,0.1,5.6,mandatory,TH David,Sakib Hussain,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,20.0,256.0,198
+Royal Challengers Bengaluru,19,6,0.1,5.6,mandatory,KH Pandya,Sakib Hussain,TH David,2,0,2,,,,,,,,,,,,,,,,,20.0,256.0,200

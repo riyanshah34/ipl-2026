@@ -1,0 +1,238 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,wides,batter_runs,extra_runs,total_runs,legbyes,review_by,review_umpire,review_batter,review_decision,review_type,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,overs_deliveries_wickets_fielders_substitute,target_overs,target_runs,current_team_total
+Rajasthan Royals,0,1,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,1.0,0,1,1,,,,,,,,,,,,,,,,,1
+Rajasthan Royals,0,2,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,,0,0,0,,,,,,,,,,,,,,,,,1
+Rajasthan Royals,0,3,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,,0,0,0,,,,,,,,,,,,,,,,,1
+Rajasthan Royals,0,4,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,1.0,0,1,1,,,,,,,,,,,,,,,,,2
+Rajasthan Royals,0,5,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,,0,0,0,,,,,,,,,,,,,,,,,2
+Rajasthan Royals,0,6,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,,4,0,4,,,,,,,,,,,,,,,,,6
+Rajasthan Royals,0,7,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,,0,0,0,,,,,,,,,,,,,,,,,6
+Rajasthan Royals,0,8,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,,1,0,1,,,,,,,,,,,,,,,,,7
+Rajasthan Royals,1,1,0.1,5.6,mandatory,YBK Jaiswal,Prince Yadav,V Suryavanshi,,5,0,5,,,,,,,,,,,,,,,,,12
+Rajasthan Royals,1,2,0.1,5.6,mandatory,V Suryavanshi,Prince Yadav,YBK Jaiswal,,4,0,4,,,,,,,,,,,,,,,,,16
+Rajasthan Royals,1,3,0.1,5.6,mandatory,V Suryavanshi,Prince Yadav,YBK Jaiswal,,4,0,4,,,,,,,,,,,,,,,,,20
+Rajasthan Royals,1,4,0.1,5.6,mandatory,V Suryavanshi,Prince Yadav,YBK Jaiswal,,0,0,0,,,,,,,,,,,,,,,,,20
+Rajasthan Royals,1,5,0.1,5.6,mandatory,V Suryavanshi,Prince Yadav,YBK Jaiswal,,0,0,0,,,,,,,,,,,,,,,,,20
+Rajasthan Royals,1,6,0.1,5.6,mandatory,V Suryavanshi,Prince Yadav,YBK Jaiswal,,0,0,0,,,,,,,,,,,,,,,,,20
+Rajasthan Royals,2,1,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,,0,0,0,,,,,,,,,,,,,,,,,20
+Rajasthan Royals,2,2,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,,4,0,4,,,,,,,,,,,,,,,,,24
+Rajasthan Royals,2,3,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,,4,0,4,,,,,,,,,,,,,,,,,28
+Rajasthan Royals,2,4,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,,4,0,4,,,,,,,,,,,,,,,,,32
+Rajasthan Royals,2,5,0.1,5.6,mandatory,YBK Jaiswal,Mohammed Shami,V Suryavanshi,,0,0,0,,,,,,,YBK Jaiswal,caught,,,,,RR Pant,,,,32
+Rajasthan Royals,2,6,0.1,5.6,mandatory,Dhruv Jurel,Mohammed Shami,V Suryavanshi,,0,0,0,,,,,,,Dhruv Jurel,caught,,,,,RR Pant,,,,32
+Rajasthan Royals,3,1,0.1,5.6,mandatory,V Suryavanshi,Mohsin Khan,R Parag,,0,0,0,,,,,,,,,,,,,,,,,32
+Rajasthan Royals,3,2,0.1,5.6,mandatory,V Suryavanshi,Mohsin Khan,R Parag,,0,0,0,,,,,,,,,,,,,,,,,32
+Rajasthan Royals,3,3,0.1,5.6,mandatory,V Suryavanshi,Mohsin Khan,R Parag,,0,0,0,,,,,,,,,,,,,,,,,32
+Rajasthan Royals,3,4,0.1,5.6,mandatory,V Suryavanshi,Mohsin Khan,R Parag,,0,0,0,,,,,,,,,,,,,,,,,32
+Rajasthan Royals,3,5,0.1,5.6,mandatory,V Suryavanshi,Mohsin Khan,R Parag,,0,0,0,,,,,,,,,,,,,,,,,32
+Rajasthan Royals,3,6,0.1,5.6,mandatory,V Suryavanshi,Mohsin Khan,R Parag,,0,0,0,,,,,,,V Suryavanshi,caught,,,,,DS Rathi,,,,32
+Rajasthan Royals,4,1,0.1,5.6,mandatory,R Parag,Mohammed Shami,SO Hetmyer,1.0,0,1,1,,,,,,,,,,,,,,,,,33
+Rajasthan Royals,4,2,0.1,5.6,mandatory,R Parag,Mohammed Shami,SO Hetmyer,,4,0,4,,,,,,,,,,,,,,,,,37
+Rajasthan Royals,4,3,0.1,5.6,mandatory,R Parag,Mohammed Shami,SO Hetmyer,,0,0,0,,,,,,,,,,,,,,,,,37
+Rajasthan Royals,4,4,0.1,5.6,mandatory,R Parag,Mohammed Shami,SO Hetmyer,,0,0,0,,,,,,,,,,,,,,,,,37
+Rajasthan Royals,4,5,0.1,5.6,mandatory,R Parag,Mohammed Shami,SO Hetmyer,,0,0,0,,,,,,,,,,,,,,,,,37
+Rajasthan Royals,4,6,0.1,5.6,mandatory,R Parag,Mohammed Shami,SO Hetmyer,,0,0,0,,,,,,,,,,,,,,,,,37
+Rajasthan Royals,4,7,0.1,5.6,mandatory,R Parag,Mohammed Shami,SO Hetmyer,,0,0,0,,,,,,,,,,,,,,,,,37
+Rajasthan Royals,5,1,0.1,5.6,mandatory,SO Hetmyer,Mohsin Khan,R Parag,,0,0,0,,,,,,,,,,,,,,,,,37
+Rajasthan Royals,5,2,0.1,5.6,mandatory,SO Hetmyer,Mohsin Khan,R Parag,,1,0,1,,,,,,,,,,,,,,,,,38
+Rajasthan Royals,5,3,0.1,5.6,mandatory,R Parag,Mohsin Khan,SO Hetmyer,,4,0,4,,,,,,,,,,,,,,,,,42
+Rajasthan Royals,5,4,0.1,5.6,mandatory,R Parag,Mohsin Khan,SO Hetmyer,,0,0,0,,,,,,,,,,,,,,,,,42
+Rajasthan Royals,5,5,0.1,5.6,mandatory,R Parag,Mohsin Khan,SO Hetmyer,,1,0,1,,,,,,,,,,,,,,,,,43
+Rajasthan Royals,5,6,0.1,5.6,mandatory,SO Hetmyer,Mohsin Khan,R Parag,,1,0,1,,,,,,,,,,,,,,,,,44
+Rajasthan Royals,6,1,0.1,5.6,mandatory,SO Hetmyer,MP Yadav,R Parag,,2,0,2,,,,,,,,,,,,,,,,,46
+Rajasthan Royals,6,2,0.1,5.6,mandatory,SO Hetmyer,MP Yadav,R Parag,1.0,0,1,1,,,,,,,,,,,,,,,,,47
+Rajasthan Royals,6,3,0.1,5.6,mandatory,SO Hetmyer,MP Yadav,R Parag,,0,0,0,,,,,,,,,,,,,,,,,47
+Rajasthan Royals,6,4,0.1,5.6,mandatory,SO Hetmyer,MP Yadav,R Parag,,1,0,1,,,,,,,,,,,,,,,,,48
+Rajasthan Royals,6,5,0.1,5.6,mandatory,R Parag,MP Yadav,SO Hetmyer,,0,0,0,,,,,,,,,,,,,,,,,48
+Rajasthan Royals,6,6,0.1,5.6,mandatory,R Parag,MP Yadav,SO Hetmyer,,0,0,0,,,,,,,,,,,,,,,,,48
+Rajasthan Royals,6,7,0.1,5.6,mandatory,R Parag,MP Yadav,SO Hetmyer,,6,0,6,,,,,,,,,,,,,,,,,54
+Rajasthan Royals,7,1,0.1,5.6,mandatory,SO Hetmyer,DS Rathi,R Parag,,1,0,1,,,,,,,,,,,,,,,,,55
+Rajasthan Royals,7,2,0.1,5.6,mandatory,R Parag,DS Rathi,SO Hetmyer,,2,0,2,,,,,,,,,,,,,,,,,57
+Rajasthan Royals,7,3,0.1,5.6,mandatory,R Parag,DS Rathi,SO Hetmyer,,1,0,1,,,,,,,,,,,,,,,,,58
+Rajasthan Royals,7,4,0.1,5.6,mandatory,SO Hetmyer,DS Rathi,R Parag,,1,0,1,,,,,,,,,,,,,,,,,59
+Rajasthan Royals,7,5,0.1,5.6,mandatory,R Parag,DS Rathi,SO Hetmyer,,0,0,0,,,,,,,,,,,,,,,,,59
+Rajasthan Royals,7,6,0.1,5.6,mandatory,R Parag,DS Rathi,SO Hetmyer,,1,0,1,,,,,,,,,,,,,,,,,60
+Rajasthan Royals,8,1,0.1,5.6,mandatory,R Parag,Prince Yadav,SO Hetmyer,,1,0,1,,,,,,,,,,,,,,,,,61
+Rajasthan Royals,8,2,0.1,5.6,mandatory,SO Hetmyer,Prince Yadav,R Parag,,0,0,0,,,,,,,,,,,,,,,,,61
+Rajasthan Royals,8,3,0.1,5.6,mandatory,SO Hetmyer,Prince Yadav,R Parag,,0,0,0,,,,,,,,,,,,,,,,,61
+Rajasthan Royals,8,4,0.1,5.6,mandatory,SO Hetmyer,Prince Yadav,R Parag,,1,0,1,,,,,,,,,,,,,,,,,62
+Rajasthan Royals,8,5,0.1,5.6,mandatory,R Parag,Prince Yadav,SO Hetmyer,,0,0,0,,,,,,,,,,,,,,,,,62
+Rajasthan Royals,8,6,0.1,5.6,mandatory,R Parag,Prince Yadav,SO Hetmyer,,0,0,0,,,,,,,R Parag,caught,,,,,N Pooran,,,,62
+Rajasthan Royals,9,1,0.1,5.6,mandatory,SO Hetmyer,MP Yadav,RA Jadeja,,6,0,6,,,,,,,,,,,,,,,,,68
+Rajasthan Royals,9,2,0.1,5.6,mandatory,SO Hetmyer,MP Yadav,RA Jadeja,,4,0,4,,,,,,,,,,,,,,,,,72
+Rajasthan Royals,9,3,0.1,5.6,mandatory,SO Hetmyer,MP Yadav,RA Jadeja,,4,0,4,,,,,,,,,,,,,,,,,76
+Rajasthan Royals,9,4,0.1,5.6,mandatory,SO Hetmyer,MP Yadav,RA Jadeja,,0,0,0,,,,,,,,,,,,,,,,,76
+Rajasthan Royals,9,5,0.1,5.6,mandatory,SO Hetmyer,MP Yadav,RA Jadeja,,0,0,0,,,,,,,,,,,,,,,,,76
+Rajasthan Royals,9,6,0.1,5.6,mandatory,SO Hetmyer,MP Yadav,RA Jadeja,,0,0,0,,,,,,,,,,,,,,,,,76
+Rajasthan Royals,10,1,0.1,5.6,mandatory,RA Jadeja,Mohsin Khan,SO Hetmyer,,1,0,1,,,,,,,,,,,,,,,,,77
+Rajasthan Royals,10,2,0.1,5.6,mandatory,SO Hetmyer,Mohsin Khan,RA Jadeja,,0,0,0,,,,,,,SO Hetmyer,caught,,,,,Prince Yadav,,,,77
+Rajasthan Royals,10,3,0.1,5.6,mandatory,D Ferreira,Mohsin Khan,RA Jadeja,,0,0,0,,,,,,,,,,,,,,,,,77
+Rajasthan Royals,10,4,0.1,5.6,mandatory,D Ferreira,Mohsin Khan,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,78
+Rajasthan Royals,10,5,0.1,5.6,mandatory,RA Jadeja,Mohsin Khan,D Ferreira,,1,0,1,,,,,,,,,,,,,,,,,79
+Rajasthan Royals,10,6,0.1,5.6,mandatory,D Ferreira,Mohsin Khan,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,80
+Rajasthan Royals,11,1,0.1,5.6,mandatory,D Ferreira,DS Rathi,RA Jadeja,,0,0,0,,,,,,,,,,,,,,,,,80
+Rajasthan Royals,11,2,0.1,5.6,mandatory,D Ferreira,DS Rathi,RA Jadeja,,0,0,0,,,,,,,,,,,,,,,,,80
+Rajasthan Royals,11,3,0.1,5.6,mandatory,D Ferreira,DS Rathi,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,81
+Rajasthan Royals,11,4,0.1,5.6,mandatory,RA Jadeja,DS Rathi,D Ferreira,,1,0,1,,,,,,,,,,,,,,,,,82
+Rajasthan Royals,11,5,0.1,5.6,mandatory,D Ferreira,DS Rathi,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,83
+Rajasthan Royals,11,6,0.1,5.6,mandatory,RA Jadeja,DS Rathi,D Ferreira,,0,0,0,,,,,,,,,,,,,,,,,83
+Rajasthan Royals,12,1,0.1,5.6,mandatory,D Ferreira,Mohammed Shami,RA Jadeja,,4,0,4,,,,,,,,,,,,,,,,,87
+Rajasthan Royals,12,2,0.1,5.6,mandatory,D Ferreira,Mohammed Shami,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,88
+Rajasthan Royals,12,3,0.1,5.6,mandatory,RA Jadeja,Mohammed Shami,D Ferreira,,0,0,0,,,,,,,,,,,,,,,,,88
+Rajasthan Royals,12,4,0.1,5.6,mandatory,RA Jadeja,Mohammed Shami,D Ferreira,,0,0,0,,,,,,,,,,,,,,,,,88
+Rajasthan Royals,12,5,0.1,5.6,mandatory,RA Jadeja,Mohammed Shami,D Ferreira,,1,0,1,,,,,,,,,,,,,,,,,89
+Rajasthan Royals,12,6,0.1,5.6,mandatory,D Ferreira,Mohammed Shami,RA Jadeja,,0,0,0,,,,,,,,,,,,,,,,,89
+Rajasthan Royals,13,1,0.1,5.6,mandatory,RA Jadeja,DS Rathi,D Ferreira,,1,0,1,,,,,,,,,,,,,,,,,90
+Rajasthan Royals,13,2,0.1,5.6,mandatory,D Ferreira,DS Rathi,RA Jadeja,,2,0,2,,,,,,,,,,,,,,,,,92
+Rajasthan Royals,13,3,0.1,5.6,mandatory,D Ferreira,DS Rathi,RA Jadeja,,0,0,0,,,,,,,,,,,,,,,,,92
+Rajasthan Royals,13,4,0.1,5.6,mandatory,D Ferreira,DS Rathi,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,93
+Rajasthan Royals,13,5,0.1,5.6,mandatory,RA Jadeja,DS Rathi,D Ferreira,,1,0,1,,,,,,,,,,,,,,,,,94
+Rajasthan Royals,13,6,0.1,5.6,mandatory,D Ferreira,DS Rathi,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,95
+Rajasthan Royals,14,1,0.1,5.6,mandatory,D Ferreira,MP Yadav,RA Jadeja,,2,0,2,,,,,,,,,,,,,,,,,97
+Rajasthan Royals,14,2,0.1,5.6,mandatory,D Ferreira,MP Yadav,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,98
+Rajasthan Royals,14,3,0.1,5.6,mandatory,RA Jadeja,MP Yadav,D Ferreira,,2,0,2,,,,,,,,,,,,,,,,,100
+Rajasthan Royals,14,4,0.1,5.6,mandatory,RA Jadeja,MP Yadav,D Ferreira,,2,0,2,,,,,,,,,,,,,,,,,102
+Rajasthan Royals,14,5,0.1,5.6,mandatory,RA Jadeja,MP Yadav,D Ferreira,,1,0,1,,,,,,,,,,,,,,,,,103
+Rajasthan Royals,14,6,0.1,5.6,mandatory,D Ferreira,MP Yadav,RA Jadeja,,4,0,4,,,,,,,,,,,,,,,,,107
+Rajasthan Royals,15,1,0.1,5.6,mandatory,RA Jadeja,Prince Yadav,D Ferreira,,0,0,0,,,,,,,,,,,,,,,,,107
+Rajasthan Royals,15,2,0.1,5.6,mandatory,RA Jadeja,Prince Yadav,D Ferreira,,2,0,2,,,,,,,,,,,,,,,,,109
+Rajasthan Royals,15,3,0.1,5.6,mandatory,RA Jadeja,Prince Yadav,D Ferreira,,1,0,1,,,,,,,,,,,,,,,,,110
+Rajasthan Royals,15,4,0.1,5.6,mandatory,D Ferreira,Prince Yadav,RA Jadeja,,0,0,0,,,,,,,,,,,,,,,,,110
+Rajasthan Royals,15,5,0.1,5.6,mandatory,D Ferreira,Prince Yadav,RA Jadeja,,0,0,0,,,,,,,D Ferreira,caught,,,,,Mohsin Khan,,,,110
+Rajasthan Royals,15,6,0.1,5.6,mandatory,SB Dubey,Prince Yadav,RA Jadeja,,0,0,0,,,,,,,,,SB Dubey,YBK Jaiswal,Rajasthan Royals,impact_player,,,,,110
+Rajasthan Royals,16,1,0.1,5.6,mandatory,RA Jadeja,Mohsin Khan,SB Dubey,,0,0,0,,,,,,,,,,,,,,,,,110
+Rajasthan Royals,16,2,0.1,5.6,mandatory,RA Jadeja,Mohsin Khan,SB Dubey,,1,0,1,,,,,,,,,,,,,,,,,111
+Rajasthan Royals,16,3,0.1,5.6,mandatory,SB Dubey,Mohsin Khan,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,112
+Rajasthan Royals,16,4,0.1,5.6,mandatory,RA Jadeja,Mohsin Khan,SB Dubey,,1,0,1,,,,,,,,,,,,,,,,,113
+Rajasthan Royals,16,5,0.1,5.6,mandatory,SB Dubey,Mohsin Khan,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,114
+Rajasthan Royals,16,6,0.1,5.6,mandatory,RA Jadeja,Mohsin Khan,SB Dubey,,2,0,2,,,,,,,,,,,,,,,,,116
+Rajasthan Royals,17,1,0.1,5.6,mandatory,SB Dubey,DS Rathi,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,117
+Rajasthan Royals,17,2,0.1,5.6,mandatory,RA Jadeja,DS Rathi,SB Dubey,,2,0,2,,,,,,,,,,,,,,,,,119
+Rajasthan Royals,17,3,0.1,5.6,mandatory,RA Jadeja,DS Rathi,SB Dubey,,1,0,1,,,,,,,,,,,,,,,,,120
+Rajasthan Royals,17,4,0.1,5.6,mandatory,SB Dubey,DS Rathi,RA Jadeja,,2,0,2,,,,,,,,,,,,,,,,,122
+Rajasthan Royals,17,5,0.1,5.6,mandatory,SB Dubey,DS Rathi,RA Jadeja,,4,0,4,,,,,,,,,,,,,,,,,126
+Rajasthan Royals,17,6,0.1,5.6,mandatory,SB Dubey,DS Rathi,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,127
+Rajasthan Royals,18,1,0.1,5.6,mandatory,SB Dubey,Prince Yadav,RA Jadeja,,0,0,0,,,,,,,,,,,,,,,,,127
+Rajasthan Royals,18,2,0.1,5.6,mandatory,SB Dubey,Prince Yadav,RA Jadeja,,4,0,4,,,,,,,,,,,,,,,,,131
+Rajasthan Royals,18,3,0.1,5.6,mandatory,SB Dubey,Prince Yadav,RA Jadeja,,1,0,1,,,,,,,,,,,,,,,,,132
+Rajasthan Royals,18,4,0.1,5.6,mandatory,RA Jadeja,Prince Yadav,SB Dubey,,2,0,2,,,,,,,,,,,,,,,,,134
+Rajasthan Royals,18,5,0.1,5.6,mandatory,RA Jadeja,Prince Yadav,SB Dubey,,0,1,1,1.0,Lucknow Super Giants,VK Sharma,SB Dubey,struck down,wicket,,,,,,,,,,,135
+Rajasthan Royals,18,6,0.1,5.6,mandatory,SB Dubey,Prince Yadav,RA Jadeja,,4,0,4,,,,,,,,,,,,,,,,,139
+Rajasthan Royals,19,1,0.1,5.6,mandatory,RA Jadeja,MP Yadav,SB Dubey,,4,0,4,,,,,,,,,,,,,,,,,143
+Rajasthan Royals,19,2,0.1,5.6,mandatory,RA Jadeja,MP Yadav,SB Dubey,,2,0,2,,,,,,,,,,,,,,,,,145
+Rajasthan Royals,19,3,0.1,5.6,mandatory,RA Jadeja,MP Yadav,SB Dubey,,4,0,4,,,,,,,,,,,,,,,,,149
+Rajasthan Royals,19,4,0.1,5.6,mandatory,RA Jadeja,MP Yadav,SB Dubey,,2,0,2,,,,,,,,,,,,,,,,,151
+Rajasthan Royals,19,5,0.1,5.6,mandatory,RA Jadeja,MP Yadav,SB Dubey,,2,0,2,,,,,,,,,,,,,,,,,153
+Rajasthan Royals,19,6,0.1,5.6,mandatory,RA Jadeja,MP Yadav,SB Dubey,,6,0,6,,,,,,,,,,,,,,,,,159
+Lucknow Super Giants,0,1,0.1,5.6,mandatory,MR Marsh,JC Archer,A Badoni,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,0
+Lucknow Super Giants,0,2,0.1,5.6,mandatory,MR Marsh,JC Archer,A Badoni,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,0
+Lucknow Super Giants,0,3,0.1,5.6,mandatory,MR Marsh,JC Archer,A Badoni,,4,0,4,,,,,,,,,,,,,,,20.0,160.0,4
+Lucknow Super Giants,0,4,0.1,5.6,mandatory,MR Marsh,JC Archer,A Badoni,,4,0,4,,,,,,,,,,,,,,,20.0,160.0,8
+Lucknow Super Giants,0,5,0.1,5.6,mandatory,MR Marsh,JC Archer,A Badoni,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,9
+Lucknow Super Giants,0,6,0.1,5.6,mandatory,A Badoni,JC Archer,MR Marsh,,0,0,0,,,,,,,A Badoni,run out,,,,,Ravi Singh,True,20.0,160.0,9
+Lucknow Super Giants,1,1,0.1,5.6,mandatory,MR Marsh,N Burger,RR Pant,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,10
+Lucknow Super Giants,1,2,0.1,5.6,mandatory,RR Pant,N Burger,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,10
+Lucknow Super Giants,1,3,0.1,5.6,mandatory,RR Pant,N Burger,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,10
+Lucknow Super Giants,1,4,0.1,5.6,mandatory,RR Pant,N Burger,MR Marsh,,0,0,0,,,,,,,RR Pant,caught,,,,,Dhruv Jurel,,20.0,160.0,10
+Lucknow Super Giants,1,5,0.1,5.6,mandatory,AK Markram,N Burger,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,10
+Lucknow Super Giants,1,6,0.1,5.6,mandatory,AK Markram,N Burger,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,10
+Lucknow Super Giants,2,1,0.1,5.6,mandatory,MR Marsh,JC Archer,AK Markram,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,11
+Lucknow Super Giants,2,2,0.1,5.6,mandatory,AK Markram,JC Archer,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,11
+Lucknow Super Giants,2,3,0.1,5.6,mandatory,AK Markram,JC Archer,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,11
+Lucknow Super Giants,2,4,0.1,5.6,mandatory,AK Markram,JC Archer,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,11
+Lucknow Super Giants,2,5,0.1,5.6,mandatory,AK Markram,JC Archer,MR Marsh,,0,0,0,,,,,,,AK Markram,caught,,,,,Dhruv Jurel,,20.0,160.0,11
+Lucknow Super Giants,2,6,0.1,5.6,mandatory,N Pooran,JC Archer,MR Marsh,1.0,0,1,1,,,,,,,,,,,,,,,20.0,160.0,12
+Lucknow Super Giants,2,7,0.1,5.6,mandatory,N Pooran,JC Archer,MR Marsh,,4,0,4,,,,,,,,,,,,,,,20.0,160.0,16
+Lucknow Super Giants,3,1,0.1,5.6,mandatory,MR Marsh,N Burger,N Pooran,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,16
+Lucknow Super Giants,3,2,0.1,5.6,mandatory,MR Marsh,N Burger,N Pooran,,4,0,4,,,,,,,,,,,,,,,20.0,160.0,20
+Lucknow Super Giants,3,3,0.1,5.6,mandatory,MR Marsh,N Burger,N Pooran,,0,1,1,1.0,,,,,,,,,,,,,,20.0,160.0,21
+Lucknow Super Giants,3,4,0.1,5.6,mandatory,N Pooran,N Burger,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,22
+Lucknow Super Giants,3,5,0.1,5.6,mandatory,MR Marsh,N Burger,N Pooran,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,22
+Lucknow Super Giants,3,6,0.1,5.6,mandatory,MR Marsh,N Burger,N Pooran,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,22
+Lucknow Super Giants,4,1,0.1,5.6,mandatory,N Pooran,JC Archer,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,22
+Lucknow Super Giants,4,2,0.1,5.6,mandatory,N Pooran,JC Archer,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,22
+Lucknow Super Giants,4,3,0.1,5.6,mandatory,N Pooran,JC Archer,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,22
+Lucknow Super Giants,4,4,0.1,5.6,mandatory,N Pooran,JC Archer,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,22
+Lucknow Super Giants,4,5,0.1,5.6,mandatory,N Pooran,JC Archer,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,22
+Lucknow Super Giants,4,6,0.1,5.6,mandatory,N Pooran,JC Archer,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,22
+Lucknow Super Giants,5,1,0.1,5.6,mandatory,MR Marsh,N Burger,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,23
+Lucknow Super Giants,5,2,0.1,5.6,mandatory,N Pooran,N Burger,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,23
+Lucknow Super Giants,5,3,0.1,5.6,mandatory,N Pooran,N Burger,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,24
+Lucknow Super Giants,5,4,0.1,5.6,mandatory,MR Marsh,N Burger,N Pooran,,6,0,6,,,,,,,,,,,,,,,20.0,160.0,30
+Lucknow Super Giants,5,5,0.1,5.6,mandatory,MR Marsh,N Burger,N Pooran,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,30
+Lucknow Super Giants,5,6,0.1,5.6,mandatory,MR Marsh,N Burger,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,31
+Lucknow Super Giants,6,1,0.1,5.6,mandatory,MR Marsh,Brijesh Sharma,N Pooran,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,31
+Lucknow Super Giants,6,2,0.1,5.6,mandatory,MR Marsh,Brijesh Sharma,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,32
+Lucknow Super Giants,6,3,0.1,5.6,mandatory,N Pooran,Brijesh Sharma,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,32
+Lucknow Super Giants,6,4,0.1,5.6,mandatory,N Pooran,Brijesh Sharma,MR Marsh,,4,0,4,,,,,,,,,,,,,,,20.0,160.0,36
+Lucknow Super Giants,6,5,0.1,5.6,mandatory,N Pooran,Brijesh Sharma,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,36
+Lucknow Super Giants,6,6,0.1,5.6,mandatory,N Pooran,Brijesh Sharma,MR Marsh,,4,0,4,,,,,,,,,,,,,,,20.0,160.0,40
+Lucknow Super Giants,7,1,0.1,5.6,mandatory,MR Marsh,RA Jadeja,N Pooran,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,40
+Lucknow Super Giants,7,2,0.1,5.6,mandatory,MR Marsh,RA Jadeja,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,41
+Lucknow Super Giants,7,3,0.1,5.6,mandatory,N Pooran,RA Jadeja,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,42
+Lucknow Super Giants,7,4,0.1,5.6,mandatory,MR Marsh,RA Jadeja,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,43
+Lucknow Super Giants,7,5,0.1,5.6,mandatory,N Pooran,RA Jadeja,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,43
+Lucknow Super Giants,7,6,0.1,5.6,mandatory,N Pooran,RA Jadeja,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,44
+Lucknow Super Giants,8,1,0.1,5.6,mandatory,N Pooran,Ravi Bishnoi,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,45
+Lucknow Super Giants,8,2,0.1,5.6,mandatory,MR Marsh,Ravi Bishnoi,N Pooran,,2,0,2,,,,,,,,,,,,,,,20.0,160.0,47
+Lucknow Super Giants,8,3,0.1,5.6,mandatory,MR Marsh,Ravi Bishnoi,N Pooran,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,48
+Lucknow Super Giants,8,4,0.1,5.6,mandatory,N Pooran,Ravi Bishnoi,MR Marsh,1.0,0,1,1,,Rajasthan Royals,AK Argal,N Pooran,struck down,wicket,,,,,,,,,20.0,160.0,49
+Lucknow Super Giants,8,5,0.1,5.6,mandatory,N Pooran,Ravi Bishnoi,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,49
+Lucknow Super Giants,8,6,0.1,5.6,mandatory,N Pooran,Ravi Bishnoi,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,49
+Lucknow Super Giants,8,7,0.1,5.6,mandatory,N Pooran,Ravi Bishnoi,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,50
+Lucknow Super Giants,9,1,0.1,5.6,mandatory,N Pooran,RA Jadeja,MR Marsh,,2,0,2,,,,,,,,,,,,,,,20.0,160.0,52
+Lucknow Super Giants,9,2,0.1,5.6,mandatory,N Pooran,RA Jadeja,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,52
+Lucknow Super Giants,9,3,0.1,5.6,mandatory,N Pooran,RA Jadeja,MR Marsh,,2,0,2,,,,,,,,,,,,,,,20.0,160.0,54
+Lucknow Super Giants,9,4,0.1,5.6,mandatory,N Pooran,RA Jadeja,MR Marsh,,0,0,0,,,,,,,N Pooran,caught,,,,,D Ferreira,,20.0,160.0,54
+Lucknow Super Giants,9,5,0.1,5.6,mandatory,Himmat Singh,RA Jadeja,MR Marsh,,1,0,1,,,,,,,,,Himmat Singh,Prince Yadav,Lucknow Super Giants,impact_player,,,20.0,160.0,55
+Lucknow Super Giants,9,6,0.1,5.6,mandatory,MR Marsh,RA Jadeja,Himmat Singh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,55
+Lucknow Super Giants,10,1,0.1,5.6,mandatory,Himmat Singh,Ravi Bishnoi,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,56
+Lucknow Super Giants,10,2,0.1,5.6,mandatory,MR Marsh,Ravi Bishnoi,Himmat Singh,,4,0,4,,,,,,,,,,,,,,,20.0,160.0,60
+Lucknow Super Giants,10,3,0.1,5.6,mandatory,MR Marsh,Ravi Bishnoi,Himmat Singh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,60
+Lucknow Super Giants,10,4,0.1,5.6,mandatory,MR Marsh,Ravi Bishnoi,Himmat Singh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,61
+Lucknow Super Giants,10,5,0.1,5.6,mandatory,Himmat Singh,Ravi Bishnoi,MR Marsh,1.0,0,1,1,,,,,,,,,,,,,,,20.0,160.0,62
+Lucknow Super Giants,10,6,0.1,5.6,mandatory,Himmat Singh,Ravi Bishnoi,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,62
+Lucknow Super Giants,10,7,0.1,5.6,mandatory,Himmat Singh,Ravi Bishnoi,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,62
+Lucknow Super Giants,11,1,0.1,5.6,mandatory,MR Marsh,RA Jadeja,Himmat Singh,,4,0,4,,,,,,,,,,,,,,,20.0,160.0,66
+Lucknow Super Giants,11,2,0.1,5.6,mandatory,MR Marsh,RA Jadeja,Himmat Singh,,4,0,4,,,,,,,,,,,,,,,20.0,160.0,70
+Lucknow Super Giants,11,3,0.1,5.6,mandatory,MR Marsh,RA Jadeja,Himmat Singh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,71
+Lucknow Super Giants,11,4,0.1,5.6,mandatory,Himmat Singh,RA Jadeja,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,72
+Lucknow Super Giants,11,5,0.1,5.6,mandatory,MR Marsh,RA Jadeja,Himmat Singh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,73
+Lucknow Super Giants,11,6,0.1,5.6,mandatory,Himmat Singh,RA Jadeja,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,74
+Lucknow Super Giants,12,1,0.1,5.6,mandatory,Himmat Singh,Brijesh Sharma,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,75
+Lucknow Super Giants,12,2,0.1,5.6,mandatory,MR Marsh,Brijesh Sharma,Himmat Singh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,76
+Lucknow Super Giants,12,3,0.1,5.6,mandatory,Himmat Singh,Brijesh Sharma,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,77
+Lucknow Super Giants,12,4,0.1,5.6,mandatory,MR Marsh,Brijesh Sharma,Himmat Singh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,78
+Lucknow Super Giants,12,5,0.1,5.6,mandatory,Himmat Singh,Brijesh Sharma,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,79
+Lucknow Super Giants,12,6,0.1,5.6,mandatory,MR Marsh,Brijesh Sharma,Himmat Singh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,80
+Lucknow Super Giants,13,1,0.1,5.6,mandatory,MR Marsh,RA Jadeja,Himmat Singh,1.0,0,1,1,,,,,,,,,,,,,,,20.0,160.0,81
+Lucknow Super Giants,13,2,0.1,5.6,mandatory,MR Marsh,RA Jadeja,Himmat Singh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,81
+Lucknow Super Giants,13,3,0.1,5.6,mandatory,MR Marsh,RA Jadeja,Himmat Singh,,0,1,1,1.0,,,,,,,,,,,,,,20.0,160.0,82
+Lucknow Super Giants,13,4,0.1,5.6,mandatory,Himmat Singh,RA Jadeja,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,82
+Lucknow Super Giants,13,5,0.1,5.6,mandatory,Himmat Singh,RA Jadeja,MR Marsh,,6,0,6,,,,,,,,,,,,,,,20.0,160.0,88
+Lucknow Super Giants,13,6,0.1,5.6,mandatory,Himmat Singh,RA Jadeja,MR Marsh,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,88
+Lucknow Super Giants,13,7,0.1,5.6,mandatory,Himmat Singh,RA Jadeja,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,89
+Lucknow Super Giants,14,1,0.1,5.6,mandatory,Himmat Singh,Ravi Bishnoi,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,90
+Lucknow Super Giants,14,2,0.1,5.6,mandatory,MR Marsh,Ravi Bishnoi,Himmat Singh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,91
+Lucknow Super Giants,14,3,0.1,5.6,mandatory,Himmat Singh,Ravi Bishnoi,MR Marsh,,0,0,0,,,,,,,Himmat Singh,bowled,,,,,,,20.0,160.0,91
+Lucknow Super Giants,14,4,0.1,5.6,mandatory,MD Choudhary,Ravi Bishnoi,MR Marsh,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,92
+Lucknow Super Giants,14,5,0.1,5.6,mandatory,MR Marsh,Ravi Bishnoi,MD Choudhary,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,93
+Lucknow Super Giants,14,6,0.1,5.6,mandatory,MD Choudhary,Ravi Bishnoi,MR Marsh,,6,0,6,,,,,,,,,,,,,,,20.0,160.0,99
+Lucknow Super Giants,15,1,0.1,5.6,mandatory,MR Marsh,N Burger,MD Choudhary,,6,0,6,,,,,,,,,,,,,,,20.0,160.0,105
+Lucknow Super Giants,15,2,0.1,5.6,mandatory,MR Marsh,N Burger,MD Choudhary,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,105
+Lucknow Super Giants,15,3,0.1,5.6,mandatory,MR Marsh,N Burger,MD Choudhary,,0,0,0,,,,,,,MR Marsh,caught,,,,,R Parag,,20.0,160.0,105
+Lucknow Super Giants,15,4,0.1,5.6,mandatory,Mohammed Shami,N Burger,MD Choudhary,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,105
+Lucknow Super Giants,15,5,0.1,5.6,mandatory,Mohammed Shami,N Burger,MD Choudhary,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,105
+Lucknow Super Giants,15,6,0.1,5.6,mandatory,Mohammed Shami,N Burger,MD Choudhary,,6,0,6,,,,,,,,,,,,,,,20.0,160.0,111
+Lucknow Super Giants,16,1,0.1,5.6,mandatory,MD Choudhary,Brijesh Sharma,Mohammed Shami,,0,0,0,,,,,,,MD Choudhary,caught,,,,,R Parag,,20.0,160.0,111
+Lucknow Super Giants,16,2,0.1,5.6,mandatory,MP Yadav,Brijesh Sharma,Mohammed Shami,1.0,0,1,1,,,,,,,,,,,,,,,20.0,160.0,112
+Lucknow Super Giants,16,3,0.1,5.6,mandatory,MP Yadav,Brijesh Sharma,Mohammed Shami,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,113
+Lucknow Super Giants,16,4,0.1,5.6,mandatory,Mohammed Shami,Brijesh Sharma,MP Yadav,,0,0,0,,,,,,,Mohammed Shami,bowled,,,,,,,20.0,160.0,113
+Lucknow Super Giants,16,5,0.1,5.6,mandatory,DS Rathi,Brijesh Sharma,MP Yadav,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,114
+Lucknow Super Giants,16,6,0.1,5.6,mandatory,MP Yadav,Brijesh Sharma,DS Rathi,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,114
+Lucknow Super Giants,16,7,0.1,5.6,mandatory,MP Yadav,Brijesh Sharma,DS Rathi,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,114
+Lucknow Super Giants,17,1,0.1,5.6,mandatory,DS Rathi,JC Archer,MP Yadav,,1,0,1,,,,,,,,,,,,,,,20.0,160.0,115
+Lucknow Super Giants,17,2,0.1,5.6,mandatory,MP Yadav,JC Archer,DS Rathi,,4,0,4,,,,,,,,,,,,,,,20.0,160.0,119
+Lucknow Super Giants,17,3,0.1,5.6,mandatory,MP Yadav,JC Archer,DS Rathi,,0,0,0,,,,,,,MP Yadav,caught,,,,,Dhruv Jurel,,20.0,160.0,119
+Lucknow Super Giants,17,4,0.1,5.6,mandatory,Mohsin Khan,JC Archer,DS Rathi,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,119
+Lucknow Super Giants,17,5,0.1,5.6,mandatory,Mohsin Khan,JC Archer,DS Rathi,,0,0,0,,,,,,,,,,,,,,,20.0,160.0,119
+Lucknow Super Giants,17,6,0.1,5.6,mandatory,Mohsin Khan,JC Archer,DS Rathi,,0,0,0,,,,,,,Mohsin Khan,bowled,,,,,,,20.0,160.0,119

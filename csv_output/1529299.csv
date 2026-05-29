@@ -1,0 +1,218 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,legbyes,review_by,review_umpire,review_batter,review_decision,review_type,wides,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Gujarat Titans,0,1,0.1,5.6,mandatory,B Sai Sudharsan,PJ Cummins,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,0
+Gujarat Titans,0,2,0.1,5.6,mandatory,B Sai Sudharsan,PJ Cummins,Shubman Gill,2,0,2,,,,,,,,,,,,,,,,,2
+Gujarat Titans,0,3,0.1,5.6,mandatory,B Sai Sudharsan,PJ Cummins,Shubman Gill,2,0,2,,,,,,,,,,,,,,,,,4
+Gujarat Titans,0,4,0.1,5.6,mandatory,B Sai Sudharsan,PJ Cummins,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,5
+Gujarat Titans,0,5,0.1,5.6,mandatory,Shubman Gill,PJ Cummins,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,5
+Gujarat Titans,0,6,0.1,5.6,mandatory,Shubman Gill,PJ Cummins,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,5
+Gujarat Titans,1,1,0.1,5.6,mandatory,B Sai Sudharsan,Nithish Kumar Reddy,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,9
+Gujarat Titans,1,2,0.1,5.6,mandatory,B Sai Sudharsan,Nithish Kumar Reddy,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,9
+Gujarat Titans,1,3,0.1,5.6,mandatory,B Sai Sudharsan,Nithish Kumar Reddy,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,10
+Gujarat Titans,1,4,0.1,5.6,mandatory,Shubman Gill,Nithish Kumar Reddy,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,10
+Gujarat Titans,1,5,0.1,5.6,mandatory,Shubman Gill,Nithish Kumar Reddy,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,14
+Gujarat Titans,1,6,0.1,5.6,mandatory,Shubman Gill,Nithish Kumar Reddy,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,15
+Gujarat Titans,2,1,0.1,5.6,mandatory,Shubman Gill,PP Hinge,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,15
+Gujarat Titans,2,2,0.1,5.6,mandatory,Shubman Gill,PP Hinge,B Sai Sudharsan,0,0,0,,,,,,,,Shubman Gill,caught,,,,,H Klaasen,,,15
+Gujarat Titans,2,3,0.1,5.6,mandatory,JC Buttler,PP Hinge,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,15
+Gujarat Titans,2,4,0.1,5.6,mandatory,JC Buttler,PP Hinge,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,16
+Gujarat Titans,2,5,0.1,5.6,mandatory,B Sai Sudharsan,PP Hinge,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,17
+Gujarat Titans,2,6,0.1,5.6,mandatory,JC Buttler,PP Hinge,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,17
+Gujarat Titans,3,1,0.1,5.6,mandatory,B Sai Sudharsan,PJ Cummins,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,18
+Gujarat Titans,3,2,0.1,5.6,mandatory,JC Buttler,PJ Cummins,B Sai Sudharsan,2,0,2,,,,,,,,,,,,,,,,,20
+Gujarat Titans,3,3,0.1,5.6,mandatory,JC Buttler,PJ Cummins,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,20
+Gujarat Titans,3,4,0.1,5.6,mandatory,JC Buttler,PJ Cummins,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,20
+Gujarat Titans,3,5,0.1,5.6,mandatory,JC Buttler,PJ Cummins,B Sai Sudharsan,0,1,1,1.0,,,,,,,,,,,,,,,,21
+Gujarat Titans,3,6,0.1,5.6,mandatory,B Sai Sudharsan,PJ Cummins,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,21
+Gujarat Titans,4,1,0.1,5.6,mandatory,JC Buttler,Nithish Kumar Reddy,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,25
+Gujarat Titans,4,2,0.1,5.6,mandatory,JC Buttler,Nithish Kumar Reddy,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,25
+Gujarat Titans,4,3,0.1,5.6,mandatory,JC Buttler,Nithish Kumar Reddy,B Sai Sudharsan,0,1,1,1.0,,,,,,,,,,,,,,,,26
+Gujarat Titans,4,4,0.1,5.6,mandatory,B Sai Sudharsan,Nithish Kumar Reddy,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,26
+Gujarat Titans,4,5,0.1,5.6,mandatory,B Sai Sudharsan,Nithish Kumar Reddy,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,26
+Gujarat Titans,4,6,0.1,5.6,mandatory,B Sai Sudharsan,Nithish Kumar Reddy,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,26
+Gujarat Titans,5,1,0.1,5.6,mandatory,JC Buttler,PP Hinge,B Sai Sudharsan,0,0,0,,Sunrisers Hyderabad,HAS Khalid,JC Buttler,upheld,wicket,,JC Buttler,caught,,,,,Ishan Kishan,,,26
+Gujarat Titans,5,2,0.1,5.6,mandatory,N Sindhu,PP Hinge,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,26
+Gujarat Titans,5,3,0.1,5.6,mandatory,N Sindhu,PP Hinge,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,30
+Gujarat Titans,5,4,0.1,5.6,mandatory,N Sindhu,PP Hinge,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,30
+Gujarat Titans,5,5,0.1,5.6,mandatory,N Sindhu,PP Hinge,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,30
+Gujarat Titans,5,6,0.1,5.6,mandatory,N Sindhu,PP Hinge,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,34
+Gujarat Titans,6,1,0.1,5.6,mandatory,B Sai Sudharsan,Nithish Kumar Reddy,N Sindhu,0,0,0,,,,,,,,,,,,,,,,,34
+Gujarat Titans,6,2,0.1,5.6,mandatory,B Sai Sudharsan,Nithish Kumar Reddy,N Sindhu,1,0,1,,,,,,,,,,,,,,,,,35
+Gujarat Titans,6,3,0.1,5.6,mandatory,N Sindhu,Nithish Kumar Reddy,B Sai Sudharsan,6,0,6,,,,,,,,,,,,,,,,,41
+Gujarat Titans,6,4,0.1,5.6,mandatory,N Sindhu,Nithish Kumar Reddy,B Sai Sudharsan,2,0,2,,,,,,,,,,,,,,,,,43
+Gujarat Titans,6,5,0.1,5.6,mandatory,N Sindhu,Nithish Kumar Reddy,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,43
+Gujarat Titans,6,6,0.1,5.6,mandatory,N Sindhu,Nithish Kumar Reddy,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,47
+Gujarat Titans,7,1,0.1,5.6,mandatory,B Sai Sudharsan,E Malinga,N Sindhu,4,0,4,,,,,,,,,,,,,,,,,51
+Gujarat Titans,7,2,0.1,5.6,mandatory,B Sai Sudharsan,E Malinga,N Sindhu,1,0,1,,,,,,,,,,,,,,,,,52
+Gujarat Titans,7,3,0.1,5.6,mandatory,N Sindhu,E Malinga,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,52
+Gujarat Titans,7,4,0.1,5.6,mandatory,N Sindhu,E Malinga,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,53
+Gujarat Titans,7,5,0.1,5.6,mandatory,B Sai Sudharsan,E Malinga,N Sindhu,2,0,2,,,,,,,,,,,,,,,,,55
+Gujarat Titans,7,6,0.1,5.6,mandatory,B Sai Sudharsan,E Malinga,N Sindhu,1,0,1,,,,,,,,,,,,,,,,,56
+Gujarat Titans,8,1,0.1,5.6,mandatory,B Sai Sudharsan,Sakib Hussain,N Sindhu,1,0,1,,,,,,,,,,,,,,,,,57
+Gujarat Titans,8,2,0.1,5.6,mandatory,N Sindhu,Sakib Hussain,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,57
+Gujarat Titans,8,3,0.1,5.6,mandatory,N Sindhu,Sakib Hussain,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,58
+Gujarat Titans,8,4,0.1,5.6,mandatory,B Sai Sudharsan,Sakib Hussain,N Sindhu,4,0,4,,,,,,,,,,,,,,,,,62
+Gujarat Titans,8,5,0.1,5.6,mandatory,B Sai Sudharsan,Sakib Hussain,N Sindhu,0,0,0,,,,,,,,,,,,,,,,,62
+Gujarat Titans,8,6,0.1,5.6,mandatory,B Sai Sudharsan,Sakib Hussain,N Sindhu,1,0,1,,,,,,,,,,,,,,,,,63
+Gujarat Titans,9,1,0.1,5.6,mandatory,B Sai Sudharsan,PJ Cummins,N Sindhu,0,0,0,,,,,,,,,,,,,,,,,63
+Gujarat Titans,9,2,0.1,5.6,mandatory,B Sai Sudharsan,PJ Cummins,N Sindhu,1,0,1,,,,,,,,,,,,,,,,,64
+Gujarat Titans,9,3,0.1,5.6,mandatory,N Sindhu,PJ Cummins,B Sai Sudharsan,0,0,0,,,,,,,,N Sindhu,caught,,,,,H Klaasen,,,64
+Gujarat Titans,9,4,0.1,5.6,mandatory,Washington Sundar,PJ Cummins,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,68
+Gujarat Titans,9,5,0.1,5.6,mandatory,Washington Sundar,PJ Cummins,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,68
+Gujarat Titans,9,6,0.1,5.6,mandatory,Washington Sundar,PJ Cummins,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,68
+Gujarat Titans,10,1,0.1,5.6,mandatory,B Sai Sudharsan,E Malinga,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,68
+Gujarat Titans,10,2,0.1,5.6,mandatory,B Sai Sudharsan,E Malinga,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,69
+Gujarat Titans,10,3,0.1,5.6,mandatory,Washington Sundar,E Malinga,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,70
+Gujarat Titans,10,4,0.1,5.6,mandatory,B Sai Sudharsan,E Malinga,Washington Sundar,2,0,2,,,,,,,,,,,,,,,,,72
+Gujarat Titans,10,5,0.1,5.6,mandatory,B Sai Sudharsan,E Malinga,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,78
+Gujarat Titans,10,6,0.1,5.6,mandatory,B Sai Sudharsan,E Malinga,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,78
+Gujarat Titans,11,1,0.1,5.6,mandatory,Washington Sundar,Shivang Kumar,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,79
+Gujarat Titans,11,2,0.1,5.6,mandatory,B Sai Sudharsan,Shivang Kumar,Washington Sundar,0,1,1,,,,,,,1.0,,,,,,,,,,80
+Gujarat Titans,11,3,0.1,5.6,mandatory,B Sai Sudharsan,Shivang Kumar,Washington Sundar,0,1,1,,,,,,,1.0,,,,,,,,,,81
+Gujarat Titans,11,4,0.1,5.6,mandatory,B Sai Sudharsan,Shivang Kumar,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,82
+Gujarat Titans,11,5,0.1,5.6,mandatory,Washington Sundar,Shivang Kumar,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,82
+Gujarat Titans,11,6,0.1,5.6,mandatory,Washington Sundar,Shivang Kumar,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,83
+Gujarat Titans,11,7,0.1,5.6,mandatory,B Sai Sudharsan,Shivang Kumar,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,84
+Gujarat Titans,11,8,0.1,5.6,mandatory,Washington Sundar,Shivang Kumar,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,84
+Gujarat Titans,12,1,0.1,5.6,mandatory,B Sai Sudharsan,Sakib Hussain,Washington Sundar,2,0,2,,,,,,,,,,,,,,,,,86
+Gujarat Titans,12,2,0.1,5.6,mandatory,B Sai Sudharsan,Sakib Hussain,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,92
+Gujarat Titans,12,3,0.1,5.6,mandatory,B Sai Sudharsan,Sakib Hussain,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,93
+Gujarat Titans,12,4,0.1,5.6,mandatory,Washington Sundar,Sakib Hussain,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,94
+Gujarat Titans,12,5,0.1,5.6,mandatory,B Sai Sudharsan,Sakib Hussain,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,94
+Gujarat Titans,12,6,0.1,5.6,mandatory,B Sai Sudharsan,Sakib Hussain,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,94
+Gujarat Titans,13,1,0.1,5.6,mandatory,Washington Sundar,Shivang Kumar,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,95
+Gujarat Titans,13,2,0.1,5.6,mandatory,B Sai Sudharsan,Shivang Kumar,Washington Sundar,4,0,4,,,,,,,,,,,,,,,,,99
+Gujarat Titans,13,3,0.1,5.6,mandatory,B Sai Sudharsan,Shivang Kumar,Washington Sundar,2,0,2,,,,,,,,,,,,,,,,,101
+Gujarat Titans,13,4,0.1,5.6,mandatory,B Sai Sudharsan,Shivang Kumar,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,102
+Gujarat Titans,13,5,0.1,5.6,mandatory,Washington Sundar,Shivang Kumar,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,106
+Gujarat Titans,13,6,0.1,5.6,mandatory,Washington Sundar,Shivang Kumar,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,107
+Gujarat Titans,14,1,0.1,5.6,mandatory,Washington Sundar,PJ Cummins,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,111
+Gujarat Titans,14,2,0.1,5.6,mandatory,Washington Sundar,PJ Cummins,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,111
+Gujarat Titans,14,3,0.1,5.6,mandatory,Washington Sundar,PJ Cummins,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,112
+Gujarat Titans,14,4,0.1,5.6,mandatory,B Sai Sudharsan,PJ Cummins,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,113
+Gujarat Titans,14,5,0.1,5.6,mandatory,Washington Sundar,PJ Cummins,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,113
+Gujarat Titans,14,6,0.1,5.6,mandatory,Washington Sundar,PJ Cummins,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,114
+Gujarat Titans,15,1,0.1,5.6,mandatory,Washington Sundar,E Malinga,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,115
+Gujarat Titans,15,2,0.1,5.6,mandatory,B Sai Sudharsan,E Malinga,Washington Sundar,4,0,4,,,,,,,,,,,,,,,,,119
+Gujarat Titans,15,3,0.1,5.6,mandatory,B Sai Sudharsan,E Malinga,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,120
+Gujarat Titans,15,4,0.1,5.6,mandatory,Washington Sundar,E Malinga,B Sai Sudharsan,2,0,2,,,,,,,,,,,,,,,,,122
+Gujarat Titans,15,5,0.1,5.6,mandatory,Washington Sundar,E Malinga,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,122
+Gujarat Titans,15,6,0.1,5.6,mandatory,Washington Sundar,E Malinga,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,123
+Gujarat Titans,16,1,0.1,5.6,mandatory,Washington Sundar,Sakib Hussain,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,124
+Gujarat Titans,16,2,0.1,5.6,mandatory,B Sai Sudharsan,Sakib Hussain,Washington Sundar,0,0,0,,,,,,,,B Sai Sudharsan,caught,,,,,PP Hinge,,,124
+Gujarat Titans,16,3,0.1,5.6,mandatory,JO Holder,Sakib Hussain,Washington Sundar,2,0,2,,,,,,,,,,,,,,,,,126
+Gujarat Titans,16,4,0.1,5.6,mandatory,JO Holder,Sakib Hussain,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,127
+Gujarat Titans,16,5,0.1,5.6,mandatory,Washington Sundar,Sakib Hussain,JO Holder,0,0,0,,,,,,,,,,,,,,,,,127
+Gujarat Titans,16,6,0.1,5.6,mandatory,Washington Sundar,Sakib Hussain,JO Holder,0,1,1,,,,,,,1.0,,,,,,,,,,128
+Gujarat Titans,16,7,0.1,5.6,mandatory,Washington Sundar,Sakib Hussain,JO Holder,0,1,1,,,,,,,1.0,,,,,,,,,,129
+Gujarat Titans,16,8,0.1,5.6,mandatory,Washington Sundar,Sakib Hussain,JO Holder,4,0,4,,,,,,,,,,,,,,,,,133
+Gujarat Titans,17,1,0.1,5.6,mandatory,JO Holder,PP Hinge,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,133
+Gujarat Titans,17,2,0.1,5.6,mandatory,JO Holder,PP Hinge,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,134
+Gujarat Titans,17,3,0.1,5.6,mandatory,Washington Sundar,PP Hinge,JO Holder,4,0,4,,,,,,,,,,,,,,,,,138
+Gujarat Titans,17,4,0.1,5.6,mandatory,Washington Sundar,PP Hinge,JO Holder,0,0,0,,,,,,,,,,,,,,,,,138
+Gujarat Titans,17,5,0.1,5.6,mandatory,Washington Sundar,PP Hinge,JO Holder,1,0,1,,,,,,,,,,,,,,,,,139
+Gujarat Titans,17,6,0.1,5.6,mandatory,JO Holder,PP Hinge,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,140
+Gujarat Titans,18,1,0.1,5.6,mandatory,JO Holder,E Malinga,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,141
+Gujarat Titans,18,2,0.1,5.6,mandatory,Washington Sundar,E Malinga,JO Holder,4,0,4,,,,,,,,,,,,,,,,,145
+Gujarat Titans,18,3,0.1,5.6,mandatory,Washington Sundar,E Malinga,JO Holder,1,0,1,,,,,,,,,,,,,,,,,146
+Gujarat Titans,18,4,0.1,5.6,mandatory,JO Holder,E Malinga,Washington Sundar,0,1,1,,,,,,,1.0,,,,,,,,,,147
+Gujarat Titans,18,5,0.1,5.6,mandatory,JO Holder,E Malinga,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,148
+Gujarat Titans,18,6,0.1,5.6,mandatory,Washington Sundar,E Malinga,JO Holder,4,0,4,,,,,,,,,,,,,,,,,152
+Gujarat Titans,18,7,0.1,5.6,mandatory,Washington Sundar,E Malinga,JO Holder,6,0,6,,,,,,,,,,,,,,,,,158
+Gujarat Titans,19,1,0.1,5.6,mandatory,JO Holder,Sakib Hussain,Washington Sundar,2,0,2,,,,,,,,,,,,,,,,,160
+Gujarat Titans,19,2,0.1,5.6,mandatory,JO Holder,Sakib Hussain,Washington Sundar,0,1,1,,,,,,,1.0,,,,,,,,,,161
+Gujarat Titans,19,3,0.1,5.6,mandatory,JO Holder,Sakib Hussain,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,162
+Gujarat Titans,19,4,0.1,5.6,mandatory,Washington Sundar,Sakib Hussain,JO Holder,1,0,1,,,,,,,,,,,,,,,,,163
+Gujarat Titans,19,5,0.1,5.6,mandatory,JO Holder,Sakib Hussain,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,164
+Gujarat Titans,19,6,0.1,5.6,mandatory,Washington Sundar,Sakib Hussain,JO Holder,0,0,0,,,,,,,,Washington Sundar,caught,,,,,Ishan Kishan,,,164
+Gujarat Titans,19,7,0.1,5.6,mandatory,R Tewatia,Sakib Hussain,JO Holder,4,0,4,,,,,,,,,,,,,,,,,168
+Sunrisers Hyderabad,0,1,0.1,5.6,mandatory,TM Head,Mohammed Siraj,Abhishek Sharma,0,0,0,,,,,,,,,,M Prasidh Krishna,R Tewatia,Gujarat Titans,impact_player,,20.0,169.0,0
+Sunrisers Hyderabad,0,2,0.1,5.6,mandatory,TM Head,Mohammed Siraj,Abhishek Sharma,0,0,0,,,,,,,,,,TM Head,Sakib Hussain,Sunrisers Hyderabad,impact_player,,20.0,169.0,0
+Sunrisers Hyderabad,0,3,0.1,5.6,mandatory,TM Head,Mohammed Siraj,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,20.0,169.0,0
+Sunrisers Hyderabad,0,4,0.1,5.6,mandatory,TM Head,Mohammed Siraj,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,20.0,169.0,0
+Sunrisers Hyderabad,0,5,0.1,5.6,mandatory,TM Head,Mohammed Siraj,Abhishek Sharma,0,0,0,,,,,,,,TM Head,caught,,,,,N Sindhu,20.0,169.0,0
+Sunrisers Hyderabad,0,6,0.1,5.6,mandatory,Ishan Kishan,Mohammed Siraj,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,20.0,169.0,0
+Sunrisers Hyderabad,0,7,0.1,5.6,mandatory,Ishan Kishan,Mohammed Siraj,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,20.0,169.0,0
+Sunrisers Hyderabad,1,1,0.1,5.6,mandatory,Abhishek Sharma,K Rabada,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,20.0,169.0,6
+Sunrisers Hyderabad,1,2,0.1,5.6,mandatory,Abhishek Sharma,K Rabada,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,169.0,6
+Sunrisers Hyderabad,1,3,0.1,5.6,mandatory,Abhishek Sharma,K Rabada,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,169.0,6
+Sunrisers Hyderabad,1,4,0.1,5.6,mandatory,Abhishek Sharma,K Rabada,Ishan Kishan,0,0,0,,,,,,,,Abhishek Sharma,bowled,,,,,,20.0,169.0,6
+Sunrisers Hyderabad,1,5,0.1,5.6,mandatory,R Smaran,K Rabada,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,20.0,169.0,7
+Sunrisers Hyderabad,1,6,0.1,5.6,mandatory,Ishan Kishan,K Rabada,R Smaran,6,0,6,,,,,,,,,,,,,,,20.0,169.0,13
+Sunrisers Hyderabad,2,1,0.1,5.6,mandatory,R Smaran,Mohammed Siraj,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,169.0,17
+Sunrisers Hyderabad,2,2,0.1,5.6,mandatory,R Smaran,Mohammed Siraj,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,169.0,17
+Sunrisers Hyderabad,2,3,0.1,5.6,mandatory,R Smaran,Mohammed Siraj,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,20.0,169.0,18
+Sunrisers Hyderabad,2,4,0.1,5.6,mandatory,Ishan Kishan,Mohammed Siraj,R Smaran,0,0,0,,,,,,,,,,,,,,,20.0,169.0,18
+Sunrisers Hyderabad,2,5,0.1,5.6,mandatory,Ishan Kishan,Mohammed Siraj,R Smaran,4,0,4,,,,,,,,,,,,,,,20.0,169.0,22
+Sunrisers Hyderabad,2,6,0.1,5.6,mandatory,Ishan Kishan,Mohammed Siraj,R Smaran,1,0,1,,,,,,,,,,,,,,,20.0,169.0,23
+Sunrisers Hyderabad,3,1,0.1,5.6,mandatory,Ishan Kishan,K Rabada,R Smaran,0,0,0,,,,,,,,Ishan Kishan,caught,,,,,JC Buttler,20.0,169.0,23
+Sunrisers Hyderabad,3,2,0.1,5.6,mandatory,H Klaasen,K Rabada,R Smaran,1,0,1,,,,,,,,,,,,,,,20.0,169.0,24
+Sunrisers Hyderabad,3,3,0.1,5.6,mandatory,R Smaran,K Rabada,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,169.0,25
+Sunrisers Hyderabad,3,4,0.1,5.6,mandatory,H Klaasen,K Rabada,R Smaran,0,0,0,,,,,,,,,,,,,,,20.0,169.0,25
+Sunrisers Hyderabad,3,5,0.1,5.6,mandatory,H Klaasen,K Rabada,R Smaran,4,0,4,,,,,,,,,,,,,,,20.0,169.0,29
+Sunrisers Hyderabad,3,6,0.1,5.6,mandatory,H Klaasen,K Rabada,R Smaran,0,0,0,,,,,,,,,,,,,,,20.0,169.0,29
+Sunrisers Hyderabad,4,1,0.1,5.6,mandatory,R Smaran,Mohammed Siraj,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,29
+Sunrisers Hyderabad,4,2,0.1,5.6,mandatory,R Smaran,Mohammed Siraj,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,29
+Sunrisers Hyderabad,4,3,0.1,5.6,mandatory,R Smaran,Mohammed Siraj,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,29
+Sunrisers Hyderabad,4,4,0.1,5.6,mandatory,R Smaran,Mohammed Siraj,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,29
+Sunrisers Hyderabad,4,5,0.1,5.6,mandatory,R Smaran,Mohammed Siraj,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,29
+Sunrisers Hyderabad,4,6,0.1,5.6,mandatory,R Smaran,Mohammed Siraj,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,169.0,30
+Sunrisers Hyderabad,5,1,0.1,5.6,mandatory,R Smaran,K Rabada,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,30
+Sunrisers Hyderabad,5,2,0.1,5.6,mandatory,R Smaran,K Rabada,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,30
+Sunrisers Hyderabad,5,3,0.1,5.6,mandatory,R Smaran,K Rabada,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,169.0,31
+Sunrisers Hyderabad,5,4,0.1,5.6,mandatory,H Klaasen,K Rabada,R Smaran,1,0,1,,,,,,,,,,,,,,,20.0,169.0,32
+Sunrisers Hyderabad,5,5,0.1,5.6,mandatory,R Smaran,K Rabada,H Klaasen,0,0,0,,,,,,,,R Smaran,caught,,,,,Shubman Gill,20.0,169.0,32
+Sunrisers Hyderabad,5,6,0.1,5.6,mandatory,S Arora,K Rabada,H Klaasen,2,0,2,,,,,,,,,,,,,,,20.0,169.0,34
+Sunrisers Hyderabad,6,1,0.1,5.6,mandatory,H Klaasen,JO Holder,S Arora,1,0,1,,,,,,,,,,,,,,,20.0,169.0,35
+Sunrisers Hyderabad,6,2,0.1,5.6,mandatory,S Arora,JO Holder,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,35
+Sunrisers Hyderabad,6,3,0.1,5.6,mandatory,S Arora,JO Holder,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,35
+Sunrisers Hyderabad,6,4,0.1,5.6,mandatory,S Arora,JO Holder,H Klaasen,4,0,4,,,,,,,,,,,,,,,20.0,169.0,39
+Sunrisers Hyderabad,6,5,0.1,5.6,mandatory,S Arora,JO Holder,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,39
+Sunrisers Hyderabad,6,6,0.1,5.6,mandatory,S Arora,JO Holder,H Klaasen,4,0,4,,,,,,,,,,,,,,,20.0,169.0,43
+Sunrisers Hyderabad,7,1,0.1,5.6,mandatory,H Klaasen,K Rabada,S Arora,0,0,0,,,,,,,,,,,,,,,20.0,169.0,43
+Sunrisers Hyderabad,7,2,0.1,5.6,mandatory,H Klaasen,K Rabada,S Arora,0,0,0,,,,,,,,,,,,,,,20.0,169.0,43
+Sunrisers Hyderabad,7,3,0.1,5.6,mandatory,H Klaasen,K Rabada,S Arora,1,0,1,,,,,,,,,,,,,,,20.0,169.0,44
+Sunrisers Hyderabad,7,4,0.1,5.6,mandatory,S Arora,K Rabada,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,44
+Sunrisers Hyderabad,7,5,0.1,5.6,mandatory,S Arora,K Rabada,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,44
+Sunrisers Hyderabad,7,6,0.1,5.6,mandatory,S Arora,K Rabada,H Klaasen,4,0,4,,,,,,,,,,,,,,,20.0,169.0,48
+Sunrisers Hyderabad,8,1,0.1,5.6,mandatory,H Klaasen,JO Holder,S Arora,4,0,4,,,,,,,,,,,,,,,20.0,169.0,52
+Sunrisers Hyderabad,8,2,0.1,5.6,mandatory,H Klaasen,JO Holder,S Arora,0,0,0,,,,,,,,,,,,,,,20.0,169.0,52
+Sunrisers Hyderabad,8,3,0.1,5.6,mandatory,H Klaasen,JO Holder,S Arora,0,0,0,,,,,,,,,,,,,,,20.0,169.0,52
+Sunrisers Hyderabad,8,4,0.1,5.6,mandatory,H Klaasen,JO Holder,S Arora,0,0,0,,,,,,,,,,,,,,,20.0,169.0,52
+Sunrisers Hyderabad,8,5,0.1,5.6,mandatory,H Klaasen,JO Holder,S Arora,1,0,1,,,,,,,,,,,,,,,20.0,169.0,53
+Sunrisers Hyderabad,8,6,0.1,5.6,mandatory,S Arora,JO Holder,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,169.0,54
+Sunrisers Hyderabad,9,1,0.1,5.6,mandatory,S Arora,M Prasidh Krishna,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,169.0,55
+Sunrisers Hyderabad,9,2,0.1,5.6,mandatory,H Klaasen,M Prasidh Krishna,S Arora,1,0,1,,,,,,,,,,,,,,,20.0,169.0,56
+Sunrisers Hyderabad,9,3,0.1,5.6,mandatory,S Arora,M Prasidh Krishna,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,56
+Sunrisers Hyderabad,9,4,0.1,5.6,mandatory,S Arora,M Prasidh Krishna,H Klaasen,0,0,0,,,,,,,,S Arora,caught,,,,,JC Buttler,20.0,169.0,56
+Sunrisers Hyderabad,9,5,0.1,5.6,mandatory,Nithish Kumar Reddy,M Prasidh Krishna,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,56
+Sunrisers Hyderabad,9,6,0.1,5.6,mandatory,Nithish Kumar Reddy,M Prasidh Krishna,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,169.0,56
+Sunrisers Hyderabad,10,1,0.1,5.6,mandatory,H Klaasen,JO Holder,Nithish Kumar Reddy,0,0,0,,,,,,,,H Klaasen,caught,,,,,JC Buttler,20.0,169.0,56
+Sunrisers Hyderabad,10,2,0.1,5.6,mandatory,PJ Cummins,JO Holder,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,20.0,169.0,57
+Sunrisers Hyderabad,10,3,0.1,5.6,mandatory,Nithish Kumar Reddy,JO Holder,PJ Cummins,2,0,2,,,,,,,,,,,,,,,20.0,169.0,59
+Sunrisers Hyderabad,10,4,0.1,5.6,mandatory,Nithish Kumar Reddy,JO Holder,PJ Cummins,0,1,1,,,,,,,1.0,,,,,,,,20.0,169.0,60
+Sunrisers Hyderabad,10,5,0.1,5.6,mandatory,Nithish Kumar Reddy,JO Holder,PJ Cummins,0,0,0,,,,,,,,Nithish Kumar Reddy,caught,,,,,Washington Sundar,20.0,169.0,60
+Sunrisers Hyderabad,10,6,0.1,5.6,mandatory,Shivang Kumar,JO Holder,PJ Cummins,0,0,0,,,,,,,,,,,,,,,20.0,169.0,60
+Sunrisers Hyderabad,10,7,0.1,5.6,mandatory,Shivang Kumar,JO Holder,PJ Cummins,0,0,0,,,,,,,,,,,,,,,20.0,169.0,60
+Sunrisers Hyderabad,11,1,0.1,5.6,mandatory,PJ Cummins,M Prasidh Krishna,Shivang Kumar,0,0,0,,,,,,,,,,,,,,,20.0,169.0,60
+Sunrisers Hyderabad,11,2,0.1,5.6,mandatory,PJ Cummins,M Prasidh Krishna,Shivang Kumar,6,0,6,,,,,,,,,,,,,,,20.0,169.0,66
+Sunrisers Hyderabad,11,3,0.1,5.6,mandatory,PJ Cummins,M Prasidh Krishna,Shivang Kumar,1,0,1,,,,,,,,,,,,,,,20.0,169.0,67
+Sunrisers Hyderabad,11,4,0.1,5.6,mandatory,Shivang Kumar,M Prasidh Krishna,PJ Cummins,0,0,0,,,,,,,,,,,,,,,20.0,169.0,67
+Sunrisers Hyderabad,11,5,0.1,5.6,mandatory,Shivang Kumar,M Prasidh Krishna,PJ Cummins,2,0,2,,,,,,,,,,,,,,,20.0,169.0,69
+Sunrisers Hyderabad,11,6,0.1,5.6,mandatory,Shivang Kumar,M Prasidh Krishna,PJ Cummins,2,0,2,,,,,,,,,,,,,,,20.0,169.0,71
+Sunrisers Hyderabad,12,1,0.1,5.6,mandatory,PJ Cummins,JO Holder,Shivang Kumar,1,0,1,,,,,,,,,,,,,,,20.0,169.0,72
+Sunrisers Hyderabad,12,2,0.1,5.6,mandatory,Shivang Kumar,JO Holder,PJ Cummins,0,0,0,,,,,,,,Shivang Kumar,caught,,,,,JC Buttler,20.0,169.0,72
+Sunrisers Hyderabad,12,3,0.1,5.6,mandatory,PP Hinge,JO Holder,PJ Cummins,0,0,0,,,,,,,,,,,,,,,20.0,169.0,72
+Sunrisers Hyderabad,12,4,0.1,5.6,mandatory,PP Hinge,JO Holder,PJ Cummins,0,0,0,,,,,,,,,,,,,,,20.0,169.0,72
+Sunrisers Hyderabad,12,5,0.1,5.6,mandatory,PP Hinge,JO Holder,PJ Cummins,0,0,0,,,,,,,,,,,,,,,20.0,169.0,72
+Sunrisers Hyderabad,12,6,0.1,5.6,mandatory,PP Hinge,JO Holder,PJ Cummins,0,0,0,,,,,,,,,,,,,,,20.0,169.0,72
+Sunrisers Hyderabad,13,1,0.1,5.6,mandatory,PJ Cummins,M Prasidh Krishna,PP Hinge,4,0,4,,,,,,,,,,,,,,,20.0,169.0,76
+Sunrisers Hyderabad,13,2,0.1,5.6,mandatory,PJ Cummins,M Prasidh Krishna,PP Hinge,6,0,6,,,,,,,,,,,,,,,20.0,169.0,82
+Sunrisers Hyderabad,13,3,0.1,5.6,mandatory,PJ Cummins,M Prasidh Krishna,PP Hinge,0,0,0,,,,,,,,,,,,,,,20.0,169.0,82
+Sunrisers Hyderabad,13,4,0.1,5.6,mandatory,PJ Cummins,M Prasidh Krishna,PP Hinge,0,0,0,,,,,,,,PJ Cummins,caught,,,,,Mohammed Siraj,20.0,169.0,82
+Sunrisers Hyderabad,13,5,0.1,5.6,mandatory,E Malinga,M Prasidh Krishna,PP Hinge,0,0,0,,,,,,,,,,,,,,,20.0,169.0,82
+Sunrisers Hyderabad,13,6,0.1,5.6,mandatory,E Malinga,M Prasidh Krishna,PP Hinge,0,0,0,,,,,,,,,,,,,,,20.0,169.0,82
+Sunrisers Hyderabad,14,1,0.1,5.6,mandatory,PP Hinge,Rashid Khan,E Malinga,2,0,2,,,,,,,,,,,,,,,20.0,169.0,84
+Sunrisers Hyderabad,14,2,0.1,5.6,mandatory,PP Hinge,Rashid Khan,E Malinga,1,0,1,,,,,,,,,,,,,,,20.0,169.0,85
+Sunrisers Hyderabad,14,3,0.1,5.6,mandatory,E Malinga,Rashid Khan,PP Hinge,0,1,1,1.0,,,,,,,,,,,,,,20.0,169.0,86
+Sunrisers Hyderabad,14,4,0.1,5.6,mandatory,PP Hinge,Rashid Khan,E Malinga,0,0,0,,,,,,,,,,,,,,,20.0,169.0,86
+Sunrisers Hyderabad,14,5,0.1,5.6,mandatory,PP Hinge,Rashid Khan,E Malinga,0,0,0,,,,,,,,PP Hinge,stumped,,,,,JC Buttler,20.0,169.0,86

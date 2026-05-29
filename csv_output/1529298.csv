@@ -1,0 +1,253 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,noballs,byes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,overs_deliveries_wickets_fielders_substitute,target_overs,target_runs,current_team_total
+Punjab Kings,0,1,0.1,5.6,mandatory,Priyansh Arya,MA Starc,P Simran Singh,6,0,6,,,,,,,,,,,,,,6
+Punjab Kings,0,2,0.1,5.6,mandatory,Priyansh Arya,MA Starc,P Simran Singh,0,0,0,,,,,,,,,,,,,,6
+Punjab Kings,0,3,0.1,5.6,mandatory,Priyansh Arya,MA Starc,P Simran Singh,0,0,0,,,,,,,,,,,,,,6
+Punjab Kings,0,4,0.1,5.6,mandatory,Priyansh Arya,MA Starc,P Simran Singh,0,5,5,5.0,,,,,,,,,,,,,11
+Punjab Kings,0,5,0.1,5.6,mandatory,Priyansh Arya,MA Starc,P Simran Singh,6,0,6,,,,,,,,,,,,,,17
+Punjab Kings,0,6,0.1,5.6,mandatory,Priyansh Arya,MA Starc,P Simran Singh,1,0,1,,,,,,,,,,,,,,18
+Punjab Kings,0,7,0.1,5.6,mandatory,P Simran Singh,MA Starc,Priyansh Arya,4,0,4,,,,,,,,,,,,,,22
+Punjab Kings,1,1,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,0,0,0,,,,,,,,,,,,,,22
+Punjab Kings,1,2,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,6,0,6,,,,,,,,,,,,,,28
+Punjab Kings,1,3,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,0,1,1,,1.0,,,,,,,,,,,,29
+Punjab Kings,1,4,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,2,0,2,,,,,,,,,,,,,,31
+Punjab Kings,1,5,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,1,0,1,,,,,,,,,,,,,,32
+Punjab Kings,1,6,0.1,5.6,mandatory,P Simran Singh,Auqib Nabi,Priyansh Arya,1,0,1,,,,,,,,,,,,,,33
+Punjab Kings,1,7,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,1,0,1,,,,,,,,,,,,,,34
+Punjab Kings,2,1,0.1,5.6,mandatory,Priyansh Arya,L Ngidi,P Simran Singh,6,0,6,,,,,,,,,,,,,,40
+Punjab Kings,2,2,0.1,5.6,mandatory,Priyansh Arya,L Ngidi,P Simran Singh,6,0,6,,,,,,,,,,,,,,46
+Punjab Kings,2,3,0.1,5.6,mandatory,Priyansh Arya,L Ngidi,P Simran Singh,0,0,0,,,,,,,,,,,,,,46
+Punjab Kings,2,4,0.1,5.6,mandatory,Priyansh Arya,L Ngidi,P Simran Singh,4,0,4,,,,,,,,,,,,,,50
+Punjab Kings,2,5,0.1,5.6,mandatory,Priyansh Arya,L Ngidi,P Simran Singh,1,0,1,,,,,,,,,,,,,,51
+Punjab Kings,2,6,0.1,5.6,mandatory,P Simran Singh,L Ngidi,Priyansh Arya,0,0,0,,,,,,,,,,,,,,51
+Punjab Kings,3,1,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,1,0,1,,,,,,,,,,,,,,52
+Punjab Kings,3,2,0.1,5.6,mandatory,P Simran Singh,Auqib Nabi,Priyansh Arya,4,1,5,,1.0,,,,,,,,,,,,57
+Punjab Kings,3,3,0.1,5.6,mandatory,P Simran Singh,Auqib Nabi,Priyansh Arya,0,0,0,,,,,,,,,,,,,,57
+Punjab Kings,3,4,0.1,5.6,mandatory,P Simran Singh,Auqib Nabi,Priyansh Arya,0,0,0,,,,,,,,,,,,,,57
+Punjab Kings,3,5,0.1,5.6,mandatory,P Simran Singh,Auqib Nabi,Priyansh Arya,1,0,1,,,,,,,,,,,,,,58
+Punjab Kings,3,6,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,0,0,0,,,,,,,,,,,,,,58
+Punjab Kings,3,7,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,1,0,1,,,,,,,,,,,,,,59
+Punjab Kings,4,1,0.1,5.6,mandatory,Priyansh Arya,Mukesh Kumar,P Simran Singh,6,0,6,,,,,,,,,,,,,,65
+Punjab Kings,4,2,0.1,5.6,mandatory,Priyansh Arya,Mukesh Kumar,P Simran Singh,0,0,0,,,,,,,,,,,,,,65
+Punjab Kings,4,3,0.1,5.6,mandatory,Priyansh Arya,Mukesh Kumar,P Simran Singh,0,0,0,,,,,,,,,,,,,,65
+Punjab Kings,4,4,0.1,5.6,mandatory,Priyansh Arya,Mukesh Kumar,P Simran Singh,1,0,1,,,,,,,,,,,,,,66
+Punjab Kings,4,5,0.1,5.6,mandatory,P Simran Singh,Mukesh Kumar,Priyansh Arya,0,0,0,,,,,,,,,,,,,,66
+Punjab Kings,4,6,0.1,5.6,mandatory,P Simran Singh,Mukesh Kumar,Priyansh Arya,4,0,4,,,,,,,,,,,,,,70
+Punjab Kings,5,1,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,1,0,1,,,,,,,,,,,,,,71
+Punjab Kings,5,2,0.1,5.6,mandatory,P Simran Singh,Auqib Nabi,Priyansh Arya,0,0,0,,,,,,,,,,,,,,71
+Punjab Kings,5,3,0.1,5.6,mandatory,P Simran Singh,Auqib Nabi,Priyansh Arya,1,0,1,,,,,,,,,,,,,,72
+Punjab Kings,5,4,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,0,0,0,,,,,,,,,,,,,,72
+Punjab Kings,5,5,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,0,0,0,,,,,,,,,,,,,,72
+Punjab Kings,5,6,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,P Simran Singh,0,0,0,,,,,,,,,,,,,,72
+Punjab Kings,6,1,0.1,5.6,mandatory,P Simran Singh,Mukesh Kumar,Priyansh Arya,2,0,2,,,,,,,,,,,,,,74
+Punjab Kings,6,2,0.1,5.6,mandatory,P Simran Singh,Mukesh Kumar,Priyansh Arya,0,1,1,1.0,,,,,,,,,,,,,75
+Punjab Kings,6,3,0.1,5.6,mandatory,P Simran Singh,Mukesh Kumar,Priyansh Arya,0,1,1,1.0,,,,,,,,,,,,,76
+Punjab Kings,6,4,0.1,5.6,mandatory,P Simran Singh,Mukesh Kumar,Priyansh Arya,0,0,0,,,,,,,,,,,,,,76
+Punjab Kings,6,5,0.1,5.6,mandatory,P Simran Singh,Mukesh Kumar,Priyansh Arya,1,0,1,,,,,,,,,,,,,,77
+Punjab Kings,6,6,0.1,5.6,mandatory,Priyansh Arya,Mukesh Kumar,P Simran Singh,1,0,1,,,,,,,,,,,,,,78
+Punjab Kings,6,7,0.1,5.6,mandatory,P Simran Singh,Mukesh Kumar,Priyansh Arya,0,0,0,,,,P Simran Singh,caught,,,,,Auqib Nabi,,,,78
+Punjab Kings,6,8,0.1,5.6,mandatory,SS Iyer,Mukesh Kumar,Priyansh Arya,0,0,0,,,,,,,,,,,,,,78
+Punjab Kings,7,1,0.1,5.6,mandatory,Priyansh Arya,Auqib Nabi,SS Iyer,1,0,1,,,,,,,,,,,,,,79
+Punjab Kings,7,2,0.1,5.6,mandatory,SS Iyer,Auqib Nabi,Priyansh Arya,4,0,4,,,,,,,,,,,,,,83
+Punjab Kings,7,3,0.1,5.6,mandatory,SS Iyer,Auqib Nabi,Priyansh Arya,4,0,4,,,,,,,,,,,,,,87
+Punjab Kings,7,4,0.1,5.6,mandatory,SS Iyer,Auqib Nabi,Priyansh Arya,0,0,0,,,,,,,,,,,,,,87
+Punjab Kings,7,5,0.1,5.6,mandatory,SS Iyer,Auqib Nabi,Priyansh Arya,0,0,0,,,,,,,,,,,,,,87
+Punjab Kings,7,6,0.1,5.6,mandatory,SS Iyer,Auqib Nabi,Priyansh Arya,1,0,1,,,,,,,,,,,,,,88
+Punjab Kings,8,1,0.1,5.6,mandatory,SS Iyer,M Tiwari,Priyansh Arya,0,4,4,,,4.0,,,,,,,,,,,92
+Punjab Kings,8,2,0.1,5.6,mandatory,SS Iyer,M Tiwari,Priyansh Arya,1,0,1,,,,,,,,,,,,,,93
+Punjab Kings,8,3,0.1,5.6,mandatory,Priyansh Arya,M Tiwari,SS Iyer,0,0,0,,,,,,,,,,,,,,93
+Punjab Kings,8,4,0.1,5.6,mandatory,Priyansh Arya,M Tiwari,SS Iyer,4,0,4,,,,,,,,,,,,,,97
+Punjab Kings,8,5,0.1,5.6,mandatory,Priyansh Arya,M Tiwari,SS Iyer,0,0,0,,,,,,,,,,,,,,97
+Punjab Kings,8,6,0.1,5.6,mandatory,Priyansh Arya,M Tiwari,SS Iyer,0,0,0,,,,Priyansh Arya,caught,,,,,SU Parakh,,,,97
+Punjab Kings,9,1,0.1,5.6,mandatory,SS Iyer,MA Starc,C Connolly,2,0,2,,,,,,,,,,,,,,99
+Punjab Kings,9,2,0.1,5.6,mandatory,SS Iyer,MA Starc,C Connolly,1,0,1,,,,,,,,,,,,,,100
+Punjab Kings,9,3,0.1,5.6,mandatory,C Connolly,MA Starc,SS Iyer,0,0,0,,,,,,,,,,,,,,100
+Punjab Kings,9,4,0.1,5.6,mandatory,C Connolly,MA Starc,SS Iyer,0,1,1,1.0,,,,,,,,,,,,,101
+Punjab Kings,9,5,0.1,5.6,mandatory,C Connolly,MA Starc,SS Iyer,0,1,1,1.0,,,,,,,,,,,,,102
+Punjab Kings,9,6,0.1,5.6,mandatory,C Connolly,MA Starc,SS Iyer,4,0,4,,,,,,,,,,,,,,106
+Punjab Kings,9,7,0.1,5.6,mandatory,C Connolly,MA Starc,SS Iyer,0,0,0,,,,,,,,,,,,,,106
+Punjab Kings,9,8,0.1,5.6,mandatory,C Connolly,MA Starc,SS Iyer,1,0,1,,,,,,,,,,,,,,107
+Punjab Kings,10,1,0.1,5.6,mandatory,C Connolly,M Tiwari,SS Iyer,1,0,1,,,,,,,,,,,,,,108
+Punjab Kings,10,2,0.1,5.6,mandatory,SS Iyer,M Tiwari,C Connolly,0,1,1,1.0,,,,,,,,,,,,,109
+Punjab Kings,10,3,0.1,5.6,mandatory,SS Iyer,M Tiwari,C Connolly,4,0,4,,,,,,,,,,,,,,113
+Punjab Kings,10,4,0.1,5.6,mandatory,SS Iyer,M Tiwari,C Connolly,1,0,1,,,,,,,,,,,,,,114
+Punjab Kings,10,5,0.1,5.6,mandatory,C Connolly,M Tiwari,SS Iyer,1,0,1,,,,,,,,,,,,,,115
+Punjab Kings,10,6,0.1,5.6,mandatory,SS Iyer,M Tiwari,C Connolly,1,0,1,,,,,,,,,,,,,,116
+Punjab Kings,10,7,0.1,5.6,mandatory,C Connolly,M Tiwari,SS Iyer,0,0,0,,,,,,,,,,,,,,116
+Punjab Kings,11,1,0.1,5.6,mandatory,SS Iyer,L Ngidi,C Connolly,0,0,0,,,,,,,,,,,,,,116
+Punjab Kings,11,2,0.1,5.6,mandatory,SS Iyer,L Ngidi,C Connolly,1,0,1,,,,,,,,,,,,,,117
+Punjab Kings,11,3,0.1,5.6,mandatory,C Connolly,L Ngidi,SS Iyer,1,0,1,,,,,,,,,,,,,,118
+Punjab Kings,11,4,0.1,5.6,mandatory,SS Iyer,L Ngidi,C Connolly,6,0,6,,,,,,,,,,,,,,124
+Punjab Kings,11,5,0.1,5.6,mandatory,SS Iyer,L Ngidi,C Connolly,1,0,1,,,,,,,,,,,,,,125
+Punjab Kings,11,6,0.1,5.6,mandatory,C Connolly,L Ngidi,SS Iyer,0,0,0,,,,,,,,,,,,,,125
+Punjab Kings,12,1,0.1,5.6,mandatory,SS Iyer,Mukesh Kumar,C Connolly,1,0,1,,,,,,,,,,,,,,126
+Punjab Kings,12,2,0.1,5.6,mandatory,C Connolly,Mukesh Kumar,SS Iyer,0,0,0,,,,,,,,,,,,,,126
+Punjab Kings,12,3,0.1,5.6,mandatory,C Connolly,Mukesh Kumar,SS Iyer,1,0,1,,,,,,,,,,,,,,127
+Punjab Kings,12,4,0.1,5.6,mandatory,SS Iyer,Mukesh Kumar,C Connolly,1,0,1,,,,,,,,,,,,,,128
+Punjab Kings,12,5,0.1,5.6,mandatory,C Connolly,Mukesh Kumar,SS Iyer,1,0,1,,,,,,,,,,,,,,129
+Punjab Kings,12,6,0.1,5.6,mandatory,SS Iyer,Mukesh Kumar,C Connolly,4,0,4,,,,,,,,,,,,,,133
+Punjab Kings,13,1,0.1,5.6,mandatory,C Connolly,M Tiwari,SS Iyer,1,0,1,,,,,,,,,,,,,,134
+Punjab Kings,13,2,0.1,5.6,mandatory,SS Iyer,M Tiwari,C Connolly,0,0,0,,,,,,,,,,,,,,134
+Punjab Kings,13,3,0.1,5.6,mandatory,SS Iyer,M Tiwari,C Connolly,0,0,0,,,,,,,,,,,,,,134
+Punjab Kings,13,4,0.1,5.6,mandatory,SS Iyer,M Tiwari,C Connolly,4,0,4,,,,,,,,,,,,,,138
+Punjab Kings,13,5,0.1,5.6,mandatory,SS Iyer,M Tiwari,C Connolly,2,0,2,,,,,,,,,,,,,,140
+Punjab Kings,13,6,0.1,5.6,mandatory,SS Iyer,M Tiwari,C Connolly,0,0,0,,,,,,,,,,,,,,140
+Punjab Kings,14,1,0.1,5.6,mandatory,C Connolly,MA Starc,SS Iyer,0,0,0,,,,,,,,,,,,,,140
+Punjab Kings,14,2,0.1,5.6,mandatory,C Connolly,MA Starc,SS Iyer,0,0,0,,,,,,,,,,,,,,140
+Punjab Kings,14,3,0.1,5.6,mandatory,C Connolly,MA Starc,SS Iyer,6,0,6,,,,,,,,,,,,,,146
+Punjab Kings,14,4,0.1,5.6,mandatory,C Connolly,MA Starc,SS Iyer,1,0,1,,,,,,,,,,,,,,147
+Punjab Kings,14,5,0.1,5.6,mandatory,SS Iyer,MA Starc,C Connolly,1,0,1,,,,,,,,,,,,,,148
+Punjab Kings,14,6,0.1,5.6,mandatory,C Connolly,MA Starc,SS Iyer,1,0,1,,,,,,,,,,,,,,149
+Punjab Kings,15,1,0.1,5.6,mandatory,C Connolly,L Ngidi,SS Iyer,4,0,4,,,,,,,,,,,,,,153
+Punjab Kings,15,2,0.1,5.6,mandatory,C Connolly,L Ngidi,SS Iyer,6,0,6,,,,,,,,,,,,,,159
+Punjab Kings,15,3,0.1,5.6,mandatory,C Connolly,L Ngidi,SS Iyer,1,0,1,,,,,,,,,,,,,,160
+Punjab Kings,15,4,0.1,5.6,mandatory,SS Iyer,L Ngidi,C Connolly,1,0,1,,,,,,,,,,,,,,161
+Punjab Kings,15,5,0.1,5.6,mandatory,C Connolly,L Ngidi,SS Iyer,1,0,1,,,,,,,,,,,,,,162
+Punjab Kings,15,6,0.1,5.6,mandatory,SS Iyer,L Ngidi,C Connolly,0,0,0,,,,,,,,,,,,,,162
+Punjab Kings,16,1,0.1,5.6,mandatory,C Connolly,Mukesh Kumar,SS Iyer,1,0,1,,,,,,,,,,,,,,163
+Punjab Kings,16,2,0.1,5.6,mandatory,SS Iyer,Mukesh Kumar,C Connolly,1,0,1,,,,,,,,,,,,,,164
+Punjab Kings,16,3,0.1,5.6,mandatory,C Connolly,Mukesh Kumar,SS Iyer,1,0,1,,,,,,,,,,,,,,165
+Punjab Kings,16,4,0.1,5.6,mandatory,SS Iyer,Mukesh Kumar,C Connolly,1,0,1,,,,,,,,,,,,,,166
+Punjab Kings,16,5,0.1,5.6,mandatory,C Connolly,Mukesh Kumar,SS Iyer,1,0,1,,,,,,,,,,,,,,167
+Punjab Kings,16,6,0.1,5.6,mandatory,SS Iyer,Mukesh Kumar,C Connolly,1,0,1,,,,,,,,,,,,,,168
+Punjab Kings,17,1,0.1,5.6,mandatory,SS Iyer,M Tiwari,C Connolly,0,1,1,1.0,,,,,Ashutosh Sharma,Mukesh Kumar,Delhi Capitals,impact_player,,,,,169
+Punjab Kings,17,2,0.1,5.6,mandatory,SS Iyer,M Tiwari,C Connolly,6,0,6,,,,,,,,,,,,,,175
+Punjab Kings,17,3,0.1,5.6,mandatory,SS Iyer,M Tiwari,C Connolly,1,0,1,,,,,,,,,,,,,,176
+Punjab Kings,17,4,0.1,5.6,mandatory,C Connolly,M Tiwari,SS Iyer,4,0,4,,,,,,,,,,,,,,180
+Punjab Kings,17,5,0.1,5.6,mandatory,C Connolly,M Tiwari,SS Iyer,0,0,0,,,,C Connolly,caught,,,,,DA Miller,,,,180
+Punjab Kings,17,6,0.1,5.6,mandatory,MP Stoinis,M Tiwari,SS Iyer,1,0,1,,,,,,,,,,,,,,181
+Punjab Kings,17,7,0.1,5.6,mandatory,SS Iyer,M Tiwari,MP Stoinis,6,0,6,,,,,,,,,,,,,,187
+Punjab Kings,18,1,0.1,5.6,mandatory,MP Stoinis,MA Starc,SS Iyer,0,0,0,,,,MP Stoinis,caught,,,,,M Tiwari,,,,187
+Punjab Kings,18,2,0.1,5.6,mandatory,Shashank Singh,MA Starc,SS Iyer,0,0,0,,,,Shashank Singh,caught,,,,,AR Patel,,,,187
+Punjab Kings,18,3,0.1,5.6,mandatory,Suryansh Shedge,MA Starc,SS Iyer,6,0,6,,,,,,,,,,,,,,193
+Punjab Kings,18,4,0.1,5.6,mandatory,Suryansh Shedge,MA Starc,SS Iyer,4,0,4,,,,,,,,,,,,,,197
+Punjab Kings,18,5,0.1,5.6,mandatory,Suryansh Shedge,MA Starc,SS Iyer,0,0,0,,,,,,,,,,,,,,197
+Punjab Kings,18,6,0.1,5.6,mandatory,Suryansh Shedge,MA Starc,SS Iyer,6,0,6,,,,,,,,,,,,,,203
+Punjab Kings,19,1,0.1,5.6,mandatory,SS Iyer,L Ngidi,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,204
+Punjab Kings,19,2,0.1,5.6,mandatory,Suryansh Shedge,L Ngidi,SS Iyer,0,0,0,,,,,,,,,,,,,,204
+Punjab Kings,19,3,0.1,5.6,mandatory,Suryansh Shedge,L Ngidi,SS Iyer,0,0,0,,,,,,,,,,,,,,204
+Punjab Kings,19,4,0.1,5.6,mandatory,Suryansh Shedge,L Ngidi,SS Iyer,1,0,1,,,,,,,,,,,,,,205
+Punjab Kings,19,5,0.1,5.6,mandatory,SS Iyer,L Ngidi,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,206
+Punjab Kings,19,6,0.1,5.6,mandatory,Suryansh Shedge,L Ngidi,SS Iyer,4,0,4,,,,,,,,,,,,,,210
+Delhi Capitals,0,1,0.1,5.7,mandatory,KL Rahul,Arshdeep Singh,Abishek Porel,0,0,0,,,,,,Yash Thakur,Shashank Singh,Punjab Kings,impact_player,,,20.0,211.0,0
+Delhi Capitals,0,2,0.1,5.7,mandatory,KL Rahul,Arshdeep Singh,Abishek Porel,4,0,4,,,,,,,,,,,,20.0,211.0,4
+Delhi Capitals,0,3,0.1,5.7,mandatory,KL Rahul,Arshdeep Singh,Abishek Porel,1,0,1,,,,,,,,,,,,20.0,211.0,5
+Delhi Capitals,0,4,0.1,5.7,mandatory,Abishek Porel,Arshdeep Singh,KL Rahul,1,0,1,,,,,,,,,,,,20.0,211.0,6
+Delhi Capitals,0,5,0.1,5.7,mandatory,KL Rahul,Arshdeep Singh,Abishek Porel,0,0,0,,,,,,,,,,,,20.0,211.0,6
+Delhi Capitals,0,6,0.1,5.7,mandatory,KL Rahul,Arshdeep Singh,Abishek Porel,0,0,0,,,,,,,,,,,,20.0,211.0,6
+Delhi Capitals,1,1,0.1,5.7,mandatory,Abishek Porel,Yash Thakur,KL Rahul,0,0,0,,,,,,,,,,,,20.0,211.0,6
+Delhi Capitals,1,2,0.1,5.7,mandatory,Abishek Porel,Yash Thakur,KL Rahul,0,0,0,,,,,,,,,,,,20.0,211.0,6
+Delhi Capitals,1,3,0.1,5.7,mandatory,Abishek Porel,Yash Thakur,KL Rahul,0,0,0,,,,,,,,,,,,20.0,211.0,6
+Delhi Capitals,1,4,0.1,5.7,mandatory,Abishek Porel,Yash Thakur,KL Rahul,4,0,4,,,,,,,,,,,,20.0,211.0,10
+Delhi Capitals,1,5,0.1,5.7,mandatory,Abishek Porel,Yash Thakur,KL Rahul,0,0,0,,,,Abishek Porel,bowled,,,,,,,20.0,211.0,10
+Delhi Capitals,1,6,0.1,5.7,mandatory,SU Parakh,Yash Thakur,KL Rahul,0,0,0,,,,,,,,,,,,20.0,211.0,10
+Delhi Capitals,2,1,0.1,5.7,mandatory,KL Rahul,Arshdeep Singh,SU Parakh,0,0,0,,,,,,,,,,,,20.0,211.0,10
+Delhi Capitals,2,2,0.1,5.7,mandatory,KL Rahul,Arshdeep Singh,SU Parakh,4,0,4,,,,,,,,,,,,20.0,211.0,14
+Delhi Capitals,2,3,0.1,5.7,mandatory,KL Rahul,Arshdeep Singh,SU Parakh,0,0,0,,,,KL Rahul,caught,,,,,M Jansen,,20.0,211.0,14
+Delhi Capitals,2,4,0.1,5.7,mandatory,T Stubbs,Arshdeep Singh,SU Parakh,0,0,0,,,,,,,,,,,,20.0,211.0,14
+Delhi Capitals,2,5,0.1,5.7,mandatory,T Stubbs,Arshdeep Singh,SU Parakh,0,0,0,,,,,,,,,,,,20.0,211.0,14
+Delhi Capitals,2,6,0.1,5.7,mandatory,T Stubbs,Arshdeep Singh,SU Parakh,0,0,0,,,,,,,,,,,,20.0,211.0,14
+Delhi Capitals,3,1,0.1,5.7,mandatory,SU Parakh,Yash Thakur,T Stubbs,6,0,6,,,,,,,,,,,,20.0,211.0,20
+Delhi Capitals,3,2,0.1,5.7,mandatory,SU Parakh,Yash Thakur,T Stubbs,1,0,1,,,,,,,,,,,,20.0,211.0,21
+Delhi Capitals,3,3,0.1,5.7,mandatory,T Stubbs,Yash Thakur,SU Parakh,4,0,4,,,,,,,,,,,,20.0,211.0,25
+Delhi Capitals,3,4,0.1,5.7,mandatory,T Stubbs,Yash Thakur,SU Parakh,1,0,1,,,,,,,,,,,,20.0,211.0,26
+Delhi Capitals,3,5,0.1,5.7,mandatory,SU Parakh,Yash Thakur,T Stubbs,2,0,2,,,,,,,,,,,,20.0,211.0,28
+Delhi Capitals,3,6,0.1,5.7,mandatory,SU Parakh,Yash Thakur,T Stubbs,4,0,4,,,,,,,,,,,,20.0,211.0,32
+Delhi Capitals,4,1,0.1,5.7,mandatory,T Stubbs,Arshdeep Singh,SU Parakh,0,0,0,,,,,,,,,,,,20.0,211.0,32
+Delhi Capitals,4,2,0.1,5.7,mandatory,T Stubbs,Arshdeep Singh,SU Parakh,1,0,1,,,,,,,,,,,,20.0,211.0,33
+Delhi Capitals,4,3,0.1,5.7,mandatory,SU Parakh,Arshdeep Singh,T Stubbs,0,0,0,,,,SU Parakh,caught,,,,,YS Chahal,,20.0,211.0,33
+Delhi Capitals,4,4,0.1,5.7,mandatory,AR Patel,Arshdeep Singh,T Stubbs,0,2,2,2.0,,,,,,,,,,,20.0,211.0,35
+Delhi Capitals,4,5,0.1,5.7,mandatory,T Stubbs,Arshdeep Singh,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,36
+Delhi Capitals,4,6,0.1,5.7,mandatory,AR Patel,Arshdeep Singh,T Stubbs,0,2,2,2.0,,,,,,,,,,,20.0,211.0,38
+Delhi Capitals,4,7,0.1,5.7,mandatory,T Stubbs,Arshdeep Singh,AR Patel,0,0,0,,,,,,,,,,,,20.0,211.0,38
+Delhi Capitals,4,8,0.1,5.7,mandatory,T Stubbs,Arshdeep Singh,AR Patel,0,0,0,,,,,,,,,,,,20.0,211.0,38
+Delhi Capitals,5,1,0.1,5.7,mandatory,AR Patel,M Jansen,T Stubbs,0,0,0,,,,,,,,,,,,20.0,211.0,38
+Delhi Capitals,5,2,0.1,5.7,mandatory,AR Patel,M Jansen,T Stubbs,0,1,1,1.0,,,,,,,,,,,20.0,211.0,39
+Delhi Capitals,5,3,0.1,5.7,mandatory,AR Patel,M Jansen,T Stubbs,6,0,6,,,,,,,,,,,,20.0,211.0,45
+Delhi Capitals,5,4,0.1,5.7,mandatory,AR Patel,M Jansen,T Stubbs,1,0,1,,,,,,,,,,,,20.0,211.0,46
+Delhi Capitals,5,5,0.1,5.7,mandatory,T Stubbs,M Jansen,AR Patel,0,0,0,,,,,,,,,,,,20.0,211.0,46
+Delhi Capitals,5,6,0.1,5.7,mandatory,T Stubbs,M Jansen,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,47
+Delhi Capitals,5,7,0.1,5.7,mandatory,AR Patel,M Jansen,T Stubbs,0,0,0,,,,,,,,,,,,20.0,211.0,47
+Delhi Capitals,6,1,0.1,5.7,mandatory,T Stubbs,BJ Dwarshuis,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,48
+Delhi Capitals,6,2,0.1,5.7,mandatory,AR Patel,BJ Dwarshuis,T Stubbs,0,3,3,3.0,,,,,,,,,,,20.0,211.0,51
+Delhi Capitals,6,3,0.1,5.7,mandatory,AR Patel,BJ Dwarshuis,T Stubbs,1,0,1,,,,,,,,,,,,20.0,211.0,52
+Delhi Capitals,6,4,0.1,5.7,mandatory,T Stubbs,BJ Dwarshuis,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,53
+Delhi Capitals,6,5,0.1,5.7,mandatory,AR Patel,BJ Dwarshuis,T Stubbs,4,0,4,,,,,,,,,,,,20.0,211.0,57
+Delhi Capitals,6,6,0.1,5.7,mandatory,AR Patel,BJ Dwarshuis,T Stubbs,4,0,4,,,,,,,,,,,,20.0,211.0,61
+Delhi Capitals,6,7,0.1,5.7,mandatory,AR Patel,BJ Dwarshuis,T Stubbs,0,2,2,2.0,,,,,,,,,,,20.0,211.0,63
+Delhi Capitals,6,8,0.1,5.7,mandatory,T Stubbs,BJ Dwarshuis,AR Patel,0,0,0,,,,,,,,,,,,20.0,211.0,63
+Delhi Capitals,7,1,0.1,5.7,mandatory,AR Patel,M Jansen,T Stubbs,4,0,4,,,,,,,,,,,,20.0,211.0,67
+Delhi Capitals,7,2,0.1,5.7,mandatory,AR Patel,M Jansen,T Stubbs,1,0,1,,,,,,,,,,,,20.0,211.0,68
+Delhi Capitals,7,3,0.1,5.7,mandatory,T Stubbs,M Jansen,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,69
+Delhi Capitals,7,4,0.1,5.7,mandatory,AR Patel,M Jansen,T Stubbs,0,0,0,,,,,,,,,,,,20.0,211.0,69
+Delhi Capitals,7,5,0.1,5.7,mandatory,AR Patel,M Jansen,T Stubbs,0,0,0,,,,,,,,,,,,20.0,211.0,69
+Delhi Capitals,7,6,0.1,5.7,mandatory,AR Patel,M Jansen,T Stubbs,4,0,4,,,,,,,,,,,,20.0,211.0,73
+Delhi Capitals,8,1,0.1,5.7,mandatory,T Stubbs,BJ Dwarshuis,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,74
+Delhi Capitals,8,2,0.1,5.7,mandatory,AR Patel,BJ Dwarshuis,T Stubbs,0,0,0,,,,T Stubbs,run out,,,,,C Connolly,,20.0,211.0,74
+Delhi Capitals,8,3,0.1,5.7,mandatory,AR Patel,BJ Dwarshuis,DA Miller,1,0,1,,,,,,,,,,,,20.0,211.0,75
+Delhi Capitals,8,4,0.1,5.7,mandatory,DA Miller,BJ Dwarshuis,AR Patel,0,0,0,,,,,,,,,,,,20.0,211.0,75
+Delhi Capitals,8,5,0.1,5.7,mandatory,DA Miller,BJ Dwarshuis,AR Patel,0,0,0,,,,,,,,,,,,20.0,211.0,75
+Delhi Capitals,8,6,0.1,5.7,mandatory,DA Miller,BJ Dwarshuis,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,76
+Delhi Capitals,9,1,0.1,5.7,mandatory,DA Miller,M Jansen,AR Patel,4,0,4,,,,,,,,,,,,20.0,211.0,80
+Delhi Capitals,9,2,0.1,5.7,mandatory,DA Miller,M Jansen,AR Patel,0,0,0,,,,,,,,,,,,20.0,211.0,80
+Delhi Capitals,9,3,0.1,5.7,mandatory,DA Miller,M Jansen,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,81
+Delhi Capitals,9,4,0.1,5.7,mandatory,AR Patel,M Jansen,DA Miller,4,0,4,,,,,,,,,,,,20.0,211.0,85
+Delhi Capitals,9,5,0.1,5.7,mandatory,AR Patel,M Jansen,DA Miller,1,0,1,,,,,,,,,,,,20.0,211.0,86
+Delhi Capitals,9,6,0.1,5.7,mandatory,DA Miller,M Jansen,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,87
+Delhi Capitals,10,1,0.1,5.7,mandatory,DA Miller,MP Stoinis,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,88
+Delhi Capitals,10,2,0.1,5.7,mandatory,AR Patel,MP Stoinis,DA Miller,1,0,1,,,,,,,,,,,,20.0,211.0,89
+Delhi Capitals,10,3,0.1,5.7,mandatory,DA Miller,MP Stoinis,AR Patel,6,0,6,,,,,,,,,,,,20.0,211.0,95
+Delhi Capitals,10,4,0.1,5.7,mandatory,DA Miller,MP Stoinis,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,96
+Delhi Capitals,10,5,0.1,5.7,mandatory,AR Patel,MP Stoinis,DA Miller,1,0,1,,,,,,,,,,,,20.0,211.0,97
+Delhi Capitals,10,6,0.1,5.7,mandatory,DA Miller,MP Stoinis,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,98
+Delhi Capitals,11,1,0.1,5.7,mandatory,DA Miller,BJ Dwarshuis,AR Patel,2,0,2,,,,,,,,,,,,20.0,211.0,100
+Delhi Capitals,11,2,0.1,5.7,mandatory,DA Miller,BJ Dwarshuis,AR Patel,4,0,4,,,,,,,,,,,,20.0,211.0,104
+Delhi Capitals,11,3,0.1,5.7,mandatory,DA Miller,BJ Dwarshuis,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,105
+Delhi Capitals,11,4,0.1,5.7,mandatory,AR Patel,BJ Dwarshuis,DA Miller,1,0,1,,,,,,,,,,,,20.0,211.0,106
+Delhi Capitals,11,5,0.1,5.7,mandatory,DA Miller,BJ Dwarshuis,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,107
+Delhi Capitals,11,6,0.1,5.7,mandatory,AR Patel,BJ Dwarshuis,DA Miller,6,0,6,,,,,,,,,,,,20.0,211.0,113
+Delhi Capitals,12,1,0.1,5.7,mandatory,DA Miller,Yash Thakur,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,114
+Delhi Capitals,12,2,0.1,5.7,mandatory,AR Patel,Yash Thakur,DA Miller,0,0,0,,,,,,,,,,,,20.0,211.0,114
+Delhi Capitals,12,3,0.1,5.7,mandatory,AR Patel,Yash Thakur,DA Miller,2,0,2,,,,,,,,,,,,20.0,211.0,116
+Delhi Capitals,12,4,0.1,5.7,mandatory,AR Patel,Yash Thakur,DA Miller,0,5,5,5.0,,,,,,,,,,,20.0,211.0,121
+Delhi Capitals,12,5,0.1,5.7,mandatory,AR Patel,Yash Thakur,DA Miller,1,0,1,,,,,,,,,,,,20.0,211.0,122
+Delhi Capitals,12,6,0.1,5.7,mandatory,DA Miller,Yash Thakur,AR Patel,1,0,1,,,,,,,,,,,,20.0,211.0,123
+Delhi Capitals,12,7,0.1,5.7,mandatory,AR Patel,Yash Thakur,DA Miller,1,0,1,,,,,,,,,,,,20.0,211.0,124
+Delhi Capitals,13,1,0.1,5.7,mandatory,AR Patel,MP Stoinis,DA Miller,0,0,0,,,,,,,,,,,,20.0,211.0,124
+Delhi Capitals,13,2,0.1,5.7,mandatory,AR Patel,MP Stoinis,DA Miller,0,1,1,1.0,,,,,,,,,,,20.0,211.0,125
+Delhi Capitals,13,3,0.1,5.7,mandatory,AR Patel,MP Stoinis,DA Miller,0,0,0,,,,,,,,,,,,20.0,211.0,125
+Delhi Capitals,13,4,0.1,5.7,mandatory,AR Patel,MP Stoinis,DA Miller,0,1,1,1.0,,,,,,,,,,,20.0,211.0,126
+Delhi Capitals,13,5,0.1,5.7,mandatory,AR Patel,MP Stoinis,DA Miller,4,0,4,,,,,,,,,,,,20.0,211.0,130
+Delhi Capitals,13,6,0.1,5.7,mandatory,AR Patel,MP Stoinis,DA Miller,4,0,4,,,,,,,,,,,,20.0,211.0,134
+Delhi Capitals,13,7,0.1,5.7,mandatory,AR Patel,MP Stoinis,DA Miller,4,0,4,,,,,,,,,,,,20.0,211.0,138
+Delhi Capitals,13,8,0.1,5.7,mandatory,AR Patel,MP Stoinis,DA Miller,0,0,0,,,,AR Patel,caught,,,,,BJ Dwarshuis,,20.0,211.0,138
+Delhi Capitals,14,1,0.1,5.7,mandatory,DA Miller,Arshdeep Singh,Ashutosh Sharma,1,0,1,,,,,,,,,,,,20.0,211.0,139
+Delhi Capitals,14,2,0.1,5.7,mandatory,Ashutosh Sharma,Arshdeep Singh,DA Miller,2,0,2,,,,,,,,,,,,20.0,211.0,141
+Delhi Capitals,14,3,0.1,5.7,mandatory,Ashutosh Sharma,Arshdeep Singh,DA Miller,0,0,0,,,,,,,,,,,,20.0,211.0,141
+Delhi Capitals,14,4,0.1,5.7,mandatory,Ashutosh Sharma,Arshdeep Singh,DA Miller,1,0,1,,,,,,,,,,,,20.0,211.0,142
+Delhi Capitals,14,5,0.1,5.7,mandatory,DA Miller,Arshdeep Singh,Ashutosh Sharma,0,0,0,,,,,,,,,,,,20.0,211.0,142
+Delhi Capitals,14,6,0.1,5.7,mandatory,DA Miller,Arshdeep Singh,Ashutosh Sharma,1,0,1,,,,,,,,,,,,20.0,211.0,143
+Delhi Capitals,15,1,0.1,5.7,mandatory,DA Miller,M Jansen,Ashutosh Sharma,0,0,0,,,,,,,,,,,,20.0,211.0,143
+Delhi Capitals,15,2,0.1,5.7,mandatory,DA Miller,M Jansen,Ashutosh Sharma,4,0,4,,,,,,,,,,,,20.0,211.0,147
+Delhi Capitals,15,3,0.1,5.7,mandatory,DA Miller,M Jansen,Ashutosh Sharma,0,0,0,,,,,,,,,,,,20.0,211.0,147
+Delhi Capitals,15,4,0.1,5.7,mandatory,DA Miller,M Jansen,Ashutosh Sharma,6,0,6,,,,,,,,,,,,20.0,211.0,153
+Delhi Capitals,15,5,0.1,5.7,mandatory,DA Miller,M Jansen,Ashutosh Sharma,1,0,1,,,,,,,,,,,,20.0,211.0,154
+Delhi Capitals,15,6,0.1,5.7,mandatory,Ashutosh Sharma,M Jansen,DA Miller,4,0,4,,,,,,,,,,,,20.0,211.0,158
+Delhi Capitals,16,1,0.1,5.7,mandatory,DA Miller,BJ Dwarshuis,Ashutosh Sharma,6,0,6,,,,,,,,,,,,20.0,211.0,164
+Delhi Capitals,16,2,0.1,5.7,mandatory,DA Miller,BJ Dwarshuis,Ashutosh Sharma,6,0,6,,,,,,,,,,,,20.0,211.0,170
+Delhi Capitals,16,3,0.1,5.7,mandatory,DA Miller,BJ Dwarshuis,Ashutosh Sharma,0,0,0,,,,DA Miller,caught,,,,,P Simran Singh,,20.0,211.0,170
+Delhi Capitals,16,4,0.1,5.7,mandatory,M Tiwari,BJ Dwarshuis,Ashutosh Sharma,4,0,4,,,,,,,,,,,,20.0,211.0,174
+Delhi Capitals,16,5,0.1,5.7,mandatory,M Tiwari,BJ Dwarshuis,Ashutosh Sharma,1,0,1,,,,,,,,,,,,20.0,211.0,175
+Delhi Capitals,16,6,0.1,5.7,mandatory,Ashutosh Sharma,BJ Dwarshuis,M Tiwari,0,0,0,,,,,,,,,,,,20.0,211.0,175
+Delhi Capitals,17,1,0.1,5.7,mandatory,M Tiwari,MP Stoinis,Ashutosh Sharma,1,0,1,,,,,,,,,,,,20.0,211.0,176
+Delhi Capitals,17,2,0.1,5.7,mandatory,Ashutosh Sharma,MP Stoinis,M Tiwari,4,0,4,,,,,,,,,,,,20.0,211.0,180
+Delhi Capitals,17,3,0.1,5.7,mandatory,Ashutosh Sharma,MP Stoinis,M Tiwari,6,0,6,,,,,,,,,,,,20.0,211.0,186
+Delhi Capitals,17,4,0.1,5.7,mandatory,Ashutosh Sharma,MP Stoinis,M Tiwari,1,0,1,,,,,,,,,,,,20.0,211.0,187
+Delhi Capitals,17,5,0.1,5.7,mandatory,M Tiwari,MP Stoinis,Ashutosh Sharma,6,0,6,,,,,,,,,,,,20.0,211.0,193
+Delhi Capitals,17,6,0.1,5.7,mandatory,M Tiwari,MP Stoinis,Ashutosh Sharma,1,0,1,,,,,,,,,,,,20.0,211.0,194
+Delhi Capitals,18,1,0.1,5.7,mandatory,M Tiwari,Yash Thakur,Ashutosh Sharma,0,0,0,,,,,,,,,,,,20.0,211.0,194
+Delhi Capitals,18,2,0.1,5.7,mandatory,M Tiwari,Yash Thakur,Ashutosh Sharma,4,0,4,,,,,,,,,,,,20.0,211.0,198
+Delhi Capitals,18,3,0.1,5.7,mandatory,M Tiwari,Yash Thakur,Ashutosh Sharma,1,0,1,,,,,,,,,,,,20.0,211.0,199
+Delhi Capitals,18,4,0.1,5.7,mandatory,Ashutosh Sharma,Yash Thakur,M Tiwari,6,0,6,,,,,,,,,,,,20.0,211.0,205
+Delhi Capitals,18,5,0.1,5.7,mandatory,Ashutosh Sharma,Yash Thakur,M Tiwari,0,0,0,,,,Ashutosh Sharma,caught,,,,,P Dubey,True,20.0,211.0,205
+Delhi Capitals,18,6,0.1,5.7,mandatory,Auqib Nabi,Yash Thakur,M Tiwari,4,1,5,,1.0,,,,,,,,,,20.0,211.0,210
+Delhi Capitals,18,7,0.1,5.7,mandatory,Auqib Nabi,Yash Thakur,M Tiwari,6,0,6,,,,,,,,,,,,20.0,211.0,216

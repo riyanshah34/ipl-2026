@@ -1,0 +1,23 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,player_out,wicket_kind,fielders_name,current_team_total
+Kolkata Knight Riders,0,1,0.1,3.4,mandatory,AM Rahane,Arshdeep Singh,FH Allen,1,0,1,,,,1
+Kolkata Knight Riders,0,2,0.1,3.4,mandatory,FH Allen,Arshdeep Singh,AM Rahane,1,0,1,,,,2
+Kolkata Knight Riders,0,3,0.1,3.4,mandatory,AM Rahane,Arshdeep Singh,FH Allen,4,0,4,,,,6
+Kolkata Knight Riders,0,4,0.1,3.4,mandatory,AM Rahane,Arshdeep Singh,FH Allen,1,0,1,,,,7
+Kolkata Knight Riders,0,5,0.1,3.4,mandatory,FH Allen,Arshdeep Singh,AM Rahane,4,0,4,,,,11
+Kolkata Knight Riders,0,6,0.1,3.4,mandatory,FH Allen,Arshdeep Singh,AM Rahane,1,0,1,,,,12
+Kolkata Knight Riders,1,1,0.1,3.4,mandatory,FH Allen,XC Bartlett,AM Rahane,0,0,0,,,,12
+Kolkata Knight Riders,1,2,0.1,3.4,mandatory,FH Allen,XC Bartlett,AM Rahane,0,0,0,,,,12
+Kolkata Knight Riders,1,3,0.1,3.4,mandatory,FH Allen,XC Bartlett,AM Rahane,0,0,0,,,,12
+Kolkata Knight Riders,1,4,0.1,3.4,mandatory,FH Allen,XC Bartlett,AM Rahane,0,0,0,FH Allen,caught,P Simran Singh,12
+Kolkata Knight Riders,1,5,0.1,3.4,mandatory,C Green,XC Bartlett,AM Rahane,4,0,4,,,,16
+Kolkata Knight Riders,1,6,0.1,3.4,mandatory,C Green,XC Bartlett,AM Rahane,0,0,0,C Green,caught,P Simran Singh,16
+Kolkata Knight Riders,2,1,0.1,3.4,mandatory,AM Rahane,Arshdeep Singh,A Raghuvanshi,1,0,1,,,,17
+Kolkata Knight Riders,2,2,0.1,3.4,mandatory,A Raghuvanshi,Arshdeep Singh,AM Rahane,0,0,0,,,,17
+Kolkata Knight Riders,2,3,0.1,3.4,mandatory,A Raghuvanshi,Arshdeep Singh,AM Rahane,1,0,1,,,,18
+Kolkata Knight Riders,2,4,0.1,3.4,mandatory,AM Rahane,Arshdeep Singh,A Raghuvanshi,1,0,1,,,,19
+Kolkata Knight Riders,2,5,0.1,3.4,mandatory,A Raghuvanshi,Arshdeep Singh,AM Rahane,0,0,0,,,,19
+Kolkata Knight Riders,2,6,0.1,3.4,mandatory,A Raghuvanshi,Arshdeep Singh,AM Rahane,1,0,1,,,,20
+Kolkata Knight Riders,3,1,0.1,3.4,mandatory,A Raghuvanshi,XC Bartlett,AM Rahane,0,0,0,,,,20
+Kolkata Knight Riders,3,2,0.1,3.4,mandatory,A Raghuvanshi,XC Bartlett,AM Rahane,0,0,0,,,,20
+Kolkata Knight Riders,3,3,0.1,3.4,mandatory,A Raghuvanshi,XC Bartlett,AM Rahane,5,0,5,,,,25
+Kolkata Knight Riders,3,4,0.1,3.4,mandatory,AM Rahane,XC Bartlett,A Raghuvanshi,0,0,0,,,,25

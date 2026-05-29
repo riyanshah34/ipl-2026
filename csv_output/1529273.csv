@@ -1,0 +1,225 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,legbyes,byes,review_by,review_umpire,review_batter,review_decision,review_type,umpires_call,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,overs_deliveries_wickets_fielders_substitute,target_overs,target_runs,current_team_total
+Mumbai Indians,0,1,0.1,5.6,mandatory,Q de Kock,Mohammed Siraj,DV Malewar,0,0,0,,,,,,,,,,,,,,,,,,,,0
+Mumbai Indians,0,2,0.1,5.6,mandatory,Q de Kock,Mohammed Siraj,DV Malewar,1,0,1,,,,,,,,,,,,,,,,,,,,1
+Mumbai Indians,0,3,0.1,5.6,mandatory,DV Malewar,Mohammed Siraj,Q de Kock,0,0,0,,,,,,,,,,,,,,,,,,,,1
+Mumbai Indians,0,4,0.1,5.6,mandatory,DV Malewar,Mohammed Siraj,Q de Kock,1,0,1,,,,,,,,,,,,,,,,,,,,2
+Mumbai Indians,0,5,0.1,5.6,mandatory,Q de Kock,Mohammed Siraj,DV Malewar,0,0,0,,,,,,,,,,,,,,,,,,,,2
+Mumbai Indians,0,6,0.1,5.6,mandatory,Q de Kock,Mohammed Siraj,DV Malewar,0,0,0,,,,,,,,,,,,,,,,,,,,2
+Mumbai Indians,1,1,0.1,5.6,mandatory,DV Malewar,K Rabada,Q de Kock,1,0,1,,,,,,,,,,,,,,,,,,,,3
+Mumbai Indians,1,2,0.1,5.6,mandatory,Q de Kock,K Rabada,DV Malewar,6,0,6,,,,,,,,,,,,,,,,,,,,9
+Mumbai Indians,1,3,0.1,5.6,mandatory,Q de Kock,K Rabada,DV Malewar,0,0,0,,,,,,,,,,,,,,,,,,,,9
+Mumbai Indians,1,4,0.1,5.6,mandatory,Q de Kock,K Rabada,DV Malewar,1,0,1,,,,,,,,,,,,,,,,,,,,10
+Mumbai Indians,1,5,0.1,5.6,mandatory,DV Malewar,K Rabada,Q de Kock,0,0,0,,,,,,,,,,DV Malewar,lbw,,,,,,,,,10
+Mumbai Indians,1,6,0.1,5.6,mandatory,Naman Dhir,K Rabada,Q de Kock,1,0,1,,,,,,,,,,,,,,,,,,,,11
+Mumbai Indians,2,1,0.1,5.6,mandatory,Naman Dhir,Mohammed Siraj,Q de Kock,1,0,1,,,,,,,,,,,,,,,,,,,,12
+Mumbai Indians,2,2,0.1,5.6,mandatory,Q de Kock,Mohammed Siraj,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,13
+Mumbai Indians,2,3,0.1,5.6,mandatory,Naman Dhir,Mohammed Siraj,Q de Kock,4,0,4,,,,,,,,,,,,,,,,,,,,17
+Mumbai Indians,2,4,0.1,5.6,mandatory,Naman Dhir,Mohammed Siraj,Q de Kock,4,0,4,,,,,,,,,,,,,,,,,,,,21
+Mumbai Indians,2,5,0.1,5.6,mandatory,Naman Dhir,Mohammed Siraj,Q de Kock,0,0,0,,,,,,,,,,,,,,,,,,,,21
+Mumbai Indians,2,6,0.1,5.6,mandatory,Naman Dhir,Mohammed Siraj,Q de Kock,0,0,0,,,,,,,,,,,,,,,,,,,,21
+Mumbai Indians,3,1,0.1,5.6,mandatory,Q de Kock,K Rabada,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,,,21
+Mumbai Indians,3,2,0.1,5.6,mandatory,Q de Kock,K Rabada,Naman Dhir,4,0,4,,,,,,,,,,,,,,,,,,,,25
+Mumbai Indians,3,3,0.1,5.6,mandatory,Q de Kock,K Rabada,Naman Dhir,0,0,0,,,,,,,,,,Q de Kock,caught and bowled,,,,,,,,,25
+Mumbai Indians,3,4,0.1,5.6,mandatory,SA Yadav,K Rabada,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,,,25
+Mumbai Indians,3,5,0.1,5.6,mandatory,SA Yadav,K Rabada,Naman Dhir,0,1,1,1.0,,,,,,,,,,,,,,,,,,,26
+Mumbai Indians,3,6,0.1,5.6,mandatory,SA Yadav,K Rabada,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,,,26
+Mumbai Indians,3,7,0.1,5.6,mandatory,SA Yadav,K Rabada,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,27
+Mumbai Indians,4,1,0.1,5.6,mandatory,SA Yadav,Mohammed Siraj,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,28
+Mumbai Indians,4,2,0.1,5.6,mandatory,Naman Dhir,Mohammed Siraj,SA Yadav,0,1,1,,1.0,,,,,,,,,,,,,,,,,,29
+Mumbai Indians,4,3,0.1,5.6,mandatory,SA Yadav,Mohammed Siraj,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,30
+Mumbai Indians,4,4,0.1,5.6,mandatory,Naman Dhir,Mohammed Siraj,SA Yadav,0,1,1,,1.0,,,,,,,,,,,,,,,,,,31
+Mumbai Indians,4,5,0.1,5.6,mandatory,SA Yadav,Mohammed Siraj,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,32
+Mumbai Indians,4,6,0.1,5.6,mandatory,Naman Dhir,Mohammed Siraj,SA Yadav,0,0,0,,,,,,,,,,,,,,,,,,,,32
+Mumbai Indians,5,1,0.1,5.6,mandatory,SA Yadav,K Rabada,Naman Dhir,6,0,6,,,,,,,,,,,,,,,,,,,,38
+Mumbai Indians,5,2,0.1,5.6,mandatory,SA Yadav,K Rabada,Naman Dhir,4,0,4,,,,,,,,,,,,,,,,,,,,42
+Mumbai Indians,5,3,0.1,5.6,mandatory,SA Yadav,K Rabada,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,43
+Mumbai Indians,5,4,0.1,5.6,mandatory,Naman Dhir,K Rabada,SA Yadav,1,0,1,,,,,,,,,,,,,,,,,,,,44
+Mumbai Indians,5,5,0.1,5.6,mandatory,SA Yadav,K Rabada,Naman Dhir,0,0,0,,,,,,,,,,SA Yadav,bowled,,,,,,,,,44
+Mumbai Indians,5,6,0.1,5.6,mandatory,Tilak Varma,K Rabada,Naman Dhir,2,0,2,,,,,,,,,,,,,,,,,,,,46
+Mumbai Indians,6,1,0.1,5.6,mandatory,Naman Dhir,Ashok Sharma,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,,,46
+Mumbai Indians,6,2,0.1,5.6,mandatory,Naman Dhir,Ashok Sharma,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,,,46
+Mumbai Indians,6,3,0.1,5.6,mandatory,Naman Dhir,Ashok Sharma,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,,,46
+Mumbai Indians,6,4,0.1,5.6,mandatory,Naman Dhir,Ashok Sharma,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,,,46
+Mumbai Indians,6,5,0.1,5.6,mandatory,Naman Dhir,Ashok Sharma,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,,,,50
+Mumbai Indians,6,6,0.1,5.6,mandatory,Naman Dhir,Ashok Sharma,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,,,,54
+Mumbai Indians,7,1,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,55
+Mumbai Indians,7,2,0.1,5.6,mandatory,Naman Dhir,Rashid Khan,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,,,56
+Mumbai Indians,7,3,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,57
+Mumbai Indians,7,4,0.1,5.6,mandatory,Naman Dhir,Rashid Khan,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,,,57
+Mumbai Indians,7,5,0.1,5.6,mandatory,Naman Dhir,Rashid Khan,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,,,57
+Mumbai Indians,7,6,0.1,5.6,mandatory,Naman Dhir,Rashid Khan,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,,,58
+Mumbai Indians,8,1,0.1,5.6,mandatory,Naman Dhir,M Prasidh Krishna,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,,,59
+Mumbai Indians,8,2,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,Naman Dhir,2,0,2,,,,,,,,,,,,,,,,,,,,61
+Mumbai Indians,8,3,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,,,61
+Mumbai Indians,8,4,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,62
+Mumbai Indians,8,5,0.1,5.6,mandatory,Naman Dhir,M Prasidh Krishna,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,,,,66
+Mumbai Indians,8,6,0.1,5.6,mandatory,Naman Dhir,M Prasidh Krishna,Tilak Varma,2,0,2,,,,,,,,,,,,,,,,,,,,68
+Mumbai Indians,9,1,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,69
+Mumbai Indians,9,2,0.1,5.6,mandatory,Naman Dhir,Rashid Khan,Tilak Varma,0,1,1,,1.0,,,,,,,,,,,,,,,,,,70
+Mumbai Indians,9,3,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,Naman Dhir,0,1,1,,1.0,,,,,,,,,,,,,,,,,,71
+Mumbai Indians,9,4,0.1,5.6,mandatory,Naman Dhir,Rashid Khan,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,,,72
+Mumbai Indians,9,5,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,73
+Mumbai Indians,9,6,0.1,5.6,mandatory,Naman Dhir,Rashid Khan,Tilak Varma,2,0,2,,,,,,,,,,,,,,,,,,,,75
+Mumbai Indians,10,1,0.1,5.6,mandatory,Tilak Varma,Washington Sundar,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,76
+Mumbai Indians,10,2,0.1,5.6,mandatory,Naman Dhir,Washington Sundar,Tilak Varma,6,0,6,,,,,,,,,,,,,,,,,,,,82
+Mumbai Indians,10,3,0.1,5.6,mandatory,Naman Dhir,Washington Sundar,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,,,,86
+Mumbai Indians,10,4,0.1,5.6,mandatory,Naman Dhir,Washington Sundar,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,,,87
+Mumbai Indians,10,5,0.1,5.6,mandatory,Tilak Varma,Washington Sundar,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,,,87
+Mumbai Indians,10,6,0.1,5.6,mandatory,Tilak Varma,Washington Sundar,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,88
+Mumbai Indians,11,1,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,89
+Mumbai Indians,11,2,0.1,5.6,mandatory,Naman Dhir,Rashid Khan,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,,,90
+Mumbai Indians,11,3,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,Naman Dhir,2,0,2,,,,,,,,,,,,,,,,,,,,92
+Mumbai Indians,11,4,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,,,92
+Mumbai Indians,11,5,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,93
+Mumbai Indians,11,6,0.1,5.6,mandatory,Naman Dhir,Rashid Khan,Tilak Varma,2,0,2,,,,,,,,,,,,,,,,,,,,95
+Mumbai Indians,12,1,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,,,95
+Mumbai Indians,12,2,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,,,96
+Mumbai Indians,12,3,0.1,5.6,mandatory,Naman Dhir,M Prasidh Krishna,Tilak Varma,0,0,0,,,,,,,,,,Naman Dhir,caught,,,,,K Rabada,,,,96
+Mumbai Indians,12,4,0.1,5.6,mandatory,HH Pandya,M Prasidh Krishna,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,,,97
+Mumbai Indians,12,5,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,HH Pandya,1,0,1,,,,,,,,,,,,,,,,,,,,98
+Mumbai Indians,12,6,0.1,5.6,mandatory,HH Pandya,M Prasidh Krishna,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,,,98
+Mumbai Indians,13,1,0.1,5.6,mandatory,Tilak Varma,Ashok Sharma,HH Pandya,0,0,0,,,,,,,,,,,,,,,,,,,,98
+Mumbai Indians,13,2,0.1,5.6,mandatory,Tilak Varma,Ashok Sharma,HH Pandya,1,0,1,,,,,,,,,,,,,,,,,,,,99
+Mumbai Indians,13,3,0.1,5.6,mandatory,HH Pandya,Ashok Sharma,Tilak Varma,0,1,1,,,1.0,,,,,,,,,,,,,,,,,100
+Mumbai Indians,13,4,0.1,5.6,mandatory,Tilak Varma,Ashok Sharma,HH Pandya,1,0,1,,,,,,,,,,,,,,,,,,,,101
+Mumbai Indians,13,5,0.1,5.6,mandatory,HH Pandya,Ashok Sharma,Tilak Varma,2,0,2,,,,,,,,,,,,,,,,,,,,103
+Mumbai Indians,13,6,0.1,5.6,mandatory,HH Pandya,Ashok Sharma,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,,,103
+Mumbai Indians,14,1,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,HH Pandya,6,0,6,,,,,,,,,,,,,,,,,,,,109
+Mumbai Indians,14,2,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,HH Pandya,4,0,4,,,,,,,,,,,,,,,,,,,,113
+Mumbai Indians,14,3,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,HH Pandya,4,0,4,,,,,,,,,,,,,,,,,,,,117
+Mumbai Indians,14,4,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,HH Pandya,2,0,2,,,,,,,,,,,,,,,,,,,,119
+Mumbai Indians,14,5,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,HH Pandya,0,1,1,1.0,,,,,,,,,,,,,,,,,,,120
+Mumbai Indians,14,6,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,HH Pandya,1,0,1,,,,,,,,,,,,,,,,,,,,121
+Mumbai Indians,14,7,0.1,5.6,mandatory,HH Pandya,M Prasidh Krishna,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,,,122
+Mumbai Indians,15,1,0.1,5.6,mandatory,HH Pandya,K Rabada,Tilak Varma,2,0,2,,,,,,,,,,,,,,,,,,,,124
+Mumbai Indians,15,2,0.1,5.6,mandatory,HH Pandya,K Rabada,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,,,124
+Mumbai Indians,15,3,0.1,5.6,mandatory,HH Pandya,K Rabada,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,,,124
+Mumbai Indians,15,4,0.1,5.6,mandatory,HH Pandya,K Rabada,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,,,124
+Mumbai Indians,15,5,0.1,5.6,mandatory,HH Pandya,K Rabada,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,,,125
+Mumbai Indians,15,6,0.1,5.6,mandatory,Tilak Varma,K Rabada,HH Pandya,1,0,1,,,,,,,,,,,,,,,,,,,,126
+Mumbai Indians,16,1,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,HH Pandya,6,0,6,,,,,,,,,,,,,,,,,,,,132
+Mumbai Indians,16,2,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,HH Pandya,4,0,4,,,,,,,,,,,,,,,,,,,,136
+Mumbai Indians,16,3,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,HH Pandya,1,0,1,,,,,,,,,,,,,,,,,,,,137
+Mumbai Indians,16,4,0.1,5.6,mandatory,HH Pandya,Rashid Khan,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,,,138
+Mumbai Indians,16,5,0.1,5.6,mandatory,Tilak Varma,Rashid Khan,HH Pandya,1,0,1,,,,,,,,,,,,,,,,,,,,139
+Mumbai Indians,16,6,0.1,5.6,mandatory,HH Pandya,Rashid Khan,Tilak Varma,2,0,2,,,,,,,,,,,,,,,,,,,,141
+Mumbai Indians,17,1,0.1,5.6,mandatory,Tilak Varma,Ashok Sharma,HH Pandya,6,0,6,,,,,,,,,,,,,,,,,,,,147
+Mumbai Indians,17,2,0.1,5.6,mandatory,Tilak Varma,Ashok Sharma,HH Pandya,4,0,4,,,,,,,,,,,,,,,,,,,,151
+Mumbai Indians,17,3,0.1,5.6,mandatory,Tilak Varma,Ashok Sharma,HH Pandya,4,0,4,,,,,,,,,,,,,,,,,,,,155
+Mumbai Indians,17,4,0.1,5.6,mandatory,Tilak Varma,Ashok Sharma,HH Pandya,6,0,6,,,,,,,,,,,,,,,,,,,,161
+Mumbai Indians,17,5,0.1,5.6,mandatory,Tilak Varma,Ashok Sharma,HH Pandya,6,0,6,,,,,,,,,,,,,,,,,,,,167
+Mumbai Indians,17,6,0.1,5.6,mandatory,Tilak Varma,Ashok Sharma,HH Pandya,0,0,0,,,,,,,,,,,,,,,,,,,,167
+Mumbai Indians,18,1,0.1,5.6,mandatory,HH Pandya,Mohammed Siraj,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,,,,171
+Mumbai Indians,18,2,0.1,5.6,mandatory,HH Pandya,Mohammed Siraj,Tilak Varma,1,0,1,,,,Gujarat Titans,KN Ananthapadmanabhan,HH Pandya,struck down,wicket,,,,,,,,,,,,172
+Mumbai Indians,18,3,0.1,5.6,mandatory,Tilak Varma,Mohammed Siraj,HH Pandya,4,0,4,,,,,,,,,,,,,,,,,,,,176
+Mumbai Indians,18,4,0.1,5.6,mandatory,Tilak Varma,Mohammed Siraj,HH Pandya,1,0,1,,,,,,,,,,,,,,,,,,,,177
+Mumbai Indians,18,5,0.1,5.6,mandatory,HH Pandya,Mohammed Siraj,Tilak Varma,0,0,0,,,,,,,,,,HH Pandya,caught,,,,,GD Phillips,,,,177
+Mumbai Indians,18,6,0.1,5.6,mandatory,SE Rutherford,Mohammed Siraj,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,,,177
+Mumbai Indians,19,1,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,SE Rutherford,4,0,4,,,,,,,,,,,,,,,,,,,,181
+Mumbai Indians,19,2,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,SE Rutherford,6,0,6,,,,,,,,,,,,,,,,,,,,187
+Mumbai Indians,19,3,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,SE Rutherford,1,0,1,,,,,,,,,,,,,,,,,,,,188
+Mumbai Indians,19,4,0.1,5.6,mandatory,SE Rutherford,M Prasidh Krishna,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,,,189
+Mumbai Indians,19,5,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,SE Rutherford,6,0,6,,,,,,,,,,,,,,,,,,,,195
+Mumbai Indians,19,6,0.1,5.6,mandatory,Tilak Varma,M Prasidh Krishna,SE Rutherford,4,0,4,,,,,,,,,,,,,,,,,,,,199
+Gujarat Titans,0,1,0.1,5.6,mandatory,B Sai Sudharsan,JJ Bumrah,Shubman Gill,0,0,0,,,,,,,,,,B Sai Sudharsan,caught,Ashwani Kumar,SE Rutherford,Mumbai Indians,impact_player,Krish Bhagat,,20.0,200.0,0
+Gujarat Titans,0,2,0.1,5.6,mandatory,JC Buttler,JJ Bumrah,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,0
+Gujarat Titans,0,3,0.1,5.6,mandatory,JC Buttler,JJ Bumrah,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,0
+Gujarat Titans,0,4,0.1,5.6,mandatory,JC Buttler,JJ Bumrah,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,0
+Gujarat Titans,0,5,0.1,5.6,mandatory,JC Buttler,JJ Bumrah,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,1
+Gujarat Titans,0,6,0.1,5.6,mandatory,Shubman Gill,JJ Bumrah,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,1
+Gujarat Titans,1,1,0.1,5.6,mandatory,JC Buttler,HH Pandya,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,5
+Gujarat Titans,1,2,0.1,5.6,mandatory,JC Buttler,HH Pandya,Shubman Gill,0,0,0,,,,Gujarat Titans,Abhijit Bhattacharya,JC Buttler,struck down,wicket,True,JC Buttler,lbw,,,,,,,20.0,200.0,5
+Gujarat Titans,1,3,0.1,5.6,mandatory,Washington Sundar,HH Pandya,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,5
+Gujarat Titans,1,4,0.1,5.6,mandatory,Washington Sundar,HH Pandya,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,9
+Gujarat Titans,1,5,0.1,5.6,mandatory,Washington Sundar,HH Pandya,Shubman Gill,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,200.0,10
+Gujarat Titans,1,6,0.1,5.6,mandatory,Washington Sundar,HH Pandya,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,14
+Gujarat Titans,1,7,0.1,5.6,mandatory,Washington Sundar,HH Pandya,Shubman Gill,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,200.0,15
+Gujarat Titans,1,8,0.1,5.6,mandatory,Washington Sundar,HH Pandya,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,19
+Gujarat Titans,2,1,0.1,5.6,mandatory,Shubman Gill,JJ Bumrah,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,19
+Gujarat Titans,2,2,0.1,5.6,mandatory,Shubman Gill,JJ Bumrah,Washington Sundar,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,200.0,20
+Gujarat Titans,2,3,0.1,5.6,mandatory,Shubman Gill,JJ Bumrah,Washington Sundar,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,24
+Gujarat Titans,2,4,0.1,5.6,mandatory,Shubman Gill,JJ Bumrah,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,24
+Gujarat Titans,2,5,0.1,5.6,mandatory,Shubman Gill,JJ Bumrah,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,24
+Gujarat Titans,2,6,0.1,5.6,mandatory,Shubman Gill,JJ Bumrah,Washington Sundar,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,28
+Gujarat Titans,2,7,0.1,5.6,mandatory,Shubman Gill,JJ Bumrah,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,29
+Gujarat Titans,3,1,0.1,5.6,mandatory,Shubman Gill,Krish Bhagat,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,29
+Gujarat Titans,3,2,0.1,5.6,mandatory,Shubman Gill,Krish Bhagat,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,30
+Gujarat Titans,3,3,0.1,5.6,mandatory,Washington Sundar,Krish Bhagat,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,30
+Gujarat Titans,3,4,0.1,5.6,mandatory,Washington Sundar,Krish Bhagat,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,31
+Gujarat Titans,3,5,0.1,5.6,mandatory,Shubman Gill,Krish Bhagat,Washington Sundar,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,35
+Gujarat Titans,3,6,0.1,5.6,mandatory,Shubman Gill,Krish Bhagat,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,35
+Gujarat Titans,4,1,0.1,5.6,mandatory,Washington Sundar,Ashwani Kumar,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,39
+Gujarat Titans,4,2,0.1,5.6,mandatory,Washington Sundar,Ashwani Kumar,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,40
+Gujarat Titans,4,3,0.1,5.6,mandatory,Shubman Gill,Ashwani Kumar,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,40
+Gujarat Titans,4,4,0.1,5.6,mandatory,Shubman Gill,Ashwani Kumar,Washington Sundar,0,0,0,,,,,,,,,,Shubman Gill,caught,,,,,Naman Dhir,,20.0,200.0,40
+Gujarat Titans,4,5,0.1,5.6,mandatory,GD Phillips,Ashwani Kumar,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,41
+Gujarat Titans,4,6,0.1,5.6,mandatory,Washington Sundar,Ashwani Kumar,GD Phillips,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,41
+Gujarat Titans,5,1,0.1,5.6,mandatory,GD Phillips,Krish Bhagat,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,42
+Gujarat Titans,5,2,0.1,5.6,mandatory,Washington Sundar,Krish Bhagat,GD Phillips,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,42
+Gujarat Titans,5,3,0.1,5.6,mandatory,Washington Sundar,Krish Bhagat,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,43
+Gujarat Titans,5,4,0.1,5.6,mandatory,GD Phillips,Krish Bhagat,Washington Sundar,2,0,2,,,,,,,,,,,,,,,,,,20.0,200.0,45
+Gujarat Titans,5,5,0.1,5.6,mandatory,GD Phillips,Krish Bhagat,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,45
+Gujarat Titans,5,6,0.1,5.6,mandatory,GD Phillips,Krish Bhagat,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,45
+Gujarat Titans,6,1,0.1,5.6,mandatory,Washington Sundar,AM Ghazanfar,GD Phillips,2,0,2,,,,,,,,,,,,,,,,,,20.0,200.0,47
+Gujarat Titans,6,2,0.1,5.6,mandatory,Washington Sundar,AM Ghazanfar,GD Phillips,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,47
+Gujarat Titans,6,3,0.1,5.6,mandatory,Washington Sundar,AM Ghazanfar,GD Phillips,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,47
+Gujarat Titans,6,4,0.1,5.6,mandatory,Washington Sundar,AM Ghazanfar,GD Phillips,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,51
+Gujarat Titans,6,5,0.1,5.6,mandatory,Washington Sundar,AM Ghazanfar,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,52
+Gujarat Titans,6,6,0.1,5.6,mandatory,GD Phillips,AM Ghazanfar,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,53
+Gujarat Titans,7,1,0.1,5.6,mandatory,GD Phillips,MJ Santner,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,54
+Gujarat Titans,7,2,0.1,5.6,mandatory,Washington Sundar,MJ Santner,GD Phillips,0,0,0,,,,,,,,,,Washington Sundar,caught,,,,,Naman Dhir,,20.0,200.0,54
+Gujarat Titans,7,3,0.1,5.6,mandatory,R Tewatia,MJ Santner,GD Phillips,1,0,1,,,,,,,,,,,,R Tewatia,M Prasidh Krishna,Gujarat Titans,impact_player,,,20.0,200.0,55
+Gujarat Titans,7,4,0.1,5.6,mandatory,GD Phillips,MJ Santner,R Tewatia,0,0,0,,,,,,,,,,GD Phillips,caught and bowled,,,,,,,20.0,200.0,55
+Gujarat Titans,7,5,0.1,5.6,mandatory,M Shahrukh Khan,MJ Santner,R Tewatia,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,56
+Gujarat Titans,7,6,0.1,5.6,mandatory,R Tewatia,MJ Santner,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,56
+Gujarat Titans,8,1,0.1,5.6,mandatory,M Shahrukh Khan,AM Ghazanfar,R Tewatia,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,56
+Gujarat Titans,8,2,0.1,5.6,mandatory,M Shahrukh Khan,AM Ghazanfar,R Tewatia,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,56
+Gujarat Titans,8,3,0.1,5.6,mandatory,M Shahrukh Khan,AM Ghazanfar,R Tewatia,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,56
+Gujarat Titans,8,4,0.1,5.6,mandatory,M Shahrukh Khan,AM Ghazanfar,R Tewatia,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,57
+Gujarat Titans,8,5,0.1,5.6,mandatory,R Tewatia,AM Ghazanfar,M Shahrukh Khan,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,58
+Gujarat Titans,8,6,0.1,5.6,mandatory,M Shahrukh Khan,AM Ghazanfar,R Tewatia,6,0,6,,,,,,,,,,,,,,,,,,20.0,200.0,64
+Gujarat Titans,9,1,0.1,5.6,mandatory,R Tewatia,MJ Santner,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,64
+Gujarat Titans,9,2,0.1,5.6,mandatory,R Tewatia,MJ Santner,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,64
+Gujarat Titans,9,3,0.1,5.6,mandatory,R Tewatia,MJ Santner,M Shahrukh Khan,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,65
+Gujarat Titans,9,4,0.1,5.6,mandatory,M Shahrukh Khan,MJ Santner,R Tewatia,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,65
+Gujarat Titans,9,5,0.1,5.6,mandatory,M Shahrukh Khan,MJ Santner,R Tewatia,2,0,2,,,,,,,,,,,,,,,,,,20.0,200.0,67
+Gujarat Titans,9,6,0.1,5.6,mandatory,M Shahrukh Khan,MJ Santner,R Tewatia,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,71
+Gujarat Titans,10,1,0.1,5.6,mandatory,R Tewatia,Ashwani Kumar,M Shahrukh Khan,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,75
+Gujarat Titans,10,2,0.1,5.6,mandatory,R Tewatia,Ashwani Kumar,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,75
+Gujarat Titans,10,3,0.1,5.6,mandatory,R Tewatia,Ashwani Kumar,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,75
+Gujarat Titans,10,4,0.1,5.6,mandatory,R Tewatia,Ashwani Kumar,M Shahrukh Khan,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,76
+Gujarat Titans,10,5,0.1,5.6,mandatory,M Shahrukh Khan,Ashwani Kumar,R Tewatia,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,200.0,77
+Gujarat Titans,10,6,0.1,5.6,mandatory,M Shahrukh Khan,Ashwani Kumar,R Tewatia,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,78
+Gujarat Titans,10,7,0.1,5.6,mandatory,R Tewatia,Ashwani Kumar,M Shahrukh Khan,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,200.0,79
+Gujarat Titans,10,8,0.1,5.6,mandatory,R Tewatia,Ashwani Kumar,M Shahrukh Khan,0,0,0,,,,,,,,,,R Tewatia,caught,,,,,Q de Kock,,20.0,200.0,79
+Gujarat Titans,11,1,0.1,5.6,mandatory,M Shahrukh Khan,MJ Santner,Rashid Khan,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,80
+Gujarat Titans,11,2,0.1,5.6,mandatory,Rashid Khan,MJ Santner,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,80
+Gujarat Titans,11,3,0.1,5.6,mandatory,Rashid Khan,MJ Santner,M Shahrukh Khan,2,0,2,,,,,,,,,,,,,,,,,,20.0,200.0,82
+Gujarat Titans,11,4,0.1,5.6,mandatory,Rashid Khan,MJ Santner,M Shahrukh Khan,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,83
+Gujarat Titans,11,5,0.1,5.6,mandatory,M Shahrukh Khan,MJ Santner,Rashid Khan,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,84
+Gujarat Titans,11,6,0.1,5.6,mandatory,Rashid Khan,MJ Santner,M Shahrukh Khan,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,85
+Gujarat Titans,12,1,0.1,5.6,mandatory,Rashid Khan,Ashwani Kumar,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,85
+Gujarat Titans,12,2,0.1,5.6,mandatory,Rashid Khan,Ashwani Kumar,M Shahrukh Khan,0,0,0,,,,,,,,,,Rashid Khan,caught,,,,,RA Bawa,True,20.0,200.0,85
+Gujarat Titans,12,3,0.1,5.6,mandatory,K Rabada,Ashwani Kumar,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,85
+Gujarat Titans,12,4,0.1,5.6,mandatory,K Rabada,Ashwani Kumar,M Shahrukh Khan,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,85
+Gujarat Titans,12,5,0.1,5.6,mandatory,K Rabada,Ashwani Kumar,M Shahrukh Khan,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,86
+Gujarat Titans,12,6,0.1,5.6,mandatory,M Shahrukh Khan,Ashwani Kumar,K Rabada,0,0,0,,,,,,,,,,M Shahrukh Khan,caught,,,,,Naman Dhir,,20.0,200.0,86
+Gujarat Titans,13,1,0.1,5.6,mandatory,K Rabada,JJ Bumrah,Ashok Sharma,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,86
+Gujarat Titans,13,2,0.1,5.6,mandatory,K Rabada,JJ Bumrah,Ashok Sharma,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,87
+Gujarat Titans,13,3,0.1,5.6,mandatory,Ashok Sharma,JJ Bumrah,K Rabada,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,87
+Gujarat Titans,13,4,0.1,5.6,mandatory,Ashok Sharma,JJ Bumrah,K Rabada,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,200.0,88
+Gujarat Titans,13,5,0.1,5.6,mandatory,Ashok Sharma,JJ Bumrah,K Rabada,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,89
+Gujarat Titans,13,6,0.1,5.6,mandatory,K Rabada,JJ Bumrah,Ashok Sharma,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,90
+Gujarat Titans,13,7,0.1,5.6,mandatory,Ashok Sharma,JJ Bumrah,K Rabada,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,90
+Gujarat Titans,14,1,0.1,5.6,mandatory,K Rabada,Ashwani Kumar,Ashok Sharma,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,90
+Gujarat Titans,14,2,0.1,5.6,mandatory,K Rabada,Ashwani Kumar,Ashok Sharma,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,94
+Gujarat Titans,14,3,0.1,5.6,mandatory,K Rabada,Ashwani Kumar,Ashok Sharma,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,94
+Gujarat Titans,14,4,0.1,5.6,mandatory,K Rabada,Ashwani Kumar,Ashok Sharma,4,0,4,,,,,,,,,,,,,,,,,,20.0,200.0,98
+Gujarat Titans,14,5,0.1,5.6,mandatory,K Rabada,Ashwani Kumar,Ashok Sharma,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,98
+Gujarat Titans,14,6,0.1,5.6,mandatory,K Rabada,Ashwani Kumar,Ashok Sharma,1,0,1,,,,,,,,,,,,,,,,,,20.0,200.0,99
+Gujarat Titans,15,1,0.1,5.6,mandatory,K Rabada,AM Ghazanfar,Ashok Sharma,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,99
+Gujarat Titans,15,2,0.1,5.6,mandatory,K Rabada,AM Ghazanfar,Ashok Sharma,0,0,0,,,,,,,,,,K Rabada,stumped,,,,,Q de Kock,,20.0,200.0,99
+Gujarat Titans,15,3,0.1,5.6,mandatory,Mohammed Siraj,AM Ghazanfar,Ashok Sharma,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,99
+Gujarat Titans,15,4,0.1,5.6,mandatory,Mohammed Siraj,AM Ghazanfar,Ashok Sharma,0,0,0,,,,,,,,,,,,,,,,,,20.0,200.0,99
+Gujarat Titans,15,5,0.1,5.6,mandatory,Mohammed Siraj,AM Ghazanfar,Ashok Sharma,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,200.0,100
+Gujarat Titans,15,6,0.1,5.6,mandatory,Mohammed Siraj,AM Ghazanfar,Ashok Sharma,0,0,0,,,,Gujarat Titans,Abhijit Bhattacharya,Mohammed Siraj,struck down,wicket,,Mohammed Siraj,lbw,,,,,,,20.0,200.0,100

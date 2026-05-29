@@ -1,0 +1,201 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,legbyes,wides,review_by,review_umpire,review_batter,review_decision,review_type,noballs,byes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Chennai Super Kings,0,1,0.1,5.6,mandatory,SV Samson,JC Archer,RD Gaikwad,0,0,0,,,,,,,,,,,,,,,,,,,0
+Chennai Super Kings,0,2,0.1,5.6,mandatory,SV Samson,JC Archer,RD Gaikwad,0,1,1,1.0,,,,,,,,,,,,,,,,,,1
+Chennai Super Kings,0,3,0.1,5.6,mandatory,RD Gaikwad,JC Archer,SV Samson,1,0,1,,,,,,,,,,,,,,,,,,,2
+Chennai Super Kings,0,4,0.1,5.6,mandatory,SV Samson,JC Archer,RD Gaikwad,0,0,0,,,,,,,,,,,,,,,,,,,2
+Chennai Super Kings,0,5,0.1,5.6,mandatory,SV Samson,JC Archer,RD Gaikwad,4,0,4,,,,,,,,,,,,,,,,,,,6
+Chennai Super Kings,0,6,0.1,5.6,mandatory,SV Samson,JC Archer,RD Gaikwad,1,0,1,,,,,,,,,,,,,,,,,,,7
+Chennai Super Kings,1,1,0.1,5.6,mandatory,SV Samson,N Burger,RD Gaikwad,1,0,1,,,,,,,,,,,,,,,,,,,8
+Chennai Super Kings,1,2,0.1,5.6,mandatory,RD Gaikwad,N Burger,SV Samson,0,0,0,,,,,,,,,,,,,,,,,,,8
+Chennai Super Kings,1,3,0.1,5.6,mandatory,RD Gaikwad,N Burger,SV Samson,0,4,4,4.0,,,,,,,,,,,,,,,,,,12
+Chennai Super Kings,1,4,0.1,5.6,mandatory,RD Gaikwad,N Burger,SV Samson,0,0,0,,,,,,,,,,,,,,,,,,,12
+Chennai Super Kings,1,5,0.1,5.6,mandatory,RD Gaikwad,N Burger,SV Samson,0,1,1,,1.0,,,,,,,,,,,,,,,,,13
+Chennai Super Kings,1,6,0.1,5.6,mandatory,RD Gaikwad,N Burger,SV Samson,1,0,1,,,,,,,,,,,,,,,,,,,14
+Chennai Super Kings,1,7,0.1,5.6,mandatory,SV Samson,N Burger,RD Gaikwad,0,0,0,,,,,,,,,,SV Samson,bowled,,,,,,,,14
+Chennai Super Kings,2,1,0.1,5.6,mandatory,RD Gaikwad,JC Archer,A Mhatre,0,0,0,,,,,,,,,,,,,,,,,,,14
+Chennai Super Kings,2,2,0.1,5.6,mandatory,RD Gaikwad,JC Archer,A Mhatre,0,0,0,,,,,,,,,,,,,,,,,,,14
+Chennai Super Kings,2,3,0.1,5.6,mandatory,RD Gaikwad,JC Archer,A Mhatre,0,0,0,,,,,,,,,,,,,,,,,,,14
+Chennai Super Kings,2,4,0.1,5.6,mandatory,RD Gaikwad,JC Archer,A Mhatre,0,0,0,,,,,,,,,,,,,,,,,,,14
+Chennai Super Kings,2,5,0.1,5.6,mandatory,RD Gaikwad,JC Archer,A Mhatre,4,0,4,,,,,,,,,,,,,,,,,,,18
+Chennai Super Kings,2,6,0.1,5.6,mandatory,RD Gaikwad,JC Archer,A Mhatre,0,1,1,,1.0,,,,,,,,,,,,,,,,,19
+Chennai Super Kings,2,7,0.1,5.6,mandatory,RD Gaikwad,JC Archer,A Mhatre,0,0,0,,,,,,,,,,RD Gaikwad,bowled,,,,,,,,19
+Chennai Super Kings,3,1,0.1,5.6,mandatory,A Mhatre,N Burger,MW Short,0,0,0,,,Rajasthan Royals,M Krishnadas,A Mhatre,upheld,wicket,,,A Mhatre,caught,,,,,Dhruv Jurel,,,19
+Chennai Super Kings,3,2,0.1,5.6,mandatory,SN Khan,N Burger,MW Short,0,0,0,,,,,,,,,,,,SN Khan,A Mhatre,Chennai Super Kings,impact_player,,,,19
+Chennai Super Kings,3,3,0.1,5.6,mandatory,SN Khan,N Burger,MW Short,0,0,0,,,,,,,,,,,,,,,,,,,19
+Chennai Super Kings,3,4,0.1,5.6,mandatory,SN Khan,N Burger,MW Short,4,0,4,,,,,,,,,,,,,,,,,,,23
+Chennai Super Kings,3,5,0.1,5.6,mandatory,SN Khan,N Burger,MW Short,6,0,6,,,,,,,,,,,,,,,,,,,29
+Chennai Super Kings,3,6,0.1,5.6,mandatory,SN Khan,N Burger,MW Short,0,1,1,,1.0,,,,,,,,,,,,,,,,,30
+Chennai Super Kings,3,7,0.1,5.6,mandatory,SN Khan,N Burger,MW Short,0,0,0,,,,,,,,,,,,,,,,,,,30
+Chennai Super Kings,4,1,0.1,5.6,mandatory,MW Short,Brijesh Sharma,SN Khan,0,0,0,,,,,,,,,,,,,,,,,,,30
+Chennai Super Kings,4,2,0.1,5.6,mandatory,MW Short,Brijesh Sharma,SN Khan,0,1,1,,1.0,,,,,,,,,,,,,,,,,31
+Chennai Super Kings,4,3,0.1,5.6,mandatory,MW Short,Brijesh Sharma,SN Khan,0,0,0,,,,,,,,,,,,,,,,,,,31
+Chennai Super Kings,4,4,0.1,5.6,mandatory,MW Short,Brijesh Sharma,SN Khan,0,0,0,,,,,,,,,,,,,,,,,,,31
+Chennai Super Kings,4,5,0.1,5.6,mandatory,MW Short,Brijesh Sharma,SN Khan,0,0,0,,,,,,,,,,,,,,,,,,,31
+Chennai Super Kings,4,6,0.1,5.6,mandatory,MW Short,Brijesh Sharma,SN Khan,1,0,1,,,,,,,,,,,,,,,,,,,32
+Chennai Super Kings,4,7,0.1,5.6,mandatory,SN Khan,Brijesh Sharma,MW Short,4,0,4,,,,,,,,,,,,,,,,,,,36
+Chennai Super Kings,5,1,0.1,5.6,mandatory,MW Short,Sandeep Sharma,SN Khan,1,0,1,,,,,,,,,,,,,,,,,,,37
+Chennai Super Kings,5,2,0.1,5.6,mandatory,SN Khan,Sandeep Sharma,MW Short,1,0,1,,,,,,,,,,,,,,,,,,,38
+Chennai Super Kings,5,3,0.1,5.6,mandatory,MW Short,Sandeep Sharma,SN Khan,0,0,0,,,,,,,,,,MW Short,caught,,,,,YBK Jaiswal,,,38
+Chennai Super Kings,5,4,0.1,5.6,mandatory,Kartik Sharma,Sandeep Sharma,SN Khan,2,0,2,,,,,,,,,,,,,,,,,,,40
+Chennai Super Kings,5,5,0.1,5.6,mandatory,Kartik Sharma,Sandeep Sharma,SN Khan,1,0,1,,,,,,,,,,,,,,,,,,,41
+Chennai Super Kings,5,6,0.1,5.6,mandatory,SN Khan,Sandeep Sharma,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,,,,,41
+Chennai Super Kings,6,1,0.1,5.6,mandatory,Kartik Sharma,Ravi Bishnoi,SN Khan,0,0,0,,,,,,,,,,,,,,,,,,,41
+Chennai Super Kings,6,2,0.1,5.6,mandatory,Kartik Sharma,Ravi Bishnoi,SN Khan,1,0,1,,,,,,,,,,,,,,,,,,,42
+Chennai Super Kings,6,3,0.1,5.6,mandatory,SN Khan,Ravi Bishnoi,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,,,,,43
+Chennai Super Kings,6,4,0.1,5.6,mandatory,Kartik Sharma,Ravi Bishnoi,SN Khan,1,0,1,,,,,,,,,,,,,,,,,,,44
+Chennai Super Kings,6,5,0.1,5.6,mandatory,SN Khan,Ravi Bishnoi,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,,,,,45
+Chennai Super Kings,6,6,0.1,5.6,mandatory,Kartik Sharma,Ravi Bishnoi,SN Khan,6,0,6,,,,,,,,,,,,,,,,,,,51
+Chennai Super Kings,7,1,0.1,5.6,mandatory,SN Khan,RA Jadeja,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,,,,,51
+Chennai Super Kings,7,2,0.1,5.6,mandatory,SN Khan,RA Jadeja,Kartik Sharma,0,0,0,,,Chennai Super Kings,M Krishnadas,SN Khan,struck down,wicket,,,SN Khan,lbw,,,,,,,,51
+Chennai Super Kings,7,3,0.1,5.6,mandatory,S Dube,RA Jadeja,Kartik Sharma,6,0,6,,,,,,,,,,,,,,,,,,,57
+Chennai Super Kings,7,4,0.1,5.6,mandatory,S Dube,RA Jadeja,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,,,,,57
+Chennai Super Kings,7,5,0.1,5.6,mandatory,S Dube,RA Jadeja,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,,,,,57
+Chennai Super Kings,7,6,0.1,5.6,mandatory,S Dube,RA Jadeja,Kartik Sharma,0,0,0,,,,,,,,,,S Dube,caught,,,,,Ravi Bishnoi,,,57
+Chennai Super Kings,8,1,0.1,5.6,mandatory,Kartik Sharma,Ravi Bishnoi,J Overton,2,0,2,,,,,,,,,,,,,,,,,,,59
+Chennai Super Kings,8,2,0.1,5.6,mandatory,Kartik Sharma,Ravi Bishnoi,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,59
+Chennai Super Kings,8,3,0.1,5.6,mandatory,Kartik Sharma,Ravi Bishnoi,J Overton,1,0,1,,,,,,,,,,,,,,,,,,,60
+Chennai Super Kings,8,4,0.1,5.6,mandatory,J Overton,Ravi Bishnoi,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,,,,,60
+Chennai Super Kings,8,5,0.1,5.6,mandatory,J Overton,Ravi Bishnoi,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,,,,,61
+Chennai Super Kings,8,6,0.1,5.6,mandatory,Kartik Sharma,Ravi Bishnoi,J Overton,1,0,1,,,,,,,,,,,,,,,,,,,62
+Chennai Super Kings,9,1,0.1,5.6,mandatory,Kartik Sharma,RA Jadeja,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,62
+Chennai Super Kings,9,2,0.1,5.6,mandatory,Kartik Sharma,RA Jadeja,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,62
+Chennai Super Kings,9,3,0.1,5.6,mandatory,Kartik Sharma,RA Jadeja,J Overton,1,0,1,,,,,,,,,,,,,,,,,,,63
+Chennai Super Kings,9,4,0.1,5.6,mandatory,J Overton,RA Jadeja,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,,,,,63
+Chennai Super Kings,9,5,0.1,5.6,mandatory,J Overton,RA Jadeja,Kartik Sharma,6,0,6,,,,,,,,,,,,,,,,,,,69
+Chennai Super Kings,9,6,0.1,5.6,mandatory,J Overton,RA Jadeja,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,,,,,70
+Chennai Super Kings,10,1,0.1,5.6,mandatory,J Overton,Brijesh Sharma,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,,,,,71
+Chennai Super Kings,10,2,0.1,5.6,mandatory,Kartik Sharma,Brijesh Sharma,J Overton,0,1,1,,1.0,,,,,,,,,,,,,,,,,72
+Chennai Super Kings,10,3,0.1,5.6,mandatory,Kartik Sharma,Brijesh Sharma,J Overton,2,0,2,,,,,,,,,,,,,,,,,,,74
+Chennai Super Kings,10,4,0.1,5.6,mandatory,Kartik Sharma,Brijesh Sharma,J Overton,0,0,0,,,Chennai Super Kings,HDPK Dharmasena,Kartik Sharma,struck down,wicket,,,Kartik Sharma,lbw,,,,,,,,74
+Chennai Super Kings,10,5,0.1,5.6,mandatory,Noor Ahmad,Brijesh Sharma,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,74
+Chennai Super Kings,10,6,0.1,5.6,mandatory,Noor Ahmad,Brijesh Sharma,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,74
+Chennai Super Kings,10,7,0.1,5.6,mandatory,Noor Ahmad,Brijesh Sharma,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,74
+Chennai Super Kings,11,1,0.1,5.6,mandatory,J Overton,RA Jadeja,Noor Ahmad,1,0,1,,,,,,,,,,,,,,,,,,,75
+Chennai Super Kings,11,2,0.1,5.6,mandatory,Noor Ahmad,RA Jadeja,J Overton,1,0,1,,,,,,,,,,,,,,,,,,,76
+Chennai Super Kings,11,3,0.1,5.6,mandatory,J Overton,RA Jadeja,Noor Ahmad,0,0,0,,,,,,,,,,,,,,,,,,,76
+Chennai Super Kings,11,4,0.1,5.6,mandatory,J Overton,RA Jadeja,Noor Ahmad,2,0,2,,,,,,,,,,,,,,,,,,,78
+Chennai Super Kings,11,5,0.1,5.6,mandatory,J Overton,RA Jadeja,Noor Ahmad,0,1,1,1.0,,,,,,,,,,,,,,,,,,79
+Chennai Super Kings,11,6,0.1,5.6,mandatory,Noor Ahmad,RA Jadeja,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,79
+Chennai Super Kings,12,1,0.1,5.6,mandatory,J Overton,JC Archer,Noor Ahmad,3,0,3,,,,,,,,,,,,,,,,,,,82
+Chennai Super Kings,12,2,0.1,5.6,mandatory,Noor Ahmad,JC Archer,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,82
+Chennai Super Kings,12,3,0.1,5.6,mandatory,Noor Ahmad,JC Archer,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,82
+Chennai Super Kings,12,4,0.1,5.6,mandatory,Noor Ahmad,JC Archer,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,82
+Chennai Super Kings,12,5,0.1,5.6,mandatory,Noor Ahmad,JC Archer,J Overton,0,0,0,,,,,,,,,,Noor Ahmad,caught,,,,,Dhruv Jurel,,,82
+Chennai Super Kings,12,6,0.1,5.6,mandatory,MJ Henry,JC Archer,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,82
+Chennai Super Kings,13,1,0.1,5.6,mandatory,J Overton,N Burger,MJ Henry,2,0,2,,,,,,,,,,,,,,,,,,,84
+Chennai Super Kings,13,2,0.1,5.6,mandatory,J Overton,N Burger,MJ Henry,0,0,0,,,,,,,,,,,,,,,,,,,84
+Chennai Super Kings,13,3,0.1,5.6,mandatory,J Overton,N Burger,MJ Henry,0,0,0,,,,,,,,,,,,,,,,,,,84
+Chennai Super Kings,13,4,0.1,5.6,mandatory,J Overton,N Burger,MJ Henry,0,0,0,,,,,,,,,,,,,,,,,,,84
+Chennai Super Kings,13,5,0.1,5.6,mandatory,J Overton,N Burger,MJ Henry,0,1,1,,1.0,,,,,,,,,,,,,,,,,85
+Chennai Super Kings,13,6,0.1,5.6,mandatory,J Overton,N Burger,MJ Henry,0,0,0,,,,,,,,,,,,,,,,,,,85
+Chennai Super Kings,13,7,0.1,5.6,mandatory,J Overton,N Burger,MJ Henry,1,0,1,,,,,,,,,,,,,,,,,,,86
+Chennai Super Kings,14,1,0.1,5.6,mandatory,J Overton,Brijesh Sharma,MJ Henry,1,0,1,,,,,,,,,,,,,,,,,,,87
+Chennai Super Kings,14,2,0.1,5.6,mandatory,MJ Henry,Brijesh Sharma,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,87
+Chennai Super Kings,14,3,0.1,5.6,mandatory,MJ Henry,Brijesh Sharma,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,87
+Chennai Super Kings,14,4,0.1,5.6,mandatory,MJ Henry,Brijesh Sharma,J Overton,4,0,4,,,,,,,,,,,,,,,,,,,91
+Chennai Super Kings,14,5,0.1,5.6,mandatory,MJ Henry,Brijesh Sharma,J Overton,1,0,1,,,,,,,,,,,,,,,,,,,92
+Chennai Super Kings,14,6,0.1,5.6,mandatory,J Overton,Brijesh Sharma,MJ Henry,1,0,1,,,,,,,,,,,,,,,,,,,93
+Chennai Super Kings,15,1,0.1,5.6,mandatory,J Overton,Ravi Bishnoi,MJ Henry,1,0,1,,,,,,,,,,,,,,,,,,,94
+Chennai Super Kings,15,2,0.1,5.6,mandatory,MJ Henry,Ravi Bishnoi,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,94
+Chennai Super Kings,15,3,0.1,5.6,mandatory,MJ Henry,Ravi Bishnoi,J Overton,0,0,0,,,,,,,,,,MJ Henry,caught and bowled,,,,,,,,94
+Chennai Super Kings,15,4,0.1,5.6,mandatory,A Kamboj,Ravi Bishnoi,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,94
+Chennai Super Kings,15,5,0.1,5.6,mandatory,A Kamboj,Ravi Bishnoi,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,94
+Chennai Super Kings,15,6,0.1,5.6,mandatory,A Kamboj,Ravi Bishnoi,J Overton,0,0,0,,,,,,,,,,,,,,,,,,,94
+Chennai Super Kings,16,1,0.1,5.6,mandatory,J Overton,JC Archer,A Kamboj,0,0,0,,,,,,,,,,,,,,,,,,,94
+Chennai Super Kings,16,2,0.1,5.6,mandatory,J Overton,JC Archer,A Kamboj,0,0,0,,,,,,,,,,,,,,,,,,,94
+Chennai Super Kings,16,3,0.1,5.6,mandatory,J Overton,JC Archer,A Kamboj,0,0,0,,,,,,,,,,,,,,,,,,,94
+Chennai Super Kings,16,4,0.1,5.6,mandatory,J Overton,JC Archer,A Kamboj,0,0,0,,,,,,,,,,,,,,,,,,,94
+Chennai Super Kings,16,5,0.1,5.6,mandatory,J Overton,JC Archer,A Kamboj,4,0,4,,,,,,,,,,,,,,,,,,,98
+Chennai Super Kings,16,6,0.1,5.6,mandatory,J Overton,JC Archer,A Kamboj,1,0,1,,,,,,,,,,,,,,,,,,,99
+Chennai Super Kings,17,1,0.1,5.6,mandatory,J Overton,Sandeep Sharma,A Kamboj,4,0,4,,,,,,,,,,,,,,,,,,,103
+Chennai Super Kings,17,2,0.1,5.6,mandatory,J Overton,Sandeep Sharma,A Kamboj,1,0,1,,,,,,,,,,,,,,,,,,,104
+Chennai Super Kings,17,3,0.1,5.6,mandatory,A Kamboj,Sandeep Sharma,J Overton,0,1,1,1.0,,,,,,,,,,,,,,,,,,105
+Chennai Super Kings,17,4,0.1,5.6,mandatory,J Overton,Sandeep Sharma,A Kamboj,1,0,1,,,,,,,,,,,,,,,,,,,106
+Chennai Super Kings,17,5,0.1,5.6,mandatory,A Kamboj,Sandeep Sharma,J Overton,1,0,1,,,,,,,,,,,,,,,,,,,107
+Chennai Super Kings,17,6,0.1,5.6,mandatory,J Overton,Sandeep Sharma,A Kamboj,1,0,1,,,,,,,,,,,,,,,,,,,108
+Chennai Super Kings,18,1,0.1,5.6,mandatory,J Overton,N Burger,A Kamboj,1,0,1,,,,,,,,,,,,,,,,,,,109
+Chennai Super Kings,18,2,0.1,5.6,mandatory,A Kamboj,N Burger,J Overton,0,1,1,,,,,,,,1.0,,,,,,,,,,,110
+Chennai Super Kings,18,3,0.1,5.6,mandatory,A Kamboj,N Burger,J Overton,4,0,4,,,,,,,,,,,,,,,,,,,114
+Chennai Super Kings,18,4,0.1,5.6,mandatory,A Kamboj,N Burger,J Overton,0,1,1,1.0,,,,,,,,,,,,,,,,,,115
+Chennai Super Kings,18,5,0.1,5.6,mandatory,J Overton,N Burger,A Kamboj,1,0,1,,,,,,,,,,,,,,,,,,,116
+Chennai Super Kings,18,6,0.1,5.6,mandatory,A Kamboj,N Burger,J Overton,1,0,1,,,,,,,,,,,,,,,,,,,117
+Chennai Super Kings,18,7,0.1,5.6,mandatory,J Overton,N Burger,A Kamboj,0,1,1,1.0,,,,,,,,,,,,,,,,,,118
+Chennai Super Kings,19,1,0.1,5.6,mandatory,J Overton,Sandeep Sharma,A Kamboj,6,0,6,,,,,,,,,,,,,,,,,,,124
+Chennai Super Kings,19,2,0.1,5.6,mandatory,J Overton,Sandeep Sharma,A Kamboj,1,0,1,,,,,,,,,,,,,,,,,,,125
+Chennai Super Kings,19,3,0.1,5.6,mandatory,A Kamboj,Sandeep Sharma,J Overton,1,0,1,,,,,,,,,,,,,,,,,,,126
+Chennai Super Kings,19,4,0.1,5.6,mandatory,J Overton,Sandeep Sharma,A Kamboj,1,0,1,,,,,,,,,,J Overton,run out,,,,,Dhruv Jurel,,,127
+Chennai Super Kings,19,5,0.1,5.6,mandatory,J Overton,Sandeep Sharma,A Kamboj,1,0,1,,,,,,,,,,J Overton,run out,,,,,SO Hetmyer,,,128
+Rajasthan Royals,0,1,0.1,5.6,mandatory,YBK Jaiswal,MJ Henry,V Suryavanshi,2,0,2,,,,,,,,,,,,,,,,,20.0,128.0,2
+Rajasthan Royals,0,2,0.1,5.6,mandatory,YBK Jaiswal,MJ Henry,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,3
+Rajasthan Royals,0,3,0.1,5.6,mandatory,V Suryavanshi,MJ Henry,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,128.0,7
+Rajasthan Royals,0,4,0.1,5.6,mandatory,V Suryavanshi,MJ Henry,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,128.0,13
+Rajasthan Royals,0,5,0.1,5.6,mandatory,V Suryavanshi,MJ Henry,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,14
+Rajasthan Royals,0,6,0.1,5.6,mandatory,YBK Jaiswal,MJ Henry,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,20.0,128.0,18
+Rajasthan Royals,1,1,0.1,5.6,mandatory,V Suryavanshi,KK Ahmed,YBK Jaiswal,0,1,1,1.0,,Chennai Super Kings,HDPK Dharmasena,V Suryavanshi,struck down,wicket,,,,,,,,,,20.0,128.0,19
+Rajasthan Royals,1,2,0.1,5.6,mandatory,YBK Jaiswal,KK Ahmed,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,19
+Rajasthan Royals,1,3,0.1,5.6,mandatory,YBK Jaiswal,KK Ahmed,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,19
+Rajasthan Royals,1,4,0.1,5.6,mandatory,YBK Jaiswal,KK Ahmed,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,19
+Rajasthan Royals,1,5,0.1,5.6,mandatory,YBK Jaiswal,KK Ahmed,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,20
+Rajasthan Royals,1,6,0.1,5.6,mandatory,V Suryavanshi,KK Ahmed,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,128.0,24
+Rajasthan Royals,2,1,0.1,5.6,mandatory,YBK Jaiswal,MJ Henry,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,24
+Rajasthan Royals,2,2,0.1,5.6,mandatory,YBK Jaiswal,MJ Henry,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,25
+Rajasthan Royals,2,3,0.1,5.6,mandatory,V Suryavanshi,MJ Henry,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,26
+Rajasthan Royals,2,4,0.1,5.6,mandatory,YBK Jaiswal,MJ Henry,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,27
+Rajasthan Royals,2,5,0.1,5.6,mandatory,V Suryavanshi,MJ Henry,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,128.0,33
+Rajasthan Royals,2,6,0.1,5.6,mandatory,V Suryavanshi,MJ Henry,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,34
+Rajasthan Royals,3,1,0.1,5.6,mandatory,V Suryavanshi,KK Ahmed,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,35
+Rajasthan Royals,3,2,0.1,5.6,mandatory,YBK Jaiswal,KK Ahmed,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,20.0,128.0,39
+Rajasthan Royals,3,3,0.1,5.6,mandatory,YBK Jaiswal,KK Ahmed,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,39
+Rajasthan Royals,3,4,0.1,5.6,mandatory,YBK Jaiswal,KK Ahmed,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,39
+Rajasthan Royals,3,5,0.1,5.6,mandatory,YBK Jaiswal,KK Ahmed,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,39
+Rajasthan Royals,3,6,0.1,5.6,mandatory,YBK Jaiswal,KK Ahmed,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,40
+Rajasthan Royals,4,1,0.1,5.6,mandatory,YBK Jaiswal,A Kamboj,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,40
+Rajasthan Royals,4,2,0.1,5.6,mandatory,YBK Jaiswal,A Kamboj,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,41
+Rajasthan Royals,4,3,0.1,5.6,mandatory,V Suryavanshi,A Kamboj,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,128.0,45
+Rajasthan Royals,4,4,0.1,5.6,mandatory,V Suryavanshi,A Kamboj,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,128.0,49
+Rajasthan Royals,4,5,0.1,5.6,mandatory,V Suryavanshi,A Kamboj,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,49
+Rajasthan Royals,4,6,0.1,5.6,mandatory,V Suryavanshi,A Kamboj,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,128.0,55
+Rajasthan Royals,5,1,0.1,5.6,mandatory,YBK Jaiswal,Noor Ahmad,V Suryavanshi,0,4,4,,,,,,,,,4.0,,,,,,,,20.0,128.0,59
+Rajasthan Royals,5,2,0.1,5.6,mandatory,YBK Jaiswal,Noor Ahmad,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,59
+Rajasthan Royals,5,3,0.1,5.6,mandatory,YBK Jaiswal,Noor Ahmad,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,60
+Rajasthan Royals,5,4,0.1,5.6,mandatory,V Suryavanshi,Noor Ahmad,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,128.0,66
+Rajasthan Royals,5,5,0.1,5.6,mandatory,V Suryavanshi,Noor Ahmad,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,128.0,72
+Rajasthan Royals,5,6,0.1,5.6,mandatory,V Suryavanshi,Noor Ahmad,YBK Jaiswal,2,0,2,,,,,,,,,,,,,,,,,20.0,128.0,74
+Rajasthan Royals,6,1,0.1,5.6,mandatory,YBK Jaiswal,A Kamboj,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,75
+Rajasthan Royals,6,2,0.1,5.6,mandatory,V Suryavanshi,A Kamboj,YBK Jaiswal,0,0,0,,,,,,,,,,V Suryavanshi,caught,,,,,SN Khan,20.0,128.0,75
+Rajasthan Royals,6,3,0.1,5.6,mandatory,Dhruv Jurel,A Kamboj,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,76
+Rajasthan Royals,6,4,0.1,5.6,mandatory,YBK Jaiswal,A Kamboj,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,76
+Rajasthan Royals,6,5,0.1,5.6,mandatory,YBK Jaiswal,A Kamboj,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,77
+Rajasthan Royals,6,6,0.1,5.6,mandatory,Dhruv Jurel,A Kamboj,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,77
+Rajasthan Royals,7,1,0.1,5.6,mandatory,YBK Jaiswal,J Overton,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,78
+Rajasthan Royals,7,2,0.1,5.6,mandatory,Dhruv Jurel,J Overton,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,78
+Rajasthan Royals,7,3,0.1,5.6,mandatory,Dhruv Jurel,J Overton,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,128.0,82
+Rajasthan Royals,7,4,0.1,5.6,mandatory,Dhruv Jurel,J Overton,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,128.0,86
+Rajasthan Royals,7,5,0.1,5.6,mandatory,Dhruv Jurel,J Overton,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,87
+Rajasthan Royals,7,6,0.1,5.6,mandatory,YBK Jaiswal,J Overton,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,20.0,128.0,91
+Rajasthan Royals,8,1,0.1,5.6,mandatory,Dhruv Jurel,A Kamboj,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,128.0,95
+Rajasthan Royals,8,2,0.1,5.6,mandatory,Dhruv Jurel,A Kamboj,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,128.0,99
+Rajasthan Royals,8,3,0.1,5.6,mandatory,Dhruv Jurel,A Kamboj,YBK Jaiswal,0,0,0,,,,,,,,,,Dhruv Jurel,bowled,,,,,,20.0,128.0,99
+Rajasthan Royals,8,4,0.1,5.6,mandatory,R Parag,A Kamboj,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,100
+Rajasthan Royals,8,5,0.1,5.6,mandatory,YBK Jaiswal,A Kamboj,R Parag,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,100
+Rajasthan Royals,8,6,0.1,5.6,mandatory,YBK Jaiswal,A Kamboj,R Parag,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,100
+Rajasthan Royals,9,1,0.1,5.6,mandatory,R Parag,KK Ahmed,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,101
+Rajasthan Royals,9,2,0.1,5.6,mandatory,YBK Jaiswal,KK Ahmed,R Parag,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,102
+Rajasthan Royals,9,3,0.1,5.6,mandatory,R Parag,KK Ahmed,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,102
+Rajasthan Royals,9,4,0.1,5.6,mandatory,R Parag,KK Ahmed,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,102
+Rajasthan Royals,9,5,0.1,5.6,mandatory,R Parag,KK Ahmed,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,20.0,128.0,106
+Rajasthan Royals,9,6,0.1,5.6,mandatory,R Parag,KK Ahmed,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,106
+Rajasthan Royals,10,1,0.1,5.6,mandatory,YBK Jaiswal,Noor Ahmad,R Parag,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,107
+Rajasthan Royals,10,2,0.1,5.6,mandatory,R Parag,Noor Ahmad,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,108
+Rajasthan Royals,10,3,0.1,5.6,mandatory,YBK Jaiswal,Noor Ahmad,R Parag,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,108
+Rajasthan Royals,10,4,0.1,5.6,mandatory,YBK Jaiswal,Noor Ahmad,R Parag,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,109
+Rajasthan Royals,10,5,0.1,5.6,mandatory,R Parag,Noor Ahmad,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,109
+Rajasthan Royals,10,6,0.1,5.6,mandatory,R Parag,Noor Ahmad,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,20.0,128.0,115
+Rajasthan Royals,11,1,0.1,5.6,mandatory,YBK Jaiswal,MJ Henry,R Parag,6,0,6,,,,,,,,,,,,,,,,,20.0,128.0,121
+Rajasthan Royals,11,2,0.1,5.6,mandatory,YBK Jaiswal,MJ Henry,R Parag,2,0,2,,,,,,,,,,,,,,,,,20.0,128.0,123
+Rajasthan Royals,11,3,0.1,5.6,mandatory,YBK Jaiswal,MJ Henry,R Parag,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,124
+Rajasthan Royals,11,4,0.1,5.6,mandatory,R Parag,MJ Henry,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,125
+Rajasthan Royals,11,5,0.1,5.6,mandatory,YBK Jaiswal,MJ Henry,R Parag,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,126
+Rajasthan Royals,11,6,0.1,5.6,mandatory,R Parag,MJ Henry,YBK Jaiswal,0,1,1,,1.0,,,,,,,,,,,,,,,20.0,128.0,127
+Rajasthan Royals,11,7,0.1,5.6,mandatory,R Parag,MJ Henry,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,20.0,128.0,127
+Rajasthan Royals,12,1,0.1,5.6,mandatory,YBK Jaiswal,MW Short,R Parag,1,0,1,,,,,,,,,,,,,,,,,20.0,128.0,128

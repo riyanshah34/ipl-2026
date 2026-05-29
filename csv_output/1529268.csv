@@ -1,0 +1,251 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,legbyes,review_by,review_umpire,review_batter,review_decision,review_type,noballs,byes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Kolkata Knight Riders,0,1,0.1,5.6,mandatory,TL Seifert,Mohammed Siraj,AM Rahane,0,0,0,,,,,,,,,,,,,,,,,,,0
+Kolkata Knight Riders,0,2,0.1,5.6,mandatory,TL Seifert,Mohammed Siraj,AM Rahane,4,0,4,,,,,,,,,,,,,,,,,,,4
+Kolkata Knight Riders,0,3,0.1,5.6,mandatory,TL Seifert,Mohammed Siraj,AM Rahane,1,0,1,,,,,,,,,,,,,,,,,,,5
+Kolkata Knight Riders,0,4,0.1,5.6,mandatory,AM Rahane,Mohammed Siraj,TL Seifert,0,0,0,,,,,,,,,,AM Rahane,caught,,,,,K Rabada,,,5
+Kolkata Knight Riders,0,5,0.1,5.6,mandatory,A Raghuvanshi,Mohammed Siraj,TL Seifert,0,0,0,,,,,,,,,,,,,,,,,,,5
+Kolkata Knight Riders,0,6,0.1,5.6,mandatory,A Raghuvanshi,Mohammed Siraj,TL Seifert,4,0,4,,,,,,,,,,,,,,,,,,,9
+Kolkata Knight Riders,1,1,0.1,5.6,mandatory,TL Seifert,K Rabada,A Raghuvanshi,0,0,0,,,,,,,,,,,,,,,,,,,9
+Kolkata Knight Riders,1,2,0.1,5.6,mandatory,TL Seifert,K Rabada,A Raghuvanshi,0,0,0,,,,,,,,,,,,,,,,,,,9
+Kolkata Knight Riders,1,3,0.1,5.6,mandatory,TL Seifert,K Rabada,A Raghuvanshi,6,0,6,,,,,,,,,,,,,,,,,,,15
+Kolkata Knight Riders,1,4,0.1,5.6,mandatory,TL Seifert,K Rabada,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,,,,16
+Kolkata Knight Riders,1,5,0.1,5.6,mandatory,A Raghuvanshi,K Rabada,TL Seifert,4,0,4,,,,,,,,,,,,,,,,,,,20
+Kolkata Knight Riders,1,6,0.1,5.6,mandatory,A Raghuvanshi,K Rabada,TL Seifert,0,1,1,1.0,,,,,,,,,,,,,,,,,,21
+Kolkata Knight Riders,1,7,0.1,5.6,mandatory,A Raghuvanshi,K Rabada,TL Seifert,0,0,0,,,,,,,,,,A Raghuvanshi,caught,,,,,JC Buttler,,,21
+Kolkata Knight Riders,2,1,0.1,5.6,mandatory,TL Seifert,Mohammed Siraj,C Green,0,0,0,,,,,,,,,,,,,,,,,,,21
+Kolkata Knight Riders,2,2,0.1,5.6,mandatory,TL Seifert,Mohammed Siraj,C Green,0,0,0,,,,,,,,,,,,,,,,,,,21
+Kolkata Knight Riders,2,3,0.1,5.6,mandatory,TL Seifert,Mohammed Siraj,C Green,1,0,1,,,,,,,,,,,,,,,,,,,22
+Kolkata Knight Riders,2,4,0.1,5.6,mandatory,C Green,Mohammed Siraj,TL Seifert,0,0,0,,,,,,,,,,,,,,,,,,,22
+Kolkata Knight Riders,2,5,0.1,5.6,mandatory,C Green,Mohammed Siraj,TL Seifert,2,0,2,,,,,,,,,,,,,,,,,,,24
+Kolkata Knight Riders,2,6,0.1,5.6,mandatory,C Green,Mohammed Siraj,TL Seifert,0,0,0,,,,,,,,,,,,,,,,,,,24
+Kolkata Knight Riders,3,1,0.1,5.6,mandatory,TL Seifert,K Rabada,C Green,4,0,4,,,,,,,,,,,,,,,,,,,28
+Kolkata Knight Riders,3,2,0.1,5.6,mandatory,TL Seifert,K Rabada,C Green,1,0,1,,,,,,,,,,,,,,,,,,,29
+Kolkata Knight Riders,3,3,0.1,5.6,mandatory,C Green,K Rabada,TL Seifert,0,1,1,,1.0,,,,,,,,,,,,,,,,,30
+Kolkata Knight Riders,3,4,0.1,5.6,mandatory,TL Seifert,K Rabada,C Green,1,0,1,,,,,,,,,,,,,,,,,,,31
+Kolkata Knight Riders,3,5,0.1,5.6,mandatory,C Green,K Rabada,TL Seifert,1,0,1,,,,,,,,,,,,,,,,,,,32
+Kolkata Knight Riders,3,6,0.1,5.6,mandatory,TL Seifert,K Rabada,C Green,0,0,0,,,,,,,,,,TL Seifert,caught,,,,,GD Phillips,,,32
+Kolkata Knight Riders,4,1,0.1,5.6,mandatory,C Green,Mohammed Siraj,R Powell,1,0,1,,,,,,,,,,,,,,,,,,,33
+Kolkata Knight Riders,4,2,0.1,5.6,mandatory,R Powell,Mohammed Siraj,C Green,0,0,0,,,,,,,,,,,,,,,,,,,33
+Kolkata Knight Riders,4,3,0.1,5.6,mandatory,R Powell,Mohammed Siraj,C Green,1,0,1,,,,,,,,,,,,,,,,,,,34
+Kolkata Knight Riders,4,4,0.1,5.6,mandatory,C Green,Mohammed Siraj,R Powell,0,0,0,,,Kolkata Knight Riders,R Pandit,C Green,upheld,wicket,,,,,,,,,,,,34
+Kolkata Knight Riders,4,5,0.1,5.6,mandatory,C Green,Mohammed Siraj,R Powell,0,0,0,,,,,,,,,,,,,,,,,,,34
+Kolkata Knight Riders,4,6,0.1,5.6,mandatory,C Green,Mohammed Siraj,R Powell,2,0,2,,,,,,,,,,,,,,,,,,,36
+Kolkata Knight Riders,5,1,0.1,5.6,mandatory,R Powell,K Rabada,C Green,0,0,0,,,,,,,,,,,,,,,,,,,36
+Kolkata Knight Riders,5,2,0.1,5.6,mandatory,R Powell,K Rabada,C Green,0,0,0,,,,,,,,,,,,,,,,,,,36
+Kolkata Knight Riders,5,3,0.1,5.6,mandatory,R Powell,K Rabada,C Green,1,0,1,,,,,,,,,,,,,,,,,,,37
+Kolkata Knight Riders,5,4,0.1,5.6,mandatory,C Green,K Rabada,R Powell,0,0,0,,,,,,,,,,,,,,,,,,,37
+Kolkata Knight Riders,5,5,0.1,5.6,mandatory,C Green,K Rabada,R Powell,0,0,0,,,,,,,,,,,,,,,,,,,37
+Kolkata Knight Riders,5,6,0.1,5.6,mandatory,C Green,K Rabada,R Powell,0,0,0,,,,,,,,,,,,,,,,,,,37
+Kolkata Knight Riders,6,1,0.1,5.6,mandatory,R Powell,M Prasidh Krishna,C Green,1,0,1,,,,,,,,,,,,,,,,,,,38
+Kolkata Knight Riders,6,2,0.1,5.6,mandatory,C Green,M Prasidh Krishna,R Powell,0,1,1,1.0,,,,,,,,,,,,,,,,,,39
+Kolkata Knight Riders,6,3,0.1,5.6,mandatory,C Green,M Prasidh Krishna,R Powell,1,0,1,,,,,,,,,,,,,,,,,,,40
+Kolkata Knight Riders,6,4,0.1,5.6,mandatory,R Powell,M Prasidh Krishna,C Green,0,0,0,,,,,,,,,,,,,,,,,,,40
+Kolkata Knight Riders,6,5,0.1,5.6,mandatory,R Powell,M Prasidh Krishna,C Green,0,0,0,,,,,,,,,,,,,,,,,,,40
+Kolkata Knight Riders,6,6,0.1,5.6,mandatory,R Powell,M Prasidh Krishna,C Green,6,0,6,,,,,,,,,,,,,,,,,,,46
+Kolkata Knight Riders,6,7,0.1,5.6,mandatory,R Powell,M Prasidh Krishna,C Green,2,0,2,,,,,,,,,,,,,,,,,,,48
+Kolkata Knight Riders,7,1,0.1,5.6,mandatory,C Green,Ashok Sharma,R Powell,1,0,1,,,,,,,,,,,,,,,,,,,49
+Kolkata Knight Riders,7,2,0.1,5.6,mandatory,R Powell,Ashok Sharma,C Green,0,0,0,,,,,,,,,,,,,,,,,,,49
+Kolkata Knight Riders,7,3,0.1,5.6,mandatory,R Powell,Ashok Sharma,C Green,0,0,0,,,,,,,,,,,,,,,,,,,49
+Kolkata Knight Riders,7,4,0.1,5.6,mandatory,R Powell,Ashok Sharma,C Green,6,0,6,,,,,,,,,,,,,,,,,,,55
+Kolkata Knight Riders,7,5,0.1,5.6,mandatory,R Powell,Ashok Sharma,C Green,4,0,4,,,,,,,,,,,,,,,,,,,59
+Kolkata Knight Riders,7,6,0.1,5.6,mandatory,R Powell,Ashok Sharma,C Green,0,0,0,,,,,,,,,,,,,,,,,,,59
+Kolkata Knight Riders,8,1,0.1,5.6,mandatory,C Green,M Prasidh Krishna,R Powell,4,0,4,,,,,,,,,,,,,,,,,,,63
+Kolkata Knight Riders,8,2,0.1,5.6,mandatory,C Green,M Prasidh Krishna,R Powell,1,0,1,,,,,,,,,,,,,,,,,,,64
+Kolkata Knight Riders,8,3,0.1,5.6,mandatory,R Powell,M Prasidh Krishna,C Green,0,0,0,,,,,,,,,,,,,,,,,,,64
+Kolkata Knight Riders,8,4,0.1,5.6,mandatory,R Powell,M Prasidh Krishna,C Green,1,0,1,,,,,,,,,,,,,,,,,,,65
+Kolkata Knight Riders,8,5,0.1,5.6,mandatory,C Green,M Prasidh Krishna,R Powell,2,0,2,,,,,,,,,,,,,,,,,,,67
+Kolkata Knight Riders,8,6,0.1,5.6,mandatory,C Green,M Prasidh Krishna,R Powell,2,0,2,,,,,,,,,,,,,,,,,,,69
+Kolkata Knight Riders,9,1,0.1,5.6,mandatory,R Powell,Rashid Khan,C Green,4,0,4,,,,,,,,,,,,,,,,,,,73
+Kolkata Knight Riders,9,2,0.1,5.6,mandatory,R Powell,Rashid Khan,C Green,1,0,1,,,,,,,,,,,,,,,,,,,74
+Kolkata Knight Riders,9,3,0.1,5.6,mandatory,C Green,Rashid Khan,R Powell,0,0,0,,,,,,,,,,,,,,,,,,,74
+Kolkata Knight Riders,9,4,0.1,5.6,mandatory,C Green,Rashid Khan,R Powell,0,1,1,1.0,,,,,,,,,,,,,,,,,,75
+Kolkata Knight Riders,9,5,0.1,5.6,mandatory,C Green,Rashid Khan,R Powell,0,0,0,,,,,,,,,,,,,,,,,,,75
+Kolkata Knight Riders,9,6,0.1,5.6,mandatory,C Green,Rashid Khan,R Powell,4,0,4,,,,,,,,,,,,,,,,,,,79
+Kolkata Knight Riders,9,7,0.1,5.6,mandatory,C Green,Rashid Khan,R Powell,1,0,1,,,,,,,,,,,,,,,,,,,80
+Kolkata Knight Riders,10,1,0.1,5.6,mandatory,C Green,Ashok Sharma,R Powell,0,0,0,,,,,,,,,,,,,,,,,,,80
+Kolkata Knight Riders,10,2,0.1,5.6,mandatory,C Green,Ashok Sharma,R Powell,0,1,1,,,,,,,,1.0,,,,,,,,,,,81
+Kolkata Knight Riders,10,3,0.1,5.6,mandatory,C Green,Ashok Sharma,R Powell,0,0,0,,,,,,,,,,,,,,,,,,,81
+Kolkata Knight Riders,10,4,0.1,5.6,mandatory,C Green,Ashok Sharma,R Powell,4,0,4,,,,,,,,,,,,,,,,,,,85
+Kolkata Knight Riders,10,5,0.1,5.6,mandatory,C Green,Ashok Sharma,R Powell,0,0,0,,,,,,,,,,,,,,,,,,,85
+Kolkata Knight Riders,10,6,0.1,5.6,mandatory,C Green,Ashok Sharma,R Powell,1,0,1,,,,,,,,,,,,,,,,,,,86
+Kolkata Knight Riders,10,7,0.1,5.6,mandatory,R Powell,Ashok Sharma,C Green,0,1,1,1.0,,,,,,,,,,,,,,,,,,87
+Kolkata Knight Riders,10,8,0.1,5.6,mandatory,R Powell,Ashok Sharma,C Green,0,0,0,,,,,,,,,,R Powell,caught,,,,,Mohammed Siraj,,,87
+Kolkata Knight Riders,11,1,0.1,5.6,mandatory,C Green,Rashid Khan,AS Roy,0,1,1,,1.0,Gujarat Titans,UV Gandhe,C Green,struck down,wicket,,,,,,,,,,,,88
+Kolkata Knight Riders,11,2,0.1,5.6,mandatory,AS Roy,Rashid Khan,C Green,0,0,0,,,,,,,,,,,,,,,,,,,88
+Kolkata Knight Riders,11,3,0.1,5.6,mandatory,AS Roy,Rashid Khan,C Green,4,0,4,,,,,,,,,,,,,,,,,,,92
+Kolkata Knight Riders,11,4,0.1,5.6,mandatory,AS Roy,Rashid Khan,C Green,1,0,1,,,,,,,,,,,,,,,,,,,93
+Kolkata Knight Riders,11,5,0.1,5.6,mandatory,C Green,Rashid Khan,AS Roy,6,0,6,,,,,,,,,,,,,,,,,,,99
+Kolkata Knight Riders,11,6,0.1,5.6,mandatory,C Green,Rashid Khan,AS Roy,4,0,4,,,,,,,,,,,,,,,,,,,103
+Kolkata Knight Riders,12,1,0.1,5.6,mandatory,AS Roy,Ashok Sharma,C Green,2,0,2,,,,,,,,,,,,,,,,,,,105
+Kolkata Knight Riders,12,2,0.1,5.6,mandatory,AS Roy,Ashok Sharma,C Green,1,0,1,,,,,,,,,,,,,,,,,,,106
+Kolkata Knight Riders,12,3,0.1,5.6,mandatory,C Green,Ashok Sharma,AS Roy,6,0,6,,,,,,,,,,,,,,,,,,,112
+Kolkata Knight Riders,12,4,0.1,5.6,mandatory,C Green,Ashok Sharma,AS Roy,0,1,1,1.0,,,,,,,,,,,,,,,,,,113
+Kolkata Knight Riders,12,5,0.1,5.6,mandatory,C Green,Ashok Sharma,AS Roy,6,0,6,,,,,,,,,,,,,,,,,,,119
+Kolkata Knight Riders,12,6,0.1,5.6,mandatory,C Green,Ashok Sharma,AS Roy,2,0,2,,,,,,,,,,,,,,,,,,,121
+Kolkata Knight Riders,12,7,0.1,5.6,mandatory,C Green,Ashok Sharma,AS Roy,1,0,1,,,,,,,,,,,,,,,,,,,122
+Kolkata Knight Riders,13,1,0.1,5.6,mandatory,C Green,Rashid Khan,AS Roy,6,0,6,,,,,,,,,,,,,,,,,,,128
+Kolkata Knight Riders,13,2,0.1,5.6,mandatory,C Green,Rashid Khan,AS Roy,4,0,4,,,,,,,,,,,,,,,,,,,132
+Kolkata Knight Riders,13,3,0.1,5.6,mandatory,C Green,Rashid Khan,AS Roy,4,0,4,,,,,,,,,,,,,,,,,,,136
+Kolkata Knight Riders,13,4,0.1,5.6,mandatory,C Green,Rashid Khan,AS Roy,0,0,0,,,,,,,,,,,,,,,,,,,136
+Kolkata Knight Riders,13,5,0.1,5.6,mandatory,C Green,Rashid Khan,AS Roy,2,0,2,,,,,,,,,,,,,,,,,,,138
+Kolkata Knight Riders,13,6,0.1,5.6,mandatory,C Green,Rashid Khan,AS Roy,1,0,1,,,,,,,,,,,,,,,,,,,139
+Kolkata Knight Riders,14,1,0.1,5.6,mandatory,C Green,M Prasidh Krishna,AS Roy,1,0,1,,,,,,,,,,,,,,,,,,,140
+Kolkata Knight Riders,14,2,0.1,5.6,mandatory,AS Roy,M Prasidh Krishna,C Green,1,0,1,,,,,,,,,,,,,,,,,,,141
+Kolkata Knight Riders,14,3,0.1,5.6,mandatory,C Green,M Prasidh Krishna,AS Roy,4,0,4,,,,,,,,,,,,,,,,,,,145
+Kolkata Knight Riders,14,4,0.1,5.6,mandatory,C Green,M Prasidh Krishna,AS Roy,0,1,1,1.0,,,,,,,,,,,,,,,,,,146
+Kolkata Knight Riders,14,5,0.1,5.6,mandatory,C Green,M Prasidh Krishna,AS Roy,1,0,1,,,,,,,,,,,,,,,,,,,147
+Kolkata Knight Riders,14,6,0.1,5.6,mandatory,AS Roy,M Prasidh Krishna,C Green,0,0,0,,,,,,,,,,AS Roy,caught,,,,,JC Buttler,,,147
+Kolkata Knight Riders,14,7,0.1,5.6,mandatory,RK Singh,M Prasidh Krishna,C Green,1,0,1,,,,,,,,,,,,,,,,,,,148
+Kolkata Knight Riders,15,1,0.1,5.6,mandatory,RK Singh,K Rabada,C Green,0,0,0,,,,,,,,,,RK Singh,caught,,,,,JC Buttler,,,148
+Kolkata Knight Riders,15,2,0.1,5.6,mandatory,Ramandeep Singh,K Rabada,C Green,0,0,0,,,,,,,,,,,,,,,,,,,148
+Kolkata Knight Riders,15,3,0.1,5.6,mandatory,Ramandeep Singh,K Rabada,C Green,6,0,6,,,,,,,,,,,,,,,,,,,154
+Kolkata Knight Riders,15,4,0.1,5.6,mandatory,Ramandeep Singh,K Rabada,C Green,0,0,0,,,,,,,,,,,,,,,,,,,154
+Kolkata Knight Riders,15,5,0.1,5.6,mandatory,Ramandeep Singh,K Rabada,C Green,2,0,2,,,,,,,,,,,,,,,,,,,156
+Kolkata Knight Riders,15,6,0.1,5.6,mandatory,Ramandeep Singh,K Rabada,C Green,1,0,1,,,,,,,,,,,,,,,,,,,157
+Kolkata Knight Riders,16,1,0.1,5.6,mandatory,Ramandeep Singh,Ashok Sharma,C Green,4,0,4,,,,,,,,,,,,,,,,,,,161
+Kolkata Knight Riders,16,2,0.1,5.6,mandatory,Ramandeep Singh,Ashok Sharma,C Green,4,0,4,,,,,,,,,,,,,,,,,,,165
+Kolkata Knight Riders,16,3,0.1,5.6,mandatory,Ramandeep Singh,Ashok Sharma,C Green,0,0,0,,,,,,,,,,Ramandeep Singh,caught,,,,,Mohammed Siraj,,,165
+Kolkata Knight Riders,16,4,0.1,5.6,mandatory,SP Narine,Ashok Sharma,C Green,0,0,0,,,,,,,,,,,,,,,,,,,165
+Kolkata Knight Riders,16,5,0.1,5.6,mandatory,SP Narine,Ashok Sharma,C Green,0,0,0,,,,,,,,,,,,,,,,,,,165
+Kolkata Knight Riders,16,6,0.1,5.6,mandatory,SP Narine,Ashok Sharma,C Green,0,0,0,,,,,,,,,,,,,,,,,,,165
+Kolkata Knight Riders,17,1,0.1,5.6,mandatory,C Green,Mohammed Siraj,SP Narine,1,0,1,,,,,,,,,,,,,,,,,,,166
+Kolkata Knight Riders,17,2,0.1,5.6,mandatory,SP Narine,Mohammed Siraj,C Green,0,0,0,,,,,,,,,,,,,,,,,,,166
+Kolkata Knight Riders,17,3,0.1,5.6,mandatory,SP Narine,Mohammed Siraj,C Green,0,0,0,,,,,,,,,,SP Narine,caught,,,,,GD Phillips,,,166
+Kolkata Knight Riders,17,4,0.1,5.6,mandatory,Kartik Tyagi,Mohammed Siraj,C Green,0,0,0,,,,,,,,,,,,,,,,,,,166
+Kolkata Knight Riders,17,5,0.1,5.6,mandatory,Kartik Tyagi,Mohammed Siraj,C Green,0,0,0,,,,,,,,,,,,,,,,,,,166
+Kolkata Knight Riders,17,6,0.1,5.6,mandatory,Kartik Tyagi,Mohammed Siraj,C Green,6,0,6,,,,,,,,,,,,,,,,,,,172
+Kolkata Knight Riders,18,1,0.1,5.6,mandatory,C Green,M Prasidh Krishna,Kartik Tyagi,1,0,1,,,,,,,,,,,,,,,,,,,173
+Kolkata Knight Riders,18,2,0.1,5.6,mandatory,Kartik Tyagi,M Prasidh Krishna,C Green,0,0,0,,,,,,,,,,Kartik Tyagi,run out,,,,,M Prasidh Krishna,,,173
+Kolkata Knight Riders,18,3,0.1,5.6,mandatory,Kartik Tyagi,M Prasidh Krishna,C Green,0,0,0,,,,,,,,,,Kartik Tyagi,run out,,,,,JC Buttler,,,173
+Kolkata Knight Riders,18,4,0.1,5.6,mandatory,C Green,M Prasidh Krishna,VG Arora,0,0,0,,,,,,,,,,,,,,,,,,,173
+Kolkata Knight Riders,18,5,0.1,5.6,mandatory,C Green,M Prasidh Krishna,VG Arora,0,0,0,,,,,,,,,,,,,,,,,,,173
+Kolkata Knight Riders,18,6,0.1,5.6,mandatory,C Green,M Prasidh Krishna,VG Arora,0,0,0,,,,,,,,,,,,,,,,,,,173
+Kolkata Knight Riders,18,7,0.1,5.6,mandatory,C Green,M Prasidh Krishna,VG Arora,1,0,1,,,,,,,,,,,,,,,,,,,174
+Kolkata Knight Riders,19,1,0.1,5.6,mandatory,C Green,Rashid Khan,VG Arora,0,0,0,,,,,,,,,,,,,,,,,,,174
+Kolkata Knight Riders,19,2,0.1,5.6,mandatory,C Green,Rashid Khan,VG Arora,0,0,0,,,,,,,,,,,,,,,,,,,174
+Kolkata Knight Riders,19,3,0.1,5.6,mandatory,C Green,Rashid Khan,VG Arora,1,0,1,,,,,,,,,,,,,,,,,,,175
+Kolkata Knight Riders,19,4,0.1,5.6,mandatory,VG Arora,Rashid Khan,C Green,0,1,1,,1.0,,,,,,,,,,,,,,,,,176
+Kolkata Knight Riders,19,5,0.1,5.6,mandatory,C Green,Rashid Khan,VG Arora,0,4,4,,,,,,,,,4.0,,,,,,,,,,180
+Kolkata Knight Riders,19,6,0.1,5.6,mandatory,C Green,Rashid Khan,VG Arora,0,0,0,,,,,,,,,,C Green,caught,,,,,JC Buttler,,,180
+Gujarat Titans,0,1,0.1,5.6,mandatory,B Sai Sudharsan,VG Arora,Shubman Gill,0,1,1,,1.0,,,,,,,,,,,,,,,20.0,181.0,1
+Gujarat Titans,0,2,0.1,5.6,mandatory,Shubman Gill,VG Arora,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,1
+Gujarat Titans,0,3,0.1,5.6,mandatory,Shubman Gill,VG Arora,B Sai Sudharsan,2,0,2,,,,,,,,,,,,,,,,,20.0,181.0,3
+Gujarat Titans,0,4,0.1,5.6,mandatory,Shubman Gill,VG Arora,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,7
+Gujarat Titans,0,5,0.1,5.6,mandatory,Shubman Gill,VG Arora,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,8
+Gujarat Titans,0,6,0.1,5.6,mandatory,B Sai Sudharsan,VG Arora,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,9
+Gujarat Titans,1,1,0.1,5.6,mandatory,B Sai Sudharsan,Kartik Tyagi,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,9
+Gujarat Titans,1,2,0.1,5.6,mandatory,B Sai Sudharsan,Kartik Tyagi,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,9
+Gujarat Titans,1,3,0.1,5.6,mandatory,B Sai Sudharsan,Kartik Tyagi,Shubman Gill,3,0,3,,,,,,,,,,,,,,,,,20.0,181.0,12
+Gujarat Titans,1,4,0.1,5.6,mandatory,Shubman Gill,Kartik Tyagi,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,12
+Gujarat Titans,1,5,0.1,5.6,mandatory,Shubman Gill,Kartik Tyagi,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,16
+Gujarat Titans,1,6,0.1,5.6,mandatory,Shubman Gill,Kartik Tyagi,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,20
+Gujarat Titans,2,1,0.1,5.6,mandatory,B Sai Sudharsan,AS Roy,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,21
+Gujarat Titans,2,2,0.1,5.6,mandatory,Shubman Gill,AS Roy,B Sai Sudharsan,6,0,6,,,,,,,,,,,,,,,,,20.0,181.0,27
+Gujarat Titans,2,3,0.1,5.6,mandatory,Shubman Gill,AS Roy,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,28
+Gujarat Titans,2,4,0.1,5.6,mandatory,B Sai Sudharsan,AS Roy,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,20.0,181.0,34
+Gujarat Titans,2,5,0.1,5.6,mandatory,B Sai Sudharsan,AS Roy,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,34
+Gujarat Titans,2,6,0.1,5.6,mandatory,B Sai Sudharsan,AS Roy,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,20.0,181.0,40
+Gujarat Titans,3,1,0.1,5.6,mandatory,Shubman Gill,SP Narine,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,41
+Gujarat Titans,3,2,0.1,5.6,mandatory,B Sai Sudharsan,SP Narine,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,41
+Gujarat Titans,3,3,0.1,5.6,mandatory,B Sai Sudharsan,SP Narine,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,45
+Gujarat Titans,3,4,0.1,5.6,mandatory,B Sai Sudharsan,SP Narine,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,45
+Gujarat Titans,3,5,0.1,5.6,mandatory,B Sai Sudharsan,SP Narine,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,45
+Gujarat Titans,3,6,0.1,5.6,mandatory,B Sai Sudharsan,SP Narine,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,45
+Gujarat Titans,4,1,0.1,5.6,mandatory,Shubman Gill,VG Arora,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,45
+Gujarat Titans,4,2,0.1,5.6,mandatory,Shubman Gill,VG Arora,B Sai Sudharsan,6,0,6,,,,,,,,,,,,,,,,,20.0,181.0,51
+Gujarat Titans,4,3,0.1,5.6,mandatory,Shubman Gill,VG Arora,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,52
+Gujarat Titans,4,4,0.1,5.6,mandatory,B Sai Sudharsan,VG Arora,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,53
+Gujarat Titans,4,5,0.1,5.6,mandatory,Shubman Gill,VG Arora,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,53
+Gujarat Titans,4,6,0.1,5.6,mandatory,Shubman Gill,VG Arora,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,57
+Gujarat Titans,5,1,0.1,5.6,mandatory,B Sai Sudharsan,SP Narine,Shubman Gill,0,0,0,,,,,,,,,,B Sai Sudharsan,caught,,,,,Kartik Tyagi,20.0,181.0,57
+Gujarat Titans,5,2,0.1,5.6,mandatory,JC Buttler,SP Narine,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,61
+Gujarat Titans,5,3,0.1,5.6,mandatory,JC Buttler,SP Narine,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,61
+Gujarat Titans,5,4,0.1,5.6,mandatory,JC Buttler,SP Narine,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,20.0,181.0,67
+Gujarat Titans,5,5,0.1,5.6,mandatory,JC Buttler,SP Narine,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,67
+Gujarat Titans,5,6,0.1,5.6,mandatory,JC Buttler,SP Narine,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,71
+Gujarat Titans,6,1,0.1,5.6,mandatory,Shubman Gill,AS Roy,JC Buttler,1,0,1,,,,,,,,,,,,CV Varun,A Raghuvanshi,Kolkata Knight Riders,impact_player,,20.0,181.0,72
+Gujarat Titans,6,2,0.1,5.6,mandatory,JC Buttler,AS Roy,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,73
+Gujarat Titans,6,3,0.1,5.6,mandatory,Shubman Gill,AS Roy,JC Buttler,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,77
+Gujarat Titans,6,4,0.1,5.6,mandatory,Shubman Gill,AS Roy,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,78
+Gujarat Titans,6,5,0.1,5.6,mandatory,JC Buttler,AS Roy,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,79
+Gujarat Titans,6,6,0.1,5.6,mandatory,Shubman Gill,AS Roy,JC Buttler,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,83
+Gujarat Titans,7,1,0.1,5.6,mandatory,JC Buttler,CV Varun,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,20.0,181.0,89
+Gujarat Titans,7,2,0.1,5.6,mandatory,JC Buttler,CV Varun,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,89
+Gujarat Titans,7,3,0.1,5.6,mandatory,JC Buttler,CV Varun,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,90
+Gujarat Titans,7,4,0.1,5.6,mandatory,Shubman Gill,CV Varun,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,91
+Gujarat Titans,7,5,0.1,5.6,mandatory,JC Buttler,CV Varun,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,92
+Gujarat Titans,7,6,0.1,5.6,mandatory,Shubman Gill,CV Varun,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,93
+Gujarat Titans,8,1,0.1,5.6,mandatory,Shubman Gill,Kartik Tyagi,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,93
+Gujarat Titans,8,2,0.1,5.6,mandatory,Shubman Gill,Kartik Tyagi,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,93
+Gujarat Titans,8,3,0.1,5.6,mandatory,Shubman Gill,Kartik Tyagi,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,94
+Gujarat Titans,8,4,0.1,5.6,mandatory,JC Buttler,Kartik Tyagi,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,94
+Gujarat Titans,8,5,0.1,5.6,mandatory,JC Buttler,Kartik Tyagi,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,94
+Gujarat Titans,8,6,0.1,5.6,mandatory,JC Buttler,Kartik Tyagi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,95
+Gujarat Titans,9,1,0.1,5.6,mandatory,JC Buttler,CV Varun,Shubman Gill,0,0,0,,,,,,,,,,JC Buttler,caught,,,,,C Green,20.0,181.0,95
+Gujarat Titans,9,2,0.1,5.6,mandatory,Washington Sundar,CV Varun,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,95
+Gujarat Titans,9,3,0.1,5.6,mandatory,Washington Sundar,CV Varun,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,96
+Gujarat Titans,9,4,0.1,5.6,mandatory,Shubman Gill,CV Varun,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,97
+Gujarat Titans,9,5,0.1,5.6,mandatory,Washington Sundar,CV Varun,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,98
+Gujarat Titans,9,6,0.1,5.6,mandatory,Shubman Gill,CV Varun,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,99
+Gujarat Titans,10,1,0.1,5.6,mandatory,Shubman Gill,SP Narine,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,100
+Gujarat Titans,10,2,0.1,5.6,mandatory,Washington Sundar,SP Narine,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,100
+Gujarat Titans,10,3,0.1,5.6,mandatory,Washington Sundar,SP Narine,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,101
+Gujarat Titans,10,4,0.1,5.6,mandatory,Shubman Gill,SP Narine,Washington Sundar,2,0,2,,,,,,,,,,,,,,,,,20.0,181.0,103
+Gujarat Titans,10,5,0.1,5.6,mandatory,Shubman Gill,SP Narine,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,103
+Gujarat Titans,10,6,0.1,5.6,mandatory,Shubman Gill,SP Narine,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,104
+Gujarat Titans,11,1,0.1,5.6,mandatory,Shubman Gill,CV Varun,Washington Sundar,2,0,2,,,,,,,,,,,,,,,,,20.0,181.0,106
+Gujarat Titans,11,2,0.1,5.6,mandatory,Shubman Gill,CV Varun,Washington Sundar,2,0,2,,,,,,,,,,,,,,,,,20.0,181.0,108
+Gujarat Titans,11,3,0.1,5.6,mandatory,Shubman Gill,CV Varun,Washington Sundar,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,112
+Gujarat Titans,11,4,0.1,5.6,mandatory,Shubman Gill,CV Varun,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,112
+Gujarat Titans,11,5,0.1,5.6,mandatory,Shubman Gill,CV Varun,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,20.0,181.0,118
+Gujarat Titans,11,6,0.1,5.6,mandatory,Shubman Gill,CV Varun,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,119
+Gujarat Titans,12,1,0.1,5.6,mandatory,Shubman Gill,SP Narine,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,120
+Gujarat Titans,12,2,0.1,5.6,mandatory,Washington Sundar,SP Narine,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,121
+Gujarat Titans,12,3,0.1,5.6,mandatory,Shubman Gill,SP Narine,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,122
+Gujarat Titans,12,4,0.1,5.6,mandatory,Washington Sundar,SP Narine,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,123
+Gujarat Titans,12,5,0.1,5.6,mandatory,Shubman Gill,SP Narine,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,123
+Gujarat Titans,12,6,0.1,5.6,mandatory,Shubman Gill,SP Narine,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,123
+Gujarat Titans,13,1,0.1,5.6,mandatory,Washington Sundar,Kartik Tyagi,Shubman Gill,2,0,2,,,,,,,,,,,,,,,,,20.0,181.0,125
+Gujarat Titans,13,2,0.1,5.6,mandatory,Washington Sundar,Kartik Tyagi,Shubman Gill,0,1,1,,1.0,,,,,,,,,,,,,,,20.0,181.0,126
+Gujarat Titans,13,3,0.1,5.6,mandatory,Shubman Gill,Kartik Tyagi,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,20.0,181.0,132
+Gujarat Titans,13,4,0.1,5.6,mandatory,Shubman Gill,Kartik Tyagi,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,133
+Gujarat Titans,13,5,0.1,5.6,mandatory,Washington Sundar,Kartik Tyagi,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,137
+Gujarat Titans,13,6,0.1,5.6,mandatory,Washington Sundar,Kartik Tyagi,Shubman Gill,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,181.0,138
+Gujarat Titans,13,7,0.1,5.6,mandatory,Washington Sundar,Kartik Tyagi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,139
+Gujarat Titans,14,1,0.1,5.6,mandatory,Washington Sundar,CV Varun,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,140
+Gujarat Titans,14,2,0.1,5.6,mandatory,Shubman Gill,CV Varun,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,141
+Gujarat Titans,14,3,0.1,5.6,mandatory,Washington Sundar,CV Varun,Shubman Gill,0,0,0,,,,,,,,,,Washington Sundar,caught,,,,,Kartik Tyagi,20.0,181.0,141
+Gujarat Titans,14,4,0.1,5.6,mandatory,GD Phillips,CV Varun,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,142
+Gujarat Titans,14,5,0.1,5.6,mandatory,Shubman Gill,CV Varun,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,143
+Gujarat Titans,14,6,0.1,5.6,mandatory,GD Phillips,CV Varun,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,144
+Gujarat Titans,15,1,0.1,5.6,mandatory,GD Phillips,AS Roy,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,144
+Gujarat Titans,15,2,0.1,5.6,mandatory,GD Phillips,AS Roy,Shubman Gill,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,181.0,145
+Gujarat Titans,15,3,0.1,5.6,mandatory,GD Phillips,AS Roy,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,145
+Gujarat Titans,15,4,0.1,5.6,mandatory,GD Phillips,AS Roy,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,146
+Gujarat Titans,15,5,0.1,5.6,mandatory,Shubman Gill,AS Roy,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,147
+Gujarat Titans,15,6,0.1,5.6,mandatory,GD Phillips,AS Roy,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,148
+Gujarat Titans,15,7,0.1,5.6,mandatory,Shubman Gill,AS Roy,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,149
+Gujarat Titans,16,1,0.1,5.6,mandatory,Shubman Gill,VG Arora,GD Phillips,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,149
+Gujarat Titans,16,2,0.1,5.6,mandatory,Shubman Gill,VG Arora,GD Phillips,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,153
+Gujarat Titans,16,3,0.1,5.6,mandatory,Shubman Gill,VG Arora,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,154
+Gujarat Titans,16,4,0.1,5.6,mandatory,GD Phillips,VG Arora,Shubman Gill,2,0,2,,,,,,,,,,,,,,,,,20.0,181.0,156
+Gujarat Titans,16,5,0.1,5.6,mandatory,GD Phillips,VG Arora,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,157
+Gujarat Titans,16,6,0.1,5.6,mandatory,Shubman Gill,VG Arora,GD Phillips,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,181.0,158
+Gujarat Titans,16,7,0.1,5.6,mandatory,Shubman Gill,VG Arora,GD Phillips,0,0,0,,,,,,,,,,Shubman Gill,caught,,,,,C Green,20.0,181.0,158
+Gujarat Titans,17,1,0.1,5.6,mandatory,GD Phillips,Kartik Tyagi,R Tewatia,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,159
+Gujarat Titans,17,2,0.1,5.6,mandatory,R Tewatia,Kartik Tyagi,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,160
+Gujarat Titans,17,3,0.1,5.6,mandatory,GD Phillips,Kartik Tyagi,R Tewatia,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,164
+Gujarat Titans,17,4,0.1,5.6,mandatory,GD Phillips,Kartik Tyagi,R Tewatia,4,0,4,,,,,,,,,,,,,,,,,20.0,181.0,168
+Gujarat Titans,17,5,0.1,5.6,mandatory,GD Phillips,Kartik Tyagi,R Tewatia,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,169
+Gujarat Titans,17,6,0.1,5.6,mandatory,R Tewatia,Kartik Tyagi,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,170
+Gujarat Titans,18,1,0.1,5.6,mandatory,R Tewatia,VG Arora,GD Phillips,2,0,2,,,,,,,,,,,,,,,,,20.0,181.0,172
+Gujarat Titans,18,2,0.1,5.6,mandatory,R Tewatia,VG Arora,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,173
+Gujarat Titans,18,3,0.1,5.6,mandatory,GD Phillips,VG Arora,R Tewatia,0,0,0,,,,,,,,,,,,,,,,,20.0,181.0,173
+Gujarat Titans,18,4,0.1,5.6,mandatory,GD Phillips,VG Arora,R Tewatia,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,174
+Gujarat Titans,18,5,0.1,5.6,mandatory,R Tewatia,VG Arora,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,175
+Gujarat Titans,18,6,0.1,5.6,mandatory,GD Phillips,VG Arora,R Tewatia,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,176
+Gujarat Titans,19,1,0.1,5.6,mandatory,GD Phillips,Ramandeep Singh,R Tewatia,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,181.0,177
+Gujarat Titans,19,2,0.1,5.6,mandatory,GD Phillips,Ramandeep Singh,R Tewatia,0,0,0,,,,,,,,,,GD Phillips,caught,,,,,RK Singh,20.0,181.0,177
+Gujarat Titans,19,3,0.1,5.6,mandatory,M Shahrukh Khan,Ramandeep Singh,R Tewatia,1,0,1,,,,,,,,,,,,M Shahrukh Khan,M Prasidh Krishna,Gujarat Titans,impact_player,,20.0,181.0,178
+Gujarat Titans,19,4,0.1,5.6,mandatory,R Tewatia,Ramandeep Singh,M Shahrukh Khan,1,0,1,,,,,,,,,,,,,,,,,20.0,181.0,179
+Gujarat Titans,19,5,0.1,5.6,mandatory,M Shahrukh Khan,Ramandeep Singh,R Tewatia,2,0,2,,,,,,,,,,,,,,,,,20.0,181.0,181

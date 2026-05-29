@@ -1,0 +1,241 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,legbyes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Gujarat Titans,0,1,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,Shubman Gill,1,0,1,,,,,,,,,,,,1
+Gujarat Titans,0,2,0.1,5.6,mandatory,Shubman Gill,B Kumar,B Sai Sudharsan,0,0,0,,,,,,,,,,,,1
+Gujarat Titans,0,3,0.1,5.6,mandatory,Shubman Gill,B Kumar,B Sai Sudharsan,1,0,1,,,,,,,,,,,,2
+Gujarat Titans,0,4,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,Shubman Gill,4,0,4,,,,,,,,,,,,6
+Gujarat Titans,0,5,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,Shubman Gill,0,0,0,,,,,,,,,,,,6
+Gujarat Titans,0,6,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,Shubman Gill,1,0,1,,,,,,,,,,,,7
+Gujarat Titans,1,1,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,0,0,0,,,,,,,,,,,,7
+Gujarat Titans,1,2,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,0,0,0,,,,,,,,,,,,7
+Gujarat Titans,1,3,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,2,0,2,,,,,,,,,,,,9
+Gujarat Titans,1,4,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,0,1,1,1.0,,,,,,,,,,,10
+Gujarat Titans,1,5,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,0,0,0,,,,,,,,,,,,10
+Gujarat Titans,1,6,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,0,0,0,,,,,,,,,,,,10
+Gujarat Titans,1,7,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,0,1,1,,1.0,,,,,,,,,,11
+Gujarat Titans,2,1,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,Shubman Gill,4,0,4,,,,,,,,,,,,15
+Gujarat Titans,2,2,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,Shubman Gill,0,0,0,,,,,,,,,,,,15
+Gujarat Titans,2,3,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,Shubman Gill,0,0,0,,,,,,,,,,,,15
+Gujarat Titans,2,4,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,Shubman Gill,4,0,4,,,,,,,,,,,,19
+Gujarat Titans,2,5,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,Shubman Gill,0,0,0,,,,,,,,,,,,19
+Gujarat Titans,2,6,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,Shubman Gill,1,0,1,,,,,,,,,,,,20
+Gujarat Titans,3,1,0.1,5.6,mandatory,B Sai Sudharsan,Rasikh Salam,Shubman Gill,0,0,0,,,,,,,,,,,,20
+Gujarat Titans,3,2,0.1,5.6,mandatory,B Sai Sudharsan,Rasikh Salam,Shubman Gill,4,0,4,,,,,,,,,,,,24
+Gujarat Titans,3,3,0.1,5.6,mandatory,B Sai Sudharsan,Rasikh Salam,Shubman Gill,4,0,4,,,,,,,,,,,,28
+Gujarat Titans,3,4,0.1,5.6,mandatory,B Sai Sudharsan,Rasikh Salam,Shubman Gill,1,0,1,,,,,,,,,,,,29
+Gujarat Titans,3,5,0.1,5.6,mandatory,Shubman Gill,Rasikh Salam,B Sai Sudharsan,1,0,1,,,,,,,,,,,,30
+Gujarat Titans,3,6,0.1,5.6,mandatory,B Sai Sudharsan,Rasikh Salam,Shubman Gill,1,0,1,,,,,,,,,,,,31
+Gujarat Titans,4,1,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,4,0,4,,,,,,,,,,,,35
+Gujarat Titans,4,2,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,0,0,0,,,,,,,,,,,,35
+Gujarat Titans,4,3,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,0,0,0,,,,,,,,,,,,35
+Gujarat Titans,4,4,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,6,0,6,,,,,,,,,,,,41
+Gujarat Titans,4,5,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,0,0,0,,,,,,,,,,,,41
+Gujarat Titans,4,6,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,Shubman Gill,4,0,4,,,,,,,,,,,,45
+Gujarat Titans,5,1,0.1,5.6,mandatory,Shubman Gill,Rasikh Salam,B Sai Sudharsan,0,0,0,,,,,,,,,,,,45
+Gujarat Titans,5,2,0.1,5.6,mandatory,Shubman Gill,Rasikh Salam,B Sai Sudharsan,2,0,2,,,,,,,,,,,,47
+Gujarat Titans,5,3,0.1,5.6,mandatory,Shubman Gill,Rasikh Salam,B Sai Sudharsan,4,0,4,,,,,,,,,,,,51
+Gujarat Titans,5,4,0.1,5.6,mandatory,Shubman Gill,Rasikh Salam,B Sai Sudharsan,1,0,1,,,,,,,,,,,,52
+Gujarat Titans,5,5,0.1,5.6,mandatory,B Sai Sudharsan,Rasikh Salam,Shubman Gill,4,0,4,,,,,,,,,,,,56
+Gujarat Titans,5,6,0.1,5.6,mandatory,B Sai Sudharsan,Rasikh Salam,Shubman Gill,1,0,1,,,,,,,,,,,,57
+Gujarat Titans,6,1,0.1,5.6,mandatory,B Sai Sudharsan,KH Pandya,Shubman Gill,1,0,1,,,,,,,,,,,,58
+Gujarat Titans,6,2,0.1,5.6,mandatory,Shubman Gill,KH Pandya,B Sai Sudharsan,1,0,1,,,,,,,,,,,,59
+Gujarat Titans,6,3,0.1,5.6,mandatory,B Sai Sudharsan,KH Pandya,Shubman Gill,1,0,1,,,,,,,,,,,,60
+Gujarat Titans,6,4,0.1,5.6,mandatory,Shubman Gill,KH Pandya,B Sai Sudharsan,0,0,0,,,,,,,,,,,,60
+Gujarat Titans,6,5,0.1,5.6,mandatory,Shubman Gill,KH Pandya,B Sai Sudharsan,1,0,1,,,,,,,,,,,,61
+Gujarat Titans,6,6,0.1,5.6,mandatory,B Sai Sudharsan,KH Pandya,Shubman Gill,0,0,0,,,,,,,,,,,,61
+Gujarat Titans,7,1,0.1,5.6,mandatory,Shubman Gill,R Shepherd,B Sai Sudharsan,1,0,1,,,,,,,,,,,,62
+Gujarat Titans,7,2,0.1,5.6,mandatory,B Sai Sudharsan,R Shepherd,Shubman Gill,6,0,6,,,,,,,,,,,,68
+Gujarat Titans,7,3,0.1,5.6,mandatory,B Sai Sudharsan,R Shepherd,Shubman Gill,4,0,4,,,,,,,,,,,,72
+Gujarat Titans,7,4,0.1,5.6,mandatory,B Sai Sudharsan,R Shepherd,Shubman Gill,1,0,1,,,,,,,,,,,,73
+Gujarat Titans,7,5,0.1,5.6,mandatory,Shubman Gill,R Shepherd,B Sai Sudharsan,4,0,4,,,,,,,,,,,,77
+Gujarat Titans,7,6,0.1,5.6,mandatory,Shubman Gill,R Shepherd,B Sai Sudharsan,1,0,1,,,,,,,,,,,,78
+Gujarat Titans,8,1,0.1,5.6,mandatory,Shubman Gill,KH Pandya,B Sai Sudharsan,1,0,1,,,,,,,,,,,,79
+Gujarat Titans,8,2,0.1,5.6,mandatory,B Sai Sudharsan,KH Pandya,Shubman Gill,0,1,1,1.0,,,,,,,,,,,80
+Gujarat Titans,8,3,0.1,5.6,mandatory,B Sai Sudharsan,KH Pandya,Shubman Gill,6,0,6,,,,,,,,,,,,86
+Gujarat Titans,8,4,0.1,5.6,mandatory,B Sai Sudharsan,KH Pandya,Shubman Gill,1,0,1,,,,,,,,,,,,87
+Gujarat Titans,8,5,0.1,5.6,mandatory,Shubman Gill,KH Pandya,B Sai Sudharsan,1,0,1,,,,,,,,,,,,88
+Gujarat Titans,8,6,0.1,5.6,mandatory,B Sai Sudharsan,KH Pandya,Shubman Gill,0,0,0,,,,,,,,,,,,88
+Gujarat Titans,8,7,0.1,5.6,mandatory,B Sai Sudharsan,KH Pandya,Shubman Gill,6,0,6,,,,,,,,,,,,94
+Gujarat Titans,9,1,0.1,5.6,mandatory,Shubman Gill,Suyash Sharma,B Sai Sudharsan,1,0,1,,,,,,,,,,,,95
+Gujarat Titans,9,2,0.1,5.6,mandatory,B Sai Sudharsan,Suyash Sharma,Shubman Gill,1,0,1,,,,,,,,,,,,96
+Gujarat Titans,9,3,0.1,5.6,mandatory,Shubman Gill,Suyash Sharma,B Sai Sudharsan,0,1,1,1.0,,,,,,,,,,,97
+Gujarat Titans,9,4,0.1,5.6,mandatory,Shubman Gill,Suyash Sharma,B Sai Sudharsan,1,0,1,,,,,,,,,,,,98
+Gujarat Titans,9,5,0.1,5.6,mandatory,B Sai Sudharsan,Suyash Sharma,Shubman Gill,1,0,1,,,,,,,,,,,,99
+Gujarat Titans,9,6,0.1,5.6,mandatory,Shubman Gill,Suyash Sharma,B Sai Sudharsan,1,0,1,,,,,,,,,,,,100
+Gujarat Titans,9,7,0.1,5.6,mandatory,B Sai Sudharsan,Suyash Sharma,Shubman Gill,4,0,4,,,,,,,,,,,,104
+Gujarat Titans,10,1,0.1,5.6,mandatory,Shubman Gill,KH Pandya,B Sai Sudharsan,6,0,6,,,,,,,,,,,,110
+Gujarat Titans,10,2,0.1,5.6,mandatory,Shubman Gill,KH Pandya,B Sai Sudharsan,1,0,1,,,,,,,,,,,,111
+Gujarat Titans,10,3,0.1,5.6,mandatory,B Sai Sudharsan,KH Pandya,Shubman Gill,1,0,1,,,,,,,,,,,,112
+Gujarat Titans,10,4,0.1,5.6,mandatory,Shubman Gill,KH Pandya,B Sai Sudharsan,1,0,1,,,,,,,,,,,,113
+Gujarat Titans,10,5,0.1,5.6,mandatory,B Sai Sudharsan,KH Pandya,Shubman Gill,2,0,2,,,,,,,,,,,,115
+Gujarat Titans,10,6,0.1,5.6,mandatory,B Sai Sudharsan,KH Pandya,Shubman Gill,1,0,1,,,,,,,,,,,,116
+Gujarat Titans,11,1,0.1,5.6,mandatory,B Sai Sudharsan,Rasikh Salam,Shubman Gill,1,0,1,,,,,,,,,,,,117
+Gujarat Titans,11,2,0.1,5.6,mandatory,Shubman Gill,Rasikh Salam,B Sai Sudharsan,1,0,1,,,,,,,,,,,,118
+Gujarat Titans,11,3,0.1,5.6,mandatory,B Sai Sudharsan,Rasikh Salam,Shubman Gill,0,0,0,,,,,,,,,,,,118
+Gujarat Titans,11,4,0.1,5.6,mandatory,B Sai Sudharsan,Rasikh Salam,Shubman Gill,1,0,1,,,,,,,,,,,,119
+Gujarat Titans,11,5,0.1,5.6,mandatory,Shubman Gill,Rasikh Salam,B Sai Sudharsan,1,0,1,,,,,,,,,,,,120
+Gujarat Titans,11,6,0.1,5.6,mandatory,B Sai Sudharsan,Rasikh Salam,Shubman Gill,1,0,1,,,,,,,,,,,,121
+Gujarat Titans,12,1,0.1,5.6,mandatory,B Sai Sudharsan,Suyash Sharma,Shubman Gill,6,0,6,,,,,,,,,,,,127
+Gujarat Titans,12,2,0.1,5.6,mandatory,B Sai Sudharsan,Suyash Sharma,Shubman Gill,0,0,0,,,,,,,,,,,,127
+Gujarat Titans,12,3,0.1,5.6,mandatory,B Sai Sudharsan,Suyash Sharma,Shubman Gill,1,0,1,,,,,,,,,,,,128
+Gujarat Titans,12,4,0.1,5.6,mandatory,Shubman Gill,Suyash Sharma,B Sai Sudharsan,0,0,0,,,Shubman Gill,caught,,,,,D Padikkal,,,128
+Gujarat Titans,12,5,0.1,5.6,mandatory,JC Buttler,Suyash Sharma,B Sai Sudharsan,0,2,2,,2.0,,,,,,,,,,130
+Gujarat Titans,12,6,0.1,5.6,mandatory,JC Buttler,Suyash Sharma,B Sai Sudharsan,1,0,1,,,,,,,,,,,,131
+Gujarat Titans,13,1,0.1,5.6,mandatory,JC Buttler,B Kumar,B Sai Sudharsan,2,0,2,,,,,,,,,,,,133
+Gujarat Titans,13,2,0.1,5.6,mandatory,JC Buttler,B Kumar,B Sai Sudharsan,1,0,1,,,,,,,,,,,,134
+Gujarat Titans,13,3,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,JC Buttler,4,0,4,,,,,,,,,,,,138
+Gujarat Titans,13,4,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,JC Buttler,1,0,1,,,,,,,,,,,,139
+Gujarat Titans,13,5,0.1,5.6,mandatory,JC Buttler,B Kumar,B Sai Sudharsan,1,0,1,,,,,,,,,,,,140
+Gujarat Titans,13,6,0.1,5.6,mandatory,B Sai Sudharsan,B Kumar,JC Buttler,1,0,1,,,,,,,,,,,,141
+Gujarat Titans,14,1,0.1,5.6,mandatory,B Sai Sudharsan,Suyash Sharma,JC Buttler,1,0,1,,,,,,,,,,,,142
+Gujarat Titans,14,2,0.1,5.6,mandatory,JC Buttler,Suyash Sharma,B Sai Sudharsan,4,0,4,,,,,,,,,,,,146
+Gujarat Titans,14,3,0.1,5.6,mandatory,JC Buttler,Suyash Sharma,B Sai Sudharsan,1,0,1,,,,,,,,,,,,147
+Gujarat Titans,14,4,0.1,5.6,mandatory,B Sai Sudharsan,Suyash Sharma,JC Buttler,1,0,1,,,,,,,,,,,,148
+Gujarat Titans,14,5,0.1,5.6,mandatory,JC Buttler,Suyash Sharma,B Sai Sudharsan,6,0,6,,,,,,,,,,,,154
+Gujarat Titans,14,6,0.1,5.6,mandatory,JC Buttler,Suyash Sharma,B Sai Sudharsan,1,0,1,,,,,,,,,,,,155
+Gujarat Titans,15,1,0.1,5.6,mandatory,JC Buttler,JR Hazlewood,B Sai Sudharsan,4,0,4,,,,,,,,,,,,159
+Gujarat Titans,15,2,0.1,5.6,mandatory,JC Buttler,JR Hazlewood,B Sai Sudharsan,1,0,1,,,,,,,,,,,,160
+Gujarat Titans,15,3,0.1,5.6,mandatory,B Sai Sudharsan,JR Hazlewood,JC Buttler,0,0,0,,,B Sai Sudharsan,caught and bowled,,,,,,,,160
+Gujarat Titans,15,4,0.1,5.6,mandatory,Washington Sundar,JR Hazlewood,JC Buttler,0,0,0,,,,,,,,,,,,160
+Gujarat Titans,15,5,0.1,5.6,mandatory,Washington Sundar,JR Hazlewood,JC Buttler,6,0,6,,,,,,,,,,,,166
+Gujarat Titans,15,6,0.1,5.6,mandatory,Washington Sundar,JR Hazlewood,JC Buttler,4,0,4,,,,,,,,,,,,170
+Gujarat Titans,16,1,0.1,5.6,mandatory,JC Buttler,Suyash Sharma,Washington Sundar,1,0,1,,,,,,,,,,,,171
+Gujarat Titans,16,2,0.1,5.6,mandatory,Washington Sundar,Suyash Sharma,JC Buttler,1,0,1,,,,,,,,,,,,172
+Gujarat Titans,16,3,0.1,5.6,mandatory,JC Buttler,Suyash Sharma,Washington Sundar,1,0,1,,,,,,,,,,,,173
+Gujarat Titans,16,4,0.1,5.6,mandatory,Washington Sundar,Suyash Sharma,JC Buttler,0,0,0,,,,,,,,,,,,173
+Gujarat Titans,16,5,0.1,5.6,mandatory,Washington Sundar,Suyash Sharma,JC Buttler,1,0,1,,,,,,,,,,,,174
+Gujarat Titans,16,6,0.1,5.6,mandatory,JC Buttler,Suyash Sharma,Washington Sundar,0,0,0,,,,,,,,,,,,174
+Gujarat Titans,17,1,0.1,5.6,mandatory,Washington Sundar,B Kumar,JC Buttler,1,0,1,,,,,,,,,,,,175
+Gujarat Titans,17,2,0.1,5.6,mandatory,JC Buttler,B Kumar,Washington Sundar,1,0,1,,,,,,,,,,,,176
+Gujarat Titans,17,3,0.1,5.6,mandatory,Washington Sundar,B Kumar,JC Buttler,1,0,1,,,,,,,,,,,,177
+Gujarat Titans,17,4,0.1,5.6,mandatory,JC Buttler,B Kumar,Washington Sundar,0,0,0,,,JC Buttler,caught,,,,,JR Hazlewood,,,177
+Gujarat Titans,17,5,0.1,5.6,mandatory,JO Holder,B Kumar,Washington Sundar,1,0,1,,,,,,,,,,,,178
+Gujarat Titans,17,6,0.1,5.6,mandatory,Washington Sundar,B Kumar,JO Holder,1,0,1,,,,,,,,,,,,179
+Gujarat Titans,18,1,0.1,5.6,mandatory,Washington Sundar,JR Hazlewood,JO Holder,1,0,1,,,,,,,,,,,,180
+Gujarat Titans,18,2,0.1,5.6,mandatory,JO Holder,JR Hazlewood,Washington Sundar,2,0,2,,,,,,,,,,,,182
+Gujarat Titans,18,3,0.1,5.6,mandatory,JO Holder,JR Hazlewood,Washington Sundar,0,0,0,,,,,,,,,,,,182
+Gujarat Titans,18,4,0.1,5.6,mandatory,JO Holder,JR Hazlewood,Washington Sundar,2,0,2,,,,,,,,,,,,184
+Gujarat Titans,18,5,0.1,5.6,mandatory,JO Holder,JR Hazlewood,Washington Sundar,1,0,1,,,,,,,,,,,,185
+Gujarat Titans,18,6,0.1,5.6,mandatory,Washington Sundar,JR Hazlewood,JO Holder,2,0,2,,,,,,,,,,,,187
+Gujarat Titans,19,1,0.1,5.6,mandatory,JO Holder,KH Pandya,Washington Sundar,6,0,6,,,,,,,,,,,,193
+Gujarat Titans,19,2,0.1,5.6,mandatory,JO Holder,KH Pandya,Washington Sundar,0,0,0,,,,,,,,,,,,193
+Gujarat Titans,19,3,0.1,5.6,mandatory,JO Holder,KH Pandya,Washington Sundar,6,0,6,,,,,,,,,,,,199
+Gujarat Titans,19,4,0.1,5.6,mandatory,JO Holder,KH Pandya,Washington Sundar,4,0,4,,,,,,,,,,,,203
+Gujarat Titans,19,5,0.1,5.6,mandatory,JO Holder,KH Pandya,Washington Sundar,1,0,1,,,,,,,,,,,,204
+Gujarat Titans,19,6,0.1,5.6,mandatory,Washington Sundar,KH Pandya,JO Holder,1,0,1,,,,,,,,,,,,205
+Royal Challengers Bengaluru,0,1,0.1,5.6,mandatory,JG Bethell,Mohammed Siraj,V Kohli,0,0,0,,,,,M Prasidh Krishna,R Tewatia,Gujarat Titans,impact_player,,20.0,206.0,0
+Royal Challengers Bengaluru,0,2,0.1,5.6,mandatory,JG Bethell,Mohammed Siraj,V Kohli,0,0,0,,,,,JG Bethell,Suyash Sharma,Royal Challengers Bengaluru,impact_player,,20.0,206.0,0
+Royal Challengers Bengaluru,0,3,0.1,5.6,mandatory,JG Bethell,Mohammed Siraj,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,1
+Royal Challengers Bengaluru,0,4,0.1,5.6,mandatory,V Kohli,Mohammed Siraj,JG Bethell,0,0,0,,,,,,,,,,20.0,206.0,1
+Royal Challengers Bengaluru,0,5,0.1,5.6,mandatory,V Kohli,Mohammed Siraj,JG Bethell,2,0,2,,,,,,,,,,20.0,206.0,3
+Royal Challengers Bengaluru,0,6,0.1,5.6,mandatory,V Kohli,Mohammed Siraj,JG Bethell,1,0,1,,,,,,,,,,20.0,206.0,4
+Royal Challengers Bengaluru,0,7,0.1,5.6,mandatory,JG Bethell,Mohammed Siraj,V Kohli,0,1,1,,1.0,,,,,,,,20.0,206.0,5
+Royal Challengers Bengaluru,1,1,0.1,5.6,mandatory,JG Bethell,K Rabada,V Kohli,4,0,4,,,,,,,,,,20.0,206.0,9
+Royal Challengers Bengaluru,1,2,0.1,5.6,mandatory,JG Bethell,K Rabada,V Kohli,0,0,0,,,,,,,,,,20.0,206.0,9
+Royal Challengers Bengaluru,1,3,0.1,5.6,mandatory,JG Bethell,K Rabada,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,10
+Royal Challengers Bengaluru,1,4,0.1,5.6,mandatory,V Kohli,K Rabada,JG Bethell,4,0,4,,,,,,,,,,20.0,206.0,14
+Royal Challengers Bengaluru,1,5,0.1,5.6,mandatory,V Kohli,K Rabada,JG Bethell,0,0,0,,,,,,,,,,20.0,206.0,14
+Royal Challengers Bengaluru,1,6,0.1,5.6,mandatory,V Kohli,K Rabada,JG Bethell,0,1,1,,1.0,,,,,,,,20.0,206.0,15
+Royal Challengers Bengaluru,2,1,0.1,5.6,mandatory,V Kohli,Mohammed Siraj,JG Bethell,2,0,2,,,,,,,,,,20.0,206.0,17
+Royal Challengers Bengaluru,2,2,0.1,5.6,mandatory,V Kohli,Mohammed Siraj,JG Bethell,1,0,1,,,,,,,,,,20.0,206.0,18
+Royal Challengers Bengaluru,2,3,0.1,5.6,mandatory,JG Bethell,Mohammed Siraj,V Kohli,4,0,4,,,,,,,,,,20.0,206.0,22
+Royal Challengers Bengaluru,2,4,0.1,5.6,mandatory,JG Bethell,Mohammed Siraj,V Kohli,0,0,0,,,,,,,,,,20.0,206.0,22
+Royal Challengers Bengaluru,2,5,0.1,5.6,mandatory,JG Bethell,Mohammed Siraj,V Kohli,4,0,4,,,,,,,,,,20.0,206.0,26
+Royal Challengers Bengaluru,2,6,0.1,5.6,mandatory,JG Bethell,Mohammed Siraj,V Kohli,0,0,0,,,JG Bethell,caught,,,,,M Shahrukh Khan,20.0,206.0,26
+Royal Challengers Bengaluru,3,1,0.1,5.6,mandatory,V Kohli,K Rabada,D Padikkal,4,0,4,,,,,,,,,,20.0,206.0,30
+Royal Challengers Bengaluru,3,2,0.1,5.6,mandatory,V Kohli,K Rabada,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,31
+Royal Challengers Bengaluru,3,3,0.1,5.6,mandatory,D Padikkal,K Rabada,V Kohli,6,0,6,,,,,,,,,,20.0,206.0,37
+Royal Challengers Bengaluru,3,4,0.1,5.6,mandatory,D Padikkal,K Rabada,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,38
+Royal Challengers Bengaluru,3,5,0.1,5.6,mandatory,V Kohli,K Rabada,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,39
+Royal Challengers Bengaluru,3,6,0.1,5.6,mandatory,D Padikkal,K Rabada,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,40
+Royal Challengers Bengaluru,4,1,0.1,5.6,mandatory,D Padikkal,Mohammed Siraj,V Kohli,4,0,4,,,,,,,,,,20.0,206.0,44
+Royal Challengers Bengaluru,4,2,0.1,5.6,mandatory,D Padikkal,Mohammed Siraj,V Kohli,0,0,0,,,,,,,,,,20.0,206.0,44
+Royal Challengers Bengaluru,4,3,0.1,5.6,mandatory,D Padikkal,Mohammed Siraj,V Kohli,0,0,0,,,,,,,,,,20.0,206.0,44
+Royal Challengers Bengaluru,4,4,0.1,5.6,mandatory,D Padikkal,Mohammed Siraj,V Kohli,0,0,0,,,,,,,,,,20.0,206.0,44
+Royal Challengers Bengaluru,4,5,0.1,5.6,mandatory,D Padikkal,Mohammed Siraj,V Kohli,0,0,0,,,,,,,,,,20.0,206.0,44
+Royal Challengers Bengaluru,4,6,0.1,5.6,mandatory,D Padikkal,Mohammed Siraj,V Kohli,6,0,6,,,,,,,,,,20.0,206.0,50
+Royal Challengers Bengaluru,5,1,0.1,5.6,mandatory,V Kohli,JO Holder,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,51
+Royal Challengers Bengaluru,5,2,0.1,5.6,mandatory,D Padikkal,JO Holder,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,52
+Royal Challengers Bengaluru,5,3,0.1,5.6,mandatory,V Kohli,JO Holder,D Padikkal,4,0,4,,,,,,,,,,20.0,206.0,56
+Royal Challengers Bengaluru,5,4,0.1,5.6,mandatory,V Kohli,JO Holder,D Padikkal,0,0,0,,,,,,,,,,20.0,206.0,56
+Royal Challengers Bengaluru,5,5,0.1,5.6,mandatory,V Kohli,JO Holder,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,57
+Royal Challengers Bengaluru,5,6,0.1,5.6,mandatory,D Padikkal,JO Holder,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,58
+Royal Challengers Bengaluru,6,1,0.1,5.6,mandatory,D Padikkal,M Prasidh Krishna,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,59
+Royal Challengers Bengaluru,6,2,0.1,5.6,mandatory,V Kohli,M Prasidh Krishna,D Padikkal,2,0,2,,,,,,,,,,20.0,206.0,61
+Royal Challengers Bengaluru,6,3,0.1,5.6,mandatory,V Kohli,M Prasidh Krishna,D Padikkal,4,0,4,,,,,,,,,,20.0,206.0,65
+Royal Challengers Bengaluru,6,4,0.1,5.6,mandatory,V Kohli,M Prasidh Krishna,D Padikkal,4,0,4,,,,,,,,,,20.0,206.0,69
+Royal Challengers Bengaluru,6,5,0.1,5.6,mandatory,V Kohli,M Prasidh Krishna,D Padikkal,0,0,0,,,,,,,,,,20.0,206.0,69
+Royal Challengers Bengaluru,6,6,0.1,5.6,mandatory,V Kohli,M Prasidh Krishna,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,70
+Royal Challengers Bengaluru,7,1,0.1,5.6,mandatory,V Kohli,Rashid Khan,D Padikkal,0,0,0,,,,,,,,,,20.0,206.0,70
+Royal Challengers Bengaluru,7,2,0.1,5.6,mandatory,V Kohli,Rashid Khan,D Padikkal,6,0,6,,,,,,,,,,20.0,206.0,76
+Royal Challengers Bengaluru,7,3,0.1,5.6,mandatory,V Kohli,Rashid Khan,D Padikkal,4,0,4,,,,,,,,,,20.0,206.0,80
+Royal Challengers Bengaluru,7,4,0.1,5.6,mandatory,V Kohli,Rashid Khan,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,81
+Royal Challengers Bengaluru,7,5,0.1,5.6,mandatory,D Padikkal,Rashid Khan,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,82
+Royal Challengers Bengaluru,7,6,0.1,5.6,mandatory,V Kohli,Rashid Khan,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,83
+Royal Challengers Bengaluru,8,1,0.1,5.6,mandatory,V Kohli,M Prasidh Krishna,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,84
+Royal Challengers Bengaluru,8,2,0.1,5.6,mandatory,D Padikkal,M Prasidh Krishna,V Kohli,4,0,4,,,,,,,,,,20.0,206.0,88
+Royal Challengers Bengaluru,8,3,0.1,5.6,mandatory,D Padikkal,M Prasidh Krishna,V Kohli,6,0,6,,,,,,,,,,20.0,206.0,94
+Royal Challengers Bengaluru,8,4,0.1,5.6,mandatory,D Padikkal,M Prasidh Krishna,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,95
+Royal Challengers Bengaluru,8,5,0.1,5.6,mandatory,V Kohli,M Prasidh Krishna,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,96
+Royal Challengers Bengaluru,8,6,0.1,5.6,mandatory,D Padikkal,M Prasidh Krishna,V Kohli,6,0,6,,,,,,,,,,20.0,206.0,102
+Royal Challengers Bengaluru,9,1,0.1,5.6,mandatory,V Kohli,Rashid Khan,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,103
+Royal Challengers Bengaluru,9,2,0.1,5.6,mandatory,D Padikkal,Rashid Khan,V Kohli,0,0,0,,,,,,,,,,20.0,206.0,103
+Royal Challengers Bengaluru,9,3,0.1,5.6,mandatory,D Padikkal,Rashid Khan,V Kohli,6,0,6,,,,,,,,,,20.0,206.0,109
+Royal Challengers Bengaluru,9,4,0.1,5.6,mandatory,D Padikkal,Rashid Khan,V Kohli,0,1,1,1.0,,,,,,,,,20.0,206.0,110
+Royal Challengers Bengaluru,9,5,0.1,5.6,mandatory,D Padikkal,Rashid Khan,V Kohli,6,0,6,,,,,,,,,,20.0,206.0,116
+Royal Challengers Bengaluru,9,6,0.1,5.6,mandatory,D Padikkal,Rashid Khan,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,117
+Royal Challengers Bengaluru,9,7,0.1,5.6,mandatory,V Kohli,Rashid Khan,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,118
+Royal Challengers Bengaluru,10,1,0.1,5.6,mandatory,V Kohli,K Rabada,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,119
+Royal Challengers Bengaluru,10,2,0.1,5.6,mandatory,D Padikkal,K Rabada,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,120
+Royal Challengers Bengaluru,10,3,0.1,5.6,mandatory,V Kohli,K Rabada,D Padikkal,0,0,0,,,,,,,,,,20.0,206.0,120
+Royal Challengers Bengaluru,10,4,0.1,5.6,mandatory,V Kohli,K Rabada,D Padikkal,4,0,4,,,,,,,,,,20.0,206.0,124
+Royal Challengers Bengaluru,10,5,0.1,5.6,mandatory,V Kohli,K Rabada,D Padikkal,6,0,6,,,,,,,,,,20.0,206.0,130
+Royal Challengers Bengaluru,10,6,0.1,5.6,mandatory,V Kohli,K Rabada,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,131
+Royal Challengers Bengaluru,11,1,0.1,5.6,mandatory,V Kohli,JO Holder,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,132
+Royal Challengers Bengaluru,11,2,0.1,5.6,mandatory,D Padikkal,JO Holder,V Kohli,0,0,0,,,,,,,,,,20.0,206.0,132
+Royal Challengers Bengaluru,11,3,0.1,5.6,mandatory,D Padikkal,JO Holder,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,133
+Royal Challengers Bengaluru,11,4,0.1,5.6,mandatory,V Kohli,JO Holder,D Padikkal,0,0,0,,,,,,,,,,20.0,206.0,133
+Royal Challengers Bengaluru,11,5,0.1,5.6,mandatory,V Kohli,JO Holder,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,134
+Royal Challengers Bengaluru,11,6,0.1,5.6,mandatory,D Padikkal,JO Holder,V Kohli,0,0,0,,,,,,,,,,20.0,206.0,134
+Royal Challengers Bengaluru,12,1,0.1,5.6,mandatory,V Kohli,Rashid Khan,D Padikkal,4,0,4,,,,,,,,,,20.0,206.0,138
+Royal Challengers Bengaluru,12,2,0.1,5.6,mandatory,V Kohli,Rashid Khan,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,139
+Royal Challengers Bengaluru,12,3,0.1,5.6,mandatory,D Padikkal,Rashid Khan,V Kohli,1,0,1,,,,,,,,,,20.0,206.0,140
+Royal Challengers Bengaluru,12,4,0.1,5.6,mandatory,V Kohli,Rashid Khan,D Padikkal,1,0,1,,,,,,,,,,20.0,206.0,141
+Royal Challengers Bengaluru,12,5,0.1,5.6,mandatory,D Padikkal,Rashid Khan,V Kohli,0,0,0,,,D Padikkal,bowled,,,,,,20.0,206.0,141
+Royal Challengers Bengaluru,12,6,0.1,5.6,mandatory,RM Patidar,Rashid Khan,V Kohli,0,0,0,,,,,,,,,,20.0,206.0,141
+Royal Challengers Bengaluru,13,1,0.1,5.6,mandatory,V Kohli,JO Holder,RM Patidar,0,1,1,1.0,,,,,,,,,20.0,206.0,142
+Royal Challengers Bengaluru,13,2,0.1,5.6,mandatory,V Kohli,JO Holder,RM Patidar,0,0,0,,,,,,,,,,20.0,206.0,142
+Royal Challengers Bengaluru,13,3,0.1,5.6,mandatory,V Kohli,JO Holder,RM Patidar,6,0,6,,,,,,,,,,20.0,206.0,148
+Royal Challengers Bengaluru,13,4,0.1,5.6,mandatory,V Kohli,JO Holder,RM Patidar,6,0,6,,,,,,,,,,20.0,206.0,154
+Royal Challengers Bengaluru,13,5,0.1,5.6,mandatory,V Kohli,JO Holder,RM Patidar,0,0,0,,,V Kohli,bowled,,,,,,20.0,206.0,154
+Royal Challengers Bengaluru,13,6,0.1,5.6,mandatory,JM Sharma,JO Holder,RM Patidar,0,0,0,,,,,,,,,,20.0,206.0,154
+Royal Challengers Bengaluru,13,7,0.1,5.6,mandatory,JM Sharma,JO Holder,RM Patidar,4,0,4,,,,,,,,,,20.0,206.0,158
+Royal Challengers Bengaluru,14,1,0.1,5.6,mandatory,RM Patidar,Rashid Khan,JM Sharma,6,0,6,,,,,,,,,,20.0,206.0,164
+Royal Challengers Bengaluru,14,2,0.1,5.6,mandatory,RM Patidar,Rashid Khan,JM Sharma,1,0,1,,,,,,,,,,20.0,206.0,165
+Royal Challengers Bengaluru,14,3,0.1,5.6,mandatory,JM Sharma,Rashid Khan,RM Patidar,0,0,0,,,,,,,,,,20.0,206.0,165
+Royal Challengers Bengaluru,14,4,0.1,5.6,mandatory,JM Sharma,Rashid Khan,RM Patidar,6,0,6,,,,,,,,,,20.0,206.0,171
+Royal Challengers Bengaluru,14,5,0.1,5.6,mandatory,JM Sharma,Rashid Khan,RM Patidar,0,0,0,,,,,,,,,,20.0,206.0,171
+Royal Challengers Bengaluru,14,6,0.1,5.6,mandatory,JM Sharma,Rashid Khan,RM Patidar,0,0,0,,,JM Sharma,caught,,,,,MJ Suthar,20.0,206.0,171
+Royal Challengers Bengaluru,15,1,0.1,5.6,mandatory,RM Patidar,MJ Suthar,TH David,1,0,1,,,,,,,,,,20.0,206.0,172
+Royal Challengers Bengaluru,15,2,0.1,5.6,mandatory,TH David,MJ Suthar,RM Patidar,1,0,1,,,,,,,,,,20.0,206.0,173
+Royal Challengers Bengaluru,15,3,0.1,5.6,mandatory,RM Patidar,MJ Suthar,TH David,0,0,0,,,RM Patidar,caught,,,,,Washington Sundar,20.0,206.0,173
+Royal Challengers Bengaluru,15,4,0.1,5.6,mandatory,KH Pandya,MJ Suthar,TH David,1,0,1,,,,,,,,,,20.0,206.0,174
+Royal Challengers Bengaluru,15,5,0.1,5.6,mandatory,TH David,MJ Suthar,KH Pandya,0,0,0,,,,,,,,,,20.0,206.0,174
+Royal Challengers Bengaluru,15,6,0.1,5.6,mandatory,TH David,MJ Suthar,KH Pandya,1,0,1,,,,,,,,,,20.0,206.0,175
+Royal Challengers Bengaluru,16,1,0.1,5.6,mandatory,TH David,K Rabada,KH Pandya,1,0,1,,,,,,,,,,20.0,206.0,176
+Royal Challengers Bengaluru,16,2,0.1,5.6,mandatory,KH Pandya,K Rabada,TH David,1,0,1,,,,,,,,,,20.0,206.0,177
+Royal Challengers Bengaluru,16,3,0.1,5.6,mandatory,TH David,K Rabada,KH Pandya,0,0,0,,,,,,,,,,20.0,206.0,177
+Royal Challengers Bengaluru,16,4,0.1,5.6,mandatory,TH David,K Rabada,KH Pandya,0,0,0,,,,,,,,,,20.0,206.0,177
+Royal Challengers Bengaluru,16,5,0.1,5.6,mandatory,TH David,K Rabada,KH Pandya,0,1,1,1.0,,,,,,,,,20.0,206.0,178
+Royal Challengers Bengaluru,16,6,0.1,5.6,mandatory,TH David,K Rabada,KH Pandya,6,0,6,,,,,,,,,,20.0,206.0,184
+Royal Challengers Bengaluru,16,7,0.1,5.6,mandatory,TH David,K Rabada,KH Pandya,0,0,0,,,,,,,,,,20.0,206.0,184
+Royal Challengers Bengaluru,17,1,0.1,5.6,mandatory,KH Pandya,MJ Suthar,TH David,4,0,4,,,,,,,,,,20.0,206.0,188
+Royal Challengers Bengaluru,17,2,0.1,5.6,mandatory,KH Pandya,MJ Suthar,TH David,4,0,4,,,,,,,,,,20.0,206.0,192
+Royal Challengers Bengaluru,17,3,0.1,5.6,mandatory,KH Pandya,MJ Suthar,TH David,0,0,0,,,,,,,,,,20.0,206.0,192
+Royal Challengers Bengaluru,17,4,0.1,5.6,mandatory,KH Pandya,MJ Suthar,TH David,0,0,0,,,,,,,,,,20.0,206.0,192
+Royal Challengers Bengaluru,17,5,0.1,5.6,mandatory,KH Pandya,MJ Suthar,TH David,6,0,6,,,,,,,,,,20.0,206.0,198
+Royal Challengers Bengaluru,17,6,0.1,5.6,mandatory,KH Pandya,MJ Suthar,TH David,1,0,1,,,,,,,,,,20.0,206.0,199
+Royal Challengers Bengaluru,18,1,0.1,5.6,mandatory,KH Pandya,JO Holder,TH David,0,0,0,,,,,,,,,,20.0,206.0,199
+Royal Challengers Bengaluru,18,2,0.1,5.6,mandatory,KH Pandya,JO Holder,TH David,1,0,1,,,,,,,,,,20.0,206.0,200
+Royal Challengers Bengaluru,18,3,0.1,5.6,mandatory,TH David,JO Holder,KH Pandya,1,0,1,,,,,,,,,,20.0,206.0,201
+Royal Challengers Bengaluru,18,4,0.1,5.6,mandatory,KH Pandya,JO Holder,TH David,4,0,4,,,,,,,,,,20.0,206.0,205
+Royal Challengers Bengaluru,18,5,0.1,5.6,mandatory,KH Pandya,JO Holder,TH David,1,0,1,,,,,,,,,,20.0,206.0,206

@@ -1,0 +1,234 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,byes,legbyes,review_by,review_umpire,review_batter,review_decision,review_type,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Royal Challengers Bengaluru,0,1,0.1,5.6,mandatory,PD Salt,JC Archer,V Kohli,0,0,0,,,,,,,,,PD Salt,caught,,,,,Dhruv Jurel,,,0
+Royal Challengers Bengaluru,0,2,0.1,5.6,mandatory,D Padikkal,JC Archer,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,0
+Royal Challengers Bengaluru,0,3,0.1,5.6,mandatory,D Padikkal,JC Archer,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,4
+Royal Challengers Bengaluru,0,4,0.1,5.6,mandatory,D Padikkal,JC Archer,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,8
+Royal Challengers Bengaluru,0,5,0.1,5.6,mandatory,D Padikkal,JC Archer,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,9
+Royal Challengers Bengaluru,0,6,0.1,5.6,mandatory,V Kohli,JC Archer,D Padikkal,4,0,4,,,,,,,,,,,,,,,,,,13
+Royal Challengers Bengaluru,1,1,0.1,5.6,mandatory,D Padikkal,N Burger,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,17
+Royal Challengers Bengaluru,1,2,0.1,5.6,mandatory,D Padikkal,N Burger,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,18
+Royal Challengers Bengaluru,1,3,0.1,5.6,mandatory,V Kohli,N Burger,D Padikkal,0,0,0,,,,,,,,,,,,,,,,,,18
+Royal Challengers Bengaluru,1,4,0.1,5.6,mandatory,V Kohli,N Burger,D Padikkal,4,0,4,,,,,,,,,,,,,,,,,,22
+Royal Challengers Bengaluru,1,5,0.1,5.6,mandatory,V Kohli,N Burger,D Padikkal,0,5,5,5.0,,,,,,,,,,,,,,,,,27
+Royal Challengers Bengaluru,1,6,0.1,5.6,mandatory,V Kohli,N Burger,D Padikkal,0,4,4,,4.0,,,,,,,,,,,,,,,,31
+Royal Challengers Bengaluru,1,7,0.1,5.6,mandatory,V Kohli,N Burger,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,32
+Royal Challengers Bengaluru,2,1,0.1,5.6,mandatory,V Kohli,JC Archer,D Padikkal,4,0,4,,,,,,,,,,,,,,,,,,36
+Royal Challengers Bengaluru,2,2,0.1,5.6,mandatory,V Kohli,JC Archer,D Padikkal,0,0,0,,,,,,,,,,,,,,,,,,36
+Royal Challengers Bengaluru,2,3,0.1,5.6,mandatory,V Kohli,JC Archer,D Padikkal,4,0,4,,,,,,,,,,,,,,,,,,40
+Royal Challengers Bengaluru,2,4,0.1,5.6,mandatory,V Kohli,JC Archer,D Padikkal,4,0,4,,,,,,,,,,,,,,,,,,44
+Royal Challengers Bengaluru,2,5,0.1,5.6,mandatory,V Kohli,JC Archer,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,45
+Royal Challengers Bengaluru,2,6,0.1,5.6,mandatory,D Padikkal,JC Archer,V Kohli,0,0,0,,,,,,,,,D Padikkal,caught,,,,,SO Hetmyer,,,45
+Royal Challengers Bengaluru,3,1,0.1,5.6,mandatory,V Kohli,Sandeep Sharma,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,46
+Royal Challengers Bengaluru,3,2,0.1,5.6,mandatory,RM Patidar,Sandeep Sharma,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,46
+Royal Challengers Bengaluru,3,3,0.1,5.6,mandatory,RM Patidar,Sandeep Sharma,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,46
+Royal Challengers Bengaluru,3,4,0.1,5.6,mandatory,RM Patidar,Sandeep Sharma,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,47
+Royal Challengers Bengaluru,3,5,0.1,5.6,mandatory,V Kohli,Sandeep Sharma,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,,51
+Royal Challengers Bengaluru,3,6,0.1,5.6,mandatory,V Kohli,Sandeep Sharma,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,,55
+Royal Challengers Bengaluru,4,1,0.1,5.6,mandatory,RM Patidar,Ravi Bishnoi,V Kohli,0,1,1,,,1.0,,,,,,,,,,,,,,,56
+Royal Challengers Bengaluru,4,2,0.1,5.6,mandatory,V Kohli,Ravi Bishnoi,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,56
+Royal Challengers Bengaluru,4,3,0.1,5.6,mandatory,V Kohli,Ravi Bishnoi,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,57
+Royal Challengers Bengaluru,4,4,0.1,5.6,mandatory,RM Patidar,Ravi Bishnoi,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,58
+Royal Challengers Bengaluru,4,5,0.1,5.6,mandatory,V Kohli,Ravi Bishnoi,RM Patidar,0,0,0,,,,,,,,,V Kohli,bowled,,,,,,,,58
+Royal Challengers Bengaluru,4,6,0.1,5.6,mandatory,KH Pandya,Ravi Bishnoi,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,58
+Royal Challengers Bengaluru,5,1,0.1,5.6,mandatory,RM Patidar,N Burger,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,,59
+Royal Challengers Bengaluru,5,2,0.1,5.6,mandatory,KH Pandya,N Burger,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,59
+Royal Challengers Bengaluru,5,3,0.1,5.6,mandatory,KH Pandya,N Burger,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,59
+Royal Challengers Bengaluru,5,4,0.1,5.6,mandatory,KH Pandya,N Burger,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,59
+Royal Challengers Bengaluru,5,5,0.1,5.6,mandatory,KH Pandya,N Burger,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,60
+Royal Challengers Bengaluru,5,6,0.1,5.6,mandatory,RM Patidar,N Burger,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,,61
+Royal Challengers Bengaluru,6,1,0.1,5.6,mandatory,RM Patidar,Ravi Bishnoi,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,,62
+Royal Challengers Bengaluru,6,2,0.1,5.6,mandatory,KH Pandya,Ravi Bishnoi,RM Patidar,0,0,0,,,,,,,,,KH Pandya,caught,,,,,SO Hetmyer,,,62
+Royal Challengers Bengaluru,6,3,0.1,5.6,mandatory,JM Sharma,Ravi Bishnoi,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,62
+Royal Challengers Bengaluru,6,4,0.1,5.6,mandatory,JM Sharma,Ravi Bishnoi,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,63
+Royal Challengers Bengaluru,6,5,0.1,5.6,mandatory,RM Patidar,Ravi Bishnoi,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,64
+Royal Challengers Bengaluru,6,6,0.1,5.6,mandatory,JM Sharma,Ravi Bishnoi,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,65
+Royal Challengers Bengaluru,7,1,0.1,5.6,mandatory,JM Sharma,RA Jadeja,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,66
+Royal Challengers Bengaluru,7,2,0.1,5.6,mandatory,RM Patidar,RA Jadeja,JM Sharma,4,0,4,,,,,,,,,,,,,,,,,,70
+Royal Challengers Bengaluru,7,3,0.1,5.6,mandatory,RM Patidar,RA Jadeja,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,71
+Royal Challengers Bengaluru,7,4,0.1,5.6,mandatory,JM Sharma,RA Jadeja,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,71
+Royal Challengers Bengaluru,7,5,0.1,5.6,mandatory,JM Sharma,RA Jadeja,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,72
+Royal Challengers Bengaluru,7,6,0.1,5.6,mandatory,RM Patidar,RA Jadeja,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,73
+Royal Challengers Bengaluru,8,1,0.1,5.6,mandatory,RM Patidar,Brijesh Sharma,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,74
+Royal Challengers Bengaluru,8,2,0.1,5.6,mandatory,JM Sharma,Brijesh Sharma,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,75
+Royal Challengers Bengaluru,8,3,0.1,5.6,mandatory,RM Patidar,Brijesh Sharma,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,76
+Royal Challengers Bengaluru,8,4,0.1,5.6,mandatory,JM Sharma,Brijesh Sharma,RM Patidar,0,0,0,,,,,,,,,JM Sharma,lbw,,,,,,,,76
+Royal Challengers Bengaluru,8,5,0.1,5.6,mandatory,TH David,Brijesh Sharma,RM Patidar,2,0,2,,,,,,,,,,,,,,,,,,78
+Royal Challengers Bengaluru,8,6,0.1,5.6,mandatory,TH David,Brijesh Sharma,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,,82
+Royal Challengers Bengaluru,9,1,0.1,5.6,mandatory,RM Patidar,JC Archer,TH David,1,0,1,,,,,,,,,,,,,,,,,,83
+Royal Challengers Bengaluru,9,2,0.1,5.6,mandatory,TH David,JC Archer,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,84
+Royal Challengers Bengaluru,9,3,0.1,5.6,mandatory,RM Patidar,JC Archer,TH David,1,0,1,,,,,,,,,,,,,,,,,,85
+Royal Challengers Bengaluru,9,4,0.1,5.6,mandatory,TH David,JC Archer,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,85
+Royal Challengers Bengaluru,9,5,0.1,5.6,mandatory,TH David,JC Archer,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,,89
+Royal Challengers Bengaluru,9,6,0.1,5.6,mandatory,TH David,JC Archer,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,89
+Royal Challengers Bengaluru,10,1,0.1,5.6,mandatory,RM Patidar,Brijesh Sharma,TH David,1,0,1,,,,,,,,,,,,,,,,,,90
+Royal Challengers Bengaluru,10,2,0.1,5.6,mandatory,TH David,Brijesh Sharma,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,91
+Royal Challengers Bengaluru,10,3,0.1,5.6,mandatory,RM Patidar,Brijesh Sharma,TH David,1,0,1,,,,,,,,,,,,,,,,,,92
+Royal Challengers Bengaluru,10,4,0.1,5.6,mandatory,TH David,Brijesh Sharma,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,93
+Royal Challengers Bengaluru,10,5,0.1,5.6,mandatory,RM Patidar,Brijesh Sharma,TH David,0,1,1,,,1.0,,,,,,,,,,,,,,,94
+Royal Challengers Bengaluru,10,6,0.1,5.6,mandatory,TH David,Brijesh Sharma,RM Patidar,0,0,0,,,,,,,,,TH David,caught,,,,,SO Hetmyer,,,94
+Royal Challengers Bengaluru,11,1,0.1,5.6,mandatory,RM Patidar,Ravi Bishnoi,R Shepherd,0,0,0,,,,,,,,,,,,,,,,,,94
+Royal Challengers Bengaluru,11,2,0.1,5.6,mandatory,RM Patidar,Ravi Bishnoi,R Shepherd,1,0,1,,,,,,,,,,,,,,,,,,95
+Royal Challengers Bengaluru,11,3,0.1,5.6,mandatory,R Shepherd,Ravi Bishnoi,RM Patidar,6,0,6,,,,,,,,,,,,,,,,,,101
+Royal Challengers Bengaluru,11,4,0.1,5.6,mandatory,R Shepherd,Ravi Bishnoi,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,102
+Royal Challengers Bengaluru,11,5,0.1,5.6,mandatory,RM Patidar,Ravi Bishnoi,R Shepherd,1,0,1,,,,,,,,,,,,,,,,,,103
+Royal Challengers Bengaluru,11,6,0.1,5.6,mandatory,R Shepherd,Ravi Bishnoi,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,104
+Royal Challengers Bengaluru,12,1,0.1,5.6,mandatory,R Shepherd,Brijesh Sharma,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,105
+Royal Challengers Bengaluru,12,2,0.1,5.6,mandatory,RM Patidar,Brijesh Sharma,R Shepherd,4,0,4,,,,,,,,,,,,,,,,,,109
+Royal Challengers Bengaluru,12,3,0.1,5.6,mandatory,RM Patidar,Brijesh Sharma,R Shepherd,1,0,1,,,,,,,,,,,,,,,,,,110
+Royal Challengers Bengaluru,12,4,0.1,5.6,mandatory,R Shepherd,Brijesh Sharma,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,,114
+Royal Challengers Bengaluru,12,5,0.1,5.6,mandatory,R Shepherd,Brijesh Sharma,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,,118
+Royal Challengers Bengaluru,12,6,0.1,5.6,mandatory,R Shepherd,Brijesh Sharma,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,119
+Royal Challengers Bengaluru,13,1,0.1,5.6,mandatory,R Shepherd,RA Jadeja,RM Patidar,2,0,2,,,,,,,,,,,,,,,,,,121
+Royal Challengers Bengaluru,13,2,0.1,5.6,mandatory,R Shepherd,RA Jadeja,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,122
+Royal Challengers Bengaluru,13,3,0.1,5.6,mandatory,RM Patidar,RA Jadeja,R Shepherd,1,0,1,,,,,,,,,,,,,,,,,,123
+Royal Challengers Bengaluru,13,4,0.1,5.6,mandatory,R Shepherd,RA Jadeja,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,124
+Royal Challengers Bengaluru,13,5,0.1,5.6,mandatory,RM Patidar,RA Jadeja,R Shepherd,1,0,1,,,,,,,,,,,,,,,,,,125
+Royal Challengers Bengaluru,13,6,0.1,5.6,mandatory,R Shepherd,RA Jadeja,RM Patidar,0,0,0,,,,,,,,,R Shepherd,caught,,,,,Brijesh Sharma,,,125
+Royal Challengers Bengaluru,14,1,0.1,5.6,mandatory,RM Patidar,N Burger,VR Iyer,1,0,1,,,,,,,,,,,VR Iyer,D Padikkal,Royal Challengers Bengaluru,impact_player,,,,126
+Royal Challengers Bengaluru,14,2,0.1,5.6,mandatory,VR Iyer,N Burger,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,127
+Royal Challengers Bengaluru,14,3,0.1,5.6,mandatory,RM Patidar,N Burger,VR Iyer,6,0,6,,,,,,,,,,,,,,,,,,133
+Royal Challengers Bengaluru,14,4,0.1,5.6,mandatory,RM Patidar,N Burger,VR Iyer,0,0,0,,,,,,,,,,,,,,,,,,133
+Royal Challengers Bengaluru,14,5,0.1,5.6,mandatory,RM Patidar,N Burger,VR Iyer,6,0,6,,,,,,,,,,,,,,,,,,139
+Royal Challengers Bengaluru,14,6,0.1,5.6,mandatory,RM Patidar,N Burger,VR Iyer,0,0,0,,,,,,,,,,,,,,,,,,139
+Royal Challengers Bengaluru,15,1,0.1,5.6,mandatory,VR Iyer,Sandeep Sharma,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,140
+Royal Challengers Bengaluru,15,2,0.1,5.6,mandatory,RM Patidar,Sandeep Sharma,VR Iyer,4,0,4,,,,,,,,,,,,,,,,,,144
+Royal Challengers Bengaluru,15,3,0.1,5.6,mandatory,RM Patidar,Sandeep Sharma,VR Iyer,2,0,2,,,,,,,,,,,,,,,,,,146
+Royal Challengers Bengaluru,15,4,0.1,5.6,mandatory,RM Patidar,Sandeep Sharma,VR Iyer,0,0,0,,,,,,,,,,,,,,,,,,146
+Royal Challengers Bengaluru,15,5,0.1,5.6,mandatory,RM Patidar,Sandeep Sharma,VR Iyer,4,0,4,,,,,,,,,,,,,,,,,,150
+Royal Challengers Bengaluru,15,6,0.1,5.6,mandatory,RM Patidar,Sandeep Sharma,VR Iyer,0,0,0,,,,,,,,,,,,,,,,,,150
+Royal Challengers Bengaluru,16,1,0.1,5.6,mandatory,VR Iyer,Ravi Bishnoi,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,151
+Royal Challengers Bengaluru,16,2,0.1,5.6,mandatory,RM Patidar,Ravi Bishnoi,VR Iyer,6,0,6,,,,,,,,,,,,,,,,,,157
+Royal Challengers Bengaluru,16,3,0.1,5.6,mandatory,RM Patidar,Ravi Bishnoi,VR Iyer,6,0,6,,,,,,,,,,,,,,,,,,163
+Royal Challengers Bengaluru,16,4,0.1,5.6,mandatory,RM Patidar,Ravi Bishnoi,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,164
+Royal Challengers Bengaluru,16,5,0.1,5.6,mandatory,VR Iyer,Ravi Bishnoi,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,164
+Royal Challengers Bengaluru,16,6,0.1,5.6,mandatory,VR Iyer,Ravi Bishnoi,RM Patidar,2,0,2,,,,,,,,,,,,,,,,,,166
+Royal Challengers Bengaluru,17,1,0.1,5.6,mandatory,RM Patidar,Sandeep Sharma,VR Iyer,0,0,0,,,,,,,,,RM Patidar,caught,,,,,D Ferreira,,,166
+Royal Challengers Bengaluru,17,2,0.1,5.6,mandatory,B Kumar,Sandeep Sharma,VR Iyer,0,1,1,1.0,,,,,,,,,,,,,,,,,167
+Royal Challengers Bengaluru,17,3,0.1,5.6,mandatory,B Kumar,Sandeep Sharma,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,168
+Royal Challengers Bengaluru,17,4,0.1,5.6,mandatory,VR Iyer,Sandeep Sharma,B Kumar,1,0,1,,,,,,,,,,,,,,,,,,169
+Royal Challengers Bengaluru,17,5,0.1,5.6,mandatory,B Kumar,Sandeep Sharma,VR Iyer,0,0,0,,,,,,,,,,,,,,,,,,169
+Royal Challengers Bengaluru,17,6,0.1,5.6,mandatory,B Kumar,Sandeep Sharma,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,170
+Royal Challengers Bengaluru,17,7,0.1,5.6,mandatory,VR Iyer,Sandeep Sharma,B Kumar,1,0,1,,,,,,,,,,,,,,,,,,171
+Royal Challengers Bengaluru,18,1,0.1,5.6,mandatory,VR Iyer,Brijesh Sharma,B Kumar,1,0,1,,,,,,,,,,,,,,,,,,172
+Royal Challengers Bengaluru,18,2,0.1,5.6,mandatory,B Kumar,Brijesh Sharma,VR Iyer,0,0,0,,,,,,,,,,,,,,,,,,172
+Royal Challengers Bengaluru,18,3,0.1,5.6,mandatory,B Kumar,Brijesh Sharma,VR Iyer,4,0,4,,,,,,,,,,,,,,,,,,176
+Royal Challengers Bengaluru,18,4,0.1,5.6,mandatory,B Kumar,Brijesh Sharma,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,177
+Royal Challengers Bengaluru,18,5,0.1,5.6,mandatory,VR Iyer,Brijesh Sharma,B Kumar,1,0,1,,,,,,,,,,,,,,,,,,178
+Royal Challengers Bengaluru,18,6,0.1,5.6,mandatory,B Kumar,Brijesh Sharma,VR Iyer,2,0,2,,,,,,,,,,,,,,,,,,180
+Royal Challengers Bengaluru,19,1,0.1,5.6,mandatory,VR Iyer,Sandeep Sharma,B Kumar,4,0,4,,,,,,,,,,,,,,,,,,184
+Royal Challengers Bengaluru,19,2,0.1,5.6,mandatory,VR Iyer,Sandeep Sharma,B Kumar,6,0,6,,,,,,,,,,,,,,,,,,190
+Royal Challengers Bengaluru,19,3,0.1,5.6,mandatory,VR Iyer,Sandeep Sharma,B Kumar,0,0,0,,,,,,,,,,,,,,,,,,190
+Royal Challengers Bengaluru,19,4,0.1,5.6,mandatory,VR Iyer,Sandeep Sharma,B Kumar,2,0,2,,,,,,,,,,,,,,,,,,192
+Royal Challengers Bengaluru,19,5,0.1,5.6,mandatory,VR Iyer,Sandeep Sharma,B Kumar,0,1,1,1.0,,,,,,,,,,,,,,,,,193
+Royal Challengers Bengaluru,19,6,0.1,5.6,mandatory,VR Iyer,Sandeep Sharma,B Kumar,2,0,2,,,,,,,,,,,,,,,,,,195
+Royal Challengers Bengaluru,19,7,0.1,5.6,mandatory,VR Iyer,Sandeep Sharma,B Kumar,6,0,6,,,,,,,,,,,,,,,,,,201
+Rajasthan Royals,0,1,0.1,5.6,mandatory,YBK Jaiswal,B Kumar,V Suryavanshi,0,0,0,,,,,,,,,,,V Suryavanshi,Sandeep Sharma,Rajasthan Royals,impact_player,,20.0,202.0,0
+Rajasthan Royals,0,2,0.1,5.6,mandatory,YBK Jaiswal,B Kumar,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,1
+Rajasthan Royals,0,3,0.1,5.6,mandatory,V Suryavanshi,B Kumar,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,5
+Rajasthan Royals,0,4,0.1,5.6,mandatory,V Suryavanshi,B Kumar,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,5
+Rajasthan Royals,0,5,0.1,5.6,mandatory,V Suryavanshi,B Kumar,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,5
+Rajasthan Royals,0,6,0.1,5.6,mandatory,V Suryavanshi,B Kumar,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,9
+Rajasthan Royals,1,1,0.1,5.6,mandatory,YBK Jaiswal,JR Hazlewood,V Suryavanshi,6,0,6,,,,,,,,,,,,,,,,20.0,202.0,15
+Rajasthan Royals,1,2,0.1,5.6,mandatory,YBK Jaiswal,JR Hazlewood,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,15
+Rajasthan Royals,1,3,0.1,5.6,mandatory,YBK Jaiswal,JR Hazlewood,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,15
+Rajasthan Royals,1,4,0.1,5.6,mandatory,YBK Jaiswal,JR Hazlewood,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,15
+Rajasthan Royals,1,5,0.1,5.6,mandatory,YBK Jaiswal,JR Hazlewood,V Suryavanshi,6,0,6,,,,,,,,,,,,,,,,20.0,202.0,21
+Rajasthan Royals,1,6,0.1,5.6,mandatory,YBK Jaiswal,JR Hazlewood,V Suryavanshi,0,0,0,,,,,,,,,YBK Jaiswal,caught,,,,,JM Sharma,20.0,202.0,21
+Rajasthan Royals,2,1,0.1,5.6,mandatory,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,21
+Rajasthan Royals,2,2,0.1,5.6,mandatory,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,25
+Rajasthan Royals,2,3,0.1,5.6,mandatory,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,29
+Rajasthan Royals,2,4,0.1,5.6,mandatory,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,30
+Rajasthan Royals,2,5,0.1,5.6,mandatory,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,31
+Rajasthan Royals,2,6,0.1,5.6,mandatory,V Suryavanshi,Abhinandan Singh,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,20.0,202.0,37
+Rajasthan Royals,3,1,0.1,5.6,mandatory,Dhruv Jurel,JR Hazlewood,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,37
+Rajasthan Royals,3,2,0.1,5.6,mandatory,Dhruv Jurel,JR Hazlewood,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,38
+Rajasthan Royals,3,3,0.1,5.6,mandatory,V Suryavanshi,JR Hazlewood,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,42
+Rajasthan Royals,3,4,0.1,5.6,mandatory,V Suryavanshi,JR Hazlewood,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,46
+Rajasthan Royals,3,5,0.1,5.6,mandatory,V Suryavanshi,JR Hazlewood,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,50
+Rajasthan Royals,3,6,0.1,5.6,mandatory,V Suryavanshi,JR Hazlewood,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,20.0,202.0,56
+Rajasthan Royals,4,1,0.1,5.6,mandatory,Dhruv Jurel,B Kumar,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,57
+Rajasthan Royals,4,2,0.1,5.6,mandatory,V Suryavanshi,B Kumar,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,20.0,202.0,63
+Rajasthan Royals,4,3,0.1,5.6,mandatory,V Suryavanshi,B Kumar,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,20.0,202.0,69
+Rajasthan Royals,4,4,0.1,5.6,mandatory,V Suryavanshi,B Kumar,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,69
+Rajasthan Royals,4,5,0.1,5.6,mandatory,V Suryavanshi,B Kumar,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,69
+Rajasthan Royals,4,6,0.1,5.6,mandatory,V Suryavanshi,B Kumar,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,73
+Rajasthan Royals,5,1,0.1,5.6,mandatory,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,77
+Rajasthan Royals,5,2,0.1,5.6,mandatory,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,6,0,6,,,,,,,,,,,,,,,,20.0,202.0,83
+Rajasthan Royals,5,3,0.1,5.6,mandatory,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,87
+Rajasthan Royals,5,4,0.1,5.6,mandatory,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,87
+Rajasthan Royals,5,5,0.1,5.6,mandatory,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,6,0,6,,,,,,,,,,,,,,,,20.0,202.0,93
+Rajasthan Royals,5,6,0.1,5.6,mandatory,Dhruv Jurel,Abhinandan Singh,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,97
+Rajasthan Royals,6,1,0.1,5.6,mandatory,V Suryavanshi,KH Pandya,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,98
+Rajasthan Royals,6,2,0.1,5.6,mandatory,Dhruv Jurel,KH Pandya,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,102
+Rajasthan Royals,6,3,0.1,5.6,mandatory,Dhruv Jurel,KH Pandya,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,103
+Rajasthan Royals,6,4,0.1,5.6,mandatory,V Suryavanshi,KH Pandya,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,104
+Rajasthan Royals,6,5,0.1,5.6,mandatory,Dhruv Jurel,KH Pandya,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,105
+Rajasthan Royals,6,6,0.1,5.6,mandatory,V Suryavanshi,KH Pandya,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,20.0,202.0,111
+Rajasthan Royals,7,1,0.1,5.6,mandatory,Dhruv Jurel,TH David,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,115
+Rajasthan Royals,7,2,0.1,5.6,mandatory,Dhruv Jurel,TH David,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,116
+Rajasthan Royals,7,3,0.1,5.6,mandatory,V Suryavanshi,TH David,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,116
+Rajasthan Royals,7,4,0.1,5.6,mandatory,V Suryavanshi,TH David,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,20.0,202.0,122
+Rajasthan Royals,7,5,0.1,5.6,mandatory,V Suryavanshi,TH David,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,20.0,202.0,128
+Rajasthan Royals,7,6,0.1,5.6,mandatory,V Suryavanshi,TH David,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,129
+Rajasthan Royals,8,1,0.1,5.6,mandatory,V Suryavanshi,KH Pandya,Dhruv Jurel,0,0,0,,,,,,,,,V Suryavanshi,caught,,,,,V Kohli,20.0,202.0,129
+Rajasthan Royals,8,2,0.1,5.6,mandatory,SO Hetmyer,KH Pandya,Dhruv Jurel,0,0,0,,,,,,,,,SO Hetmyer,caught,,,,,JR Hazlewood,20.0,202.0,129
+Rajasthan Royals,8,3,0.1,5.6,mandatory,R Parag,KH Pandya,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,130
+Rajasthan Royals,8,4,0.1,5.6,mandatory,Dhruv Jurel,KH Pandya,R Parag,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,131
+Rajasthan Royals,8,5,0.1,5.6,mandatory,R Parag,KH Pandya,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,131
+Rajasthan Royals,8,6,0.1,5.6,mandatory,R Parag,KH Pandya,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,132
+Rajasthan Royals,9,1,0.1,5.6,mandatory,R Parag,JR Hazlewood,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,133
+Rajasthan Royals,9,2,0.1,5.6,mandatory,Dhruv Jurel,JR Hazlewood,R Parag,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,133
+Rajasthan Royals,9,3,0.1,5.6,mandatory,Dhruv Jurel,JR Hazlewood,R Parag,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,134
+Rajasthan Royals,9,4,0.1,5.6,mandatory,R Parag,JR Hazlewood,Dhruv Jurel,0,0,0,,,,,,,,,R Parag,caught,,,,,KH Pandya,20.0,202.0,134
+Rajasthan Royals,9,5,0.1,5.6,mandatory,RA Jadeja,JR Hazlewood,Dhruv Jurel,2,0,2,,,,,,,,,,,,,,,,20.0,202.0,136
+Rajasthan Royals,9,6,0.1,5.6,mandatory,RA Jadeja,JR Hazlewood,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,137
+Rajasthan Royals,10,1,0.1,5.6,mandatory,RA Jadeja,KH Pandya,Dhruv Jurel,2,0,2,,,,,,,,,,,,,,,,20.0,202.0,139
+Rajasthan Royals,10,2,0.1,5.6,mandatory,RA Jadeja,KH Pandya,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,139
+Rajasthan Royals,10,3,0.1,5.6,mandatory,RA Jadeja,KH Pandya,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,139
+Rajasthan Royals,10,4,0.1,5.6,mandatory,RA Jadeja,KH Pandya,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,140
+Rajasthan Royals,10,5,0.1,5.6,mandatory,Dhruv Jurel,KH Pandya,RA Jadeja,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,140
+Rajasthan Royals,10,6,0.1,5.6,mandatory,Dhruv Jurel,KH Pandya,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,141
+Rajasthan Royals,11,1,0.1,5.6,mandatory,Dhruv Jurel,B Kumar,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,142
+Rajasthan Royals,11,2,0.1,5.6,mandatory,RA Jadeja,B Kumar,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,142
+Rajasthan Royals,11,3,0.1,5.6,mandatory,RA Jadeja,B Kumar,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,142
+Rajasthan Royals,11,4,0.1,5.6,mandatory,RA Jadeja,B Kumar,Dhruv Jurel,2,0,2,,,,,,,,,,,,,,,,20.0,202.0,144
+Rajasthan Royals,11,5,0.1,5.6,mandatory,RA Jadeja,B Kumar,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,144
+Rajasthan Royals,11,6,0.1,5.6,mandatory,RA Jadeja,B Kumar,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,145
+Rajasthan Royals,12,1,0.1,5.6,mandatory,RA Jadeja,KH Pandya,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,149
+Rajasthan Royals,12,2,0.1,5.6,mandatory,RA Jadeja,KH Pandya,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,150
+Rajasthan Royals,12,3,0.1,5.6,mandatory,Dhruv Jurel,KH Pandya,RA Jadeja,2,0,2,,,,,,,,,,,,,,,,20.0,202.0,152
+Rajasthan Royals,12,4,0.1,5.6,mandatory,Dhruv Jurel,KH Pandya,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,153
+Rajasthan Royals,12,5,0.1,5.6,mandatory,RA Jadeja,KH Pandya,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,153
+Rajasthan Royals,12,6,0.1,5.6,mandatory,RA Jadeja,KH Pandya,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,154
+Rajasthan Royals,13,1,0.1,5.6,mandatory,RA Jadeja,JR Hazlewood,Dhruv Jurel,0,1,1,,,1.0,Royal Challengers Bengaluru,HDPK Dharmasena,RA Jadeja,struck down,wicket,,,,,,,,20.0,202.0,155
+Rajasthan Royals,13,2,0.1,5.6,mandatory,Dhruv Jurel,JR Hazlewood,RA Jadeja,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,159
+Rajasthan Royals,13,3,0.1,5.6,mandatory,Dhruv Jurel,JR Hazlewood,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,160
+Rajasthan Royals,13,4,0.1,5.6,mandatory,RA Jadeja,JR Hazlewood,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,161
+Rajasthan Royals,13,5,0.1,5.6,mandatory,Dhruv Jurel,JR Hazlewood,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,162
+Rajasthan Royals,13,6,0.1,5.6,mandatory,RA Jadeja,JR Hazlewood,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,163
+Rajasthan Royals,14,1,0.1,5.6,mandatory,RA Jadeja,Abhinandan Singh,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,164
+Rajasthan Royals,14,2,0.1,5.6,mandatory,Dhruv Jurel,Abhinandan Singh,RA Jadeja,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,168
+Rajasthan Royals,14,3,0.1,5.6,mandatory,Dhruv Jurel,Abhinandan Singh,RA Jadeja,0,1,1,1.0,,,,,,,,,,,,,,,20.0,202.0,169
+Rajasthan Royals,14,4,0.1,5.6,mandatory,Dhruv Jurel,Abhinandan Singh,RA Jadeja,4,0,4,,,,,,,,,,,,,,,,20.0,202.0,173
+Rajasthan Royals,14,5,0.1,5.6,mandatory,Dhruv Jurel,Abhinandan Singh,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,174
+Rajasthan Royals,14,6,0.1,5.6,mandatory,RA Jadeja,Abhinandan Singh,Dhruv Jurel,0,1,1,1.0,,,,,,,,,,,,,,,20.0,202.0,175
+Rajasthan Royals,14,7,0.1,5.6,mandatory,RA Jadeja,Abhinandan Singh,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,176
+Rajasthan Royals,14,8,0.1,5.6,mandatory,Dhruv Jurel,Abhinandan Singh,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,177
+Rajasthan Royals,15,1,0.1,5.6,mandatory,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,178
+Rajasthan Royals,15,2,0.1,5.6,mandatory,RA Jadeja,R Shepherd,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,179
+Rajasthan Royals,15,3,0.1,5.6,mandatory,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,180
+Rajasthan Royals,15,4,0.1,5.6,mandatory,RA Jadeja,R Shepherd,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,181
+Rajasthan Royals,15,5,0.1,5.6,mandatory,Dhruv Jurel,R Shepherd,RA Jadeja,2,0,2,,,,,,,,,,,,,,,,20.0,202.0,183
+Rajasthan Royals,15,6,0.1,5.6,mandatory,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,184
+Rajasthan Royals,16,1,0.1,5.6,mandatory,Dhruv Jurel,B Kumar,RA Jadeja,2,0,2,,,,,,,,,,,,,,,,20.0,202.0,186
+Rajasthan Royals,16,2,0.1,5.6,mandatory,Dhruv Jurel,B Kumar,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,187
+Rajasthan Royals,16,3,0.1,5.6,mandatory,RA Jadeja,B Kumar,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,188
+Rajasthan Royals,16,4,0.1,5.6,mandatory,Dhruv Jurel,B Kumar,RA Jadeja,2,0,2,,,,,,,,,,,,,,,,20.0,202.0,190
+Rajasthan Royals,16,5,0.1,5.6,mandatory,Dhruv Jurel,B Kumar,RA Jadeja,0,0,0,,,,,,,,,,,,,,,,20.0,202.0,190
+Rajasthan Royals,16,6,0.1,5.6,mandatory,Dhruv Jurel,B Kumar,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,191
+Rajasthan Royals,17,1,0.1,5.6,mandatory,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,192
+Rajasthan Royals,17,2,0.1,5.6,mandatory,RA Jadeja,R Shepherd,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,193
+Rajasthan Royals,17,3,0.1,5.6,mandatory,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,194
+Rajasthan Royals,17,4,0.1,5.6,mandatory,RA Jadeja,R Shepherd,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,195
+Rajasthan Royals,17,5,0.1,5.6,mandatory,Dhruv Jurel,R Shepherd,RA Jadeja,6,0,6,,,,,,,,,,,,,,,,20.0,202.0,201
+Rajasthan Royals,17,6,0.1,5.6,mandatory,Dhruv Jurel,R Shepherd,RA Jadeja,1,0,1,,,,,,,,,,,,,,,,20.0,202.0,202

@@ -1,0 +1,258 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,legbyes,byes,review_by,review_umpire,review_batter,review_decision,review_type,noballs,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Sunrisers Hyderabad,0,1,0.1,5.6,mandatory,Abhishek Sharma,MW Short,TM Head,0,0,0,,,,,,,,,,,,,,,,,,,0
+Sunrisers Hyderabad,0,2,0.1,5.6,mandatory,Abhishek Sharma,MW Short,TM Head,1,0,1,,,,,,,,,,,,,,,,,,,1
+Sunrisers Hyderabad,0,3,0.1,5.6,mandatory,TM Head,MW Short,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,1
+Sunrisers Hyderabad,0,4,0.1,5.6,mandatory,TM Head,MW Short,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,2
+Sunrisers Hyderabad,0,5,0.1,5.6,mandatory,Abhishek Sharma,MW Short,TM Head,1,0,1,,,,,,,,,,,,,,,,,,,3
+Sunrisers Hyderabad,0,6,0.1,5.6,mandatory,TM Head,MW Short,Abhishek Sharma,0,1,1,1.0,,,,,,,,,,,,,,,,,,4
+Sunrisers Hyderabad,0,7,0.1,5.6,mandatory,TM Head,MW Short,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,4
+Sunrisers Hyderabad,1,1,0.1,5.6,mandatory,Abhishek Sharma,Mukesh Choudhary,TM Head,6,0,6,,,,,,,,,,,,,,,,,,,10
+Sunrisers Hyderabad,1,2,0.1,5.6,mandatory,Abhishek Sharma,Mukesh Choudhary,TM Head,2,0,2,,,,,,,,,,,,,,,,,,,12
+Sunrisers Hyderabad,1,3,0.1,5.6,mandatory,Abhishek Sharma,Mukesh Choudhary,TM Head,1,0,1,,,,,,,,,,,,,,,,,,,13
+Sunrisers Hyderabad,1,4,0.1,5.6,mandatory,TM Head,Mukesh Choudhary,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,13
+Sunrisers Hyderabad,1,5,0.1,5.6,mandatory,TM Head,Mukesh Choudhary,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,13
+Sunrisers Hyderabad,1,6,0.1,5.6,mandatory,TM Head,Mukesh Choudhary,Abhishek Sharma,0,1,1,,1.0,,,,,,,,,,,,,,,,,14
+Sunrisers Hyderabad,2,1,0.1,5.6,mandatory,TM Head,MW Short,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,15
+Sunrisers Hyderabad,2,2,0.1,5.6,mandatory,Abhishek Sharma,MW Short,TM Head,6,0,6,,,,,,,,,,,,,,,,,,,21
+Sunrisers Hyderabad,2,3,0.1,5.6,mandatory,Abhishek Sharma,MW Short,TM Head,1,0,1,,,,,,,,,,,,,,,,,,,22
+Sunrisers Hyderabad,2,4,0.1,5.6,mandatory,TM Head,MW Short,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,22
+Sunrisers Hyderabad,2,5,0.1,5.6,mandatory,TM Head,MW Short,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,22
+Sunrisers Hyderabad,2,6,0.1,5.6,mandatory,TM Head,MW Short,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,23
+Sunrisers Hyderabad,3,1,0.1,5.6,mandatory,TM Head,A Kamboj,Abhishek Sharma,6,0,6,,,,,,,,,,,,,,,,,,,29
+Sunrisers Hyderabad,3,2,0.1,5.6,mandatory,TM Head,A Kamboj,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,29
+Sunrisers Hyderabad,3,3,0.1,5.6,mandatory,TM Head,A Kamboj,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,29
+Sunrisers Hyderabad,3,4,0.1,5.6,mandatory,TM Head,A Kamboj,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,30
+Sunrisers Hyderabad,3,5,0.1,5.6,mandatory,Abhishek Sharma,A Kamboj,TM Head,4,0,4,,,,,,,,,,,,,,,,,,,34
+Sunrisers Hyderabad,3,6,0.1,5.6,mandatory,Abhishek Sharma,A Kamboj,TM Head,4,0,4,,,,,,,,,,,,,,,,,,,38
+Sunrisers Hyderabad,4,1,0.1,5.6,mandatory,TM Head,MW Short,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,39
+Sunrisers Hyderabad,4,2,0.1,5.6,mandatory,Abhishek Sharma,MW Short,TM Head,4,0,4,,,,,,,,,,,,,,,,,,,43
+Sunrisers Hyderabad,4,3,0.1,5.6,mandatory,Abhishek Sharma,MW Short,TM Head,4,0,4,,,,,,,,,,,,,,,,,,,47
+Sunrisers Hyderabad,4,4,0.1,5.6,mandatory,Abhishek Sharma,MW Short,TM Head,4,0,4,,,,,,,,,,,,,,,,,,,51
+Sunrisers Hyderabad,4,5,0.1,5.6,mandatory,Abhishek Sharma,MW Short,TM Head,6,0,6,,,,,,,,,,,,,,,,,,,57
+Sunrisers Hyderabad,4,6,0.1,5.6,mandatory,Abhishek Sharma,MW Short,TM Head,6,0,6,,,,,,,,,,,,,,,,,,,63
+Sunrisers Hyderabad,5,1,0.1,5.6,mandatory,TM Head,Mukesh Choudhary,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,,67
+Sunrisers Hyderabad,5,2,0.1,5.6,mandatory,TM Head,Mukesh Choudhary,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,67
+Sunrisers Hyderabad,5,3,0.1,5.6,mandatory,TM Head,Mukesh Choudhary,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,,71
+Sunrisers Hyderabad,5,4,0.1,5.6,mandatory,TM Head,Mukesh Choudhary,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,,75
+Sunrisers Hyderabad,5,5,0.1,5.6,mandatory,TM Head,Mukesh Choudhary,Abhishek Sharma,0,0,0,,,,,,,,,,TM Head,caught,,,,,RD Gaikwad,,,75
+Sunrisers Hyderabad,5,6,0.1,5.6,mandatory,Ishan Kishan,Mukesh Choudhary,Abhishek Sharma,0,0,0,,,,,,,,,,Ishan Kishan,caught,,,,,RD Gaikwad,,,75
+Sunrisers Hyderabad,6,1,0.1,5.6,mandatory,Abhishek Sharma,Noor Ahmad,H Klaasen,0,4,4,,,4.0,,,,,,,,,,,,,,,,79
+Sunrisers Hyderabad,6,2,0.1,5.6,mandatory,Abhishek Sharma,Noor Ahmad,H Klaasen,0,1,1,1.0,,,,,,,,,,,,,,,,,,80
+Sunrisers Hyderabad,6,3,0.1,5.6,mandatory,Abhishek Sharma,Noor Ahmad,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,81
+Sunrisers Hyderabad,6,4,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,,81
+Sunrisers Hyderabad,6,5,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,82
+Sunrisers Hyderabad,6,6,0.1,5.6,mandatory,Abhishek Sharma,Noor Ahmad,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,83
+Sunrisers Hyderabad,6,7,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,Abhishek Sharma,0,1,1,,1.0,,,,,,,,,,,,,,,,,84
+Sunrisers Hyderabad,7,1,0.1,5.6,mandatory,H Klaasen,J Overton,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,,85
+Sunrisers Hyderabad,7,2,0.1,5.6,mandatory,Abhishek Sharma,J Overton,H Klaasen,4,0,4,,,,,,,,,,,,,,,,,,,89
+Sunrisers Hyderabad,7,3,0.1,5.6,mandatory,Abhishek Sharma,J Overton,H Klaasen,2,0,2,,,,,,,,,,,,,,,,,,,91
+Sunrisers Hyderabad,7,4,0.1,5.6,mandatory,Abhishek Sharma,J Overton,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,92
+Sunrisers Hyderabad,7,5,0.1,5.6,mandatory,H Klaasen,J Overton,Abhishek Sharma,0,1,1,,1.0,,,,,,,,,,,,,,,,,93
+Sunrisers Hyderabad,7,6,0.1,5.6,mandatory,Abhishek Sharma,J Overton,H Klaasen,0,0,0,,,,Chennai Super Kings,Vinod Seshan,Abhishek Sharma,upheld,wicket,,Abhishek Sharma,caught,,,,,SV Samson,,,93
+Sunrisers Hyderabad,8,1,0.1,5.6,mandatory,H Klaasen,Gurjapneet Singh,Aniket Verma,0,0,0,,,,,,,,,,,,,,,,,,,93
+Sunrisers Hyderabad,8,2,0.1,5.6,mandatory,H Klaasen,Gurjapneet Singh,Aniket Verma,6,0,6,,,,,,,,,,,,,,,,,,,99
+Sunrisers Hyderabad,8,3,0.1,5.6,mandatory,H Klaasen,Gurjapneet Singh,Aniket Verma,0,0,0,,,,,,,,,,,,,,,,,,,99
+Sunrisers Hyderabad,8,4,0.1,5.6,mandatory,H Klaasen,Gurjapneet Singh,Aniket Verma,0,0,0,,,,,,,,,,,,,,,,,,,99
+Sunrisers Hyderabad,8,5,0.1,5.6,mandatory,H Klaasen,Gurjapneet Singh,Aniket Verma,1,0,1,,,,,,,,,,,,,,,,,,,100
+Sunrisers Hyderabad,8,6,0.1,5.6,mandatory,Aniket Verma,Gurjapneet Singh,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,,100
+Sunrisers Hyderabad,9,1,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,Aniket Verma,1,0,1,,,,,,,,,,,,,,,,,,,101
+Sunrisers Hyderabad,9,2,0.1,5.6,mandatory,Aniket Verma,Noor Ahmad,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,102
+Sunrisers Hyderabad,9,3,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,Aniket Verma,4,0,4,,,,,,,,,,,,,,,,,,,106
+Sunrisers Hyderabad,9,4,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,Aniket Verma,4,0,4,,,,,,,,,,,,,,,,,,,110
+Sunrisers Hyderabad,9,5,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,Aniket Verma,1,0,1,,,,,,,,,,,,,,,,,,,111
+Sunrisers Hyderabad,9,6,0.1,5.6,mandatory,Aniket Verma,Noor Ahmad,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,112
+Sunrisers Hyderabad,10,1,0.1,5.6,mandatory,Aniket Verma,J Overton,H Klaasen,0,0,0,,,,,,,,,,Aniket Verma,caught,,,,,Noor Ahmad,,,112
+Sunrisers Hyderabad,10,2,0.1,5.6,mandatory,Nithish Kumar Reddy,J Overton,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,113
+Sunrisers Hyderabad,10,3,0.1,5.6,mandatory,H Klaasen,J Overton,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,,,,,113
+Sunrisers Hyderabad,10,4,0.1,5.6,mandatory,H Klaasen,J Overton,Nithish Kumar Reddy,2,0,2,,,,,,,,,,,,,,,,,,,115
+Sunrisers Hyderabad,10,5,0.1,5.6,mandatory,H Klaasen,J Overton,Nithish Kumar Reddy,2,0,2,,,,,,,,,,,,,,,,,,,117
+Sunrisers Hyderabad,10,6,0.1,5.6,mandatory,H Klaasen,J Overton,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,,118
+Sunrisers Hyderabad,11,1,0.1,5.6,mandatory,H Klaasen,Gurjapneet Singh,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,,119
+Sunrisers Hyderabad,11,2,0.1,5.6,mandatory,Nithish Kumar Reddy,Gurjapneet Singh,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,120
+Sunrisers Hyderabad,11,3,0.1,5.6,mandatory,H Klaasen,Gurjapneet Singh,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,,,,,120
+Sunrisers Hyderabad,11,4,0.1,5.6,mandatory,H Klaasen,Gurjapneet Singh,Nithish Kumar Reddy,4,0,4,,,,,,,,,,,,,,,,,,,124
+Sunrisers Hyderabad,11,5,0.1,5.6,mandatory,H Klaasen,Gurjapneet Singh,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,,125
+Sunrisers Hyderabad,11,6,0.1,5.6,mandatory,Nithish Kumar Reddy,Gurjapneet Singh,H Klaasen,6,0,6,,,,,,,,,,,,,,,,,,,131
+Sunrisers Hyderabad,12,1,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,,132
+Sunrisers Hyderabad,12,2,0.1,5.6,mandatory,Nithish Kumar Reddy,Noor Ahmad,H Klaasen,2,0,2,,,,,,,,,,,,,,,,,,,134
+Sunrisers Hyderabad,12,3,0.1,5.6,mandatory,Nithish Kumar Reddy,Noor Ahmad,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,,134
+Sunrisers Hyderabad,12,4,0.1,5.6,mandatory,Nithish Kumar Reddy,Noor Ahmad,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,135
+Sunrisers Hyderabad,12,5,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,Nithish Kumar Reddy,4,0,4,,,,,,,,,,,,,,,,,,,139
+Sunrisers Hyderabad,12,6,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,,,,,139
+Sunrisers Hyderabad,13,1,0.1,5.6,mandatory,Nithish Kumar Reddy,J Overton,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,140
+Sunrisers Hyderabad,13,2,0.1,5.6,mandatory,H Klaasen,J Overton,Nithish Kumar Reddy,4,0,4,,,,,,,,,,,,,,,,,,,144
+Sunrisers Hyderabad,13,3,0.1,5.6,mandatory,H Klaasen,J Overton,Nithish Kumar Reddy,2,0,2,,,,,,,,,,,,,,,,,,,146
+Sunrisers Hyderabad,13,4,0.1,5.6,mandatory,H Klaasen,J Overton,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,,147
+Sunrisers Hyderabad,13,5,0.1,5.6,mandatory,Nithish Kumar Reddy,J Overton,H Klaasen,0,0,0,,,,,,,,,,Nithish Kumar Reddy,caught,,,,,MW Short,,,147
+Sunrisers Hyderabad,13,6,0.1,5.6,mandatory,S Arora,J Overton,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,148
+Sunrisers Hyderabad,14,1,0.1,5.6,mandatory,S Arora,Gurjapneet Singh,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,149
+Sunrisers Hyderabad,14,2,0.1,5.6,mandatory,H Klaasen,Gurjapneet Singh,S Arora,0,0,0,,,,,,,,,,,,,,,,,,,149
+Sunrisers Hyderabad,14,3,0.1,5.6,mandatory,H Klaasen,Gurjapneet Singh,S Arora,1,0,1,,,,,,,,,,,,,,,,,,,150
+Sunrisers Hyderabad,14,4,0.1,5.6,mandatory,S Arora,Gurjapneet Singh,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,,150
+Sunrisers Hyderabad,14,5,0.1,5.6,mandatory,S Arora,Gurjapneet Singh,H Klaasen,4,0,4,,,,,,,,,,,,,,,,,,,154
+Sunrisers Hyderabad,14,6,0.1,5.6,mandatory,S Arora,Gurjapneet Singh,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,,154
+Sunrisers Hyderabad,15,1,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,S Arora,6,0,6,,,,,,,,,,,,,,,,,,,160
+Sunrisers Hyderabad,15,2,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,S Arora,1,0,1,,,,,,,,,,,,,,,,,,,161
+Sunrisers Hyderabad,15,3,0.1,5.6,mandatory,S Arora,Noor Ahmad,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,162
+Sunrisers Hyderabad,15,4,0.1,5.6,mandatory,H Klaasen,Noor Ahmad,S Arora,1,0,1,,,,,,,,,,,,,,,,,,,163
+Sunrisers Hyderabad,15,5,0.1,5.6,mandatory,S Arora,Noor Ahmad,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,,163
+Sunrisers Hyderabad,15,6,0.1,5.6,mandatory,S Arora,Noor Ahmad,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,,163
+Sunrisers Hyderabad,16,1,0.1,5.6,mandatory,H Klaasen,J Overton,S Arora,1,0,1,,,,,,,,,,,,,,,,,,,164
+Sunrisers Hyderabad,16,2,0.1,5.6,mandatory,S Arora,J Overton,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,,165
+Sunrisers Hyderabad,16,3,0.1,5.6,mandatory,H Klaasen,J Overton,S Arora,4,0,4,,,,,,,,,,,,,,,,,,,169
+Sunrisers Hyderabad,16,4,0.1,5.6,mandatory,H Klaasen,J Overton,S Arora,0,1,1,1.0,,,,,,,,,,,,,,,,,,170
+Sunrisers Hyderabad,16,5,0.1,5.6,mandatory,H Klaasen,J Overton,S Arora,2,0,2,,,,,,,,,,,,,,,,,,,172
+Sunrisers Hyderabad,16,6,0.1,5.6,mandatory,H Klaasen,J Overton,S Arora,1,0,1,,,,,,,,,,,,,,,,,,,173
+Sunrisers Hyderabad,16,7,0.1,5.6,mandatory,S Arora,J Overton,H Klaasen,4,0,4,,,,,,,,,,,,,,,,,,,177
+Sunrisers Hyderabad,17,1,0.1,5.6,mandatory,H Klaasen,A Kamboj,S Arora,0,0,0,,,,,,,,,,,,,,,,,,,177
+Sunrisers Hyderabad,17,2,0.1,5.6,mandatory,H Klaasen,A Kamboj,S Arora,0,0,0,,,,,,,,,,H Klaasen,bowled,,,,,,,,177
+Sunrisers Hyderabad,17,3,0.1,5.6,mandatory,LS Livingstone,A Kamboj,S Arora,0,1,1,,1.0,,,,,,,,,,LS Livingstone,TM Head,Sunrisers Hyderabad,impact_player,,,,178
+Sunrisers Hyderabad,17,4,0.1,5.6,mandatory,S Arora,A Kamboj,LS Livingstone,1,0,1,,,,,,,,,,,,,,,,,,,179
+Sunrisers Hyderabad,17,5,0.1,5.6,mandatory,LS Livingstone,A Kamboj,S Arora,0,0,0,,,,,,,,,,,,,,,,,,,179
+Sunrisers Hyderabad,17,6,0.1,5.6,mandatory,LS Livingstone,A Kamboj,S Arora,0,0,0,,,,,,,,,,,,,,,,,,,179
+Sunrisers Hyderabad,18,1,0.1,5.6,mandatory,S Arora,Gurjapneet Singh,LS Livingstone,0,0,0,,,,,,,,,,S Arora,caught,,,,,D Brevis,,,179
+Sunrisers Hyderabad,18,2,0.1,5.6,mandatory,Shivang Kumar,Gurjapneet Singh,LS Livingstone,0,0,0,,,,,,,,,,,,,,,,,,,179
+Sunrisers Hyderabad,18,3,0.1,5.6,mandatory,Shivang Kumar,Gurjapneet Singh,LS Livingstone,0,0,0,,,,,,,,,,,,,,,,,,,179
+Sunrisers Hyderabad,18,4,0.1,5.6,mandatory,Shivang Kumar,Gurjapneet Singh,LS Livingstone,0,1,1,1.0,,,,,,,,,,,,,,,,,,180
+Sunrisers Hyderabad,18,5,0.1,5.6,mandatory,Shivang Kumar,Gurjapneet Singh,LS Livingstone,0,0,0,,,,,,,,,,,,,,,,,,,180
+Sunrisers Hyderabad,18,6,0.1,5.6,mandatory,Shivang Kumar,Gurjapneet Singh,LS Livingstone,6,0,6,,,,,,,,,,,,,,,,,,,186
+Sunrisers Hyderabad,18,7,0.1,5.6,mandatory,Shivang Kumar,Gurjapneet Singh,LS Livingstone,1,0,1,,,,,,,,,,,,,,,,,,,187
+Sunrisers Hyderabad,19,1,0.1,5.6,mandatory,Shivang Kumar,A Kamboj,LS Livingstone,1,0,1,,,,,,,,,,,,,,,,,,,188
+Sunrisers Hyderabad,19,2,0.1,5.6,mandatory,LS Livingstone,A Kamboj,Shivang Kumar,1,0,1,,,,,,,,,,,,,,,,,,,189
+Sunrisers Hyderabad,19,3,0.1,5.6,mandatory,Shivang Kumar,A Kamboj,LS Livingstone,4,0,4,,,,,,,,,,,,,,,,,,,193
+Sunrisers Hyderabad,19,4,0.1,5.6,mandatory,Shivang Kumar,A Kamboj,LS Livingstone,0,0,0,,,,,,,,,,Shivang Kumar,caught,,,,,Gurjapneet Singh,,,193
+Sunrisers Hyderabad,19,5,0.1,5.6,mandatory,PP Hinge,A Kamboj,LS Livingstone,0,1,1,,,1.0,,,,,,,,,,,,,,,,194
+Sunrisers Hyderabad,19,6,0.1,5.6,mandatory,LS Livingstone,A Kamboj,PP Hinge,0,0,0,,,,,,,,,,LS Livingstone,caught,,,,,D Brevis,,,194
+Chennai Super Kings,0,1,0.1,5.7,mandatory,SV Samson,PP Hinge,RD Gaikwad,6,0,6,,,,,,,,,,,,,,,,,20.0,195.0,6
+Chennai Super Kings,0,2,0.1,5.7,mandatory,SV Samson,PP Hinge,RD Gaikwad,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,7
+Chennai Super Kings,0,3,0.1,5.7,mandatory,RD Gaikwad,PP Hinge,SV Samson,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,7
+Chennai Super Kings,0,4,0.1,5.7,mandatory,RD Gaikwad,PP Hinge,SV Samson,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,7
+Chennai Super Kings,0,5,0.1,5.7,mandatory,RD Gaikwad,PP Hinge,SV Samson,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,11
+Chennai Super Kings,0,6,0.1,5.7,mandatory,RD Gaikwad,PP Hinge,SV Samson,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,15
+Chennai Super Kings,1,1,0.1,5.7,mandatory,SV Samson,Nithish Kumar Reddy,RD Gaikwad,0,0,0,,,,,,,,,,SV Samson,caught,,,,,H Klaasen,20.0,195.0,15
+Chennai Super Kings,1,2,0.1,5.7,mandatory,A Mhatre,Nithish Kumar Reddy,RD Gaikwad,0,0,0,,,,,,,,,,,,A Mhatre,Gurjapneet Singh,Chennai Super Kings,impact_player,,20.0,195.0,15
+Chennai Super Kings,1,3,0.1,5.7,mandatory,A Mhatre,Nithish Kumar Reddy,RD Gaikwad,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,15
+Chennai Super Kings,1,4,0.1,5.7,mandatory,A Mhatre,Nithish Kumar Reddy,RD Gaikwad,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,15
+Chennai Super Kings,1,5,0.1,5.7,mandatory,A Mhatre,Nithish Kumar Reddy,RD Gaikwad,3,0,3,,,,,,,,,,,,,,,,,20.0,195.0,18
+Chennai Super Kings,1,6,0.1,5.7,mandatory,RD Gaikwad,Nithish Kumar Reddy,A Mhatre,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,195.0,19
+Chennai Super Kings,1,7,0.1,5.7,mandatory,RD Gaikwad,Nithish Kumar Reddy,A Mhatre,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,23
+Chennai Super Kings,2,1,0.1,5.7,mandatory,A Mhatre,PP Hinge,RD Gaikwad,6,0,6,,,,,,,,,,,,,,,,,20.0,195.0,29
+Chennai Super Kings,2,2,0.1,5.7,mandatory,A Mhatre,PP Hinge,RD Gaikwad,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,29
+Chennai Super Kings,2,3,0.1,5.7,mandatory,A Mhatre,PP Hinge,RD Gaikwad,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,33
+Chennai Super Kings,2,4,0.1,5.7,mandatory,A Mhatre,PP Hinge,RD Gaikwad,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,195.0,34
+Chennai Super Kings,2,5,0.1,5.7,mandatory,A Mhatre,PP Hinge,RD Gaikwad,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,195.0,35
+Chennai Super Kings,2,6,0.1,5.7,mandatory,A Mhatre,PP Hinge,RD Gaikwad,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,39
+Chennai Super Kings,2,7,0.1,5.7,mandatory,A Mhatre,PP Hinge,RD Gaikwad,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,43
+Chennai Super Kings,2,8,0.1,5.7,mandatory,A Mhatre,PP Hinge,RD Gaikwad,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,47
+Chennai Super Kings,3,1,0.1,5.7,mandatory,RD Gaikwad,Sakib Hussain,A Mhatre,0,5,5,5.0,,,,,,,,,,,,,,,,20.0,195.0,52
+Chennai Super Kings,3,2,0.1,5.7,mandatory,RD Gaikwad,Sakib Hussain,A Mhatre,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,52
+Chennai Super Kings,3,3,0.1,5.7,mandatory,RD Gaikwad,Sakib Hussain,A Mhatre,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,52
+Chennai Super Kings,3,4,0.1,5.7,mandatory,RD Gaikwad,Sakib Hussain,A Mhatre,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,53
+Chennai Super Kings,3,5,0.1,5.7,mandatory,A Mhatre,Sakib Hussain,RD Gaikwad,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,54
+Chennai Super Kings,3,6,0.1,5.7,mandatory,RD Gaikwad,Sakib Hussain,A Mhatre,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,55
+Chennai Super Kings,3,7,0.1,5.7,mandatory,A Mhatre,Sakib Hussain,RD Gaikwad,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,195.0,56
+Chennai Super Kings,3,8,0.1,5.7,mandatory,A Mhatre,Sakib Hussain,RD Gaikwad,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,60
+Chennai Super Kings,4,1,0.1,5.7,mandatory,RD Gaikwad,Nithish Kumar Reddy,A Mhatre,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,195.0,61
+Chennai Super Kings,4,2,0.1,5.7,mandatory,RD Gaikwad,Nithish Kumar Reddy,A Mhatre,2,0,2,,,,,,,,,,,,,,,,,20.0,195.0,63
+Chennai Super Kings,4,3,0.1,5.7,mandatory,RD Gaikwad,Nithish Kumar Reddy,A Mhatre,2,0,2,,,,,,,,,,,,,,,,,20.0,195.0,65
+Chennai Super Kings,4,4,0.1,5.7,mandatory,RD Gaikwad,Nithish Kumar Reddy,A Mhatre,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,66
+Chennai Super Kings,4,5,0.1,5.7,mandatory,A Mhatre,Nithish Kumar Reddy,RD Gaikwad,0,0,0,,,,,,,,,,A Mhatre,caught,,,,,H Klaasen,20.0,195.0,66
+Chennai Super Kings,4,6,0.1,5.7,mandatory,MW Short,Nithish Kumar Reddy,RD Gaikwad,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,66
+Chennai Super Kings,4,7,0.1,5.7,mandatory,MW Short,Nithish Kumar Reddy,RD Gaikwad,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,66
+Chennai Super Kings,5,1,0.1,5.7,mandatory,RD Gaikwad,E Malinga,MW Short,0,0,0,,,,,,,,,,RD Gaikwad,caught,,,,,S Arora,20.0,195.0,66
+Chennai Super Kings,5,2,0.1,5.7,mandatory,SN Khan,E Malinga,MW Short,2,0,2,,,,,,,,,,,,,,,,,20.0,195.0,68
+Chennai Super Kings,5,3,0.1,5.7,mandatory,SN Khan,E Malinga,MW Short,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,195.0,69
+Chennai Super Kings,5,4,0.1,5.7,mandatory,SN Khan,E Malinga,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,70
+Chennai Super Kings,5,5,0.1,5.7,mandatory,MW Short,E Malinga,SN Khan,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,74
+Chennai Super Kings,5,6,0.1,5.7,mandatory,MW Short,E Malinga,SN Khan,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,75
+Chennai Super Kings,5,7,0.1,5.7,mandatory,SN Khan,E Malinga,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,76
+Chennai Super Kings,6,1,0.1,5.7,mandatory,SN Khan,Shivang Kumar,MW Short,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,76
+Chennai Super Kings,6,2,0.1,5.7,mandatory,SN Khan,Shivang Kumar,MW Short,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,80
+Chennai Super Kings,6,3,0.1,5.7,mandatory,SN Khan,Shivang Kumar,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,81
+Chennai Super Kings,6,4,0.1,5.7,mandatory,MW Short,Shivang Kumar,SN Khan,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,82
+Chennai Super Kings,6,5,0.1,5.7,mandatory,SN Khan,Shivang Kumar,MW Short,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,82
+Chennai Super Kings,6,6,0.1,5.7,mandatory,SN Khan,Shivang Kumar,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,83
+Chennai Super Kings,7,1,0.1,5.7,mandatory,SN Khan,Abhishek Sharma,MW Short,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,87
+Chennai Super Kings,7,2,0.1,5.7,mandatory,SN Khan,Abhishek Sharma,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,88
+Chennai Super Kings,7,3,0.1,5.7,mandatory,MW Short,Abhishek Sharma,SN Khan,2,0,2,,,,,,,,,,,,,,,,,20.0,195.0,90
+Chennai Super Kings,7,4,0.1,5.7,mandatory,MW Short,Abhishek Sharma,SN Khan,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,94
+Chennai Super Kings,7,5,0.1,5.7,mandatory,MW Short,Abhishek Sharma,SN Khan,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,95
+Chennai Super Kings,7,6,0.1,5.7,mandatory,SN Khan,Abhishek Sharma,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,96
+Chennai Super Kings,8,1,0.1,5.7,mandatory,SN Khan,Shivang Kumar,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,97
+Chennai Super Kings,8,2,0.1,5.7,mandatory,MW Short,Shivang Kumar,SN Khan,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,97
+Chennai Super Kings,8,3,0.1,5.7,mandatory,MW Short,Shivang Kumar,SN Khan,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,97
+Chennai Super Kings,8,4,0.1,5.7,mandatory,MW Short,Shivang Kumar,SN Khan,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,98
+Chennai Super Kings,8,5,0.1,5.7,mandatory,SN Khan,Shivang Kumar,MW Short,2,0,2,,,,,,,,,,,,,,,,,20.0,195.0,100
+Chennai Super Kings,8,6,0.1,5.7,mandatory,SN Khan,Shivang Kumar,MW Short,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,104
+Chennai Super Kings,9,1,0.1,5.7,mandatory,MW Short,Sakib Hussain,SN Khan,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,105
+Chennai Super Kings,9,2,0.1,5.7,mandatory,SN Khan,Sakib Hussain,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,106
+Chennai Super Kings,9,3,0.1,5.7,mandatory,MW Short,Sakib Hussain,SN Khan,2,0,2,,,,,,,,,,,,,,,,,20.0,195.0,108
+Chennai Super Kings,9,4,0.1,5.7,mandatory,MW Short,Sakib Hussain,SN Khan,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,109
+Chennai Super Kings,9,5,0.1,5.7,mandatory,SN Khan,Sakib Hussain,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,110
+Chennai Super Kings,9,6,0.1,5.7,mandatory,MW Short,Sakib Hussain,SN Khan,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,111
+Chennai Super Kings,10,1,0.1,5.7,mandatory,MW Short,E Malinga,SN Khan,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,112
+Chennai Super Kings,10,2,0.1,5.7,mandatory,SN Khan,E Malinga,MW Short,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,112
+Chennai Super Kings,10,3,0.1,5.7,mandatory,SN Khan,E Malinga,MW Short,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,112
+Chennai Super Kings,10,4,0.1,5.7,mandatory,SN Khan,E Malinga,MW Short,0,0,0,,,,,,,,,,SN Khan,caught,,,,,Nithish Kumar Reddy,20.0,195.0,112
+Chennai Super Kings,10,5,0.1,5.7,mandatory,D Brevis,E Malinga,MW Short,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,112
+Chennai Super Kings,10,6,0.1,5.7,mandatory,D Brevis,E Malinga,MW Short,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,112
+Chennai Super Kings,11,1,0.1,5.7,mandatory,MW Short,Shivang Kumar,D Brevis,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,112
+Chennai Super Kings,11,2,0.1,5.7,mandatory,MW Short,Shivang Kumar,D Brevis,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,113
+Chennai Super Kings,11,3,0.1,5.7,mandatory,D Brevis,Shivang Kumar,MW Short,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,113
+Chennai Super Kings,11,4,0.1,5.7,mandatory,D Brevis,Shivang Kumar,MW Short,0,0,0,,,,,,,,,,D Brevis,caught,,,,,LS Livingstone,20.0,195.0,113
+Chennai Super Kings,11,5,0.1,5.7,mandatory,S Dube,Shivang Kumar,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,114
+Chennai Super Kings,11,6,0.1,5.7,mandatory,MW Short,Shivang Kumar,S Dube,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,115
+Chennai Super Kings,12,1,0.1,5.7,mandatory,MW Short,Nithish Kumar Reddy,S Dube,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,116
+Chennai Super Kings,12,2,0.1,5.7,mandatory,S Dube,Nithish Kumar Reddy,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,117
+Chennai Super Kings,12,3,0.1,5.7,mandatory,MW Short,Nithish Kumar Reddy,S Dube,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,117
+Chennai Super Kings,12,4,0.1,5.7,mandatory,MW Short,Nithish Kumar Reddy,S Dube,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,118
+Chennai Super Kings,12,5,0.1,5.7,mandatory,S Dube,Nithish Kumar Reddy,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,119
+Chennai Super Kings,12,6,0.1,5.7,mandatory,MW Short,Nithish Kumar Reddy,S Dube,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,120
+Chennai Super Kings,13,1,0.1,5.7,mandatory,MW Short,PP Hinge,S Dube,2,1,3,,,,,,,,,1.0,,,,,,,,20.0,195.0,123
+Chennai Super Kings,13,2,0.1,5.7,mandatory,MW Short,PP Hinge,S Dube,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,124
+Chennai Super Kings,13,3,0.1,5.7,mandatory,S Dube,PP Hinge,MW Short,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,124
+Chennai Super Kings,13,4,0.1,5.7,mandatory,S Dube,PP Hinge,MW Short,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,124
+Chennai Super Kings,13,5,0.1,5.7,mandatory,S Dube,PP Hinge,MW Short,6,0,6,,,,,,,,,,,,,,,,,20.0,195.0,130
+Chennai Super Kings,13,6,0.1,5.7,mandatory,S Dube,PP Hinge,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,131
+Chennai Super Kings,13,7,0.1,5.7,mandatory,MW Short,PP Hinge,S Dube,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,135
+Chennai Super Kings,14,1,0.1,5.7,mandatory,S Dube,Sakib Hussain,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,136
+Chennai Super Kings,14,2,0.1,5.7,mandatory,MW Short,Sakib Hussain,S Dube,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,195.0,137
+Chennai Super Kings,14,3,0.1,5.7,mandatory,MW Short,Sakib Hussain,S Dube,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,138
+Chennai Super Kings,14,4,0.1,5.7,mandatory,S Dube,Sakib Hussain,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,139
+Chennai Super Kings,14,5,0.1,5.7,mandatory,MW Short,Sakib Hussain,S Dube,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,140
+Chennai Super Kings,14,6,0.1,5.7,mandatory,S Dube,Sakib Hussain,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,141
+Chennai Super Kings,14,7,0.1,5.7,mandatory,MW Short,Sakib Hussain,S Dube,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,141
+Chennai Super Kings,15,1,0.1,5.7,mandatory,S Dube,E Malinga,MW Short,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,145
+Chennai Super Kings,15,2,0.1,5.7,mandatory,S Dube,E Malinga,MW Short,2,0,2,,,,,,,,,,,,,,,,,20.0,195.0,147
+Chennai Super Kings,15,3,0.1,5.7,mandatory,S Dube,E Malinga,MW Short,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,148
+Chennai Super Kings,15,4,0.1,5.7,mandatory,MW Short,E Malinga,S Dube,0,0,0,,,,,,,,,,MW Short,caught,,,,,Aniket Verma,20.0,195.0,148
+Chennai Super Kings,15,5,0.1,5.7,mandatory,J Overton,E Malinga,S Dube,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,149
+Chennai Super Kings,15,6,0.1,5.7,mandatory,S Dube,E Malinga,J Overton,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,149
+Chennai Super Kings,16,1,0.1,5.7,mandatory,J Overton,Sakib Hussain,S Dube,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,150
+Chennai Super Kings,16,2,0.1,5.7,mandatory,S Dube,Sakib Hussain,J Overton,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,195.0,151
+Chennai Super Kings,16,3,0.1,5.7,mandatory,S Dube,Sakib Hussain,J Overton,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,152
+Chennai Super Kings,16,4,0.1,5.7,mandatory,J Overton,Sakib Hussain,S Dube,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,195.0,153
+Chennai Super Kings,16,5,0.1,5.7,mandatory,J Overton,Sakib Hussain,S Dube,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,153
+Chennai Super Kings,16,6,0.1,5.7,mandatory,J Overton,Sakib Hussain,S Dube,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,154
+Chennai Super Kings,16,7,0.1,5.7,mandatory,S Dube,Sakib Hussain,J Overton,0,0,0,,,,,,,,,,S Dube,bowled,,,,,,20.0,195.0,154
+Chennai Super Kings,16,8,0.1,5.7,mandatory,A Kamboj,Sakib Hussain,J Overton,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,155
+Chennai Super Kings,17,1,0.1,5.7,mandatory,A Kamboj,E Malinga,J Overton,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,156
+Chennai Super Kings,17,2,0.1,5.7,mandatory,J Overton,E Malinga,A Kamboj,2,0,2,,,,,,,,,,,,,,,,,20.0,195.0,158
+Chennai Super Kings,17,3,0.1,5.7,mandatory,J Overton,E Malinga,A Kamboj,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,158
+Chennai Super Kings,17,4,0.1,5.7,mandatory,J Overton,E Malinga,A Kamboj,4,0,4,,,,,,,,,,,,,,,,,20.0,195.0,162
+Chennai Super Kings,17,5,0.1,5.7,mandatory,J Overton,E Malinga,A Kamboj,2,0,2,,,,,,,,,,,,,,,,,20.0,195.0,164
+Chennai Super Kings,17,6,0.1,5.7,mandatory,J Overton,E Malinga,A Kamboj,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,165
+Chennai Super Kings,18,1,0.1,5.7,mandatory,J Overton,Nithish Kumar Reddy,A Kamboj,0,0,0,,,,,,,,,,,,,,,,,20.0,195.0,165
+Chennai Super Kings,18,2,0.1,5.7,mandatory,J Overton,Nithish Kumar Reddy,A Kamboj,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,166
+Chennai Super Kings,18,3,0.1,5.7,mandatory,A Kamboj,Nithish Kumar Reddy,J Overton,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,167
+Chennai Super Kings,18,4,0.1,5.7,mandatory,J Overton,Nithish Kumar Reddy,A Kamboj,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,168
+Chennai Super Kings,18,5,0.1,5.7,mandatory,A Kamboj,Nithish Kumar Reddy,J Overton,6,0,6,,,,,,,,,,,,,,,,,20.0,195.0,174
+Chennai Super Kings,18,6,0.1,5.7,mandatory,A Kamboj,Nithish Kumar Reddy,J Overton,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,195.0,175
+Chennai Super Kings,18,7,0.1,5.7,mandatory,A Kamboj,Nithish Kumar Reddy,J Overton,2,0,2,,,,,,,,,,,,,,,,,20.0,195.0,177
+Chennai Super Kings,19,1,0.1,5.7,mandatory,J Overton,PP Hinge,A Kamboj,2,0,2,,,,,,,,,,,,,,,,,20.0,195.0,179
+Chennai Super Kings,19,2,0.1,5.7,mandatory,J Overton,PP Hinge,A Kamboj,0,1,1,,1.0,,,,,,,,,,,,,,,20.0,195.0,180
+Chennai Super Kings,19,3,0.1,5.7,mandatory,A Kamboj,PP Hinge,J Overton,0,1,1,,,,,,,,,1.0,,,,,,,,20.0,195.0,181
+Chennai Super Kings,19,4,0.1,5.7,mandatory,A Kamboj,PP Hinge,J Overton,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,182
+Chennai Super Kings,19,5,0.1,5.7,mandatory,J Overton,PP Hinge,A Kamboj,0,0,0,,,,,,,,,,J Overton,caught,,,,,LS Livingstone,20.0,195.0,182
+Chennai Super Kings,19,6,0.1,5.7,mandatory,Noor Ahmad,PP Hinge,A Kamboj,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,183
+Chennai Super Kings,19,7,0.1,5.7,mandatory,A Kamboj,PP Hinge,Noor Ahmad,1,0,1,,,,,,,,,,,,,,,,,20.0,195.0,184

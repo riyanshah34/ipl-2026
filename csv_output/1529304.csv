@@ -1,0 +1,255 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,noballs,byes,review_by,review_umpire,review_batter,review_decision,review_type,umpires_call,legbyes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Royal Challengers Bengaluru,0,1,0.1,5.6,mandatory,JG Bethell,Arshdeep Singh,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,1
+Royal Challengers Bengaluru,0,2,0.1,5.6,mandatory,V Kohli,Arshdeep Singh,JG Bethell,0,0,0,,,,,,,,,,,,,,,,,,,,1
+Royal Challengers Bengaluru,0,3,0.1,5.6,mandatory,V Kohli,Arshdeep Singh,JG Bethell,0,0,0,,,,,,,,,,,,,,,,,,,,1
+Royal Challengers Bengaluru,0,4,0.1,5.6,mandatory,V Kohli,Arshdeep Singh,JG Bethell,1,0,1,,,,,,,,,,,,,,,,,,,,2
+Royal Challengers Bengaluru,0,5,0.1,5.6,mandatory,JG Bethell,Arshdeep Singh,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,3
+Royal Challengers Bengaluru,0,6,0.1,5.6,mandatory,V Kohli,Arshdeep Singh,JG Bethell,1,0,1,,,,,,,,,,,,,,,,,,,,4
+Royal Challengers Bengaluru,1,1,0.1,5.6,mandatory,V Kohli,Azmatullah Omarzai,JG Bethell,0,0,0,,,,,,,,,,,,,,,,,,,,4
+Royal Challengers Bengaluru,1,2,0.1,5.6,mandatory,V Kohli,Azmatullah Omarzai,JG Bethell,6,0,6,,,,,,,,,,,,,,,,,,,,10
+Royal Challengers Bengaluru,1,3,0.1,5.6,mandatory,V Kohli,Azmatullah Omarzai,JG Bethell,0,1,1,1.0,,,,,,,,,,,,,,,,,,,11
+Royal Challengers Bengaluru,1,4,0.1,5.6,mandatory,V Kohli,Azmatullah Omarzai,JG Bethell,1,0,1,,,,,,,,,,,,,,,,,,,,12
+Royal Challengers Bengaluru,1,5,0.1,5.6,mandatory,JG Bethell,Azmatullah Omarzai,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,,,16
+Royal Challengers Bengaluru,1,6,0.1,5.6,mandatory,JG Bethell,Azmatullah Omarzai,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,16
+Royal Challengers Bengaluru,1,7,0.1,5.6,mandatory,JG Bethell,Azmatullah Omarzai,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,17
+Royal Challengers Bengaluru,2,1,0.1,5.6,mandatory,JG Bethell,Harpreet Brar,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,,,21
+Royal Challengers Bengaluru,2,2,0.1,5.6,mandatory,JG Bethell,Harpreet Brar,V Kohli,0,0,0,,,,,,,,,,,JG Bethell,bowled,,,,,,,,21
+Royal Challengers Bengaluru,2,3,0.1,5.6,mandatory,D Padikkal,Harpreet Brar,V Kohli,6,0,6,,,,,,,,,,,,,,,,,,,,27
+Royal Challengers Bengaluru,2,4,0.1,5.6,mandatory,D Padikkal,Harpreet Brar,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,27
+Royal Challengers Bengaluru,2,5,0.1,5.6,mandatory,D Padikkal,Harpreet Brar,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,27
+Royal Challengers Bengaluru,2,6,0.1,5.6,mandatory,D Padikkal,Harpreet Brar,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,27
+Royal Challengers Bengaluru,3,1,0.1,5.6,mandatory,V Kohli,LH Ferguson,D Padikkal,6,0,6,,,,,,,,,,,,,,,,,,,,33
+Royal Challengers Bengaluru,3,2,0.1,5.6,mandatory,V Kohli,LH Ferguson,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,,,34
+Royal Challengers Bengaluru,3,3,0.1,5.6,mandatory,D Padikkal,LH Ferguson,V Kohli,0,1,1,1.0,,,,,,,,,,,,,,,,,,,35
+Royal Challengers Bengaluru,3,4,0.1,5.6,mandatory,D Padikkal,LH Ferguson,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,,,39
+Royal Challengers Bengaluru,3,5,0.1,5.6,mandatory,D Padikkal,LH Ferguson,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,39
+Royal Challengers Bengaluru,3,6,0.1,5.6,mandatory,D Padikkal,LH Ferguson,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,40
+Royal Challengers Bengaluru,3,7,0.1,5.6,mandatory,V Kohli,LH Ferguson,D Padikkal,0,0,0,,,,,,,,,,,,,,,,,,,,40
+Royal Challengers Bengaluru,4,1,0.1,5.6,mandatory,D Padikkal,Harpreet Brar,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,,,44
+Royal Challengers Bengaluru,4,2,0.1,5.6,mandatory,D Padikkal,Harpreet Brar,V Kohli,0,1,1,1.0,,,,,,,,,,,,,,,,,,,45
+Royal Challengers Bengaluru,4,3,0.1,5.6,mandatory,D Padikkal,Harpreet Brar,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,45
+Royal Challengers Bengaluru,4,4,0.1,5.6,mandatory,D Padikkal,Harpreet Brar,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,46
+Royal Challengers Bengaluru,4,5,0.1,5.6,mandatory,V Kohli,Harpreet Brar,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,,,47
+Royal Challengers Bengaluru,4,6,0.1,5.6,mandatory,D Padikkal,Harpreet Brar,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,48
+Royal Challengers Bengaluru,4,7,0.1,5.6,mandatory,V Kohli,Harpreet Brar,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,,,49
+Royal Challengers Bengaluru,5,1,0.1,5.6,mandatory,V Kohli,Arshdeep Singh,D Padikkal,4,0,4,,,,,,,,,,,,,,,,,,,,53
+Royal Challengers Bengaluru,5,2,0.1,5.6,mandatory,V Kohli,Arshdeep Singh,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,,,54
+Royal Challengers Bengaluru,5,3,0.1,5.6,mandatory,D Padikkal,Arshdeep Singh,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,55
+Royal Challengers Bengaluru,5,4,0.1,5.6,mandatory,V Kohli,Arshdeep Singh,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,,,56
+Royal Challengers Bengaluru,5,5,0.1,5.6,mandatory,D Padikkal,Arshdeep Singh,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,,,60
+Royal Challengers Bengaluru,5,6,0.1,5.6,mandatory,D Padikkal,Arshdeep Singh,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,61
+Royal Challengers Bengaluru,6,1,0.1,5.6,mandatory,D Padikkal,YS Chahal,V Kohli,6,0,6,,,,,,,,,,,,,,,,,,,,67
+Royal Challengers Bengaluru,6,2,0.1,5.6,mandatory,D Padikkal,YS Chahal,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,68
+Royal Challengers Bengaluru,6,3,0.1,5.6,mandatory,V Kohli,YS Chahal,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,,,69
+Royal Challengers Bengaluru,6,4,0.1,5.6,mandatory,D Padikkal,YS Chahal,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,70
+Royal Challengers Bengaluru,6,5,0.1,5.6,mandatory,V Kohli,YS Chahal,D Padikkal,4,0,4,,,,,,,,,,,,,,,,,,,,74
+Royal Challengers Bengaluru,6,6,0.1,5.6,mandatory,V Kohli,YS Chahal,D Padikkal,1,1,2,,1.0,,,,,,,,,,,,,,,,,,76
+Royal Challengers Bengaluru,6,7,0.1,5.6,mandatory,D Padikkal,YS Chahal,V Kohli,6,0,6,,,,,,,,,,,,,,,,,,,,82
+Royal Challengers Bengaluru,7,1,0.1,5.6,mandatory,V Kohli,Shashank Singh,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,,,83
+Royal Challengers Bengaluru,7,2,0.1,5.6,mandatory,D Padikkal,Shashank Singh,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,84
+Royal Challengers Bengaluru,7,3,0.1,5.6,mandatory,V Kohli,Shashank Singh,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,,,85
+Royal Challengers Bengaluru,7,4,0.1,5.6,mandatory,D Padikkal,Shashank Singh,V Kohli,2,0,2,,,,,,,,,,,,,,,,,,,,87
+Royal Challengers Bengaluru,7,5,0.1,5.6,mandatory,D Padikkal,Shashank Singh,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,,,91
+Royal Challengers Bengaluru,7,6,0.1,5.6,mandatory,D Padikkal,Shashank Singh,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,91
+Royal Challengers Bengaluru,8,1,0.1,5.6,mandatory,V Kohli,Azmatullah Omarzai,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,,,92
+Royal Challengers Bengaluru,8,2,0.1,5.6,mandatory,D Padikkal,Azmatullah Omarzai,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,92
+Royal Challengers Bengaluru,8,3,0.1,5.6,mandatory,D Padikkal,Azmatullah Omarzai,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,93
+Royal Challengers Bengaluru,8,4,0.1,5.6,mandatory,V Kohli,Azmatullah Omarzai,D Padikkal,4,0,4,,,,,,,,,,,,,,,,,,,,97
+Royal Challengers Bengaluru,8,5,0.1,5.6,mandatory,V Kohli,Azmatullah Omarzai,D Padikkal,0,0,0,,,,,,,,,,,,,,,,,,,,97
+Royal Challengers Bengaluru,8,6,0.1,5.6,mandatory,V Kohli,Azmatullah Omarzai,D Padikkal,0,0,0,,,,,,,,,,,,,,,,,,,,97
+Royal Challengers Bengaluru,9,1,0.1,5.6,mandatory,D Padikkal,Harpreet Brar,V Kohli,0,0,0,,,,,,,,,,,D Padikkal,caught,,,,,SS Iyer,,,97
+Royal Challengers Bengaluru,9,2,0.1,5.6,mandatory,VR Iyer,Harpreet Brar,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,98
+Royal Challengers Bengaluru,9,3,0.1,5.6,mandatory,V Kohli,Harpreet Brar,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,99
+Royal Challengers Bengaluru,9,4,0.1,5.6,mandatory,VR Iyer,Harpreet Brar,V Kohli,2,0,2,,,,,,,,,,,,,,,,,,,,101
+Royal Challengers Bengaluru,9,5,0.1,5.6,mandatory,VR Iyer,Harpreet Brar,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,101
+Royal Challengers Bengaluru,9,6,0.1,5.6,mandatory,VR Iyer,Harpreet Brar,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,101
+Royal Challengers Bengaluru,10,1,0.1,5.6,mandatory,V Kohli,YS Chahal,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,102
+Royal Challengers Bengaluru,10,2,0.1,5.6,mandatory,VR Iyer,YS Chahal,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,102
+Royal Challengers Bengaluru,10,3,0.1,5.6,mandatory,VR Iyer,YS Chahal,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,103
+Royal Challengers Bengaluru,10,4,0.1,5.6,mandatory,V Kohli,YS Chahal,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,104
+Royal Challengers Bengaluru,10,5,0.1,5.6,mandatory,VR Iyer,YS Chahal,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,104
+Royal Challengers Bengaluru,10,6,0.1,5.6,mandatory,VR Iyer,YS Chahal,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,,,108
+Royal Challengers Bengaluru,11,1,0.1,5.6,mandatory,V Kohli,Shashank Singh,VR Iyer,6,0,6,,,,,,,,,,,,,,,,,,,,114
+Royal Challengers Bengaluru,11,2,0.1,5.6,mandatory,V Kohli,Shashank Singh,VR Iyer,2,0,2,,,,,,,,,,,,,,,,,,,,116
+Royal Challengers Bengaluru,11,3,0.1,5.6,mandatory,V Kohli,Shashank Singh,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,117
+Royal Challengers Bengaluru,11,4,0.1,5.6,mandatory,VR Iyer,Shashank Singh,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,118
+Royal Challengers Bengaluru,11,5,0.1,5.6,mandatory,V Kohli,Shashank Singh,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,119
+Royal Challengers Bengaluru,11,6,0.1,5.6,mandatory,VR Iyer,Shashank Singh,V Kohli,0,1,1,,,1.0,,,,,,,,,,,,,,,,,120
+Royal Challengers Bengaluru,12,1,0.1,5.6,mandatory,VR Iyer,LH Ferguson,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,120
+Royal Challengers Bengaluru,12,2,0.1,5.6,mandatory,VR Iyer,LH Ferguson,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,,,124
+Royal Challengers Bengaluru,12,3,0.1,5.6,mandatory,VR Iyer,LH Ferguson,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,125
+Royal Challengers Bengaluru,12,4,0.1,5.6,mandatory,V Kohli,LH Ferguson,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,126
+Royal Challengers Bengaluru,12,5,0.1,5.6,mandatory,VR Iyer,LH Ferguson,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,127
+Royal Challengers Bengaluru,12,6,0.1,5.6,mandatory,V Kohli,LH Ferguson,VR Iyer,4,0,4,,,,,,,,,,,,,,,,,,,,131
+Royal Challengers Bengaluru,13,1,0.1,5.6,mandatory,VR Iyer,Harpreet Brar,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,,,135
+Royal Challengers Bengaluru,13,2,0.1,5.6,mandatory,VR Iyer,Harpreet Brar,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,,,139
+Royal Challengers Bengaluru,13,3,0.1,5.6,mandatory,VR Iyer,Harpreet Brar,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,140
+Royal Challengers Bengaluru,13,4,0.1,5.6,mandatory,V Kohli,Harpreet Brar,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,141
+Royal Challengers Bengaluru,13,5,0.1,5.6,mandatory,VR Iyer,Harpreet Brar,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,142
+Royal Challengers Bengaluru,13,6,0.1,5.6,mandatory,V Kohli,Harpreet Brar,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,143
+Royal Challengers Bengaluru,14,1,0.1,5.6,mandatory,V Kohli,YS Chahal,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,144
+Royal Challengers Bengaluru,14,2,0.1,5.6,mandatory,VR Iyer,YS Chahal,V Kohli,6,0,6,,,,,,,,,,,,,,,,,,,,150
+Royal Challengers Bengaluru,14,3,0.1,5.6,mandatory,VR Iyer,YS Chahal,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,,,150
+Royal Challengers Bengaluru,14,4,0.1,5.6,mandatory,VR Iyer,YS Chahal,V Kohli,6,0,6,,,,,,,,,,,,,,,,,,,,156
+Royal Challengers Bengaluru,14,5,0.1,5.6,mandatory,VR Iyer,YS Chahal,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,,,157
+Royal Challengers Bengaluru,14,6,0.1,5.6,mandatory,V Kohli,YS Chahal,VR Iyer,0,0,0,,,,,,,,,,,V Kohli,caught,,,,,Priyansh Arya,,,157
+Royal Challengers Bengaluru,15,1,0.1,5.6,mandatory,VR Iyer,Azmatullah Omarzai,TH David,1,0,1,,,,,,,,,,,,,,,,,,,,158
+Royal Challengers Bengaluru,15,2,0.1,5.6,mandatory,TH David,Azmatullah Omarzai,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,159
+Royal Challengers Bengaluru,15,3,0.1,5.6,mandatory,VR Iyer,Azmatullah Omarzai,TH David,0,0,0,,,,,,,,,,,,,,,,,,,,159
+Royal Challengers Bengaluru,15,4,0.1,5.6,mandatory,VR Iyer,Azmatullah Omarzai,TH David,4,0,4,,,,,,,,,,,,,,,,,,,,163
+Royal Challengers Bengaluru,15,5,0.1,5.6,mandatory,VR Iyer,Azmatullah Omarzai,TH David,4,0,4,,,,,,,,,,,,,,,,,,,,167
+Royal Challengers Bengaluru,15,6,0.1,5.6,mandatory,VR Iyer,Azmatullah Omarzai,TH David,1,0,1,,,,,,,,,,,,,,,,,,,,168
+Royal Challengers Bengaluru,16,1,0.1,5.6,mandatory,VR Iyer,LH Ferguson,TH David,1,0,1,,,,,,,,,,,,,,,,,,,,169
+Royal Challengers Bengaluru,16,2,0.1,5.6,mandatory,TH David,LH Ferguson,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,170
+Royal Challengers Bengaluru,16,3,0.1,5.6,mandatory,VR Iyer,LH Ferguson,TH David,6,0,6,,,,,,,,,,,,,,,,,,,,176
+Royal Challengers Bengaluru,16,4,0.1,5.6,mandatory,VR Iyer,LH Ferguson,TH David,4,0,4,,,,,,,,,,,,,,,,,,,,180
+Royal Challengers Bengaluru,16,5,0.1,5.6,mandatory,VR Iyer,LH Ferguson,TH David,0,1,1,1.0,,,,,,,,,,,,,,,,,,,181
+Royal Challengers Bengaluru,16,6,0.1,5.6,mandatory,VR Iyer,LH Ferguson,TH David,0,0,0,,,,,,,,,,,,,,,,,,,,181
+Royal Challengers Bengaluru,16,7,0.1,5.6,mandatory,VR Iyer,LH Ferguson,TH David,6,0,6,,,,,,,,,,,,,,,,,,,,187
+Royal Challengers Bengaluru,17,1,0.1,5.6,mandatory,TH David,Arshdeep Singh,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,188
+Royal Challengers Bengaluru,17,2,0.1,5.6,mandatory,VR Iyer,Arshdeep Singh,TH David,1,0,1,,,,,,,,,,,,,,,,,,,,189
+Royal Challengers Bengaluru,17,3,0.1,5.6,mandatory,TH David,Arshdeep Singh,VR Iyer,6,0,6,,,,,,,,,,,,,,,,,,,,195
+Royal Challengers Bengaluru,17,4,0.1,5.6,mandatory,TH David,Arshdeep Singh,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,196
+Royal Challengers Bengaluru,17,5,0.1,5.6,mandatory,VR Iyer,Arshdeep Singh,TH David,4,0,4,,,,,,,,,,,,,,,,,,,,200
+Royal Challengers Bengaluru,17,6,0.1,5.6,mandatory,VR Iyer,Arshdeep Singh,TH David,0,0,0,,,,,,,,,,,,,,,,,,,,200
+Royal Challengers Bengaluru,18,1,0.1,5.6,mandatory,TH David,Azmatullah Omarzai,VR Iyer,2,0,2,,,,,,,,,,,,,MP Stoinis,YS Chahal,Punjab Kings,impact_player,,,,202
+Royal Challengers Bengaluru,18,2,0.1,5.6,mandatory,TH David,Azmatullah Omarzai,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,203
+Royal Challengers Bengaluru,18,3,0.1,5.6,mandatory,VR Iyer,Azmatullah Omarzai,TH David,0,0,0,,,,,,,,,,,,,,,,,,,,203
+Royal Challengers Bengaluru,18,4,0.1,5.6,mandatory,VR Iyer,Azmatullah Omarzai,TH David,0,0,0,,,,Punjab Kings,AT Holdstock,VR Iyer,struck down,wicket,,,,,,,,,,,,203
+Royal Challengers Bengaluru,18,5,0.1,5.6,mandatory,VR Iyer,Azmatullah Omarzai,TH David,1,0,1,,,,,,,,,,,,,,,,,,,,204
+Royal Challengers Bengaluru,18,6,0.1,5.6,mandatory,TH David,Azmatullah Omarzai,VR Iyer,4,0,4,,,,,,,,,,,,,,,,,,,,208
+Royal Challengers Bengaluru,19,1,0.1,5.6,mandatory,VR Iyer,Arshdeep Singh,TH David,1,0,1,,,,,,,,,,,,,,,,,,,,209
+Royal Challengers Bengaluru,19,2,0.1,5.6,mandatory,TH David,Arshdeep Singh,VR Iyer,0,1,1,1.0,,,,,,,,,,,,,,,,,,,210
+Royal Challengers Bengaluru,19,3,0.1,5.6,mandatory,TH David,Arshdeep Singh,VR Iyer,1,0,1,,,,,,,,,,,,,,,,,,,,211
+Royal Challengers Bengaluru,19,4,0.1,5.6,mandatory,VR Iyer,Arshdeep Singh,TH David,1,0,1,,,,,,,,,,,,,,,,,,,,212
+Royal Challengers Bengaluru,19,5,0.1,5.6,mandatory,TH David,Arshdeep Singh,VR Iyer,6,0,6,,,,,,,,,,,,,,,,,,,,218
+Royal Challengers Bengaluru,19,6,0.1,5.6,mandatory,TH David,Arshdeep Singh,VR Iyer,4,0,4,,,,,,,,,,,,,,,,,,,,222
+Royal Challengers Bengaluru,19,7,0.1,5.6,mandatory,TH David,Arshdeep Singh,VR Iyer,0,0,0,,,,,,,,,,,TH David,caught,,,,,Harpreet Brar,,,222
+Punjab Kings,0,1,0.1,5.6,mandatory,Priyansh Arya,B Kumar,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,0
+Punjab Kings,0,2,0.1,5.6,mandatory,Priyansh Arya,B Kumar,P Simran Singh,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,223.0,1
+Punjab Kings,0,3,0.1,5.6,mandatory,Priyansh Arya,B Kumar,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,1
+Punjab Kings,0,4,0.1,5.6,mandatory,Priyansh Arya,B Kumar,P Simran Singh,0,0,0,,,,,,,,,,,Priyansh Arya,caught,,,,,R Shepherd,20.0,223.0,1
+Punjab Kings,0,5,0.1,5.6,mandatory,C Connolly,B Kumar,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,5
+Punjab Kings,0,6,0.1,5.6,mandatory,C Connolly,B Kumar,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,5
+Punjab Kings,0,7,0.1,5.6,mandatory,C Connolly,B Kumar,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,5
+Punjab Kings,1,1,0.1,5.6,mandatory,P Simran Singh,JR Hazlewood,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,6
+Punjab Kings,1,2,0.1,5.6,mandatory,C Connolly,JR Hazlewood,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,6
+Punjab Kings,1,3,0.1,5.6,mandatory,C Connolly,JR Hazlewood,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,10
+Punjab Kings,1,4,0.1,5.6,mandatory,C Connolly,JR Hazlewood,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,10
+Punjab Kings,1,5,0.1,5.6,mandatory,C Connolly,JR Hazlewood,P Simran Singh,6,0,6,,,,,,,,,,,,,,,,,,20.0,223.0,16
+Punjab Kings,1,6,0.1,5.6,mandatory,C Connolly,JR Hazlewood,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,16
+Punjab Kings,2,1,0.1,5.6,mandatory,P Simran Singh,B Kumar,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,16
+Punjab Kings,2,2,0.1,5.6,mandatory,P Simran Singh,B Kumar,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,17
+Punjab Kings,2,3,0.1,5.6,mandatory,C Connolly,B Kumar,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,18
+Punjab Kings,2,4,0.1,5.6,mandatory,P Simran Singh,B Kumar,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,18
+Punjab Kings,2,5,0.1,5.6,mandatory,P Simran Singh,B Kumar,C Connolly,0,0,0,,,,,,,,,,,P Simran Singh,caught,,,,,D Padikkal,20.0,223.0,18
+Punjab Kings,2,6,0.1,5.6,mandatory,SS Iyer,B Kumar,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,19
+Punjab Kings,3,1,0.1,5.6,mandatory,SS Iyer,Rasikh Salam,C Connolly,0,0,0,,,,,,,,,,,,,Rasikh Salam,D Padikkal,Royal Challengers Bengaluru,impact_player,,20.0,223.0,19
+Punjab Kings,3,2,0.1,5.6,mandatory,SS Iyer,Rasikh Salam,C Connolly,0,0,0,,,,,,,,,,,SS Iyer,caught,,,,,JM Sharma,20.0,223.0,19
+Punjab Kings,3,3,0.1,5.6,mandatory,Suryansh Shedge,Rasikh Salam,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,19
+Punjab Kings,3,4,0.1,5.6,mandatory,Suryansh Shedge,Rasikh Salam,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,19
+Punjab Kings,3,5,0.1,5.6,mandatory,Suryansh Shedge,Rasikh Salam,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,19
+Punjab Kings,3,6,0.1,5.6,mandatory,Suryansh Shedge,Rasikh Salam,C Connolly,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,23
+Punjab Kings,4,1,0.1,5.6,mandatory,C Connolly,JR Hazlewood,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,24
+Punjab Kings,4,2,0.1,5.6,mandatory,Suryansh Shedge,JR Hazlewood,C Connolly,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,223.0,25
+Punjab Kings,4,3,0.1,5.6,mandatory,Suryansh Shedge,JR Hazlewood,C Connolly,6,0,6,,,,,,,,,,,,,,,,,,20.0,223.0,31
+Punjab Kings,4,4,0.1,5.6,mandatory,Suryansh Shedge,JR Hazlewood,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,31
+Punjab Kings,4,5,0.1,5.6,mandatory,Suryansh Shedge,JR Hazlewood,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,31
+Punjab Kings,4,6,0.1,5.6,mandatory,Suryansh Shedge,JR Hazlewood,C Connolly,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,35
+Punjab Kings,4,7,0.1,5.6,mandatory,Suryansh Shedge,JR Hazlewood,C Connolly,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,223.0,36
+Punjab Kings,4,8,0.1,5.6,mandatory,Suryansh Shedge,JR Hazlewood,C Connolly,2,0,2,,,,,,,,,,,,,,,,,,20.0,223.0,38
+Punjab Kings,5,1,0.1,5.6,mandatory,C Connolly,Rasikh Salam,Suryansh Shedge,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,38
+Punjab Kings,5,2,0.1,5.6,mandatory,C Connolly,Rasikh Salam,Suryansh Shedge,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,42
+Punjab Kings,5,3,0.1,5.6,mandatory,C Connolly,Rasikh Salam,Suryansh Shedge,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,42
+Punjab Kings,5,4,0.1,5.6,mandatory,C Connolly,Rasikh Salam,Suryansh Shedge,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,42
+Punjab Kings,5,5,0.1,5.6,mandatory,C Connolly,Rasikh Salam,Suryansh Shedge,6,0,6,,,,,,,,,,,,,,,,,,20.0,223.0,48
+Punjab Kings,5,6,0.1,5.6,mandatory,C Connolly,Rasikh Salam,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,49
+Punjab Kings,6,1,0.1,5.6,mandatory,C Connolly,Suyash Sharma,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,50
+Punjab Kings,6,2,0.1,5.6,mandatory,Suryansh Shedge,Suyash Sharma,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,51
+Punjab Kings,6,3,0.1,5.6,mandatory,C Connolly,Suyash Sharma,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,52
+Punjab Kings,6,4,0.1,5.6,mandatory,Suryansh Shedge,Suyash Sharma,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,53
+Punjab Kings,6,5,0.1,5.6,mandatory,C Connolly,Suyash Sharma,Suryansh Shedge,6,0,6,,,,,,,,,,,,,,,,,,20.0,223.0,59
+Punjab Kings,6,6,0.1,5.6,mandatory,C Connolly,Suyash Sharma,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,60
+Punjab Kings,7,1,0.1,5.6,mandatory,C Connolly,R Shepherd,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,61
+Punjab Kings,7,2,0.1,5.6,mandatory,Suryansh Shedge,R Shepherd,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,62
+Punjab Kings,7,3,0.1,5.6,mandatory,C Connolly,R Shepherd,Suryansh Shedge,0,0,0,,,,,,,,,,,C Connolly,caught,,,,,JG Bethell,20.0,223.0,62
+Punjab Kings,7,4,0.1,5.6,mandatory,MP Stoinis,R Shepherd,Suryansh Shedge,2,0,2,,,,,,,,,,,,,,,,,,20.0,223.0,64
+Punjab Kings,7,5,0.1,5.6,mandatory,MP Stoinis,R Shepherd,Suryansh Shedge,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,64
+Punjab Kings,7,6,0.1,5.6,mandatory,MP Stoinis,R Shepherd,Suryansh Shedge,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,68
+Punjab Kings,8,1,0.1,5.6,mandatory,Suryansh Shedge,Suyash Sharma,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,69
+Punjab Kings,8,2,0.1,5.6,mandatory,MP Stoinis,Suyash Sharma,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,70
+Punjab Kings,8,3,0.1,5.6,mandatory,Suryansh Shedge,Suyash Sharma,MP Stoinis,6,0,6,,,,,,,,,,,,,,,,,,20.0,223.0,76
+Punjab Kings,8,4,0.1,5.6,mandatory,Suryansh Shedge,Suyash Sharma,MP Stoinis,2,0,2,,,,,,,,,,,,,,,,,,20.0,223.0,78
+Punjab Kings,8,5,0.1,5.6,mandatory,Suryansh Shedge,Suyash Sharma,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,79
+Punjab Kings,8,6,0.1,5.6,mandatory,MP Stoinis,Suyash Sharma,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,80
+Punjab Kings,9,1,0.1,5.6,mandatory,MP Stoinis,KH Pandya,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,81
+Punjab Kings,9,2,0.1,5.6,mandatory,Suryansh Shedge,KH Pandya,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,82
+Punjab Kings,9,3,0.1,5.6,mandatory,MP Stoinis,KH Pandya,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,83
+Punjab Kings,9,4,0.1,5.6,mandatory,Suryansh Shedge,KH Pandya,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,84
+Punjab Kings,9,5,0.1,5.6,mandatory,MP Stoinis,KH Pandya,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,85
+Punjab Kings,9,6,0.1,5.6,mandatory,Suryansh Shedge,KH Pandya,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,86
+Punjab Kings,10,1,0.1,5.6,mandatory,Suryansh Shedge,Suyash Sharma,MP Stoinis,2,0,2,,,,,,,,,,,,,,,,,,20.0,223.0,88
+Punjab Kings,10,2,0.1,5.6,mandatory,Suryansh Shedge,Suyash Sharma,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,89
+Punjab Kings,10,3,0.1,5.6,mandatory,MP Stoinis,Suyash Sharma,Suryansh Shedge,2,0,2,,,,,,,,,,,,,,,,,,20.0,223.0,91
+Punjab Kings,10,4,0.1,5.6,mandatory,MP Stoinis,Suyash Sharma,Suryansh Shedge,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,223.0,92
+Punjab Kings,10,5,0.1,5.6,mandatory,MP Stoinis,Suyash Sharma,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,93
+Punjab Kings,10,6,0.1,5.6,mandatory,Suryansh Shedge,Suyash Sharma,MP Stoinis,0,0,0,,,,,,,,,,,Suryansh Shedge,caught,,,,,V Kohli,20.0,223.0,93
+Punjab Kings,10,7,0.1,5.6,mandatory,Shashank Singh,Suyash Sharma,MP Stoinis,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,93
+Punjab Kings,11,1,0.1,5.6,mandatory,MP Stoinis,KH Pandya,Shashank Singh,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,223.0,94
+Punjab Kings,11,2,0.1,5.6,mandatory,MP Stoinis,KH Pandya,Shashank Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,94
+Punjab Kings,11,3,0.1,5.6,mandatory,MP Stoinis,KH Pandya,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,95
+Punjab Kings,11,4,0.1,5.6,mandatory,Shashank Singh,KH Pandya,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,96
+Punjab Kings,11,5,0.1,5.6,mandatory,MP Stoinis,KH Pandya,Shashank Singh,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,100
+Punjab Kings,11,6,0.1,5.6,mandatory,MP Stoinis,KH Pandya,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,101
+Punjab Kings,11,7,0.1,5.6,mandatory,Shashank Singh,KH Pandya,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,102
+Punjab Kings,12,1,0.1,5.6,mandatory,Shashank Singh,Suyash Sharma,MP Stoinis,6,0,6,,,,,,,,,,,,,,,,,,20.0,223.0,108
+Punjab Kings,12,2,0.1,5.6,mandatory,Shashank Singh,Suyash Sharma,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,109
+Punjab Kings,12,3,0.1,5.6,mandatory,MP Stoinis,Suyash Sharma,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,110
+Punjab Kings,12,4,0.1,5.6,mandatory,Shashank Singh,Suyash Sharma,MP Stoinis,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,110
+Punjab Kings,12,5,0.1,5.6,mandatory,Shashank Singh,Suyash Sharma,MP Stoinis,6,0,6,,,,,,,,,,,,,,,,,,20.0,223.0,116
+Punjab Kings,12,6,0.1,5.6,mandatory,Shashank Singh,Suyash Sharma,MP Stoinis,6,0,6,,,,,,,,,,,,,,,,,,20.0,223.0,122
+Punjab Kings,13,1,0.1,5.6,mandatory,MP Stoinis,KH Pandya,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,123
+Punjab Kings,13,2,0.1,5.6,mandatory,Shashank Singh,KH Pandya,MP Stoinis,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,127
+Punjab Kings,13,3,0.1,5.6,mandatory,Shashank Singh,KH Pandya,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,128
+Punjab Kings,13,4,0.1,5.6,mandatory,MP Stoinis,KH Pandya,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,129
+Punjab Kings,13,5,0.1,5.6,mandatory,Shashank Singh,KH Pandya,MP Stoinis,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,133
+Punjab Kings,13,6,0.1,5.6,mandatory,Shashank Singh,KH Pandya,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,134
+Punjab Kings,14,1,0.1,5.6,mandatory,Shashank Singh,Rasikh Salam,MP Stoinis,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,223.0,135
+Punjab Kings,14,2,0.1,5.6,mandatory,Shashank Singh,Rasikh Salam,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,136
+Punjab Kings,14,3,0.1,5.6,mandatory,MP Stoinis,Rasikh Salam,Shashank Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,136
+Punjab Kings,14,4,0.1,5.6,mandatory,MP Stoinis,Rasikh Salam,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,137
+Punjab Kings,14,5,0.1,5.6,mandatory,Shashank Singh,Rasikh Salam,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,138
+Punjab Kings,14,6,0.1,5.6,mandatory,MP Stoinis,Rasikh Salam,Shashank Singh,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,142
+Punjab Kings,14,7,0.1,5.6,mandatory,MP Stoinis,Rasikh Salam,Shashank Singh,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,146
+Punjab Kings,15,1,0.1,5.6,mandatory,Shashank Singh,B Kumar,MP Stoinis,2,0,2,,,,,,,,,,,,,,,,,,20.0,223.0,148
+Punjab Kings,15,2,0.1,5.6,mandatory,Shashank Singh,B Kumar,MP Stoinis,6,0,6,,,,,,,,,,,,,,,,,,20.0,223.0,154
+Punjab Kings,15,3,0.1,5.6,mandatory,Shashank Singh,B Kumar,MP Stoinis,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,155
+Punjab Kings,15,4,0.1,5.6,mandatory,MP Stoinis,B Kumar,Shashank Singh,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,159
+Punjab Kings,15,5,0.1,5.6,mandatory,MP Stoinis,B Kumar,Shashank Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,159
+Punjab Kings,15,6,0.1,5.6,mandatory,MP Stoinis,B Kumar,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,160
+Punjab Kings,16,1,0.1,5.6,mandatory,MP Stoinis,JR Hazlewood,Shashank Singh,0,0,0,,,,Punjab Kings,AT Holdstock,MP Stoinis,struck down,wicket,True,,MP Stoinis,lbw,,,,,,20.0,223.0,160
+Punjab Kings,16,2,0.1,5.6,mandatory,Azmatullah Omarzai,JR Hazlewood,Shashank Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,160
+Punjab Kings,16,3,0.1,5.6,mandatory,Azmatullah Omarzai,JR Hazlewood,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,161
+Punjab Kings,16,4,0.1,5.6,mandatory,Shashank Singh,JR Hazlewood,Azmatullah Omarzai,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,162
+Punjab Kings,16,5,0.1,5.6,mandatory,Azmatullah Omarzai,JR Hazlewood,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,163
+Punjab Kings,16,6,0.1,5.6,mandatory,Shashank Singh,JR Hazlewood,Azmatullah Omarzai,0,4,4,,,,,,,,,,4.0,,,,,,,,20.0,223.0,167
+Punjab Kings,17,1,0.1,5.6,mandatory,Azmatullah Omarzai,B Kumar,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,168
+Punjab Kings,17,2,0.1,5.6,mandatory,Shashank Singh,B Kumar,Azmatullah Omarzai,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,172
+Punjab Kings,17,3,0.1,5.6,mandatory,Shashank Singh,B Kumar,Azmatullah Omarzai,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,172
+Punjab Kings,17,4,0.1,5.6,mandatory,Shashank Singh,B Kumar,Azmatullah Omarzai,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,176
+Punjab Kings,17,5,0.1,5.6,mandatory,Shashank Singh,B Kumar,Azmatullah Omarzai,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,177
+Punjab Kings,17,6,0.1,5.6,mandatory,Azmatullah Omarzai,B Kumar,Shashank Singh,6,0,6,,,,,,,,,,,,,,,,,,20.0,223.0,183
+Punjab Kings,18,1,0.1,5.6,mandatory,Shashank Singh,JR Hazlewood,Azmatullah Omarzai,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,184
+Punjab Kings,18,2,0.1,5.6,mandatory,Azmatullah Omarzai,JR Hazlewood,Shashank Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,184
+Punjab Kings,18,3,0.1,5.6,mandatory,Azmatullah Omarzai,JR Hazlewood,Shashank Singh,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,188
+Punjab Kings,18,4,0.1,5.6,mandatory,Azmatullah Omarzai,JR Hazlewood,Shashank Singh,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,188
+Punjab Kings,18,5,0.1,5.6,mandatory,Azmatullah Omarzai,JR Hazlewood,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,189
+Punjab Kings,18,6,0.1,5.6,mandatory,Shashank Singh,JR Hazlewood,Azmatullah Omarzai,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,190
+Punjab Kings,19,1,0.1,5.6,mandatory,Shashank Singh,Rasikh Salam,Azmatullah Omarzai,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,223.0,191
+Punjab Kings,19,2,0.1,5.6,mandatory,Shashank Singh,Rasikh Salam,Azmatullah Omarzai,2,0,2,,,,,,,,,,,,,,,,,,20.0,223.0,193
+Punjab Kings,19,3,0.1,5.6,mandatory,Shashank Singh,Rasikh Salam,Azmatullah Omarzai,0,1,1,1.0,,,,,,,,,,,,,,,,,20.0,223.0,194
+Punjab Kings,19,4,0.1,5.6,mandatory,Shashank Singh,Rasikh Salam,Azmatullah Omarzai,0,0,0,,,,,,,,,,,Shashank Singh,caught,,,,,V Kohli,20.0,223.0,194
+Punjab Kings,19,5,0.1,5.6,mandatory,Harpreet Brar,Rasikh Salam,Azmatullah Omarzai,0,0,0,,,,,,,,,,,,,,,,,,20.0,223.0,194
+Punjab Kings,19,6,0.1,5.6,mandatory,Harpreet Brar,Rasikh Salam,Azmatullah Omarzai,4,0,4,,,,,,,,,,,,,,,,,,20.0,223.0,198
+Punjab Kings,19,7,0.1,5.6,mandatory,Harpreet Brar,Rasikh Salam,Azmatullah Omarzai,1,0,1,,,,,,,,,,,,,,,,,,20.0,223.0,199
+Punjab Kings,19,8,0.1,5.6,mandatory,Azmatullah Omarzai,Rasikh Salam,Harpreet Brar,0,0,0,,,,,,,,,,,Azmatullah Omarzai,caught,,,,,TH David,20.0,223.0,199

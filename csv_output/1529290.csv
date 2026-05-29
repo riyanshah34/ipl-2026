@@ -1,0 +1,248 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,noballs,review_by,review_umpire,review_batter,review_decision,review_type,legbyes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Lucknow Super Giants,0,1,0.1,5.6,mandatory,MR Marsh,DL Chahar,JP Inglis,0,0,0,,,,,,,,,,,,,,,,,,0
+Lucknow Super Giants,0,2,0.1,5.6,mandatory,MR Marsh,DL Chahar,JP Inglis,6,0,6,,,,,,,,,,,,,,,,,,6
+Lucknow Super Giants,0,3,0.1,5.6,mandatory,MR Marsh,DL Chahar,JP Inglis,4,0,4,,,,,,,,,,,,,,,,,,10
+Lucknow Super Giants,0,4,0.1,5.6,mandatory,MR Marsh,DL Chahar,JP Inglis,0,0,0,,,,,,,,,,,,,,,,,,10
+Lucknow Super Giants,0,5,0.1,5.6,mandatory,MR Marsh,DL Chahar,JP Inglis,0,0,0,,,,,,,,,,,,,,,,,,10
+Lucknow Super Giants,0,6,0.1,5.6,mandatory,MR Marsh,DL Chahar,JP Inglis,1,0,1,,,,,,,,,,,,,,,,,,11
+Lucknow Super Giants,1,1,0.1,5.6,mandatory,MR Marsh,JJ Bumrah,JP Inglis,1,0,1,,,,,,,,,,,,,,,,,,12
+Lucknow Super Giants,1,2,0.1,5.6,mandatory,JP Inglis,JJ Bumrah,MR Marsh,4,0,4,,,,,,,,,,,,,,,,,,16
+Lucknow Super Giants,1,3,0.1,5.6,mandatory,JP Inglis,JJ Bumrah,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,17
+Lucknow Super Giants,1,4,0.1,5.6,mandatory,MR Marsh,JJ Bumrah,JP Inglis,0,0,0,,,,,,,,,,,,,,,,,,17
+Lucknow Super Giants,1,5,0.1,5.6,mandatory,MR Marsh,JJ Bumrah,JP Inglis,0,0,0,,,,,,,,,,,,,,,,,,17
+Lucknow Super Giants,1,6,0.1,5.6,mandatory,MR Marsh,JJ Bumrah,JP Inglis,4,0,4,,,,,,,,,,,,,,,,,,21
+Lucknow Super Giants,2,1,0.1,5.6,mandatory,JP Inglis,AM Ghazanfar,MR Marsh,4,0,4,,,,,,,,,,,,,,,,,,25
+Lucknow Super Giants,2,2,0.1,5.6,mandatory,JP Inglis,AM Ghazanfar,MR Marsh,4,0,4,,,,,,,,,,,,,,,,,,29
+Lucknow Super Giants,2,3,0.1,5.6,mandatory,JP Inglis,AM Ghazanfar,MR Marsh,0,0,0,,,,,,,,,JP Inglis,caught,,,,,SA Yadav,,,29
+Lucknow Super Giants,2,4,0.1,5.6,mandatory,N Pooran,AM Ghazanfar,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,30
+Lucknow Super Giants,2,5,0.1,5.6,mandatory,MR Marsh,AM Ghazanfar,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,30
+Lucknow Super Giants,2,6,0.1,5.6,mandatory,MR Marsh,AM Ghazanfar,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,30
+Lucknow Super Giants,3,1,0.1,5.6,mandatory,N Pooran,JJ Bumrah,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,31
+Lucknow Super Giants,3,2,0.1,5.6,mandatory,MR Marsh,JJ Bumrah,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,32
+Lucknow Super Giants,3,3,0.1,5.6,mandatory,N Pooran,JJ Bumrah,MR Marsh,0,2,2,2.0,,,,,,,,,,,,,,,,,34
+Lucknow Super Giants,3,4,0.1,5.6,mandatory,MR Marsh,JJ Bumrah,N Pooran,6,0,6,,,,,,,,,,,,,,,,,,40
+Lucknow Super Giants,3,5,0.1,5.6,mandatory,MR Marsh,JJ Bumrah,N Pooran,4,1,5,,1.0,,,,,,,,,,,,,,,,45
+Lucknow Super Giants,3,6,0.1,5.6,mandatory,MR Marsh,JJ Bumrah,N Pooran,4,0,4,,,,,,,,,,,,,,,,,,49
+Lucknow Super Giants,3,7,0.1,5.6,mandatory,MR Marsh,JJ Bumrah,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,50
+Lucknow Super Giants,3,8,0.1,5.6,mandatory,N Pooran,JJ Bumrah,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,51
+Lucknow Super Giants,4,1,0.1,5.6,mandatory,N Pooran,WG Jacks,MR Marsh,6,0,6,,,,,,,,,,,,,,,,,,57
+Lucknow Super Giants,4,2,0.1,5.6,mandatory,N Pooran,WG Jacks,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,58
+Lucknow Super Giants,4,3,0.1,5.6,mandatory,MR Marsh,WG Jacks,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,59
+Lucknow Super Giants,4,4,0.1,5.6,mandatory,N Pooran,WG Jacks,MR Marsh,6,0,6,,,,,,,,,,,,,,,,,,65
+Lucknow Super Giants,4,5,0.1,5.6,mandatory,N Pooran,WG Jacks,MR Marsh,6,0,6,,,,,,,,,,,,,,,,,,71
+Lucknow Super Giants,4,6,0.1,5.6,mandatory,N Pooran,WG Jacks,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,71
+Lucknow Super Giants,5,1,0.1,5.6,mandatory,MR Marsh,AM Ghazanfar,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,72
+Lucknow Super Giants,5,2,0.1,5.6,mandatory,N Pooran,AM Ghazanfar,MR Marsh,4,0,4,,,,,,,,,,,,,,,,,,76
+Lucknow Super Giants,5,3,0.1,5.6,mandatory,N Pooran,AM Ghazanfar,MR Marsh,6,0,6,,,,,,,,,,,,,,,,,,82
+Lucknow Super Giants,5,4,0.1,5.6,mandatory,N Pooran,AM Ghazanfar,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,83
+Lucknow Super Giants,5,5,0.1,5.6,mandatory,MR Marsh,AM Ghazanfar,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,84
+Lucknow Super Giants,5,6,0.1,5.6,mandatory,N Pooran,AM Ghazanfar,MR Marsh,6,0,6,,,,,,,,,,,,,,,,,,90
+Lucknow Super Giants,6,1,0.1,5.6,mandatory,MR Marsh,C Bosch,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,91
+Lucknow Super Giants,6,2,0.1,5.6,mandatory,N Pooran,C Bosch,MR Marsh,6,0,6,,,,,,,,,,,,,,,,,,97
+Lucknow Super Giants,6,3,0.1,5.6,mandatory,N Pooran,C Bosch,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,98
+Lucknow Super Giants,6,4,0.1,5.6,mandatory,MR Marsh,C Bosch,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,99
+Lucknow Super Giants,6,5,0.1,5.6,mandatory,N Pooran,C Bosch,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,100
+Lucknow Super Giants,6,6,0.1,5.6,mandatory,MR Marsh,C Bosch,N Pooran,6,0,6,,,,,,,,,,,,,,,,,,106
+Lucknow Super Giants,7,1,0.1,5.6,mandatory,N Pooran,DL Chahar,MR Marsh,6,0,6,,,,,,,,,,,,,,,,,,112
+Lucknow Super Giants,7,2,0.1,5.6,mandatory,N Pooran,DL Chahar,MR Marsh,2,0,2,,,,,,,,,,,,,,,,,,114
+Lucknow Super Giants,7,3,0.1,5.6,mandatory,N Pooran,DL Chahar,MR Marsh,6,0,6,,,,,,,,,,,,,,,,,,120
+Lucknow Super Giants,7,4,0.1,5.6,mandatory,N Pooran,DL Chahar,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,121
+Lucknow Super Giants,7,5,0.1,5.6,mandatory,MR Marsh,DL Chahar,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,122
+Lucknow Super Giants,7,6,0.1,5.6,mandatory,N Pooran,DL Chahar,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,123
+Lucknow Super Giants,8,1,0.1,5.6,mandatory,N Pooran,C Bosch,MR Marsh,0,0,0,,,,,,,,,N Pooran,caught,,,,,RD Rickelton,,,123
+Lucknow Super Giants,8,2,0.1,5.6,mandatory,RR Pant,C Bosch,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,123
+Lucknow Super Giants,8,3,0.1,5.6,mandatory,RR Pant,C Bosch,MR Marsh,0,1,1,1.0,,,,,,,,,,,,,,,,,124
+Lucknow Super Giants,8,4,0.1,5.6,mandatory,RR Pant,C Bosch,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,124
+Lucknow Super Giants,8,5,0.1,5.6,mandatory,RR Pant,C Bosch,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,125
+Lucknow Super Giants,8,6,0.1,5.6,mandatory,MR Marsh,C Bosch,RR Pant,0,0,0,,,,,,,,,MR Marsh,caught,,,,,Naman Dhir,,,125
+Lucknow Super Giants,8,7,0.1,5.6,mandatory,AK Markram,C Bosch,RR Pant,1,1,2,,1.0,,,,,,,,,,,,,,,,127
+Lucknow Super Giants,8,8,0.1,5.6,mandatory,RR Pant,C Bosch,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,127
+Lucknow Super Giants,9,1,0.1,5.6,mandatory,AK Markram,Raghu Sharma,RR Pant,1,0,1,,,,,,,,,,,,,,,,,,128
+Lucknow Super Giants,9,2,0.1,5.6,mandatory,RR Pant,Raghu Sharma,AK Markram,6,0,6,,,,,,,,,,,,,,,,,,134
+Lucknow Super Giants,9,3,0.1,5.6,mandatory,RR Pant,Raghu Sharma,AK Markram,2,0,2,,,,,,,,,,,,,,,,,,136
+Lucknow Super Giants,9,4,0.1,5.6,mandatory,RR Pant,Raghu Sharma,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,137
+Lucknow Super Giants,9,5,0.1,5.6,mandatory,AK Markram,Raghu Sharma,RR Pant,2,0,2,,,,,,,,,,,,,,,,,,139
+Lucknow Super Giants,9,6,0.1,5.6,mandatory,AK Markram,Raghu Sharma,RR Pant,2,0,2,,,,,,,,,,,,,,,,,,141
+Lucknow Super Giants,10,1,0.1,5.6,mandatory,RR Pant,WG Jacks,AK Markram,4,0,4,,,,,,,,,,,,,,,,,,145
+Lucknow Super Giants,10,2,0.1,5.6,mandatory,RR Pant,WG Jacks,AK Markram,0,1,1,1.0,,,,,,,,,,,,,,,,,146
+Lucknow Super Giants,10,3,0.1,5.6,mandatory,RR Pant,WG Jacks,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,147
+Lucknow Super Giants,10,4,0.1,5.6,mandatory,AK Markram,WG Jacks,RR Pant,1,0,1,,,,,,,,,,,,,,,,,,148
+Lucknow Super Giants,10,5,0.1,5.6,mandatory,RR Pant,WG Jacks,AK Markram,0,0,0,,,,,,,,,RR Pant,caught,,,,,RD Rickelton,,,148
+Lucknow Super Giants,10,6,0.1,5.6,mandatory,Akshat Raghuwanshi,WG Jacks,AK Markram,6,0,6,,,,,,,,,,,,,,,,,,154
+Lucknow Super Giants,10,7,0.1,5.6,mandatory,Akshat Raghuwanshi,WG Jacks,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,155
+Lucknow Super Giants,11,1,0.1,5.6,mandatory,Akshat Raghuwanshi,AM Ghazanfar,AK Markram,2,0,2,,,,,,,,,,,,,,,,,,157
+Lucknow Super Giants,11,2,0.1,5.6,mandatory,Akshat Raghuwanshi,AM Ghazanfar,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,158
+Lucknow Super Giants,11,3,0.1,5.6,mandatory,AK Markram,AM Ghazanfar,Akshat Raghuwanshi,1,0,1,,,,,,,,,,,,,,,,,,159
+Lucknow Super Giants,11,4,0.1,5.6,mandatory,Akshat Raghuwanshi,AM Ghazanfar,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,159
+Lucknow Super Giants,11,5,0.1,5.6,mandatory,Akshat Raghuwanshi,AM Ghazanfar,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,160
+Lucknow Super Giants,11,6,0.1,5.6,mandatory,AK Markram,AM Ghazanfar,Akshat Raghuwanshi,0,0,0,,,,,,,,,,,,,,,,,,160
+Lucknow Super Giants,12,1,0.1,5.6,mandatory,Akshat Raghuwanshi,Raghu Sharma,AK Markram,0,0,0,,,,,,,,,Akshat Raghuwanshi,caught and bowled,,,,,,,,160
+Lucknow Super Giants,12,2,0.1,5.6,mandatory,Himmat Singh,Raghu Sharma,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,161
+Lucknow Super Giants,12,3,0.1,5.6,mandatory,AK Markram,Raghu Sharma,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,162
+Lucknow Super Giants,12,4,0.1,5.6,mandatory,Himmat Singh,Raghu Sharma,AK Markram,0,0,0,,,Mumbai Indians,AK Argal,Himmat Singh,struck down,wicket,,,,,,,,,,,162
+Lucknow Super Giants,12,5,0.1,5.6,mandatory,Himmat Singh,Raghu Sharma,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,163
+Lucknow Super Giants,12,6,0.1,5.6,mandatory,AK Markram,Raghu Sharma,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,164
+Lucknow Super Giants,13,1,0.1,5.6,mandatory,AK Markram,JJ Bumrah,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,165
+Lucknow Super Giants,13,2,0.1,5.6,mandatory,Himmat Singh,JJ Bumrah,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,165
+Lucknow Super Giants,13,3,0.1,5.6,mandatory,Himmat Singh,JJ Bumrah,AK Markram,0,1,1,,1.0,,,,,,,,,,,,,,,,166
+Lucknow Super Giants,13,4,0.1,5.6,mandatory,Himmat Singh,JJ Bumrah,AK Markram,0,1,1,1.0,,,,,,,,,,,,,,,,,167
+Lucknow Super Giants,13,5,0.1,5.6,mandatory,Himmat Singh,JJ Bumrah,AK Markram,1,1,2,,1.0,,,,,,,,,,,,,,,,169
+Lucknow Super Giants,13,6,0.1,5.6,mandatory,AK Markram,JJ Bumrah,Himmat Singh,0,0,0,,,,,,,,,,,,,,,,,,169
+Lucknow Super Giants,13,7,0.1,5.6,mandatory,AK Markram,JJ Bumrah,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,170
+Lucknow Super Giants,13,8,0.1,5.6,mandatory,Himmat Singh,JJ Bumrah,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,170
+Lucknow Super Giants,13,9,0.1,5.6,mandatory,Himmat Singh,JJ Bumrah,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,171
+Lucknow Super Giants,14,1,0.1,5.6,mandatory,Himmat Singh,Raghu Sharma,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,171
+Lucknow Super Giants,14,2,0.1,5.6,mandatory,Himmat Singh,Raghu Sharma,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,171
+Lucknow Super Giants,14,3,0.1,5.6,mandatory,Himmat Singh,Raghu Sharma,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,172
+Lucknow Super Giants,14,4,0.1,5.6,mandatory,AK Markram,Raghu Sharma,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,173
+Lucknow Super Giants,14,5,0.1,5.6,mandatory,Himmat Singh,Raghu Sharma,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,174
+Lucknow Super Giants,14,6,0.1,5.6,mandatory,AK Markram,Raghu Sharma,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,175
+Lucknow Super Giants,15,1,0.1,5.6,mandatory,AK Markram,AM Ghazanfar,Himmat Singh,4,0,4,,,,,,,,,,,,,,,,,,179
+Lucknow Super Giants,15,2,0.1,5.6,mandatory,AK Markram,AM Ghazanfar,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,180
+Lucknow Super Giants,15,3,0.1,5.6,mandatory,Himmat Singh,AM Ghazanfar,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,181
+Lucknow Super Giants,15,4,0.1,5.6,mandatory,AK Markram,AM Ghazanfar,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,182
+Lucknow Super Giants,15,5,0.1,5.6,mandatory,Himmat Singh,AM Ghazanfar,AK Markram,6,0,6,,,,,,,,,,,,,,,,,,188
+Lucknow Super Giants,15,6,0.1,5.6,mandatory,Himmat Singh,AM Ghazanfar,AK Markram,4,0,4,,,,,,,,,,,,,,,,,,192
+Lucknow Super Giants,16,1,0.1,5.6,mandatory,AK Markram,Raghu Sharma,Himmat Singh,0,0,0,,,,,,,,,,,,,,,,,,192
+Lucknow Super Giants,16,2,0.1,5.6,mandatory,AK Markram,Raghu Sharma,Himmat Singh,6,0,6,,,,,,,,,,,,,,,,,,198
+Lucknow Super Giants,16,3,0.1,5.6,mandatory,AK Markram,Raghu Sharma,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,199
+Lucknow Super Giants,16,4,0.1,5.6,mandatory,Himmat Singh,Raghu Sharma,AK Markram,6,0,6,,,,,,,,,,,,,,,,,,205
+Lucknow Super Giants,16,5,0.1,5.6,mandatory,Himmat Singh,Raghu Sharma,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,205
+Lucknow Super Giants,16,6,0.1,5.6,mandatory,Himmat Singh,Raghu Sharma,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,206
+Lucknow Super Giants,17,1,0.1,5.6,mandatory,Himmat Singh,DL Chahar,AK Markram,0,1,1,1.0,,,,,,,,,,,,,,,,,207
+Lucknow Super Giants,17,2,0.1,5.6,mandatory,Himmat Singh,DL Chahar,AK Markram,2,0,2,,,,,,,,,,,,,,,,,,209
+Lucknow Super Giants,17,3,0.1,5.6,mandatory,Himmat Singh,DL Chahar,AK Markram,0,1,1,1.0,,,,,,,,,,,,,,,,,210
+Lucknow Super Giants,17,4,0.1,5.6,mandatory,Himmat Singh,DL Chahar,AK Markram,2,0,2,,,,,,,,,,,,,,,,,,212
+Lucknow Super Giants,17,5,0.1,5.6,mandatory,Himmat Singh,DL Chahar,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,213
+Lucknow Super Giants,17,6,0.1,5.6,mandatory,AK Markram,DL Chahar,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,214
+Lucknow Super Giants,17,7,0.1,5.6,mandatory,Himmat Singh,DL Chahar,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,215
+Lucknow Super Giants,17,8,0.1,5.6,mandatory,AK Markram,DL Chahar,Himmat Singh,0,0,0,,,,,,,,,,,,,,,,,,215
+Lucknow Super Giants,18,1,0.1,5.6,mandatory,Himmat Singh,JJ Bumrah,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,215
+Lucknow Super Giants,18,2,0.1,5.6,mandatory,Himmat Singh,JJ Bumrah,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,216
+Lucknow Super Giants,18,3,0.1,5.6,mandatory,AK Markram,JJ Bumrah,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,217
+Lucknow Super Giants,18,4,0.1,5.6,mandatory,Himmat Singh,JJ Bumrah,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,217
+Lucknow Super Giants,18,5,0.1,5.6,mandatory,Himmat Singh,JJ Bumrah,AK Markram,4,0,4,,,,,,,,,,,,,,,,,,221
+Lucknow Super Giants,18,6,0.1,5.6,mandatory,Himmat Singh,JJ Bumrah,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,222
+Lucknow Super Giants,19,1,0.1,5.6,mandatory,Himmat Singh,DL Chahar,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,222
+Lucknow Super Giants,19,2,0.1,5.6,mandatory,Himmat Singh,DL Chahar,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,223
+Lucknow Super Giants,19,3,0.1,5.6,mandatory,AK Markram,DL Chahar,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,224
+Lucknow Super Giants,19,4,0.1,5.6,mandatory,Himmat Singh,DL Chahar,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,225
+Lucknow Super Giants,19,5,0.1,5.6,mandatory,AK Markram,DL Chahar,Himmat Singh,1,0,1,,,,,,,,,,,,,,,,,,226
+Lucknow Super Giants,19,6,0.1,5.6,mandatory,Himmat Singh,DL Chahar,AK Markram,2,0,2,,,,,,,,,,,,,,,,,,228
+Mumbai Indians,0,1,0.1,5.6,mandatory,RD Rickelton,Mohammed Shami,RG Sharma,4,0,4,,,,,,,,,,,M Siddharth,MR Marsh,Lucknow Super Giants,impact_player,,20.0,229.0,4
+Mumbai Indians,0,2,0.1,5.6,mandatory,RD Rickelton,Mohammed Shami,RG Sharma,4,0,4,,,,,,,,,,,RG Sharma,Raghu Sharma,Mumbai Indians,impact_player,,20.0,229.0,8
+Mumbai Indians,0,3,0.1,5.6,mandatory,RD Rickelton,Mohammed Shami,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,9
+Mumbai Indians,0,4,0.1,5.6,mandatory,RG Sharma,Mohammed Shami,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,9
+Mumbai Indians,0,5,0.1,5.6,mandatory,RG Sharma,Mohammed Shami,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,10
+Mumbai Indians,0,6,0.1,5.6,mandatory,RD Rickelton,Mohammed Shami,RG Sharma,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,14
+Mumbai Indians,0,7,0.1,5.6,mandatory,RD Rickelton,Mohammed Shami,RG Sharma,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,14
+Mumbai Indians,1,1,0.1,5.6,mandatory,RG Sharma,Mohsin Khan,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,14
+Mumbai Indians,1,2,0.1,5.6,mandatory,RG Sharma,Mohsin Khan,RD Rickelton,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,18
+Mumbai Indians,1,3,0.1,5.6,mandatory,RG Sharma,Mohsin Khan,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,19
+Mumbai Indians,1,4,0.1,5.6,mandatory,RD Rickelton,Mohsin Khan,RG Sharma,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,25
+Mumbai Indians,1,5,0.1,5.6,mandatory,RD Rickelton,Mohsin Khan,RG Sharma,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,25
+Mumbai Indians,1,6,0.1,5.6,mandatory,RD Rickelton,Mohsin Khan,RG Sharma,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,25
+Mumbai Indians,2,1,0.1,5.6,mandatory,RG Sharma,Mohammed Shami,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,25
+Mumbai Indians,2,2,0.1,5.6,mandatory,RG Sharma,Mohammed Shami,RD Rickelton,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,31
+Mumbai Indians,2,3,0.1,5.6,mandatory,RG Sharma,Mohammed Shami,RD Rickelton,0,1,1,,,Lucknow Super Giants,SJ Nogajski,RG Sharma,struck down,wicket,1.0,,,,,,,,20.0,229.0,32
+Mumbai Indians,2,4,0.1,5.6,mandatory,RD Rickelton,Mohammed Shami,RG Sharma,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,38
+Mumbai Indians,2,5,0.1,5.6,mandatory,RD Rickelton,Mohammed Shami,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,39
+Mumbai Indians,2,6,0.1,5.6,mandatory,RG Sharma,Mohammed Shami,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,39
+Mumbai Indians,3,1,0.1,5.6,mandatory,RD Rickelton,Mohsin Khan,RG Sharma,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,39
+Mumbai Indians,3,2,0.1,5.6,mandatory,RD Rickelton,Mohsin Khan,RG Sharma,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,43
+Mumbai Indians,3,3,0.1,5.6,mandatory,RD Rickelton,Mohsin Khan,RG Sharma,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,47
+Mumbai Indians,3,4,0.1,5.6,mandatory,RD Rickelton,Mohsin Khan,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,48
+Mumbai Indians,3,5,0.1,5.6,mandatory,RG Sharma,Mohsin Khan,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,48
+Mumbai Indians,3,6,0.1,5.6,mandatory,RG Sharma,Mohsin Khan,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,48
+Mumbai Indians,4,1,0.1,5.6,mandatory,RD Rickelton,Prince Yadav,RG Sharma,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,48
+Mumbai Indians,4,2,0.1,5.6,mandatory,RD Rickelton,Prince Yadav,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,49
+Mumbai Indians,4,3,0.1,5.6,mandatory,RG Sharma,Prince Yadav,RD Rickelton,2,0,2,,,,,,,,,,,,,,,,20.0,229.0,51
+Mumbai Indians,4,4,0.1,5.6,mandatory,RG Sharma,Prince Yadav,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,51
+Mumbai Indians,4,5,0.1,5.6,mandatory,RG Sharma,Prince Yadav,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,52
+Mumbai Indians,4,6,0.1,5.6,mandatory,RD Rickelton,Prince Yadav,RG Sharma,2,0,2,,,,,,,,,,,,,,,,20.0,229.0,54
+Mumbai Indians,5,1,0.1,5.6,mandatory,RG Sharma,Avesh Khan,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,54
+Mumbai Indians,5,2,0.1,5.6,mandatory,RG Sharma,Avesh Khan,RD Rickelton,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,58
+Mumbai Indians,5,3,0.1,5.6,mandatory,RG Sharma,Avesh Khan,RD Rickelton,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,62
+Mumbai Indians,5,4,0.1,5.6,mandatory,RG Sharma,Avesh Khan,RD Rickelton,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,68
+Mumbai Indians,5,5,0.1,5.6,mandatory,RG Sharma,Avesh Khan,RD Rickelton,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,74
+Mumbai Indians,5,6,0.1,5.6,mandatory,RG Sharma,Avesh Khan,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,75
+Mumbai Indians,6,1,0.1,5.6,mandatory,RG Sharma,M Siddharth,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,76
+Mumbai Indians,6,2,0.1,5.6,mandatory,RD Rickelton,M Siddharth,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,77
+Mumbai Indians,6,3,0.1,5.6,mandatory,RG Sharma,M Siddharth,RD Rickelton,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,83
+Mumbai Indians,6,4,0.1,5.6,mandatory,RG Sharma,M Siddharth,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,84
+Mumbai Indians,6,5,0.1,5.6,mandatory,RD Rickelton,M Siddharth,RG Sharma,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,90
+Mumbai Indians,6,6,0.1,5.6,mandatory,RD Rickelton,M Siddharth,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,91
+Mumbai Indians,7,1,0.1,5.6,mandatory,RD Rickelton,Avesh Khan,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,92
+Mumbai Indians,7,2,0.1,5.6,mandatory,RG Sharma,Avesh Khan,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,92
+Mumbai Indians,7,3,0.1,5.6,mandatory,RG Sharma,Avesh Khan,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,93
+Mumbai Indians,7,4,0.1,5.6,mandatory,RD Rickelton,Avesh Khan,RG Sharma,0,1,1,1.0,,,,,,,,,,,,,,,20.0,229.0,94
+Mumbai Indians,7,5,0.1,5.6,mandatory,RD Rickelton,Avesh Khan,RG Sharma,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,100
+Mumbai Indians,7,6,0.1,5.6,mandatory,RD Rickelton,Avesh Khan,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,101
+Mumbai Indians,7,7,0.1,5.6,mandatory,RG Sharma,Avesh Khan,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,102
+Mumbai Indians,8,1,0.1,5.6,mandatory,RG Sharma,M Siddharth,RD Rickelton,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,108
+Mumbai Indians,8,2,0.1,5.6,mandatory,RG Sharma,M Siddharth,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,109
+Mumbai Indians,8,3,0.1,5.6,mandatory,RD Rickelton,M Siddharth,RG Sharma,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,115
+Mumbai Indians,8,4,0.1,5.6,mandatory,RD Rickelton,M Siddharth,RG Sharma,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,115
+Mumbai Indians,8,5,0.1,5.6,mandatory,RD Rickelton,M Siddharth,RG Sharma,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,119
+Mumbai Indians,8,6,0.1,5.6,mandatory,RD Rickelton,M Siddharth,RG Sharma,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,125
+Mumbai Indians,9,1,0.1,5.6,mandatory,RG Sharma,Prince Yadav,RD Rickelton,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,129
+Mumbai Indians,9,2,0.1,5.6,mandatory,RG Sharma,Prince Yadav,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,129
+Mumbai Indians,9,3,0.1,5.6,mandatory,RG Sharma,Prince Yadav,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,129
+Mumbai Indians,9,4,0.1,5.6,mandatory,RG Sharma,Prince Yadav,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,129
+Mumbai Indians,9,5,0.1,5.6,mandatory,RG Sharma,Prince Yadav,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,130
+Mumbai Indians,9,6,0.1,5.6,mandatory,RD Rickelton,Prince Yadav,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,131
+Mumbai Indians,10,1,0.1,5.6,mandatory,RD Rickelton,Mohsin Khan,RG Sharma,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,135
+Mumbai Indians,10,2,0.1,5.6,mandatory,RD Rickelton,Mohsin Khan,RG Sharma,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,141
+Mumbai Indians,10,3,0.1,5.6,mandatory,RD Rickelton,Mohsin Khan,RG Sharma,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,141
+Mumbai Indians,10,4,0.1,5.6,mandatory,RD Rickelton,Mohsin Khan,RG Sharma,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,147
+Mumbai Indians,10,5,0.1,5.6,mandatory,RD Rickelton,Mohsin Khan,RG Sharma,0,0,0,,,,,,,,,RD Rickelton,caught,,,,,JP Inglis,20.0,229.0,147
+Mumbai Indians,10,6,0.1,5.6,mandatory,Tilak Varma,Mohsin Khan,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,148
+Mumbai Indians,11,1,0.1,5.6,mandatory,Tilak Varma,Mohammed Shami,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,149
+Mumbai Indians,11,2,0.1,5.6,mandatory,RG Sharma,Mohammed Shami,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,153
+Mumbai Indians,11,3,0.1,5.6,mandatory,RG Sharma,Mohammed Shami,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,154
+Mumbai Indians,11,4,0.1,5.6,mandatory,Tilak Varma,Mohammed Shami,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,155
+Mumbai Indians,11,5,0.1,5.6,mandatory,RG Sharma,Mohammed Shami,Tilak Varma,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,161
+Mumbai Indians,11,6,0.1,5.6,mandatory,RG Sharma,Mohammed Shami,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,162
+Mumbai Indians,12,1,0.1,5.6,mandatory,RG Sharma,Avesh Khan,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,166
+Mumbai Indians,12,2,0.1,5.6,mandatory,RG Sharma,Avesh Khan,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,167
+Mumbai Indians,12,3,0.1,5.6,mandatory,Tilak Varma,Avesh Khan,RG Sharma,0,1,1,,,,,,,,1.0,,,,,,,,20.0,229.0,168
+Mumbai Indians,12,4,0.1,5.6,mandatory,RG Sharma,Avesh Khan,Tilak Varma,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,174
+Mumbai Indians,12,5,0.1,5.6,mandatory,RG Sharma,Avesh Khan,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,175
+Mumbai Indians,12,6,0.1,5.6,mandatory,Tilak Varma,Avesh Khan,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,176
+Mumbai Indians,13,1,0.1,5.6,mandatory,Tilak Varma,M Siddharth,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,177
+Mumbai Indians,13,2,0.1,5.6,mandatory,RG Sharma,M Siddharth,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,178
+Mumbai Indians,13,3,0.1,5.6,mandatory,Tilak Varma,M Siddharth,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,179
+Mumbai Indians,13,4,0.1,5.6,mandatory,RG Sharma,M Siddharth,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,180
+Mumbai Indians,13,5,0.1,5.6,mandatory,Tilak Varma,M Siddharth,RG Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,181
+Mumbai Indians,13,6,0.1,5.6,mandatory,RG Sharma,M Siddharth,Tilak Varma,0,0,0,,,,,,,,,RG Sharma,caught,,,,,Mohammed Shami,20.0,229.0,181
+Mumbai Indians,14,1,0.1,5.6,mandatory,Tilak Varma,Mohsin Khan,SA Yadav,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,182
+Mumbai Indians,14,2,0.1,5.6,mandatory,SA Yadav,Mohsin Khan,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,183
+Mumbai Indians,14,3,0.1,5.6,mandatory,Tilak Varma,Mohsin Khan,SA Yadav,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,184
+Mumbai Indians,14,4,0.1,5.6,mandatory,SA Yadav,Mohsin Khan,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,188
+Mumbai Indians,14,5,0.1,5.6,mandatory,SA Yadav,Mohsin Khan,Tilak Varma,0,1,1,1.0,,,,,,,,,,,,,,,20.0,229.0,189
+Mumbai Indians,14,6,0.1,5.6,mandatory,SA Yadav,Mohsin Khan,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,190
+Mumbai Indians,14,7,0.1,5.6,mandatory,Tilak Varma,Mohsin Khan,SA Yadav,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,191
+Mumbai Indians,15,1,0.1,5.6,mandatory,Tilak Varma,M Siddharth,SA Yadav,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,192
+Mumbai Indians,15,2,0.1,5.6,mandatory,SA Yadav,M Siddharth,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,193
+Mumbai Indians,15,3,0.1,5.6,mandatory,Tilak Varma,M Siddharth,SA Yadav,0,0,0,,,,,,,,,Tilak Varma,caught,,,,,AK Markram,20.0,229.0,193
+Mumbai Indians,15,4,0.1,5.6,mandatory,Naman Dhir,M Siddharth,SA Yadav,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,193
+Mumbai Indians,15,5,0.1,5.6,mandatory,Naman Dhir,M Siddharth,SA Yadav,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,193
+Mumbai Indians,15,6,0.1,5.6,mandatory,Naman Dhir,M Siddharth,SA Yadav,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,194
+Mumbai Indians,16,1,0.1,5.6,mandatory,Naman Dhir,Prince Yadav,SA Yadav,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,198
+Mumbai Indians,16,2,0.1,5.6,mandatory,Naman Dhir,Prince Yadav,SA Yadav,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,202
+Mumbai Indians,16,3,0.1,5.6,mandatory,Naman Dhir,Prince Yadav,SA Yadav,0,0,0,,,,,,,,,,,,,,,,20.0,229.0,202
+Mumbai Indians,16,4,0.1,5.6,mandatory,Naman Dhir,Prince Yadav,SA Yadav,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,203
+Mumbai Indians,16,5,0.1,5.6,mandatory,SA Yadav,Prince Yadav,Naman Dhir,0,1,1,1.0,,,,,,,,,,,,,,,20.0,229.0,204
+Mumbai Indians,16,6,0.1,5.6,mandatory,SA Yadav,Prince Yadav,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,205
+Mumbai Indians,16,7,0.1,5.6,mandatory,Naman Dhir,Prince Yadav,SA Yadav,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,206
+Mumbai Indians,17,1,0.1,5.6,mandatory,Naman Dhir,Mohammed Shami,SA Yadav,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,212
+Mumbai Indians,17,2,0.1,5.6,mandatory,Naman Dhir,Mohammed Shami,SA Yadav,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,213
+Mumbai Indians,17,3,0.1,5.6,mandatory,SA Yadav,Mohammed Shami,Naman Dhir,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,217
+Mumbai Indians,17,4,0.1,5.6,mandatory,SA Yadav,Mohammed Shami,Naman Dhir,0,0,0,,,,,,,,,SA Yadav,caught,,,,,N Pooran,20.0,229.0,217
+Mumbai Indians,17,5,0.1,5.6,mandatory,WG Jacks,Mohammed Shami,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,218
+Mumbai Indians,17,6,0.1,5.6,mandatory,Naman Dhir,Mohammed Shami,WG Jacks,4,0,4,,,,,,,,,,,,,,,,20.0,229.0,222
+Mumbai Indians,18,1,0.1,5.6,mandatory,WG Jacks,Avesh Khan,Naman Dhir,2,0,2,,,,,,,,,,,,,,,,20.0,229.0,224
+Mumbai Indians,18,2,0.1,5.6,mandatory,WG Jacks,Avesh Khan,Naman Dhir,0,1,1,1.0,,,,,,,,,,,,,,,20.0,229.0,225
+Mumbai Indians,18,3,0.1,5.6,mandatory,WG Jacks,Avesh Khan,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,226
+Mumbai Indians,18,4,0.1,5.6,mandatory,Naman Dhir,Avesh Khan,WG Jacks,1,0,1,,,,,,,,,,,,,,,,20.0,229.0,227
+Mumbai Indians,18,5,0.1,5.6,mandatory,WG Jacks,Avesh Khan,Naman Dhir,6,0,6,,,,,,,,,,,,,,,,20.0,229.0,233

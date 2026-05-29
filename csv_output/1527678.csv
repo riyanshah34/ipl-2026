@@ -1,0 +1,230 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,legbyes,byes,review_by,review_umpire,review_batter,review_decision,review_type,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Lucknow Super Giants,0,1,0.1,5.6,mandatory,MR Marsh,Mukesh Kumar,RR Pant,1,0,1,,,,,,,,,,,,,,,,,,1
+Lucknow Super Giants,0,2,0.1,5.6,mandatory,RR Pant,Mukesh Kumar,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,1
+Lucknow Super Giants,0,3,0.1,5.6,mandatory,RR Pant,Mukesh Kumar,MR Marsh,4,0,4,,,,,,,,,,,,,,,,,,5
+Lucknow Super Giants,0,4,0.1,5.6,mandatory,RR Pant,Mukesh Kumar,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,5
+Lucknow Super Giants,0,5,0.1,5.6,mandatory,RR Pant,Mukesh Kumar,MR Marsh,0,1,1,1.0,,,,,,,,,,,,,,,,,6
+Lucknow Super Giants,0,6,0.1,5.6,mandatory,RR Pant,Mukesh Kumar,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,6
+Lucknow Super Giants,0,7,0.1,5.6,mandatory,RR Pant,Mukesh Kumar,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,6
+Lucknow Super Giants,1,1,0.1,5.6,mandatory,MR Marsh,L Ngidi,RR Pant,4,0,4,,,,,,,,,,,,,,,,,,10
+Lucknow Super Giants,1,2,0.1,5.6,mandatory,MR Marsh,L Ngidi,RR Pant,0,0,0,,,,,,,,,,,,,,,,,,10
+Lucknow Super Giants,1,3,0.1,5.6,mandatory,MR Marsh,L Ngidi,RR Pant,4,0,4,,,,,,,,,,,,,,,,,,14
+Lucknow Super Giants,1,4,0.1,5.6,mandatory,MR Marsh,L Ngidi,RR Pant,1,0,1,,,,,,,,,,,,,,,,,,15
+Lucknow Super Giants,1,5,0.1,5.6,mandatory,RR Pant,L Ngidi,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,15
+Lucknow Super Giants,1,6,0.1,5.6,mandatory,RR Pant,L Ngidi,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,16
+Lucknow Super Giants,2,1,0.1,5.6,mandatory,RR Pant,Mukesh Kumar,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,17
+Lucknow Super Giants,2,2,0.1,5.6,mandatory,MR Marsh,Mukesh Kumar,RR Pant,0,0,0,,,,,,,,,,,,,,,,,,17
+Lucknow Super Giants,2,3,0.1,5.6,mandatory,MR Marsh,Mukesh Kumar,RR Pant,0,0,0,,,,,,,,,,,,,,,,,,17
+Lucknow Super Giants,2,4,0.1,5.6,mandatory,MR Marsh,Mukesh Kumar,RR Pant,1,0,1,,,,,,,,,,,,,,,,,,18
+Lucknow Super Giants,2,5,0.1,5.6,mandatory,RR Pant,Mukesh Kumar,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,19
+Lucknow Super Giants,2,6,0.1,5.6,mandatory,MR Marsh,Mukesh Kumar,RR Pant,0,0,0,,,,,,,,,RR Pant,run out,,,,,,,,19
+Lucknow Super Giants,3,1,0.1,5.6,mandatory,AK Markram,AR Patel,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,19
+Lucknow Super Giants,3,2,0.1,5.6,mandatory,AK Markram,AR Patel,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,19
+Lucknow Super Giants,3,3,0.1,5.6,mandatory,AK Markram,AR Patel,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,20
+Lucknow Super Giants,3,4,0.1,5.6,mandatory,MR Marsh,AR Patel,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,20
+Lucknow Super Giants,3,5,0.1,5.6,mandatory,MR Marsh,AR Patel,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,21
+Lucknow Super Giants,3,6,0.1,5.6,mandatory,AK Markram,AR Patel,MR Marsh,4,0,4,,,,,,,,,,,,,,,,,,25
+Lucknow Super Giants,4,1,0.1,5.6,mandatory,MR Marsh,Mukesh Kumar,AK Markram,0,4,4,,4.0,,,,,,,,,,,,,,,,29
+Lucknow Super Giants,4,2,0.1,5.6,mandatory,MR Marsh,Mukesh Kumar,AK Markram,6,0,6,,,,,,,,,,,,,,,,,,35
+Lucknow Super Giants,4,3,0.1,5.6,mandatory,MR Marsh,Mukesh Kumar,AK Markram,0,1,1,1.0,,,,,,,,,,,,,,,,,36
+Lucknow Super Giants,4,4,0.1,5.6,mandatory,MR Marsh,Mukesh Kumar,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,36
+Lucknow Super Giants,4,5,0.1,5.6,mandatory,MR Marsh,Mukesh Kumar,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,37
+Lucknow Super Giants,4,6,0.1,5.6,mandatory,AK Markram,Mukesh Kumar,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,37
+Lucknow Super Giants,4,7,0.1,5.6,mandatory,AK Markram,Mukesh Kumar,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,37
+Lucknow Super Giants,5,1,0.1,5.6,mandatory,MR Marsh,AR Patel,AK Markram,0,0,0,,,,,,,,,,,,,,,,,,37
+Lucknow Super Giants,5,2,0.1,5.6,mandatory,MR Marsh,AR Patel,AK Markram,0,4,4,,,4.0,,,,,,,,,,,,,,,41
+Lucknow Super Giants,5,3,0.1,5.6,mandatory,MR Marsh,AR Patel,AK Markram,1,0,1,,,,,,,,,,,,,,,,,,42
+Lucknow Super Giants,5,4,0.1,5.6,mandatory,AK Markram,AR Patel,MR Marsh,6,0,6,,,,,,,,,,,,,,,,,,48
+Lucknow Super Giants,5,5,0.1,5.6,mandatory,AK Markram,AR Patel,MR Marsh,0,0,0,,,,,,,,,AK Markram,bowled,,,,,,,,48
+Lucknow Super Giants,5,6,0.1,5.6,mandatory,A Badoni,AR Patel,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,48
+Lucknow Super Giants,6,1,0.1,5.6,mandatory,MR Marsh,T Natarajan,A Badoni,1,0,1,,,,,,,,,,,,,,,,,,49
+Lucknow Super Giants,6,2,0.1,5.6,mandatory,A Badoni,T Natarajan,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,49
+Lucknow Super Giants,6,3,0.1,5.6,mandatory,A Badoni,T Natarajan,MR Marsh,0,0,0,,,,,,,,,A Badoni,caught,,,,,KL Rahul,,,49
+Lucknow Super Giants,6,4,0.1,5.6,mandatory,N Pooran,T Natarajan,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,49
+Lucknow Super Giants,6,5,0.1,5.6,mandatory,N Pooran,T Natarajan,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,50
+Lucknow Super Giants,6,6,0.1,5.6,mandatory,MR Marsh,T Natarajan,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,50
+Lucknow Super Giants,7,1,0.1,5.6,mandatory,N Pooran,Kuldeep Yadav,MR Marsh,4,0,4,,,,,,,,,,,,,,,,,,54
+Lucknow Super Giants,7,2,0.1,5.6,mandatory,N Pooran,Kuldeep Yadav,MR Marsh,0,0,0,,,,,,,,,,,,,,,,,,54
+Lucknow Super Giants,7,3,0.1,5.6,mandatory,N Pooran,Kuldeep Yadav,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,55
+Lucknow Super Giants,7,4,0.1,5.6,mandatory,MR Marsh,Kuldeep Yadav,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,56
+Lucknow Super Giants,7,5,0.1,5.6,mandatory,N Pooran,Kuldeep Yadav,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,57
+Lucknow Super Giants,7,6,0.1,5.6,mandatory,MR Marsh,Kuldeep Yadav,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,57
+Lucknow Super Giants,8,1,0.1,5.6,mandatory,N Pooran,L Ngidi,MR Marsh,1,0,1,,,,,,,,,,,,,,,,,,58
+Lucknow Super Giants,8,2,0.1,5.6,mandatory,MR Marsh,L Ngidi,N Pooran,0,0,0,,,,,,,,,,,,,,,,,,58
+Lucknow Super Giants,8,3,0.1,5.6,mandatory,MR Marsh,L Ngidi,N Pooran,6,0,6,,,,,,,,,,,,,,,,,,64
+Lucknow Super Giants,8,4,0.1,5.6,mandatory,MR Marsh,L Ngidi,N Pooran,1,0,1,,,,,,,,,,,,,,,,,,65
+Lucknow Super Giants,8,5,0.1,5.6,mandatory,N Pooran,L Ngidi,MR Marsh,0,0,0,,,,,,,,,N Pooran,bowled,,,,,,,,65
+Lucknow Super Giants,8,6,0.1,5.6,mandatory,Abdul Samad,L Ngidi,MR Marsh,0,0,0,,,,Delhi Capitals,UV Gandhe,Abdul Samad,struck down,wicket,,,,,,,,,,65
+Lucknow Super Giants,9,1,0.1,5.6,mandatory,MR Marsh,Kuldeep Yadav,Abdul Samad,6,0,6,,,,,,,,,,,,,,,,,,71
+Lucknow Super Giants,9,2,0.1,5.6,mandatory,MR Marsh,Kuldeep Yadav,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,71
+Lucknow Super Giants,9,3,0.1,5.6,mandatory,MR Marsh,Kuldeep Yadav,Abdul Samad,0,0,0,,,,,,,,,MR Marsh,caught,,,,,T Stubbs,,,71
+Lucknow Super Giants,9,4,0.1,5.6,mandatory,MD Choudhary,Kuldeep Yadav,Abdul Samad,4,0,4,,,,,,,,,,,,,,,,,,75
+Lucknow Super Giants,9,5,0.1,5.6,mandatory,MD Choudhary,Kuldeep Yadav,Abdul Samad,4,0,4,,,,,,,,,,,,,,,,,,79
+Lucknow Super Giants,9,6,0.1,5.6,mandatory,MD Choudhary,Kuldeep Yadav,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,80
+Lucknow Super Giants,10,1,0.1,5.6,mandatory,MD Choudhary,AR Patel,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,81
+Lucknow Super Giants,10,2,0.1,5.6,mandatory,Abdul Samad,AR Patel,MD Choudhary,1,0,1,,,,,,,,,,,,,,,,,,82
+Lucknow Super Giants,10,3,0.1,5.6,mandatory,MD Choudhary,AR Patel,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,82
+Lucknow Super Giants,10,4,0.1,5.6,mandatory,MD Choudhary,AR Patel,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,83
+Lucknow Super Giants,10,5,0.1,5.6,mandatory,Abdul Samad,AR Patel,MD Choudhary,1,0,1,,,,,,,,,,,,,,,,,,84
+Lucknow Super Giants,10,6,0.1,5.6,mandatory,MD Choudhary,AR Patel,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,84
+Lucknow Super Giants,11,1,0.1,5.6,mandatory,Abdul Samad,V Nigam,MD Choudhary,0,4,4,,4.0,,,,,,,,,,,,,,,,88
+Lucknow Super Giants,11,2,0.1,5.6,mandatory,Abdul Samad,V Nigam,MD Choudhary,4,0,4,,,,,,,,,,,,,,,,,,92
+Lucknow Super Giants,11,3,0.1,5.6,mandatory,Abdul Samad,V Nigam,MD Choudhary,1,0,1,,,,,,,,,,,,,,,,,,93
+Lucknow Super Giants,11,4,0.1,5.6,mandatory,MD Choudhary,V Nigam,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,94
+Lucknow Super Giants,11,5,0.1,5.6,mandatory,Abdul Samad,V Nigam,MD Choudhary,2,0,2,,,,,,,,,,,,,,,,,,96
+Lucknow Super Giants,11,6,0.1,5.6,mandatory,Abdul Samad,V Nigam,MD Choudhary,0,0,0,,,,,,,,,,,,,,,,,,96
+Lucknow Super Giants,12,1,0.1,5.6,mandatory,MD Choudhary,T Natarajan,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,97
+Lucknow Super Giants,12,2,0.1,5.6,mandatory,Abdul Samad,T Natarajan,MD Choudhary,2,0,2,,,,,,,,,,,,,,,,,,99
+Lucknow Super Giants,12,3,0.1,5.6,mandatory,Abdul Samad,T Natarajan,MD Choudhary,0,0,0,,,,,,,,,,,,,,,,,,99
+Lucknow Super Giants,12,4,0.1,5.6,mandatory,Abdul Samad,T Natarajan,MD Choudhary,4,0,4,,,,,,,,,,,,,,,,,,103
+Lucknow Super Giants,12,5,0.1,5.6,mandatory,Abdul Samad,T Natarajan,MD Choudhary,1,0,1,,,,,,,,,,,,,,,,,,104
+Lucknow Super Giants,12,6,0.1,5.6,mandatory,MD Choudhary,T Natarajan,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,105
+Lucknow Super Giants,13,1,0.1,5.6,mandatory,MD Choudhary,Kuldeep Yadav,Abdul Samad,0,0,0,,,,,,,,,MD Choudhary,caught and bowled,,,,,,,,105
+Lucknow Super Giants,13,2,0.1,5.6,mandatory,Shahbaz Ahmed,Kuldeep Yadav,Abdul Samad,0,0,0,,,,,,,,,,,Shahbaz Ahmed,MR Marsh,Lucknow Super Giants,impact_player,,,,105
+Lucknow Super Giants,13,3,0.1,5.6,mandatory,Shahbaz Ahmed,Kuldeep Yadav,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,106
+Lucknow Super Giants,13,4,0.1,5.6,mandatory,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,2,0,2,,,,,,,,,,,,,,,,,,108
+Lucknow Super Giants,13,5,0.1,5.6,mandatory,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,,,,,,,,,,,,,,,,,,108
+Lucknow Super Giants,13,6,0.1,5.6,mandatory,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,0,0,0,,,,,,,,,,,,,,,,,,108
+Lucknow Super Giants,14,1,0.1,5.6,mandatory,Shahbaz Ahmed,T Natarajan,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,108
+Lucknow Super Giants,14,2,0.1,5.6,mandatory,Shahbaz Ahmed,T Natarajan,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,109
+Lucknow Super Giants,14,3,0.1,5.6,mandatory,Abdul Samad,T Natarajan,Shahbaz Ahmed,6,0,6,,,,,,,,,,,,,,,,,,115
+Lucknow Super Giants,14,4,0.1,5.6,mandatory,Abdul Samad,T Natarajan,Shahbaz Ahmed,4,0,4,,,,,,,,,,,,,,,,,,119
+Lucknow Super Giants,14,5,0.1,5.6,mandatory,Abdul Samad,T Natarajan,Shahbaz Ahmed,1,0,1,,,,,,,,,,,,,,,,,,120
+Lucknow Super Giants,14,6,0.1,5.6,mandatory,Shahbaz Ahmed,T Natarajan,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,121
+Lucknow Super Giants,15,1,0.1,5.6,mandatory,Shahbaz Ahmed,Kuldeep Yadav,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,122
+Lucknow Super Giants,15,2,0.1,5.6,mandatory,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,1,0,1,,,,,,,,,,,,,,,,,,123
+Lucknow Super Giants,15,3,0.1,5.6,mandatory,Shahbaz Ahmed,Kuldeep Yadav,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,124
+Lucknow Super Giants,15,4,0.1,5.6,mandatory,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,1,0,1,,,,,,,,,,,,,,,,,,125
+Lucknow Super Giants,15,5,0.1,5.6,mandatory,Shahbaz Ahmed,Kuldeep Yadav,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,126
+Lucknow Super Giants,15,6,0.1,5.6,mandatory,Abdul Samad,Kuldeep Yadav,Shahbaz Ahmed,1,0,1,,,,,,,,,,,,,,,,,,127
+Lucknow Super Giants,16,1,0.1,5.6,mandatory,Abdul Samad,L Ngidi,Shahbaz Ahmed,1,0,1,,,,,,,,,,,,,,,,,,128
+Lucknow Super Giants,16,2,0.1,5.6,mandatory,Shahbaz Ahmed,L Ngidi,Abdul Samad,4,0,4,,,,,,,,,,,,,,,,,,132
+Lucknow Super Giants,16,3,0.1,5.6,mandatory,Shahbaz Ahmed,L Ngidi,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,133
+Lucknow Super Giants,16,4,0.1,5.6,mandatory,Abdul Samad,L Ngidi,Shahbaz Ahmed,1,0,1,,,,,,,,,,,,,,,,,,134
+Lucknow Super Giants,16,5,0.1,5.6,mandatory,Shahbaz Ahmed,L Ngidi,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,,,134
+Lucknow Super Giants,16,6,0.1,5.6,mandatory,Shahbaz Ahmed,L Ngidi,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,135
+Lucknow Super Giants,17,1,0.1,5.6,mandatory,Shahbaz Ahmed,T Natarajan,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,,,136
+Lucknow Super Giants,17,2,0.1,5.6,mandatory,Abdul Samad,T Natarajan,Shahbaz Ahmed,2,0,2,,,,,,,,,,,,,,,,,,138
+Lucknow Super Giants,17,3,0.1,5.6,mandatory,Abdul Samad,T Natarajan,Shahbaz Ahmed,0,0,0,,,,,,,,,Abdul Samad,caught,,,,,DA Miller,,,138
+Lucknow Super Giants,17,4,0.1,5.6,mandatory,Mohammed Shami,T Natarajan,Shahbaz Ahmed,1,0,1,,,,,,,,,,,,,,,,,,139
+Lucknow Super Giants,17,5,0.1,5.6,mandatory,Shahbaz Ahmed,T Natarajan,Mohammed Shami,1,0,1,,,,,,,,,,,,,,,,,,140
+Lucknow Super Giants,17,6,0.1,5.6,mandatory,Mohammed Shami,T Natarajan,Shahbaz Ahmed,0,0,0,,,,,,,,,Mohammed Shami,caught,,,,,Kuldeep Yadav,,,140
+Lucknow Super Giants,18,1,0.1,5.6,mandatory,Shahbaz Ahmed,L Ngidi,A Nortje,0,0,0,,,,,,,,,,,,,,,,,,140
+Lucknow Super Giants,18,2,0.1,5.6,mandatory,Shahbaz Ahmed,L Ngidi,A Nortje,1,0,1,,,,,,,,,,,,,,,,,,141
+Lucknow Super Giants,18,3,0.1,5.6,mandatory,A Nortje,L Ngidi,Shahbaz Ahmed,0,0,0,,,,,,,,,A Nortje,caught,,,,,T Stubbs,,,141
+Lucknow Super Giants,18,4,0.1,5.6,mandatory,Mohsin Khan,L Ngidi,Shahbaz Ahmed,0,0,0,,,,,,,,,Mohsin Khan,caught,,,,,Mukesh Kumar,,,141
+Delhi Capitals,0,1,0.1,5.6,mandatory,KL Rahul,Mohammed Shami,P Nissanka,0,0,0,,,,,,,,,KL Rahul,caught,,,,,Mohsin Khan,20.0,142.0,0
+Delhi Capitals,0,2,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,0,1,1,1.0,,,,,,,,,,,,,,,20.0,142.0,1
+Delhi Capitals,0,3,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,0,1,1,1.0,,,,,,,,,,,,,,,20.0,142.0,2
+Delhi Capitals,0,4,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,2
+Delhi Capitals,0,5,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,2
+Delhi Capitals,0,6,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,4,0,4,,,,,,,,,,,,,,,,20.0,142.0,6
+Delhi Capitals,0,7,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,6
+Delhi Capitals,0,8,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,6
+Delhi Capitals,1,1,0.1,5.6,mandatory,P Nissanka,Prince Yadav,N Rana,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,7
+Delhi Capitals,1,2,0.1,5.6,mandatory,N Rana,Prince Yadav,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,7
+Delhi Capitals,1,3,0.1,5.6,mandatory,N Rana,Prince Yadav,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,7
+Delhi Capitals,1,4,0.1,5.6,mandatory,N Rana,Prince Yadav,P Nissanka,4,0,4,,,,,,,,,,,,,,,,20.0,142.0,11
+Delhi Capitals,1,5,0.1,5.6,mandatory,N Rana,Prince Yadav,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,11
+Delhi Capitals,1,6,0.1,5.6,mandatory,N Rana,Prince Yadav,P Nissanka,0,1,1,1.0,,,,,,,,,,,,,,,20.0,142.0,12
+Delhi Capitals,1,7,0.1,5.6,mandatory,N Rana,Prince Yadav,P Nissanka,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,13
+Delhi Capitals,2,1,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,0,1,1,1.0,,,,,,,,,,,,,,,20.0,142.0,14
+Delhi Capitals,2,2,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,14
+Delhi Capitals,2,3,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,14
+Delhi Capitals,2,4,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,14
+Delhi Capitals,2,5,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,14
+Delhi Capitals,2,6,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,6,0,6,,,,,,,,,,,,,,,,20.0,142.0,20
+Delhi Capitals,2,7,0.1,5.6,mandatory,N Rana,Mohammed Shami,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,20
+Delhi Capitals,3,1,0.1,5.6,mandatory,P Nissanka,Mohsin Khan,N Rana,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,20
+Delhi Capitals,3,2,0.1,5.6,mandatory,P Nissanka,Mohsin Khan,N Rana,0,1,1,,1.0,,,,,,,,,,,,,,20.0,142.0,21
+Delhi Capitals,3,3,0.1,5.6,mandatory,N Rana,Mohsin Khan,P Nissanka,0,0,0,,,,,,,,,N Rana,caught,,,,,Abdul Samad,20.0,142.0,21
+Delhi Capitals,3,4,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,P Nissanka,0,2,2,,2.0,,,,,,,,,Sameer Rizvi,T Natarajan,Delhi Capitals,impact_player,,20.0,142.0,23
+Delhi Capitals,3,5,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,23
+Delhi Capitals,3,6,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,23
+Delhi Capitals,4,1,0.1,5.6,mandatory,P Nissanka,Prince Yadav,Sameer Rizvi,0,1,1,1.0,,,,,,,,,,,,,,,20.0,142.0,24
+Delhi Capitals,4,2,0.1,5.6,mandatory,P Nissanka,Prince Yadav,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,24
+Delhi Capitals,4,3,0.1,5.6,mandatory,P Nissanka,Prince Yadav,Sameer Rizvi,0,1,1,1.0,,,,,,,,,,,,,,,20.0,142.0,25
+Delhi Capitals,4,4,0.1,5.6,mandatory,P Nissanka,Prince Yadav,Sameer Rizvi,0,0,0,,,,,,,,,P Nissanka,caught,,,,,RR Pant,20.0,142.0,25
+Delhi Capitals,4,5,0.1,5.6,mandatory,AR Patel,Prince Yadav,Sameer Rizvi,0,1,1,1.0,,,,,,,,,,,,,,,20.0,142.0,26
+Delhi Capitals,4,6,0.1,5.6,mandatory,AR Patel,Prince Yadav,Sameer Rizvi,0,0,0,,,,,,,,,AR Patel,bowled,,,,,,20.0,142.0,26
+Delhi Capitals,4,7,0.1,5.6,mandatory,T Stubbs,Prince Yadav,Sameer Rizvi,4,0,4,,,,,,,,,,,,,,,,20.0,142.0,30
+Delhi Capitals,4,8,0.1,5.6,mandatory,T Stubbs,Prince Yadav,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,30
+Delhi Capitals,4,9,0.1,5.6,mandatory,T Stubbs,Prince Yadav,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,30
+Delhi Capitals,5,1,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,30
+Delhi Capitals,5,2,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,30
+Delhi Capitals,5,3,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,30
+Delhi Capitals,5,4,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,T Stubbs,0,1,1,,1.0,,,,,,,,,,,,,,20.0,142.0,31
+Delhi Capitals,5,5,0.1,5.6,mandatory,T Stubbs,Mohsin Khan,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,31
+Delhi Capitals,5,6,0.1,5.6,mandatory,T Stubbs,Mohsin Khan,Sameer Rizvi,2,0,2,,,,,,,,,,,,,,,,20.0,142.0,33
+Delhi Capitals,6,1,0.1,5.6,mandatory,Sameer Rizvi,Mohammed Shami,T Stubbs,0,0,0,,,,Lucknow Super Giants,UV Gandhe,Sameer Rizvi,struck down,wicket,,,,,,,,20.0,142.0,33
+Delhi Capitals,6,2,0.1,5.6,mandatory,Sameer Rizvi,Mohammed Shami,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,34
+Delhi Capitals,6,3,0.1,5.6,mandatory,T Stubbs,Mohammed Shami,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,35
+Delhi Capitals,6,4,0.1,5.6,mandatory,Sameer Rizvi,Mohammed Shami,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,36
+Delhi Capitals,6,5,0.1,5.6,mandatory,T Stubbs,Mohammed Shami,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,37
+Delhi Capitals,6,6,0.1,5.6,mandatory,Sameer Rizvi,Mohammed Shami,T Stubbs,0,1,1,1.0,,,,,,,,,,,,,,,20.0,142.0,38
+Delhi Capitals,6,7,0.1,5.6,mandatory,Sameer Rizvi,Mohammed Shami,T Stubbs,2,0,2,,,,,,,,,,,,,,,,20.0,142.0,40
+Delhi Capitals,7,1,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,41
+Delhi Capitals,7,2,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,41
+Delhi Capitals,7,3,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,0,1,1,1.0,,,,,,,,,,,,,,,20.0,142.0,42
+Delhi Capitals,7,4,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,43
+Delhi Capitals,7,5,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,2,0,2,,,,,,,,,,,,,,,,20.0,142.0,45
+Delhi Capitals,7,6,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,46
+Delhi Capitals,7,7,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,0,1,1,1.0,,,,,,,,,,,,,,,20.0,142.0,47
+Delhi Capitals,7,8,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,6,0,6,,,,,,,,,,,,,,,,20.0,142.0,53
+Delhi Capitals,8,1,0.1,5.6,mandatory,T Stubbs,Mohammed Shami,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,54
+Delhi Capitals,8,2,0.1,5.6,mandatory,Sameer Rizvi,Mohammed Shami,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,55
+Delhi Capitals,8,3,0.1,5.6,mandatory,T Stubbs,Mohammed Shami,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,56
+Delhi Capitals,8,4,0.1,5.6,mandatory,Sameer Rizvi,Mohammed Shami,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,57
+Delhi Capitals,8,5,0.1,5.6,mandatory,T Stubbs,Mohammed Shami,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,57
+Delhi Capitals,8,6,0.1,5.6,mandatory,T Stubbs,Mohammed Shami,Sameer Rizvi,4,0,4,,,,,,,,,,,,,,,,20.0,142.0,61
+Delhi Capitals,9,1,0.1,5.6,mandatory,Sameer Rizvi,Shahbaz Ahmed,T Stubbs,2,0,2,,,,,,,,,,,,,,,,20.0,142.0,63
+Delhi Capitals,9,2,0.1,5.6,mandatory,Sameer Rizvi,Shahbaz Ahmed,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,142.0,67
+Delhi Capitals,9,3,0.1,5.6,mandatory,Sameer Rizvi,Shahbaz Ahmed,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,68
+Delhi Capitals,9,4,0.1,5.6,mandatory,T Stubbs,Shahbaz Ahmed,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,69
+Delhi Capitals,9,5,0.1,5.6,mandatory,Sameer Rizvi,Shahbaz Ahmed,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,142.0,73
+Delhi Capitals,9,6,0.1,5.6,mandatory,Sameer Rizvi,Shahbaz Ahmed,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,142.0,77
+Delhi Capitals,10,1,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,78
+Delhi Capitals,10,2,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,2,0,2,,,,,,,,,,,,,,,,20.0,142.0,80
+Delhi Capitals,10,3,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,81
+Delhi Capitals,10,4,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,82
+Delhi Capitals,10,5,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,82
+Delhi Capitals,10,6,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,83
+Delhi Capitals,11,1,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,84
+Delhi Capitals,11,2,0.1,5.6,mandatory,T Stubbs,Mohsin Khan,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,84
+Delhi Capitals,11,3,0.1,5.6,mandatory,T Stubbs,Mohsin Khan,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,84
+Delhi Capitals,11,4,0.1,5.6,mandatory,T Stubbs,Mohsin Khan,Sameer Rizvi,0,1,1,1.0,,,,,,,,,,,,,,,20.0,142.0,85
+Delhi Capitals,11,5,0.1,5.6,mandatory,T Stubbs,Mohsin Khan,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,86
+Delhi Capitals,11,6,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,86
+Delhi Capitals,11,7,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,87
+Delhi Capitals,12,1,0.1,5.6,mandatory,Sameer Rizvi,Prince Yadav,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,87
+Delhi Capitals,12,2,0.1,5.6,mandatory,Sameer Rizvi,Prince Yadav,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,88
+Delhi Capitals,12,3,0.1,5.6,mandatory,T Stubbs,Prince Yadav,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,89
+Delhi Capitals,12,4,0.1,5.6,mandatory,Sameer Rizvi,Prince Yadav,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,89
+Delhi Capitals,12,5,0.1,5.6,mandatory,Sameer Rizvi,Prince Yadav,T Stubbs,2,0,2,,,,,,,,,,,,,,,,20.0,142.0,91
+Delhi Capitals,12,6,0.1,5.6,mandatory,Sameer Rizvi,Prince Yadav,T Stubbs,2,0,2,,,,,,,,,,,,,,,,20.0,142.0,93
+Delhi Capitals,13,1,0.1,5.6,mandatory,T Stubbs,AK Markram,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,94
+Delhi Capitals,13,2,0.1,5.6,mandatory,Sameer Rizvi,AK Markram,T Stubbs,2,0,2,,,,,,,,,,,,,,,,20.0,142.0,96
+Delhi Capitals,13,3,0.1,5.6,mandatory,Sameer Rizvi,AK Markram,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,96
+Delhi Capitals,13,4,0.1,5.6,mandatory,Sameer Rizvi,AK Markram,T Stubbs,6,0,6,,,,,,,,,,,,,,,,20.0,142.0,102
+Delhi Capitals,13,5,0.1,5.6,mandatory,Sameer Rizvi,AK Markram,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,142.0,106
+Delhi Capitals,13,6,0.1,5.6,mandatory,Sameer Rizvi,AK Markram,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,106
+Delhi Capitals,14,1,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,107
+Delhi Capitals,14,2,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,107
+Delhi Capitals,14,3,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,108
+Delhi Capitals,14,4,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,4,0,4,,,,,,,,,,,,,,,,20.0,142.0,112
+Delhi Capitals,14,5,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,112
+Delhi Capitals,14,6,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,113
+Delhi Capitals,15,1,0.1,5.6,mandatory,T Stubbs,Mohsin Khan,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,114
+Delhi Capitals,15,2,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,115
+Delhi Capitals,15,3,0.1,5.6,mandatory,T Stubbs,Mohsin Khan,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,116
+Delhi Capitals,15,4,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,142.0,120
+Delhi Capitals,15,5,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,T Stubbs,6,0,6,,,,,,,,,,,,,,,,20.0,142.0,126
+Delhi Capitals,15,6,0.1,5.6,mandatory,Sameer Rizvi,Mohsin Khan,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,126
+Delhi Capitals,16,1,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,126
+Delhi Capitals,16,2,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,6,0,6,,,,,,,,,,,,,,,,20.0,142.0,132
+Delhi Capitals,16,3,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,133
+Delhi Capitals,16,4,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,0,5,5,5.0,,,,,,,,,,,,,,,20.0,142.0,138
+Delhi Capitals,16,5,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,138
+Delhi Capitals,16,6,0.1,5.6,mandatory,Sameer Rizvi,A Nortje,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,142.0,139
+Delhi Capitals,16,7,0.1,5.6,mandatory,T Stubbs,A Nortje,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,20.0,142.0,139
+Delhi Capitals,17,1,0.1,5.6,mandatory,Sameer Rizvi,Abdul Samad,T Stubbs,6,0,6,,,,,,,,,,,,,,,,20.0,142.0,145

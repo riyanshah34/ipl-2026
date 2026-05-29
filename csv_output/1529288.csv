@@ -1,0 +1,236 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,byes,review_by,review_umpire,review_batter,review_decision,review_type,legbyes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Sunrisers Hyderabad,0,1,0.1,5.6,mandatory,Abhishek Sharma,SP Narine,TM Head,0,0,0,,,,,,,,,,,,,,,,,,0
+Sunrisers Hyderabad,0,2,0.1,5.6,mandatory,Abhishek Sharma,SP Narine,TM Head,1,0,1,,,,,,,,,,,,,,,,,,1
+Sunrisers Hyderabad,0,3,0.1,5.6,mandatory,TM Head,SP Narine,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,2
+Sunrisers Hyderabad,0,4,0.1,5.6,mandatory,Abhishek Sharma,SP Narine,TM Head,6,0,6,,,,,,,,,,,,,,,,,,8
+Sunrisers Hyderabad,0,5,0.1,5.6,mandatory,Abhishek Sharma,SP Narine,TM Head,0,0,0,,,,,,,,,,,,,,,,,,8
+Sunrisers Hyderabad,0,6,0.1,5.6,mandatory,Abhishek Sharma,SP Narine,TM Head,1,0,1,,,,,,,,,,,,,,,,,,9
+Sunrisers Hyderabad,1,1,0.1,5.6,mandatory,Abhishek Sharma,VG Arora,TM Head,1,0,1,,,,,,,,,,,,,,,,,,10
+Sunrisers Hyderabad,1,2,0.1,5.6,mandatory,TM Head,VG Arora,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,14
+Sunrisers Hyderabad,1,3,0.1,5.6,mandatory,TM Head,VG Arora,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,14
+Sunrisers Hyderabad,1,4,0.1,5.6,mandatory,TM Head,VG Arora,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,18
+Sunrisers Hyderabad,1,5,0.1,5.6,mandatory,TM Head,VG Arora,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,22
+Sunrisers Hyderabad,1,6,0.1,5.6,mandatory,TM Head,VG Arora,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,26
+Sunrisers Hyderabad,2,1,0.1,5.6,mandatory,Abhishek Sharma,SP Narine,TM Head,1,0,1,,,,,,,,,,,,,,,,,,27
+Sunrisers Hyderabad,2,2,0.1,5.6,mandatory,TM Head,SP Narine,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,27
+Sunrisers Hyderabad,2,3,0.1,5.6,mandatory,TM Head,SP Narine,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,27
+Sunrisers Hyderabad,2,4,0.1,5.6,mandatory,TM Head,SP Narine,Abhishek Sharma,6,0,6,,,,,,,,,,,,,,,,,,33
+Sunrisers Hyderabad,2,5,0.1,5.6,mandatory,TM Head,SP Narine,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,,,,37
+Sunrisers Hyderabad,2,6,0.1,5.6,mandatory,TM Head,SP Narine,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,37
+Sunrisers Hyderabad,3,1,0.1,5.6,mandatory,Abhishek Sharma,Kartik Tyagi,TM Head,4,0,4,,,,,,,,,,,,,,,,,,41
+Sunrisers Hyderabad,3,2,0.1,5.6,mandatory,Abhishek Sharma,Kartik Tyagi,TM Head,1,0,1,,,,,,,,,,,,,,,,,,42
+Sunrisers Hyderabad,3,3,0.1,5.6,mandatory,TM Head,Kartik Tyagi,Abhishek Sharma,0,1,1,1.0,,,,,,,,,,,,,,,,,43
+Sunrisers Hyderabad,3,4,0.1,5.6,mandatory,TM Head,Kartik Tyagi,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,44
+Sunrisers Hyderabad,3,5,0.1,5.6,mandatory,Abhishek Sharma,Kartik Tyagi,TM Head,0,0,0,,,,,,,,,Abhishek Sharma,caught,,,,,C Green,,,44
+Sunrisers Hyderabad,3,6,0.1,5.6,mandatory,Ishan Kishan,Kartik Tyagi,TM Head,0,0,0,,,,,,,,,,,,,,,,,,44
+Sunrisers Hyderabad,3,7,0.1,5.6,mandatory,Ishan Kishan,Kartik Tyagi,TM Head,1,0,1,,,,,,,,,,,,,,,,,,45
+Sunrisers Hyderabad,4,1,0.1,5.6,mandatory,Ishan Kishan,C Green,TM Head,0,0,0,,,,,,,,,,,,,,,,,,45
+Sunrisers Hyderabad,4,2,0.1,5.6,mandatory,Ishan Kishan,C Green,TM Head,1,0,1,,,,,,,,,,,,,,,,,,46
+Sunrisers Hyderabad,4,3,0.1,5.6,mandatory,TM Head,C Green,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,50
+Sunrisers Hyderabad,4,4,0.1,5.6,mandatory,TM Head,C Green,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,54
+Sunrisers Hyderabad,4,5,0.1,5.6,mandatory,TM Head,C Green,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,58
+Sunrisers Hyderabad,4,6,0.1,5.6,mandatory,TM Head,C Green,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,59
+Sunrisers Hyderabad,5,1,0.1,5.6,mandatory,TM Head,Kartik Tyagi,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,59
+Sunrisers Hyderabad,5,2,0.1,5.6,mandatory,TM Head,Kartik Tyagi,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,60
+Sunrisers Hyderabad,5,3,0.1,5.6,mandatory,Ishan Kishan,Kartik Tyagi,TM Head,6,0,6,,,,,,,,,,,,,,,,,,66
+Sunrisers Hyderabad,5,4,0.1,5.6,mandatory,Ishan Kishan,Kartik Tyagi,TM Head,4,0,4,,,,,,,,,,,,,,,,,,70
+Sunrisers Hyderabad,5,5,0.1,5.6,mandatory,Ishan Kishan,Kartik Tyagi,TM Head,1,0,1,,,,,,,,,,,,,,,,,,71
+Sunrisers Hyderabad,5,6,0.1,5.6,mandatory,TM Head,Kartik Tyagi,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,71
+Sunrisers Hyderabad,6,1,0.1,5.6,mandatory,Ishan Kishan,CV Varun,TM Head,0,0,0,,,,,,,,,,,,,,,,,,71
+Sunrisers Hyderabad,6,2,0.1,5.6,mandatory,Ishan Kishan,CV Varun,TM Head,1,0,1,,,,,,,,,,,,,,,,,,72
+Sunrisers Hyderabad,6,3,0.1,5.6,mandatory,TM Head,CV Varun,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,76
+Sunrisers Hyderabad,6,4,0.1,5.6,mandatory,TM Head,CV Varun,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,77
+Sunrisers Hyderabad,6,5,0.1,5.6,mandatory,Ishan Kishan,CV Varun,TM Head,1,0,1,,,,,,,,,,,,,,,,,,78
+Sunrisers Hyderabad,6,6,0.1,5.6,mandatory,TM Head,CV Varun,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,84
+Sunrisers Hyderabad,7,1,0.1,5.6,mandatory,Ishan Kishan,VG Arora,TM Head,1,0,1,,,,,,,,,,,,,,,,,,85
+Sunrisers Hyderabad,7,2,0.1,5.6,mandatory,TM Head,VG Arora,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,86
+Sunrisers Hyderabad,7,3,0.1,5.6,mandatory,Ishan Kishan,VG Arora,TM Head,1,0,1,,,,,,,,,,,,,,,,,,87
+Sunrisers Hyderabad,7,4,0.1,5.6,mandatory,TM Head,VG Arora,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,88
+Sunrisers Hyderabad,7,5,0.1,5.6,mandatory,Ishan Kishan,VG Arora,TM Head,1,0,1,,,,,,,,,,,,,,,,,,89
+Sunrisers Hyderabad,7,6,0.1,5.6,mandatory,TM Head,VG Arora,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,89
+Sunrisers Hyderabad,8,1,0.1,5.6,mandatory,Ishan Kishan,CV Varun,TM Head,4,0,4,,,,,,,,,,,,,,,,,,93
+Sunrisers Hyderabad,8,2,0.1,5.6,mandatory,Ishan Kishan,CV Varun,TM Head,4,0,4,,,,,,,,,,,,,,,,,,97
+Sunrisers Hyderabad,8,3,0.1,5.6,mandatory,Ishan Kishan,CV Varun,TM Head,1,0,1,,,,,,,,,,,,,,,,,,98
+Sunrisers Hyderabad,8,4,0.1,5.6,mandatory,TM Head,CV Varun,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,,,,99
+Sunrisers Hyderabad,8,5,0.1,5.6,mandatory,TM Head,CV Varun,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,99
+Sunrisers Hyderabad,8,6,0.1,5.6,mandatory,TM Head,CV Varun,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,105
+Sunrisers Hyderabad,8,7,0.1,5.6,mandatory,TM Head,CV Varun,Ishan Kishan,0,0,0,,,,,,,,,TM Head,caught,,,,,C Green,,,105
+Sunrisers Hyderabad,9,1,0.1,5.6,mandatory,Ishan Kishan,SP Narine,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,105
+Sunrisers Hyderabad,9,2,0.1,5.6,mandatory,Ishan Kishan,SP Narine,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,106
+Sunrisers Hyderabad,9,3,0.1,5.6,mandatory,H Klaasen,SP Narine,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,106
+Sunrisers Hyderabad,9,4,0.1,5.6,mandatory,H Klaasen,SP Narine,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,106
+Sunrisers Hyderabad,9,5,0.1,5.6,mandatory,H Klaasen,SP Narine,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,106
+Sunrisers Hyderabad,9,6,0.1,5.6,mandatory,H Klaasen,SP Narine,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,107
+Sunrisers Hyderabad,10,1,0.1,5.6,mandatory,H Klaasen,C Green,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,107
+Sunrisers Hyderabad,10,2,0.1,5.6,mandatory,H Klaasen,C Green,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,,,,113
+Sunrisers Hyderabad,10,3,0.1,5.6,mandatory,H Klaasen,C Green,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,117
+Sunrisers Hyderabad,10,4,0.1,5.6,mandatory,H Klaasen,C Green,Ishan Kishan,0,0,0,,,,,,,,,H Klaasen,caught,,,,,R Powell,,,117
+Sunrisers Hyderabad,10,5,0.1,5.6,mandatory,R Smaran,C Green,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,117
+Sunrisers Hyderabad,10,6,0.1,5.6,mandatory,R Smaran,C Green,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,121
+Sunrisers Hyderabad,11,1,0.1,5.6,mandatory,Ishan Kishan,CV Varun,R Smaran,1,0,1,,,,,,,,,,,,,,,,,,122
+Sunrisers Hyderabad,11,2,0.1,5.6,mandatory,R Smaran,CV Varun,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,122
+Sunrisers Hyderabad,11,3,0.1,5.6,mandatory,R Smaran,CV Varun,Ishan Kishan,0,0,0,,,,,,,,,R Smaran,caught,,,,,AM Rahane,,,122
+Sunrisers Hyderabad,11,4,0.1,5.6,mandatory,Aniket Verma,CV Varun,Ishan Kishan,0,1,1,,1.0,,,,,,,,,,,,,,,,123
+Sunrisers Hyderabad,11,5,0.1,5.6,mandatory,Ishan Kishan,CV Varun,Aniket Verma,1,0,1,,,,,,,,,,,,,,,,,,124
+Sunrisers Hyderabad,11,6,0.1,5.6,mandatory,Aniket Verma,CV Varun,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,125
+Sunrisers Hyderabad,12,1,0.1,5.6,mandatory,Aniket Verma,C Green,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,125
+Sunrisers Hyderabad,12,2,0.1,5.6,mandatory,Aniket Verma,C Green,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,126
+Sunrisers Hyderabad,12,3,0.1,5.6,mandatory,Ishan Kishan,C Green,Aniket Verma,0,0,0,,,,,,,,,,,,,,,,,,126
+Sunrisers Hyderabad,12,4,0.1,5.6,mandatory,Ishan Kishan,C Green,Aniket Verma,0,1,1,1.0,,,,,,,,,,,,,,,,,127
+Sunrisers Hyderabad,12,5,0.1,5.6,mandatory,Ishan Kishan,C Green,Aniket Verma,4,0,4,,,,,,,,,,,,,,,,,,131
+Sunrisers Hyderabad,12,6,0.1,5.6,mandatory,Ishan Kishan,C Green,Aniket Verma,0,0,0,,,,,,,,,,,,,,,,,,131
+Sunrisers Hyderabad,12,7,0.1,5.6,mandatory,Ishan Kishan,C Green,Aniket Verma,0,0,0,,,,,,,,,,,,,,,,,,131
+Sunrisers Hyderabad,13,1,0.1,5.6,mandatory,Aniket Verma,CV Varun,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,131
+Sunrisers Hyderabad,13,2,0.1,5.6,mandatory,Aniket Verma,CV Varun,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,131
+Sunrisers Hyderabad,13,3,0.1,5.6,mandatory,Aniket Verma,CV Varun,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,135
+Sunrisers Hyderabad,13,4,0.1,5.6,mandatory,Aniket Verma,CV Varun,Ishan Kishan,0,0,0,,,,,,,,,Aniket Verma,caught,,,,,AM Rahane,,,135
+Sunrisers Hyderabad,13,5,0.1,5.6,mandatory,S Arora,CV Varun,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,135
+Sunrisers Hyderabad,13,6,0.1,5.6,mandatory,S Arora,CV Varun,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,135
+Sunrisers Hyderabad,14,1,0.1,5.6,mandatory,Ishan Kishan,Kartik Tyagi,S Arora,1,0,1,,,,,,,,,,,,,,,,,,136
+Sunrisers Hyderabad,14,2,0.1,5.6,mandatory,S Arora,Kartik Tyagi,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,136
+Sunrisers Hyderabad,14,3,0.1,5.6,mandatory,S Arora,Kartik Tyagi,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,137
+Sunrisers Hyderabad,14,4,0.1,5.6,mandatory,Ishan Kishan,Kartik Tyagi,S Arora,0,0,0,,,,,,,,,,,,,,,,,,137
+Sunrisers Hyderabad,14,5,0.1,5.6,mandatory,Ishan Kishan,Kartik Tyagi,S Arora,1,0,1,,,,,,,,,,,,,,,,,,138
+Sunrisers Hyderabad,14,6,0.1,5.6,mandatory,S Arora,Kartik Tyagi,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,139
+Sunrisers Hyderabad,15,1,0.1,5.6,mandatory,S Arora,SP Narine,Ishan Kishan,0,0,0,,,,,,,,,S Arora,bowled,,,,,,,,139
+Sunrisers Hyderabad,15,2,0.1,5.6,mandatory,PJ Cummins,SP Narine,Ishan Kishan,2,0,2,,,,,,,,,,,,,,,,,,141
+Sunrisers Hyderabad,15,3,0.1,5.6,mandatory,PJ Cummins,SP Narine,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,141
+Sunrisers Hyderabad,15,4,0.1,5.6,mandatory,PJ Cummins,SP Narine,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,142
+Sunrisers Hyderabad,15,5,0.1,5.6,mandatory,Ishan Kishan,SP Narine,PJ Cummins,6,0,6,,,,,,,,,,,,,,,,,,148
+Sunrisers Hyderabad,15,6,0.1,5.6,mandatory,Ishan Kishan,SP Narine,PJ Cummins,0,0,0,,,,,,,,,Ishan Kishan,caught,,,,,AS Roy,,,148
+Sunrisers Hyderabad,16,1,0.1,5.6,mandatory,PJ Cummins,AS Roy,Shivang Kumar,0,0,0,,,,,,,,,,,,,,,,,,148
+Sunrisers Hyderabad,16,2,0.1,5.6,mandatory,PJ Cummins,AS Roy,Shivang Kumar,1,0,1,,,,,,,,,,,,,,,,,,149
+Sunrisers Hyderabad,16,3,0.1,5.6,mandatory,Shivang Kumar,AS Roy,PJ Cummins,1,0,1,,,,,,,,,,,,,,,,,,150
+Sunrisers Hyderabad,16,4,0.1,5.6,mandatory,PJ Cummins,AS Roy,Shivang Kumar,6,0,6,,,,,,,,,,,,,,,,,,156
+Sunrisers Hyderabad,16,5,0.1,5.6,mandatory,PJ Cummins,AS Roy,Shivang Kumar,0,0,0,,,,,,,,,,,,,,,,,,156
+Sunrisers Hyderabad,16,6,0.1,5.6,mandatory,PJ Cummins,AS Roy,Shivang Kumar,0,0,0,,,,,,,,,PJ Cummins,caught and bowled,,,,,,,,156
+Sunrisers Hyderabad,17,1,0.1,5.6,mandatory,Shivang Kumar,VG Arora,HV Patel,0,0,0,,,Kolkata Knight Riders,A Bengeri,Shivang Kumar,upheld,wicket,,Shivang Kumar,caught,,,,,A Raghuvanshi,,,156
+Sunrisers Hyderabad,17,2,0.1,5.6,mandatory,E Malinga,VG Arora,HV Patel,0,0,0,,,,,,,,,,,,,,,,,,156
+Sunrisers Hyderabad,17,3,0.1,5.6,mandatory,E Malinga,VG Arora,HV Patel,0,0,0,,,,,,,,,,,,,,,,,,156
+Sunrisers Hyderabad,17,4,0.1,5.6,mandatory,E Malinga,VG Arora,HV Patel,0,1,1,1.0,,,,,,,,,,,,,,,,,157
+Sunrisers Hyderabad,17,5,0.1,5.6,mandatory,E Malinga,VG Arora,HV Patel,1,0,1,,,,,,,,,,,,,,,,,,158
+Sunrisers Hyderabad,17,6,0.1,5.6,mandatory,HV Patel,VG Arora,E Malinga,1,0,1,,,,,,,,,,,,,,,,,,159
+Sunrisers Hyderabad,17,7,0.1,5.6,mandatory,E Malinga,VG Arora,HV Patel,0,0,0,,,,,,,,,,,,,,,,,,159
+Sunrisers Hyderabad,18,1,0.1,5.6,mandatory,HV Patel,Kartik Tyagi,E Malinga,4,0,4,,,,,,,,,,,,,,,,,,163
+Sunrisers Hyderabad,18,2,0.1,5.6,mandatory,HV Patel,Kartik Tyagi,E Malinga,0,0,0,,,,,,,,,,,,,,,,,,163
+Sunrisers Hyderabad,18,3,0.1,5.6,mandatory,HV Patel,Kartik Tyagi,E Malinga,1,0,1,,,,,,,,,,,,,,,,,,164
+Sunrisers Hyderabad,18,4,0.1,5.6,mandatory,E Malinga,Kartik Tyagi,HV Patel,0,0,0,,,,,,,,,,,,,,,,,,164
+Sunrisers Hyderabad,18,5,0.1,5.6,mandatory,E Malinga,Kartik Tyagi,HV Patel,1,0,1,,,,,,,,,,,,,,,,,,165
+Sunrisers Hyderabad,18,6,0.1,5.6,mandatory,HV Patel,Kartik Tyagi,E Malinga,0,0,0,,,,,,,,,HV Patel,caught,,,,,VG Arora,,,165
+Kolkata Knight Riders,0,1,0.1,5.7,mandatory,AM Rahane,Abhishek Sharma,FH Allen,4,0,4,,,,,,,,,,,FH Allen,VG Arora,Kolkata Knight Riders,impact_player,,20.0,166.0,4
+Kolkata Knight Riders,0,2,0.1,5.7,mandatory,AM Rahane,Abhishek Sharma,FH Allen,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,5
+Kolkata Knight Riders,0,3,0.1,5.7,mandatory,FH Allen,Abhishek Sharma,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,6
+Kolkata Knight Riders,0,4,0.1,5.7,mandatory,AM Rahane,Abhishek Sharma,FH Allen,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,6
+Kolkata Knight Riders,0,5,0.1,5.7,mandatory,AM Rahane,Abhishek Sharma,FH Allen,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,7
+Kolkata Knight Riders,0,6,0.1,5.7,mandatory,FH Allen,Abhishek Sharma,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,8
+Kolkata Knight Riders,1,1,0.1,5.7,mandatory,FH Allen,PJ Cummins,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,9
+Kolkata Knight Riders,1,2,0.1,5.7,mandatory,AM Rahane,PJ Cummins,FH Allen,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,10
+Kolkata Knight Riders,1,3,0.1,5.7,mandatory,FH Allen,PJ Cummins,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,10
+Kolkata Knight Riders,1,4,0.1,5.7,mandatory,FH Allen,PJ Cummins,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,10
+Kolkata Knight Riders,1,5,0.1,5.7,mandatory,FH Allen,PJ Cummins,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,10
+Kolkata Knight Riders,1,6,0.1,5.7,mandatory,FH Allen,PJ Cummins,AM Rahane,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,14
+Kolkata Knight Riders,2,1,0.1,5.7,mandatory,AM Rahane,E Malinga,FH Allen,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,14
+Kolkata Knight Riders,2,2,0.1,5.7,mandatory,AM Rahane,E Malinga,FH Allen,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,14
+Kolkata Knight Riders,2,3,0.1,5.7,mandatory,AM Rahane,E Malinga,FH Allen,6,0,6,,,,,,,,,,,,,,,,20.0,166.0,20
+Kolkata Knight Riders,2,4,0.1,5.7,mandatory,AM Rahane,E Malinga,FH Allen,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,20
+Kolkata Knight Riders,2,5,0.1,5.7,mandatory,AM Rahane,E Malinga,FH Allen,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,20
+Kolkata Knight Riders,2,6,0.1,5.7,mandatory,AM Rahane,E Malinga,FH Allen,2,0,2,,,,,,,,,,,,,,,,20.0,166.0,22
+Kolkata Knight Riders,3,1,0.1,5.7,mandatory,FH Allen,PJ Cummins,AM Rahane,0,5,5,5.0,,,,,,,,,,,,,,,20.0,166.0,27
+Kolkata Knight Riders,3,2,0.1,5.7,mandatory,FH Allen,PJ Cummins,AM Rahane,6,0,6,,,,,,,,,,,,,,,,20.0,166.0,33
+Kolkata Knight Riders,3,3,0.1,5.7,mandatory,FH Allen,PJ Cummins,AM Rahane,2,0,2,,,,,,,,,,,,,,,,20.0,166.0,35
+Kolkata Knight Riders,3,4,0.1,5.7,mandatory,FH Allen,PJ Cummins,AM Rahane,6,0,6,,,,,,,,,,,,,,,,20.0,166.0,41
+Kolkata Knight Riders,3,5,0.1,5.7,mandatory,FH Allen,PJ Cummins,AM Rahane,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,45
+Kolkata Knight Riders,3,6,0.1,5.7,mandatory,FH Allen,PJ Cummins,AM Rahane,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,49
+Kolkata Knight Riders,3,7,0.1,5.7,mandatory,FH Allen,PJ Cummins,AM Rahane,0,0,0,,,,,,,,,FH Allen,caught,,,,,H Klaasen,20.0,166.0,49
+Kolkata Knight Riders,4,1,0.1,5.7,mandatory,AM Rahane,Abhishek Sharma,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,50
+Kolkata Knight Riders,4,2,0.1,5.7,mandatory,A Raghuvanshi,Abhishek Sharma,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,50
+Kolkata Knight Riders,4,3,0.1,5.7,mandatory,A Raghuvanshi,Abhishek Sharma,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,50
+Kolkata Knight Riders,4,4,0.1,5.7,mandatory,A Raghuvanshi,Abhishek Sharma,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,50
+Kolkata Knight Riders,4,5,0.1,5.7,mandatory,A Raghuvanshi,Abhishek Sharma,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,51
+Kolkata Knight Riders,4,6,0.1,5.7,mandatory,AM Rahane,Abhishek Sharma,A Raghuvanshi,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,55
+Kolkata Knight Riders,5,1,0.1,5.7,mandatory,A Raghuvanshi,E Malinga,AM Rahane,6,0,6,,,,,,,,,,,,,,,,20.0,166.0,61
+Kolkata Knight Riders,5,2,0.1,5.7,mandatory,A Raghuvanshi,E Malinga,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,61
+Kolkata Knight Riders,5,3,0.1,5.7,mandatory,A Raghuvanshi,E Malinga,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,62
+Kolkata Knight Riders,5,4,0.1,5.7,mandatory,AM Rahane,E Malinga,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,63
+Kolkata Knight Riders,5,5,0.1,5.7,mandatory,A Raghuvanshi,E Malinga,AM Rahane,6,0,6,,,,,,,,,,,,,,,,20.0,166.0,69
+Kolkata Knight Riders,5,6,0.1,5.7,mandatory,A Raghuvanshi,E Malinga,AM Rahane,0,1,1,1.0,,,,,,,,,,,,,,,20.0,166.0,70
+Kolkata Knight Riders,5,7,0.1,5.7,mandatory,A Raghuvanshi,E Malinga,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,71
+Kolkata Knight Riders,6,1,0.1,5.7,mandatory,A Raghuvanshi,Shivang Kumar,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,72
+Kolkata Knight Riders,6,2,0.1,5.7,mandatory,AM Rahane,Shivang Kumar,A Raghuvanshi,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,76
+Kolkata Knight Riders,6,3,0.1,5.7,mandatory,AM Rahane,Shivang Kumar,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,77
+Kolkata Knight Riders,6,4,0.1,5.7,mandatory,A Raghuvanshi,Shivang Kumar,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,78
+Kolkata Knight Riders,6,5,0.1,5.7,mandatory,AM Rahane,Shivang Kumar,A Raghuvanshi,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,78
+Kolkata Knight Riders,6,6,0.1,5.7,mandatory,AM Rahane,Shivang Kumar,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,79
+Kolkata Knight Riders,7,1,0.1,5.7,mandatory,AM Rahane,HV Patel,A Raghuvanshi,1,0,1,,,,,,,,,,,Sakib Hussain,Aniket Verma,Sunrisers Hyderabad,impact_player,,20.0,166.0,80
+Kolkata Knight Riders,7,2,0.1,5.7,mandatory,A Raghuvanshi,HV Patel,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,81
+Kolkata Knight Riders,7,3,0.1,5.7,mandatory,AM Rahane,HV Patel,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,82
+Kolkata Knight Riders,7,4,0.1,5.7,mandatory,A Raghuvanshi,HV Patel,AM Rahane,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,86
+Kolkata Knight Riders,7,5,0.1,5.7,mandatory,A Raghuvanshi,HV Patel,AM Rahane,0,1,1,1.0,,,,,,,,,,,,,,,20.0,166.0,87
+Kolkata Knight Riders,7,6,0.1,5.7,mandatory,A Raghuvanshi,HV Patel,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,88
+Kolkata Knight Riders,7,7,0.1,5.7,mandatory,AM Rahane,HV Patel,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,89
+Kolkata Knight Riders,8,1,0.1,5.7,mandatory,AM Rahane,Shivang Kumar,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,90
+Kolkata Knight Riders,8,2,0.1,5.7,mandatory,A Raghuvanshi,Shivang Kumar,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,91
+Kolkata Knight Riders,8,3,0.1,5.7,mandatory,AM Rahane,Shivang Kumar,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,92
+Kolkata Knight Riders,8,4,0.1,5.7,mandatory,A Raghuvanshi,Shivang Kumar,AM Rahane,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,96
+Kolkata Knight Riders,8,5,0.1,5.7,mandatory,A Raghuvanshi,Shivang Kumar,AM Rahane,2,0,2,,,,,,,,,,,,,,,,20.0,166.0,98
+Kolkata Knight Riders,8,6,0.1,5.7,mandatory,A Raghuvanshi,Shivang Kumar,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,99
+Kolkata Knight Riders,9,1,0.1,5.7,mandatory,A Raghuvanshi,Sakib Hussain,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,99
+Kolkata Knight Riders,9,2,0.1,5.7,mandatory,A Raghuvanshi,Sakib Hussain,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,100
+Kolkata Knight Riders,9,3,0.1,5.7,mandatory,AM Rahane,Sakib Hussain,A Raghuvanshi,0,1,1,1.0,,,,,,,,,,,,,,,20.0,166.0,101
+Kolkata Knight Riders,9,4,0.1,5.7,mandatory,AM Rahane,Sakib Hussain,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,102
+Kolkata Knight Riders,9,5,0.1,5.7,mandatory,A Raghuvanshi,Sakib Hussain,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,103
+Kolkata Knight Riders,9,6,0.1,5.7,mandatory,AM Rahane,Sakib Hussain,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,104
+Kolkata Knight Riders,9,7,0.1,5.7,mandatory,A Raghuvanshi,Sakib Hussain,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,105
+Kolkata Knight Riders,10,1,0.1,5.7,mandatory,A Raghuvanshi,PJ Cummins,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,106
+Kolkata Knight Riders,10,2,0.1,5.7,mandatory,AM Rahane,PJ Cummins,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,107
+Kolkata Knight Riders,10,3,0.1,5.7,mandatory,A Raghuvanshi,PJ Cummins,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,108
+Kolkata Knight Riders,10,4,0.1,5.7,mandatory,AM Rahane,PJ Cummins,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,109
+Kolkata Knight Riders,10,5,0.1,5.7,mandatory,A Raghuvanshi,PJ Cummins,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,109
+Kolkata Knight Riders,10,6,0.1,5.7,mandatory,A Raghuvanshi,PJ Cummins,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,110
+Kolkata Knight Riders,11,1,0.1,5.7,mandatory,A Raghuvanshi,E Malinga,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,110
+Kolkata Knight Riders,11,2,0.1,5.7,mandatory,A Raghuvanshi,E Malinga,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,110
+Kolkata Knight Riders,11,3,0.1,5.7,mandatory,A Raghuvanshi,E Malinga,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,110
+Kolkata Knight Riders,11,4,0.1,5.7,mandatory,A Raghuvanshi,E Malinga,AM Rahane,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,114
+Kolkata Knight Riders,11,5,0.1,5.7,mandatory,A Raghuvanshi,E Malinga,AM Rahane,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,118
+Kolkata Knight Riders,11,6,0.1,5.7,mandatory,A Raghuvanshi,E Malinga,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,119
+Kolkata Knight Riders,12,1,0.1,5.7,mandatory,A Raghuvanshi,Shivang Kumar,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,119
+Kolkata Knight Riders,12,2,0.1,5.7,mandatory,A Raghuvanshi,Shivang Kumar,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,119
+Kolkata Knight Riders,12,3,0.1,5.7,mandatory,A Raghuvanshi,Shivang Kumar,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,120
+Kolkata Knight Riders,12,4,0.1,5.7,mandatory,AM Rahane,Shivang Kumar,A Raghuvanshi,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,120
+Kolkata Knight Riders,12,5,0.1,5.7,mandatory,AM Rahane,Shivang Kumar,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,121
+Kolkata Knight Riders,12,6,0.1,5.7,mandatory,A Raghuvanshi,Shivang Kumar,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,122
+Kolkata Knight Riders,13,1,0.1,5.7,mandatory,A Raghuvanshi,HV Patel,AM Rahane,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,122
+Kolkata Knight Riders,13,2,0.1,5.7,mandatory,A Raghuvanshi,HV Patel,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,123
+Kolkata Knight Riders,13,3,0.1,5.7,mandatory,AM Rahane,HV Patel,A Raghuvanshi,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,123
+Kolkata Knight Riders,13,4,0.1,5.7,mandatory,AM Rahane,HV Patel,A Raghuvanshi,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,127
+Kolkata Knight Riders,13,5,0.1,5.7,mandatory,AM Rahane,HV Patel,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,128
+Kolkata Knight Riders,13,6,0.1,5.7,mandatory,A Raghuvanshi,HV Patel,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,129
+Kolkata Knight Riders,14,1,0.1,5.7,mandatory,A Raghuvanshi,Sakib Hussain,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,130
+Kolkata Knight Riders,14,2,0.1,5.7,mandatory,AM Rahane,Sakib Hussain,A Raghuvanshi,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,130
+Kolkata Knight Riders,14,3,0.1,5.7,mandatory,AM Rahane,Sakib Hussain,A Raghuvanshi,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,130
+Kolkata Knight Riders,14,4,0.1,5.7,mandatory,AM Rahane,Sakib Hussain,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,131
+Kolkata Knight Riders,14,5,0.1,5.7,mandatory,A Raghuvanshi,Sakib Hussain,AM Rahane,0,1,1,1.0,,,,,,,,,,,,,,,20.0,166.0,132
+Kolkata Knight Riders,14,6,0.1,5.7,mandatory,A Raghuvanshi,Sakib Hussain,AM Rahane,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,133
+Kolkata Knight Riders,14,7,0.1,5.7,mandatory,AM Rahane,Sakib Hussain,A Raghuvanshi,0,0,0,,,,,,,,,AM Rahane,caught,,,,,R Smaran,20.0,166.0,133
+Kolkata Knight Riders,15,1,0.1,5.7,mandatory,A Raghuvanshi,PJ Cummins,RK Singh,0,1,1,,,,,,,,1.0,,,,,,,,20.0,166.0,134
+Kolkata Knight Riders,15,2,0.1,5.7,mandatory,RK Singh,PJ Cummins,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,135
+Kolkata Knight Riders,15,3,0.1,5.7,mandatory,A Raghuvanshi,PJ Cummins,RK Singh,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,139
+Kolkata Knight Riders,15,4,0.1,5.7,mandatory,A Raghuvanshi,PJ Cummins,RK Singh,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,140
+Kolkata Knight Riders,15,5,0.1,5.7,mandatory,RK Singh,PJ Cummins,A Raghuvanshi,0,2,2,2.0,,,,,,,,,,,,,,,20.0,166.0,142
+Kolkata Knight Riders,15,6,0.1,5.7,mandatory,A Raghuvanshi,PJ Cummins,RK Singh,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,143
+Kolkata Knight Riders,15,7,0.1,5.7,mandatory,RK Singh,PJ Cummins,A Raghuvanshi,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,143
+Kolkata Knight Riders,16,1,0.1,5.7,mandatory,A Raghuvanshi,Shivang Kumar,RK Singh,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,144
+Kolkata Knight Riders,16,2,0.1,5.7,mandatory,RK Singh,Shivang Kumar,A Raghuvanshi,6,0,6,,,,,,,,,,,,,,,,20.0,166.0,150
+Kolkata Knight Riders,16,3,0.1,5.7,mandatory,RK Singh,Shivang Kumar,A Raghuvanshi,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,151
+Kolkata Knight Riders,16,4,0.1,5.7,mandatory,A Raghuvanshi,Shivang Kumar,RK Singh,0,0,0,,,,,,,,,A Raghuvanshi,caught,,,,,E Malinga,20.0,166.0,151
+Kolkata Knight Riders,16,5,0.1,5.7,mandatory,C Green,Shivang Kumar,RK Singh,2,0,2,,,,,,,,,,,,,,,,20.0,166.0,153
+Kolkata Knight Riders,16,6,0.1,5.7,mandatory,C Green,Shivang Kumar,RK Singh,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,153
+Kolkata Knight Riders,17,1,0.1,5.7,mandatory,RK Singh,Sakib Hussain,C Green,5,0,5,,,,,,,,,,,,,,,,20.0,166.0,158
+Kolkata Knight Riders,17,2,0.1,5.7,mandatory,C Green,Sakib Hussain,RK Singh,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,159
+Kolkata Knight Riders,17,3,0.1,5.7,mandatory,RK Singh,Sakib Hussain,C Green,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,159
+Kolkata Knight Riders,17,4,0.1,5.7,mandatory,RK Singh,Sakib Hussain,C Green,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,159
+Kolkata Knight Riders,17,5,0.1,5.7,mandatory,RK Singh,Sakib Hussain,C Green,0,0,0,,,,,,,,,,,,,,,,20.0,166.0,159
+Kolkata Knight Riders,17,6,0.1,5.7,mandatory,RK Singh,Sakib Hussain,C Green,1,0,1,,,,,,,,,,,,,,,,20.0,166.0,160
+Kolkata Knight Riders,18,1,0.1,5.7,mandatory,RK Singh,E Malinga,C Green,0,1,1,1.0,,,,,,,,,,,,,,,20.0,166.0,161
+Kolkata Knight Riders,18,2,0.1,5.7,mandatory,RK Singh,E Malinga,C Green,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,165
+Kolkata Knight Riders,18,3,0.1,5.7,mandatory,RK Singh,E Malinga,C Green,4,0,4,,,,,,,,,,,,,,,,20.0,166.0,169

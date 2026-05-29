@@ -1,0 +1,250 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,byes,review_by,review_umpire,review_batter,review_decision,review_type,umpires_call,legbyes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Punjab Kings,0,1,0.1,5.6,mandatory,Priyansh Arya,DL Chahar,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,0
+Punjab Kings,0,2,0.1,5.6,mandatory,Priyansh Arya,DL Chahar,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,4
+Punjab Kings,0,3,0.1,5.6,mandatory,Priyansh Arya,DL Chahar,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,4
+Punjab Kings,0,4,0.1,5.6,mandatory,Priyansh Arya,DL Chahar,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,5
+Punjab Kings,0,5,0.1,5.6,mandatory,P Simran Singh,DL Chahar,Priyansh Arya,1,0,1,,,,,,,,,,,,,,,,,,,6
+Punjab Kings,0,6,0.1,5.6,mandatory,Priyansh Arya,DL Chahar,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,7
+Punjab Kings,1,1,0.1,5.6,mandatory,Priyansh Arya,JJ Bumrah,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,8
+Punjab Kings,1,2,0.1,5.6,mandatory,P Simran Singh,JJ Bumrah,Priyansh Arya,4,0,4,,,,,,,,,,,,,,,,,,,12
+Punjab Kings,1,3,0.1,5.6,mandatory,P Simran Singh,JJ Bumrah,Priyansh Arya,0,0,0,,,,,,,,,,,,,,,,,,,12
+Punjab Kings,1,4,0.1,5.6,mandatory,P Simran Singh,JJ Bumrah,Priyansh Arya,4,0,4,,,,,,,,,,,,,,,,,,,16
+Punjab Kings,1,5,0.1,5.6,mandatory,P Simran Singh,JJ Bumrah,Priyansh Arya,0,0,0,,,,,,,,,,,,,,,,,,,16
+Punjab Kings,1,6,0.1,5.6,mandatory,P Simran Singh,JJ Bumrah,Priyansh Arya,0,0,0,,,,,,,,,,,,,,,,,,,16
+Punjab Kings,2,1,0.1,5.6,mandatory,Priyansh Arya,DL Chahar,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,20
+Punjab Kings,2,2,0.1,5.6,mandatory,Priyansh Arya,DL Chahar,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,21
+Punjab Kings,2,3,0.1,5.6,mandatory,P Simran Singh,DL Chahar,Priyansh Arya,0,0,0,,,,,,,,,,,,,,,,,,,21
+Punjab Kings,2,4,0.1,5.6,mandatory,P Simran Singh,DL Chahar,Priyansh Arya,0,0,0,,,,,,,,,,,,,,,,,,,21
+Punjab Kings,2,5,0.1,5.6,mandatory,P Simran Singh,DL Chahar,Priyansh Arya,0,0,0,,,,,,,,,,,,,,,,,,,21
+Punjab Kings,2,6,0.1,5.6,mandatory,P Simran Singh,DL Chahar,Priyansh Arya,0,0,0,,,,,,,,,,,,,,,,,,,21
+Punjab Kings,3,1,0.1,5.6,mandatory,Priyansh Arya,JJ Bumrah,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,25
+Punjab Kings,3,2,0.1,5.6,mandatory,Priyansh Arya,JJ Bumrah,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,25
+Punjab Kings,3,3,0.1,5.6,mandatory,Priyansh Arya,JJ Bumrah,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,26
+Punjab Kings,3,4,0.1,5.6,mandatory,P Simran Singh,JJ Bumrah,Priyansh Arya,1,0,1,,,,,,,,,,,,,,,,,,,27
+Punjab Kings,3,5,0.1,5.6,mandatory,Priyansh Arya,JJ Bumrah,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,31
+Punjab Kings,3,6,0.1,5.6,mandatory,Priyansh Arya,JJ Bumrah,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,31
+Punjab Kings,4,1,0.1,5.6,mandatory,P Simran Singh,SN Thakur,Priyansh Arya,1,0,1,,,,,,,,,,,,,,,,,,,32
+Punjab Kings,4,2,0.1,5.6,mandatory,Priyansh Arya,SN Thakur,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,33
+Punjab Kings,4,3,0.1,5.6,mandatory,P Simran Singh,SN Thakur,Priyansh Arya,4,0,4,,,,,,,,,,,,,,,,,,,37
+Punjab Kings,4,4,0.1,5.6,mandatory,P Simran Singh,SN Thakur,Priyansh Arya,0,1,1,1.0,,,,,,,,,,,,,,,,,,38
+Punjab Kings,4,5,0.1,5.6,mandatory,P Simran Singh,SN Thakur,Priyansh Arya,4,0,4,,,,,,,,,,,,,,,,,,,42
+Punjab Kings,4,6,0.1,5.6,mandatory,P Simran Singh,SN Thakur,Priyansh Arya,0,0,0,,,,,,,,,,,,,,,,,,,42
+Punjab Kings,4,7,0.1,5.6,mandatory,P Simran Singh,SN Thakur,Priyansh Arya,4,0,4,,,,,,,,,,,,,,,,,,,46
+Punjab Kings,5,1,0.1,5.6,mandatory,Priyansh Arya,DL Chahar,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,46
+Punjab Kings,5,2,0.1,5.6,mandatory,Priyansh Arya,DL Chahar,P Simran Singh,0,4,4,,4.0,,,,,,,,,,,,,,,,,50
+Punjab Kings,5,3,0.1,5.6,mandatory,Priyansh Arya,DL Chahar,P Simran Singh,0,0,0,,,,,,,,,,Priyansh Arya,bowled,,,,,,,,50
+Punjab Kings,5,4,0.1,5.6,mandatory,C Connolly,DL Chahar,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,50
+Punjab Kings,5,5,0.1,5.6,mandatory,C Connolly,DL Chahar,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,51
+Punjab Kings,5,6,0.1,5.6,mandatory,P Simran Singh,DL Chahar,C Connolly,4,0,4,,,,,,,,,,,,,,,,,,,55
+Punjab Kings,6,1,0.1,5.6,mandatory,C Connolly,C Bosch,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,56
+Punjab Kings,6,2,0.1,5.6,mandatory,P Simran Singh,C Bosch,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,57
+Punjab Kings,6,3,0.1,5.6,mandatory,C Connolly,C Bosch,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,57
+Punjab Kings,6,4,0.1,5.6,mandatory,C Connolly,C Bosch,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,58
+Punjab Kings,6,5,0.1,5.6,mandatory,P Simran Singh,C Bosch,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,,58
+Punjab Kings,6,6,0.1,5.6,mandatory,P Simran Singh,C Bosch,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,,58
+Punjab Kings,7,1,0.1,5.6,mandatory,C Connolly,Raghu Sharma,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,58
+Punjab Kings,7,2,0.1,5.6,mandatory,C Connolly,Raghu Sharma,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,59
+Punjab Kings,7,3,0.1,5.6,mandatory,P Simran Singh,Raghu Sharma,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,60
+Punjab Kings,7,4,0.1,5.6,mandatory,C Connolly,Raghu Sharma,P Simran Singh,6,0,6,,,,,,,,,,,,,,,,,,,66
+Punjab Kings,7,5,0.1,5.6,mandatory,C Connolly,Raghu Sharma,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,67
+Punjab Kings,7,6,0.1,5.6,mandatory,P Simran Singh,Raghu Sharma,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,,67
+Punjab Kings,8,1,0.1,5.6,mandatory,C Connolly,WG Jacks,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,67
+Punjab Kings,8,2,0.1,5.6,mandatory,C Connolly,WG Jacks,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,71
+Punjab Kings,8,3,0.1,5.6,mandatory,C Connolly,WG Jacks,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,71
+Punjab Kings,8,4,0.1,5.6,mandatory,C Connolly,WG Jacks,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,71
+Punjab Kings,8,5,0.1,5.6,mandatory,C Connolly,WG Jacks,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,71
+Punjab Kings,8,6,0.1,5.6,mandatory,C Connolly,WG Jacks,P Simran Singh,0,1,1,1.0,,,,,,,,,,,,,,,,,,72
+Punjab Kings,8,7,0.1,5.6,mandatory,C Connolly,WG Jacks,P Simran Singh,4,0,4,,,,,,,,,,,,,,,,,,,76
+Punjab Kings,9,1,0.1,5.6,mandatory,P Simran Singh,Raghu Sharma,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,,76
+Punjab Kings,9,2,0.1,5.6,mandatory,P Simran Singh,Raghu Sharma,C Connolly,6,0,6,,,,,,,,,,,,,,,,,,,82
+Punjab Kings,9,3,0.1,5.6,mandatory,P Simran Singh,Raghu Sharma,C Connolly,6,0,6,,,,,,,,,,,,,,,,,,,88
+Punjab Kings,9,4,0.1,5.6,mandatory,P Simran Singh,Raghu Sharma,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,89
+Punjab Kings,9,5,0.1,5.6,mandatory,C Connolly,Raghu Sharma,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,89
+Punjab Kings,9,6,0.1,5.6,mandatory,C Connolly,Raghu Sharma,P Simran Singh,0,0,0,,,,,,,,,,,,,,,,,,,89
+Punjab Kings,10,1,0.1,5.6,mandatory,P Simran Singh,C Bosch,C Connolly,6,0,6,,,,,,,,,,,,,,,,,,,95
+Punjab Kings,10,2,0.1,5.6,mandatory,P Simran Singh,C Bosch,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,96
+Punjab Kings,10,3,0.1,5.6,mandatory,C Connolly,C Bosch,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,97
+Punjab Kings,10,4,0.1,5.6,mandatory,P Simran Singh,C Bosch,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,98
+Punjab Kings,10,5,0.1,5.6,mandatory,C Connolly,C Bosch,P Simran Singh,1,0,1,,,,,,,,,,,,,,,,,,,99
+Punjab Kings,10,6,0.1,5.6,mandatory,P Simran Singh,C Bosch,C Connolly,1,0,1,,,,,,,,,,,,,,,,,,,100
+Punjab Kings,11,1,0.1,5.6,mandatory,P Simran Singh,SN Thakur,C Connolly,0,1,1,1.0,,,,,,,,,,,,,,,,,,101
+Punjab Kings,11,2,0.1,5.6,mandatory,P Simran Singh,SN Thakur,C Connolly,6,0,6,,,,,,,,,,,,,,,,,,,107
+Punjab Kings,11,3,0.1,5.6,mandatory,P Simran Singh,SN Thakur,C Connolly,0,0,0,,,,,,,,,,P Simran Singh,caught,,,,,C Bosch,,,107
+Punjab Kings,11,4,0.1,5.6,mandatory,SS Iyer,SN Thakur,C Connolly,4,0,4,,,,,,,,,,,,,,,,,,,111
+Punjab Kings,11,5,0.1,5.6,mandatory,SS Iyer,SN Thakur,C Connolly,0,0,0,,,,,,,,,,SS Iyer,bowled,,,,,,,,111
+Punjab Kings,11,6,0.1,5.6,mandatory,Suryansh Shedge,SN Thakur,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,,111
+Punjab Kings,11,7,0.1,5.6,mandatory,Suryansh Shedge,SN Thakur,C Connolly,0,0,0,,,,,,,,,,,,,,,,,,,111
+Punjab Kings,12,1,0.1,5.6,mandatory,C Connolly,RA Bawa,Suryansh Shedge,0,0,0,,,,,,,,,,,,,,,,,,,111
+Punjab Kings,12,2,0.1,5.6,mandatory,C Connolly,RA Bawa,Suryansh Shedge,0,0,0,,,,,,,,,,,,,,,,,,,111
+Punjab Kings,12,3,0.1,5.6,mandatory,C Connolly,RA Bawa,Suryansh Shedge,0,0,0,,,,,,,,,,C Connolly,bowled,,,,,,,,111
+Punjab Kings,12,4,0.1,5.6,mandatory,Shashank Singh,RA Bawa,Suryansh Shedge,0,1,1,1.0,,,,,,,,,,,,,,,,,,112
+Punjab Kings,12,5,0.1,5.6,mandatory,Shashank Singh,RA Bawa,Suryansh Shedge,0,1,1,1.0,,,,,,,,,,,,,,,,,,113
+Punjab Kings,12,6,0.1,5.6,mandatory,Shashank Singh,RA Bawa,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,,114
+Punjab Kings,12,7,0.1,5.6,mandatory,Suryansh Shedge,RA Bawa,Shashank Singh,2,0,2,,,,,,,,,,,,,,,,,,,116
+Punjab Kings,12,8,0.1,5.6,mandatory,Suryansh Shedge,RA Bawa,Shashank Singh,6,0,6,,,,,,,,,,,,,,,,,,,122
+Punjab Kings,13,1,0.1,5.6,mandatory,Shashank Singh,SN Thakur,Suryansh Shedge,1,0,1,,,,,,,,,,,,,,,,,,,123
+Punjab Kings,13,2,0.1,5.6,mandatory,Suryansh Shedge,SN Thakur,Shashank Singh,0,0,0,,,,,,,,,,Suryansh Shedge,caught,,,,,RA Bawa,,,123
+Punjab Kings,13,3,0.1,5.6,mandatory,Azmatullah Omarzai,SN Thakur,Shashank Singh,0,0,0,,,,,,,,,,,,,,,,,,,123
+Punjab Kings,13,4,0.1,5.6,mandatory,Azmatullah Omarzai,SN Thakur,Shashank Singh,4,0,4,,,,,,,,,,,,,,,,,,,127
+Punjab Kings,13,5,0.1,5.6,mandatory,Azmatullah Omarzai,SN Thakur,Shashank Singh,0,0,0,,,,,,,,,,,,,,,,,,,127
+Punjab Kings,13,6,0.1,5.6,mandatory,Azmatullah Omarzai,SN Thakur,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,,128
+Punjab Kings,14,1,0.1,5.6,mandatory,Azmatullah Omarzai,C Bosch,Shashank Singh,0,0,0,,,,,,,,,,,,,,,,,,,128
+Punjab Kings,14,2,0.1,5.6,mandatory,Azmatullah Omarzai,C Bosch,Shashank Singh,6,0,6,,,,,,,,,,,,,,,,,,,134
+Punjab Kings,14,3,0.1,5.6,mandatory,Azmatullah Omarzai,C Bosch,Shashank Singh,1,0,1,,,,,,,,,,,,,,,,,,,135
+Punjab Kings,14,4,0.1,5.6,mandatory,Shashank Singh,C Bosch,Azmatullah Omarzai,0,0,0,,,Punjab Kings,KN Ananthapadmanabhan,Shashank Singh,struck down,wicket,True,,Shashank Singh,lbw,,,,,,,,135
+Punjab Kings,14,5,0.1,5.6,mandatory,M Jansen,C Bosch,Azmatullah Omarzai,0,0,0,,,,,,,,,,,,,,,,,,,135
+Punjab Kings,14,6,0.1,5.6,mandatory,M Jansen,C Bosch,Azmatullah Omarzai,0,0,0,,,,,,,,,,,,,,,,,,,135
+Punjab Kings,15,1,0.1,5.6,mandatory,Azmatullah Omarzai,JJ Bumrah,M Jansen,1,0,1,,,,,,,,,,,,,,,,,,,136
+Punjab Kings,15,2,0.1,5.6,mandatory,M Jansen,JJ Bumrah,Azmatullah Omarzai,1,0,1,,,,,,,,,,,,,,,,,,,137
+Punjab Kings,15,3,0.1,5.6,mandatory,Azmatullah Omarzai,JJ Bumrah,M Jansen,0,0,0,,,,,,,,,,,,,,,,,,,137
+Punjab Kings,15,4,0.1,5.6,mandatory,Azmatullah Omarzai,JJ Bumrah,M Jansen,0,1,1,1.0,,,,,,,,,,,,,,,,,,138
+Punjab Kings,15,5,0.1,5.6,mandatory,Azmatullah Omarzai,JJ Bumrah,M Jansen,1,0,1,,,,,,,,,,,,,,,,,,,139
+Punjab Kings,15,6,0.1,5.6,mandatory,M Jansen,JJ Bumrah,Azmatullah Omarzai,0,0,0,,,,,,,,,,,,,,,,,,,139
+Punjab Kings,15,7,0.1,5.6,mandatory,M Jansen,JJ Bumrah,Azmatullah Omarzai,1,0,1,,,,,,,,,,,,,,,,,,,140
+Punjab Kings,16,1,0.1,5.6,mandatory,M Jansen,SN Thakur,Azmatullah Omarzai,0,0,0,,,,,,,,,,,,,,,,,,,140
+Punjab Kings,16,2,0.1,5.6,mandatory,M Jansen,SN Thakur,Azmatullah Omarzai,0,0,0,,,,,,,,,,M Jansen,bowled,,,,,,,,140
+Punjab Kings,16,3,0.1,5.6,mandatory,Vishnu Vinod,SN Thakur,Azmatullah Omarzai,0,0,0,,,,,,,,,,,,Vishnu Vinod,P Simran Singh,Punjab Kings,impact_player,,,,140
+Punjab Kings,16,4,0.1,5.6,mandatory,Vishnu Vinod,SN Thakur,Azmatullah Omarzai,1,0,1,,,,,,,,,,,,,,,,,,,141
+Punjab Kings,16,5,0.1,5.6,mandatory,Azmatullah Omarzai,SN Thakur,Vishnu Vinod,0,0,0,,,,,,,,,,,,,,,,,,,141
+Punjab Kings,16,6,0.1,5.6,mandatory,Azmatullah Omarzai,SN Thakur,Vishnu Vinod,6,0,6,,,,,,,,,,,,,,,,,,,147
+Punjab Kings,17,1,0.1,5.6,mandatory,Vishnu Vinod,DL Chahar,Azmatullah Omarzai,1,0,1,,,,,,,,,,,,,,,,,,,148
+Punjab Kings,17,2,0.1,5.6,mandatory,Azmatullah Omarzai,DL Chahar,Vishnu Vinod,2,0,2,,,,,,,,,,,,,,,,,,,150
+Punjab Kings,17,3,0.1,5.6,mandatory,Azmatullah Omarzai,DL Chahar,Vishnu Vinod,4,0,4,,,,,,,,,,,,,,,,,,,154
+Punjab Kings,17,4,0.1,5.6,mandatory,Azmatullah Omarzai,DL Chahar,Vishnu Vinod,6,0,6,,,,,,,,,,,,,,,,,,,160
+Punjab Kings,17,5,0.1,5.6,mandatory,Azmatullah Omarzai,DL Chahar,Vishnu Vinod,6,0,6,,,,,,,,,,,,,,,,,,,166
+Punjab Kings,17,6,0.1,5.6,mandatory,Azmatullah Omarzai,DL Chahar,Vishnu Vinod,0,0,0,,,,,,,,,,Azmatullah Omarzai,caught,,,,,WG Jacks,,,166
+Punjab Kings,18,1,0.1,5.6,mandatory,Vishnu Vinod,C Bosch,XC Bartlett,4,0,4,,,,,,,,,,,,,,,,,,,170
+Punjab Kings,18,2,0.1,5.6,mandatory,Vishnu Vinod,C Bosch,XC Bartlett,6,0,6,,,,,,,,,,,,,,,,,,,176
+Punjab Kings,18,3,0.1,5.6,mandatory,Vishnu Vinod,C Bosch,XC Bartlett,1,0,1,,,,,,,,,,,,,,,,,,,177
+Punjab Kings,18,4,0.1,5.6,mandatory,XC Bartlett,C Bosch,Vishnu Vinod,4,0,4,,,,,,,,,,,,,,,,,,,181
+Punjab Kings,18,5,0.1,5.6,mandatory,XC Bartlett,C Bosch,Vishnu Vinod,6,0,6,,,,,,,,,,,,,,,,,,,187
+Punjab Kings,18,6,0.1,5.6,mandatory,XC Bartlett,C Bosch,Vishnu Vinod,0,1,1,,,,,,,,,1.0,,,,,,,,,,188
+Punjab Kings,19,1,0.1,5.6,mandatory,XC Bartlett,JJ Bumrah,Vishnu Vinod,4,0,4,,,,,,,,,,,,,,,,,,,192
+Punjab Kings,19,2,0.1,5.6,mandatory,XC Bartlett,JJ Bumrah,Vishnu Vinod,2,0,2,,,,,,,,,,,,,,,,,,,194
+Punjab Kings,19,3,0.1,5.6,mandatory,XC Bartlett,JJ Bumrah,Vishnu Vinod,2,0,2,,,,,,,,,,,,,,,,,,,196
+Punjab Kings,19,4,0.1,5.6,mandatory,XC Bartlett,JJ Bumrah,Vishnu Vinod,0,1,1,1.0,,,,,,,,,,,,,,,,,,197
+Punjab Kings,19,5,0.1,5.6,mandatory,XC Bartlett,JJ Bumrah,Vishnu Vinod,0,1,1,,1.0,,,,,,,,,,,,,,,,,198
+Punjab Kings,19,6,0.1,5.6,mandatory,Vishnu Vinod,JJ Bumrah,XC Bartlett,2,0,2,,,,,,,,,,,,,,,,,,,200
+Punjab Kings,19,7,0.1,5.6,mandatory,Vishnu Vinod,JJ Bumrah,XC Bartlett,0,0,0,,,Punjab Kings,Bhavesh Patel,Vishnu Vinod,upheld,wicket,,,,,,,,,,,,200
+Mumbai Indians,0,1,0.1,5.6,mandatory,RG Sharma,Arshdeep Singh,RD Rickelton,1,0,1,,,,,,,,,,,,RG Sharma,Raghu Sharma,Mumbai Indians,impact_player,,20.0,201.0,1
+Mumbai Indians,0,2,0.1,5.6,mandatory,RD Rickelton,Arshdeep Singh,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,2
+Mumbai Indians,0,3,0.1,5.6,mandatory,RG Sharma,Arshdeep Singh,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,2
+Mumbai Indians,0,4,0.1,5.6,mandatory,RG Sharma,Arshdeep Singh,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,2
+Mumbai Indians,0,5,0.1,5.6,mandatory,RG Sharma,Arshdeep Singh,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,2
+Mumbai Indians,0,6,0.1,5.6,mandatory,RG Sharma,Arshdeep Singh,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,2
+Mumbai Indians,1,1,0.1,5.6,mandatory,RD Rickelton,Azmatullah Omarzai,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,3
+Mumbai Indians,1,2,0.1,5.6,mandatory,RG Sharma,Azmatullah Omarzai,RD Rickelton,2,0,2,,,,,,,,,,,,,,,,,20.0,201.0,5
+Mumbai Indians,1,3,0.1,5.6,mandatory,RG Sharma,Azmatullah Omarzai,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,5
+Mumbai Indians,1,4,0.1,5.6,mandatory,RG Sharma,Azmatullah Omarzai,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,6
+Mumbai Indians,1,5,0.1,5.6,mandatory,RD Rickelton,Azmatullah Omarzai,RG Sharma,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,12
+Mumbai Indians,1,6,0.1,5.6,mandatory,RD Rickelton,Azmatullah Omarzai,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,13
+Mumbai Indians,2,1,0.1,5.6,mandatory,RD Rickelton,M Jansen,RG Sharma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,13
+Mumbai Indians,2,2,0.1,5.6,mandatory,RD Rickelton,M Jansen,RG Sharma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,13
+Mumbai Indians,2,3,0.1,5.6,mandatory,RD Rickelton,M Jansen,RG Sharma,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,17
+Mumbai Indians,2,4,0.1,5.6,mandatory,RD Rickelton,M Jansen,RG Sharma,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,23
+Mumbai Indians,2,5,0.1,5.6,mandatory,RD Rickelton,M Jansen,RG Sharma,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,27
+Mumbai Indians,2,6,0.1,5.6,mandatory,RD Rickelton,M Jansen,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,28
+Mumbai Indians,3,1,0.1,5.6,mandatory,RD Rickelton,XC Bartlett,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,29
+Mumbai Indians,3,2,0.1,5.6,mandatory,RG Sharma,XC Bartlett,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,30
+Mumbai Indians,3,3,0.1,5.6,mandatory,RD Rickelton,XC Bartlett,RG Sharma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,30
+Mumbai Indians,3,4,0.1,5.6,mandatory,RD Rickelton,XC Bartlett,RG Sharma,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,36
+Mumbai Indians,3,5,0.1,5.6,mandatory,RD Rickelton,XC Bartlett,RG Sharma,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,40
+Mumbai Indians,3,6,0.1,5.6,mandatory,RD Rickelton,XC Bartlett,RG Sharma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,40
+Mumbai Indians,4,1,0.1,5.6,mandatory,RG Sharma,Arshdeep Singh,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,40
+Mumbai Indians,4,2,0.1,5.6,mandatory,RG Sharma,Arshdeep Singh,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,40
+Mumbai Indians,4,3,0.1,5.6,mandatory,RG Sharma,Arshdeep Singh,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,41
+Mumbai Indians,4,4,0.1,5.6,mandatory,RD Rickelton,Arshdeep Singh,RG Sharma,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,45
+Mumbai Indians,4,5,0.1,5.6,mandatory,RD Rickelton,Arshdeep Singh,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,46
+Mumbai Indians,4,6,0.1,5.6,mandatory,RG Sharma,Arshdeep Singh,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,46
+Mumbai Indians,5,1,0.1,5.6,mandatory,RD Rickelton,XC Bartlett,RG Sharma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,46
+Mumbai Indians,5,2,0.1,5.6,mandatory,RD Rickelton,XC Bartlett,RG Sharma,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,52
+Mumbai Indians,5,3,0.1,5.6,mandatory,RD Rickelton,XC Bartlett,RG Sharma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,52
+Mumbai Indians,5,4,0.1,5.6,mandatory,RD Rickelton,XC Bartlett,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,53
+Mumbai Indians,5,5,0.1,5.6,mandatory,RG Sharma,XC Bartlett,RD Rickelton,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,59
+Mumbai Indians,5,6,0.1,5.6,mandatory,RG Sharma,XC Bartlett,RD Rickelton,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,59
+Mumbai Indians,6,1,0.1,5.6,mandatory,RD Rickelton,Azmatullah Omarzai,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,60
+Mumbai Indians,6,2,0.1,5.6,mandatory,RG Sharma,Azmatullah Omarzai,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,61
+Mumbai Indians,6,3,0.1,5.6,mandatory,RD Rickelton,Azmatullah Omarzai,RG Sharma,0,0,0,,,,,,,,,,RD Rickelton,caught,,,,,Priyansh Arya,20.0,201.0,61
+Mumbai Indians,6,4,0.1,5.6,mandatory,Naman Dhir,Azmatullah Omarzai,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,62
+Mumbai Indians,6,5,0.1,5.6,mandatory,RG Sharma,Azmatullah Omarzai,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,63
+Mumbai Indians,6,6,0.1,5.6,mandatory,Naman Dhir,Azmatullah Omarzai,RG Sharma,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,69
+Mumbai Indians,7,1,0.1,5.6,mandatory,RG Sharma,YS Chahal,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,69
+Mumbai Indians,7,2,0.1,5.6,mandatory,RG Sharma,YS Chahal,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,70
+Mumbai Indians,7,3,0.1,5.6,mandatory,Naman Dhir,YS Chahal,RG Sharma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,70
+Mumbai Indians,7,4,0.1,5.6,mandatory,Naman Dhir,YS Chahal,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,71
+Mumbai Indians,7,5,0.1,5.6,mandatory,RG Sharma,YS Chahal,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,71
+Mumbai Indians,7,6,0.1,5.6,mandatory,RG Sharma,YS Chahal,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,72
+Mumbai Indians,8,1,0.1,5.6,mandatory,RG Sharma,M Jansen,Naman Dhir,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,78
+Mumbai Indians,8,2,0.1,5.6,mandatory,RG Sharma,M Jansen,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,79
+Mumbai Indians,8,3,0.1,5.6,mandatory,Naman Dhir,M Jansen,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,80
+Mumbai Indians,8,4,0.1,5.6,mandatory,RG Sharma,M Jansen,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,81
+Mumbai Indians,8,5,0.1,5.6,mandatory,Naman Dhir,M Jansen,RG Sharma,0,0,0,,,,,,,,,,Naman Dhir,caught,,,,,Arshdeep Singh,20.0,201.0,81
+Mumbai Indians,8,6,0.1,5.6,mandatory,Tilak Varma,M Jansen,RG Sharma,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,85
+Mumbai Indians,9,1,0.1,5.6,mandatory,RG Sharma,YS Chahal,Tilak Varma,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,201.0,86
+Mumbai Indians,9,2,0.1,5.6,mandatory,RG Sharma,YS Chahal,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,87
+Mumbai Indians,9,3,0.1,5.6,mandatory,Tilak Varma,YS Chahal,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,88
+Mumbai Indians,9,4,0.1,5.6,mandatory,RG Sharma,YS Chahal,Tilak Varma,0,0,0,,,,,,,,,,RG Sharma,bowled,,,,,,20.0,201.0,88
+Mumbai Indians,9,5,0.1,5.6,mandatory,SE Rutherford,YS Chahal,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,88
+Mumbai Indians,9,6,0.1,5.6,mandatory,SE Rutherford,YS Chahal,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,88
+Mumbai Indians,9,7,0.1,5.6,mandatory,SE Rutherford,YS Chahal,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,89
+Mumbai Indians,10,1,0.1,5.6,mandatory,SE Rutherford,XC Bartlett,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,90
+Mumbai Indians,10,2,0.1,5.6,mandatory,Tilak Varma,XC Bartlett,SE Rutherford,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,90
+Mumbai Indians,10,3,0.1,5.6,mandatory,Tilak Varma,XC Bartlett,SE Rutherford,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,90
+Mumbai Indians,10,4,0.1,5.6,mandatory,Tilak Varma,XC Bartlett,SE Rutherford,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,94
+Mumbai Indians,10,5,0.1,5.6,mandatory,Tilak Varma,XC Bartlett,SE Rutherford,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,98
+Mumbai Indians,10,6,0.1,5.6,mandatory,Tilak Varma,XC Bartlett,SE Rutherford,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,98
+Mumbai Indians,11,1,0.1,5.6,mandatory,SE Rutherford,YS Chahal,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,99
+Mumbai Indians,11,2,0.1,5.6,mandatory,Tilak Varma,YS Chahal,SE Rutherford,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,100
+Mumbai Indians,11,3,0.1,5.6,mandatory,SE Rutherford,YS Chahal,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,101
+Mumbai Indians,11,4,0.1,5.6,mandatory,Tilak Varma,YS Chahal,SE Rutherford,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,102
+Mumbai Indians,11,5,0.1,5.6,mandatory,SE Rutherford,YS Chahal,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,102
+Mumbai Indians,11,6,0.1,5.6,mandatory,SE Rutherford,YS Chahal,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,103
+Mumbai Indians,12,1,0.1,5.6,mandatory,SE Rutherford,Azmatullah Omarzai,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,103
+Mumbai Indians,12,2,0.1,5.6,mandatory,SE Rutherford,Azmatullah Omarzai,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,104
+Mumbai Indians,12,3,0.1,5.6,mandatory,Tilak Varma,Azmatullah Omarzai,SE Rutherford,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,110
+Mumbai Indians,12,4,0.1,5.6,mandatory,Tilak Varma,Azmatullah Omarzai,SE Rutherford,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,111
+Mumbai Indians,12,5,0.1,5.6,mandatory,SE Rutherford,Azmatullah Omarzai,Tilak Varma,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,201.0,112
+Mumbai Indians,12,6,0.1,5.6,mandatory,SE Rutherford,Azmatullah Omarzai,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,116
+Mumbai Indians,12,7,0.1,5.6,mandatory,SE Rutherford,Azmatullah Omarzai,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,116
+Mumbai Indians,13,1,0.1,5.6,mandatory,Tilak Varma,M Jansen,SE Rutherford,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,117
+Mumbai Indians,13,2,0.1,5.6,mandatory,SE Rutherford,M Jansen,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,118
+Mumbai Indians,13,3,0.1,5.6,mandatory,Tilak Varma,M Jansen,SE Rutherford,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,119
+Mumbai Indians,13,4,0.1,5.6,mandatory,SE Rutherford,M Jansen,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,120
+Mumbai Indians,13,5,0.1,5.6,mandatory,Tilak Varma,M Jansen,SE Rutherford,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,121
+Mumbai Indians,13,6,0.1,5.6,mandatory,SE Rutherford,M Jansen,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,121
+Mumbai Indians,14,1,0.1,5.6,mandatory,Tilak Varma,Arshdeep Singh,SE Rutherford,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,125
+Mumbai Indians,14,2,0.1,5.6,mandatory,Tilak Varma,Arshdeep Singh,SE Rutherford,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,126
+Mumbai Indians,14,3,0.1,5.6,mandatory,SE Rutherford,Arshdeep Singh,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,127
+Mumbai Indians,14,4,0.1,5.6,mandatory,Tilak Varma,Arshdeep Singh,SE Rutherford,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,127
+Mumbai Indians,14,5,0.1,5.6,mandatory,Tilak Varma,Arshdeep Singh,SE Rutherford,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,127
+Mumbai Indians,14,6,0.1,5.6,mandatory,Tilak Varma,Arshdeep Singh,SE Rutherford,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,201.0,128
+Mumbai Indians,14,7,0.1,5.6,mandatory,Tilak Varma,Arshdeep Singh,SE Rutherford,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,129
+Mumbai Indians,15,1,0.1,5.6,mandatory,Tilak Varma,YS Chahal,SE Rutherford,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,135
+Mumbai Indians,15,2,0.1,5.6,mandatory,Tilak Varma,YS Chahal,SE Rutherford,2,0,2,,,,,,,,,,,,,,,,,20.0,201.0,137
+Mumbai Indians,15,3,0.1,5.6,mandatory,Tilak Varma,YS Chahal,SE Rutherford,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,141
+Mumbai Indians,15,4,0.1,5.6,mandatory,Tilak Varma,YS Chahal,SE Rutherford,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,142
+Mumbai Indians,15,5,0.1,5.6,mandatory,SE Rutherford,YS Chahal,Tilak Varma,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,148
+Mumbai Indians,15,6,0.1,5.6,mandatory,SE Rutherford,YS Chahal,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,149
+Mumbai Indians,16,1,0.1,5.6,mandatory,SE Rutherford,Azmatullah Omarzai,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,149
+Mumbai Indians,16,2,0.1,5.6,mandatory,SE Rutherford,Azmatullah Omarzai,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,149
+Mumbai Indians,16,3,0.1,5.6,mandatory,SE Rutherford,Azmatullah Omarzai,Tilak Varma,0,0,0,,,,,,,,,,SE Rutherford,caught,,,,,XC Bartlett,20.0,201.0,149
+Mumbai Indians,16,4,0.1,5.6,mandatory,WG Jacks,Azmatullah Omarzai,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,149
+Mumbai Indians,16,5,0.1,5.6,mandatory,WG Jacks,Azmatullah Omarzai,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,150
+Mumbai Indians,16,6,0.1,5.6,mandatory,Tilak Varma,Azmatullah Omarzai,WG Jacks,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,151
+Mumbai Indians,17,1,0.1,5.6,mandatory,Tilak Varma,M Jansen,WG Jacks,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,157
+Mumbai Indians,17,2,0.1,5.6,mandatory,Tilak Varma,M Jansen,WG Jacks,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,161
+Mumbai Indians,17,3,0.1,5.6,mandatory,Tilak Varma,M Jansen,WG Jacks,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,162
+Mumbai Indians,17,4,0.1,5.6,mandatory,WG Jacks,M Jansen,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,166
+Mumbai Indians,17,5,0.1,5.6,mandatory,WG Jacks,M Jansen,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,167
+Mumbai Indians,17,6,0.1,5.6,mandatory,Tilak Varma,M Jansen,WG Jacks,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,173
+Mumbai Indians,18,1,0.1,5.6,mandatory,WG Jacks,Arshdeep Singh,Tilak Varma,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,179
+Mumbai Indians,18,2,0.1,5.6,mandatory,WG Jacks,Arshdeep Singh,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,180
+Mumbai Indians,18,3,0.1,5.6,mandatory,Tilak Varma,Arshdeep Singh,WG Jacks,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,180
+Mumbai Indians,18,4,0.1,5.6,mandatory,Tilak Varma,Arshdeep Singh,WG Jacks,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,181
+Mumbai Indians,18,5,0.1,5.6,mandatory,WG Jacks,Arshdeep Singh,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,20.0,201.0,185
+Mumbai Indians,18,6,0.1,5.6,mandatory,WG Jacks,Arshdeep Singh,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,186
+Mumbai Indians,19,1,0.1,5.6,mandatory,WG Jacks,XC Bartlett,Tilak Varma,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,192
+Mumbai Indians,19,2,0.1,5.6,mandatory,WG Jacks,XC Bartlett,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,20.0,201.0,193
+Mumbai Indians,19,3,0.1,5.6,mandatory,Tilak Varma,XC Bartlett,WG Jacks,0,0,0,,,,,,,,,,,,,,,,,20.0,201.0,193
+Mumbai Indians,19,4,0.1,5.6,mandatory,Tilak Varma,XC Bartlett,WG Jacks,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,199
+Mumbai Indians,19,5,0.1,5.6,mandatory,Tilak Varma,XC Bartlett,WG Jacks,6,0,6,,,,,,,,,,,,,,,,,20.0,201.0,205

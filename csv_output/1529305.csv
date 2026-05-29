@@ -1,0 +1,250 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,legbyes,review_by,review_umpire,review_batter,review_decision,review_type,byes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Rajasthan Royals,0,1,0.1,5.7,mandatory,YBK Jaiswal,MA Starc,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,0
+Rajasthan Royals,0,2,0.1,5.7,mandatory,YBK Jaiswal,MA Starc,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,,4
+Rajasthan Royals,0,3,0.1,5.7,mandatory,YBK Jaiswal,MA Starc,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,,8
+Rajasthan Royals,0,4,0.1,5.7,mandatory,YBK Jaiswal,MA Starc,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,8
+Rajasthan Royals,0,5,0.1,5.7,mandatory,YBK Jaiswal,MA Starc,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,,12
+Rajasthan Royals,0,6,0.1,5.7,mandatory,YBK Jaiswal,MA Starc,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,12
+Rajasthan Royals,1,1,0.1,5.7,mandatory,V Suryavanshi,L Ngidi,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,,18
+Rajasthan Royals,1,2,0.1,5.7,mandatory,V Suryavanshi,L Ngidi,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,19
+Rajasthan Royals,1,3,0.1,5.7,mandatory,YBK Jaiswal,L Ngidi,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,19
+Rajasthan Royals,1,4,0.1,5.7,mandatory,YBK Jaiswal,L Ngidi,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,19
+Rajasthan Royals,1,5,0.1,5.7,mandatory,YBK Jaiswal,L Ngidi,V Suryavanshi,0,0,0,,,,,,,,,YBK Jaiswal,caught,,,,,MA Starc,,,19
+Rajasthan Royals,1,6,0.1,5.7,mandatory,Dhruv Jurel,L Ngidi,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,19
+Rajasthan Royals,2,1,0.1,5.7,mandatory,V Suryavanshi,MA Starc,Dhruv Jurel,0,1,1,1.0,,,,,,,,,,,,,,,,,20
+Rajasthan Royals,2,2,0.1,5.7,mandatory,V Suryavanshi,MA Starc,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,,24
+Rajasthan Royals,2,3,0.1,5.7,mandatory,V Suryavanshi,MA Starc,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,24
+Rajasthan Royals,2,4,0.1,5.7,mandatory,V Suryavanshi,MA Starc,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,,30
+Rajasthan Royals,2,5,0.1,5.7,mandatory,V Suryavanshi,MA Starc,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,31
+Rajasthan Royals,2,6,0.1,5.7,mandatory,Dhruv Jurel,MA Starc,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,,35
+Rajasthan Royals,2,7,0.1,5.7,mandatory,Dhruv Jurel,MA Starc,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,35
+Rajasthan Royals,3,1,0.1,5.7,mandatory,V Suryavanshi,L Ngidi,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,,39
+Rajasthan Royals,3,2,0.1,5.7,mandatory,V Suryavanshi,L Ngidi,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,39
+Rajasthan Royals,3,3,0.1,5.7,mandatory,V Suryavanshi,L Ngidi,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,40
+Rajasthan Royals,3,4,0.1,5.7,mandatory,Dhruv Jurel,L Ngidi,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,40
+Rajasthan Royals,3,5,0.1,5.7,mandatory,Dhruv Jurel,L Ngidi,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,40
+Rajasthan Royals,3,6,0.1,5.7,mandatory,Dhruv Jurel,L Ngidi,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,40
+Rajasthan Royals,4,1,0.1,5.7,mandatory,V Suryavanshi,T Vijay,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,,44
+Rajasthan Royals,4,2,0.1,5.7,mandatory,V Suryavanshi,T Vijay,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,44
+Rajasthan Royals,4,3,0.1,5.7,mandatory,V Suryavanshi,T Vijay,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,,48
+Rajasthan Royals,4,4,0.1,5.7,mandatory,V Suryavanshi,T Vijay,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,48
+Rajasthan Royals,4,5,0.1,5.7,mandatory,V Suryavanshi,T Vijay,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,,52
+Rajasthan Royals,4,6,0.1,5.7,mandatory,V Suryavanshi,T Vijay,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,,58
+Rajasthan Royals,5,1,0.1,5.7,mandatory,Dhruv Jurel,Mukesh Kumar,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,,59
+Rajasthan Royals,5,2,0.1,5.7,mandatory,V Suryavanshi,Mukesh Kumar,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,60
+Rajasthan Royals,5,3,0.1,5.7,mandatory,Dhruv Jurel,Mukesh Kumar,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,,64
+Rajasthan Royals,5,4,0.1,5.7,mandatory,Dhruv Jurel,Mukesh Kumar,V Suryavanshi,6,0,6,,,,,,,,,,,,,,,,,,70
+Rajasthan Royals,5,5,0.1,5.7,mandatory,Dhruv Jurel,Mukesh Kumar,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,,74
+Rajasthan Royals,5,6,0.1,5.7,mandatory,Dhruv Jurel,Mukesh Kumar,V Suryavanshi,0,1,1,1.0,,,,,,,,,,,,,,,,,75
+Rajasthan Royals,5,7,0.1,5.7,mandatory,Dhruv Jurel,Mukesh Kumar,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,75
+Rajasthan Royals,6,1,0.1,5.7,mandatory,V Suryavanshi,T Vijay,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,76
+Rajasthan Royals,6,2,0.1,5.7,mandatory,Dhruv Jurel,T Vijay,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,,77
+Rajasthan Royals,6,3,0.1,5.7,mandatory,V Suryavanshi,T Vijay,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,78
+Rajasthan Royals,6,4,0.1,5.7,mandatory,Dhruv Jurel,T Vijay,V Suryavanshi,6,0,6,,,,,,,,,,,,,,,,,,84
+Rajasthan Royals,6,5,0.1,5.7,mandatory,Dhruv Jurel,T Vijay,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,,85
+Rajasthan Royals,6,6,0.1,5.7,mandatory,V Suryavanshi,T Vijay,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,86
+Rajasthan Royals,7,1,0.1,5.7,mandatory,V Suryavanshi,M Tiwari,Dhruv Jurel,0,1,1,1.0,,,,,,,,,,,,,,,,,87
+Rajasthan Royals,7,2,0.1,5.7,mandatory,V Suryavanshi,M Tiwari,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,88
+Rajasthan Royals,7,3,0.1,5.7,mandatory,Dhruv Jurel,M Tiwari,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,,89
+Rajasthan Royals,7,4,0.1,5.7,mandatory,V Suryavanshi,M Tiwari,Dhruv Jurel,0,0,0,,,,,,,,,V Suryavanshi,caught,,,,,DA Miller,,,89
+Rajasthan Royals,7,5,0.1,5.7,mandatory,R Parag,M Tiwari,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,90
+Rajasthan Royals,7,6,0.1,5.7,mandatory,Dhruv Jurel,M Tiwari,R Parag,1,0,1,,,,,,,,,,,,,,,,,,91
+Rajasthan Royals,7,7,0.1,5.7,mandatory,R Parag,M Tiwari,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,92
+Rajasthan Royals,8,1,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,92
+Rajasthan Royals,8,2,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,92
+Rajasthan Royals,8,3,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,,96
+Rajasthan Royals,8,4,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,0,1,1,,1.0,Delhi Capitals,K Kelkar,R Parag,struck down,wicket,,,,,,,,,,,97
+Rajasthan Royals,8,5,0.1,5.7,mandatory,Dhruv Jurel,AR Patel,R Parag,1,0,1,,,,,,,,,,,,,,,,,,98
+Rajasthan Royals,8,6,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,98
+Rajasthan Royals,9,1,0.1,5.7,mandatory,Dhruv Jurel,M Tiwari,R Parag,0,0,0,,,,,,,,,,,,,,,,,,98
+Rajasthan Royals,9,2,0.1,5.7,mandatory,Dhruv Jurel,M Tiwari,R Parag,2,0,2,,,,,,,,,,,,,,,,,,100
+Rajasthan Royals,9,3,0.1,5.7,mandatory,Dhruv Jurel,M Tiwari,R Parag,0,0,0,,,,,,,,,,,,,,,,,,100
+Rajasthan Royals,9,4,0.1,5.7,mandatory,Dhruv Jurel,M Tiwari,R Parag,1,0,1,,,,,,,,,,,,,,,,,,101
+Rajasthan Royals,9,5,0.1,5.7,mandatory,R Parag,M Tiwari,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,101
+Rajasthan Royals,9,6,0.1,5.7,mandatory,R Parag,M Tiwari,Dhruv Jurel,0,1,1,1.0,,,,,,,,,,,,,,,,,102
+Rajasthan Royals,9,7,0.1,5.7,mandatory,R Parag,M Tiwari,Dhruv Jurel,0,1,1,1.0,,,,,,,,,,,,,,,,,103
+Rajasthan Royals,9,8,0.1,5.7,mandatory,R Parag,M Tiwari,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,104
+Rajasthan Royals,10,1,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,,110
+Rajasthan Royals,10,2,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,110
+Rajasthan Royals,10,3,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,,116
+Rajasthan Royals,10,4,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,117
+Rajasthan Royals,10,5,0.1,5.7,mandatory,Dhruv Jurel,AR Patel,R Parag,0,0,0,,,,,,,,,,,,,,,,,,117
+Rajasthan Royals,10,6,0.1,5.7,mandatory,Dhruv Jurel,AR Patel,R Parag,0,0,0,,,,,,,,,,,,,,,,,,117
+Rajasthan Royals,11,1,0.1,5.7,mandatory,R Parag,Mukesh Kumar,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,117
+Rajasthan Royals,11,2,0.1,5.7,mandatory,R Parag,Mukesh Kumar,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,,123
+Rajasthan Royals,11,3,0.1,5.7,mandatory,R Parag,Mukesh Kumar,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,,127
+Rajasthan Royals,11,4,0.1,5.7,mandatory,R Parag,Mukesh Kumar,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,,133
+Rajasthan Royals,11,5,0.1,5.7,mandatory,R Parag,Mukesh Kumar,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,,139
+Rajasthan Royals,11,6,0.1,5.7,mandatory,R Parag,Mukesh Kumar,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,140
+Rajasthan Royals,12,1,0.1,5.7,mandatory,R Parag,M Tiwari,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,141
+Rajasthan Royals,12,2,0.1,5.7,mandatory,Dhruv Jurel,M Tiwari,R Parag,0,0,0,,,,,,,,,,,,,,,,,,141
+Rajasthan Royals,12,3,0.1,5.7,mandatory,Dhruv Jurel,M Tiwari,R Parag,4,0,4,,,,,,,,,,,,,,,,,,145
+Rajasthan Royals,12,4,0.1,5.7,mandatory,Dhruv Jurel,M Tiwari,R Parag,1,0,1,,,,,,,,,,,,,,,,,,146
+Rajasthan Royals,12,5,0.1,5.7,mandatory,R Parag,M Tiwari,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,147
+Rajasthan Royals,12,6,0.1,5.7,mandatory,Dhruv Jurel,M Tiwari,R Parag,0,1,1,1.0,,,,,,,,,,,,,,,,,148
+Rajasthan Royals,12,7,0.1,5.7,mandatory,Dhruv Jurel,M Tiwari,R Parag,4,0,4,,,,,,,,,,,,,,,,,,152
+Rajasthan Royals,13,1,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,,156
+Rajasthan Royals,13,2,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,157
+Rajasthan Royals,13,3,0.1,5.7,mandatory,Dhruv Jurel,AR Patel,R Parag,1,0,1,,,,,,,,,,,,,,,,,,158
+Rajasthan Royals,13,4,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,159
+Rajasthan Royals,13,5,0.1,5.7,mandatory,Dhruv Jurel,AR Patel,R Parag,1,0,1,,,,,,,,,,,,,,,,,,160
+Rajasthan Royals,13,6,0.1,5.7,mandatory,R Parag,AR Patel,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,160
+Rajasthan Royals,14,1,0.1,5.7,mandatory,Dhruv Jurel,MA Starc,R Parag,1,0,1,,,,,,,,,,,,,,,,,,161
+Rajasthan Royals,14,2,0.1,5.7,mandatory,R Parag,MA Starc,Dhruv Jurel,0,0,0,,,,,,,,,R Parag,caught,,,,,AR Patel,,,161
+Rajasthan Royals,14,3,0.1,5.7,mandatory,D Ferreira,MA Starc,Dhruv Jurel,0,0,0,,,,,,,,,D Ferreira,caught,,,,,AR Patel,,,161
+Rajasthan Royals,14,4,0.1,5.7,mandatory,Ravi Singh,MA Starc,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,,165
+Rajasthan Royals,14,5,0.1,5.7,mandatory,Ravi Singh,MA Starc,Dhruv Jurel,0,0,0,,,Rajasthan Royals,K Kelkar,Ravi Singh,struck down,wicket,,Ravi Singh,lbw,,,,,,,,165
+Rajasthan Royals,14,6,0.1,5.7,mandatory,SB Dubey,MA Starc,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,166
+Rajasthan Royals,15,1,0.1,5.7,mandatory,SB Dubey,AR Patel,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,166
+Rajasthan Royals,15,2,0.1,5.7,mandatory,SB Dubey,AR Patel,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,167
+Rajasthan Royals,15,3,0.1,5.7,mandatory,Dhruv Jurel,AR Patel,SB Dubey,1,0,1,,,,,,,,,,,,,,,,,,168
+Rajasthan Royals,15,4,0.1,5.7,mandatory,SB Dubey,AR Patel,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,169
+Rajasthan Royals,15,5,0.1,5.7,mandatory,Dhruv Jurel,AR Patel,SB Dubey,1,0,1,,,,,,,,,,,,,,,,,,170
+Rajasthan Royals,15,6,0.1,5.7,mandatory,SB Dubey,AR Patel,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,171
+Rajasthan Royals,16,1,0.1,5.7,mandatory,SB Dubey,M Tiwari,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,172
+Rajasthan Royals,16,2,0.1,5.7,mandatory,Dhruv Jurel,M Tiwari,SB Dubey,1,0,1,,,,,,,,,,,,,,,,,,173
+Rajasthan Royals,16,3,0.1,5.7,mandatory,SB Dubey,M Tiwari,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,173
+Rajasthan Royals,16,4,0.1,5.7,mandatory,SB Dubey,M Tiwari,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,173
+Rajasthan Royals,16,5,0.1,5.7,mandatory,SB Dubey,M Tiwari,Dhruv Jurel,0,0,0,,,,,,,,,SB Dubey,caught,,,,,T Vijay,,,173
+Rajasthan Royals,16,6,0.1,5.7,mandatory,MD Shanaka,M Tiwari,Dhruv Jurel,1,0,1,,,,,,,,,,,MD Shanaka,SB Dubey,Rajasthan Royals,impact_player,,,,174
+Rajasthan Royals,17,1,0.1,5.7,mandatory,MD Shanaka,L Ngidi,Dhruv Jurel,0,1,1,,1.0,,,,,,,,,,,,,,,,175
+Rajasthan Royals,17,2,0.1,5.7,mandatory,Dhruv Jurel,L Ngidi,MD Shanaka,0,0,0,,,,,,,,,,,,,,,,,,175
+Rajasthan Royals,17,3,0.1,5.7,mandatory,Dhruv Jurel,L Ngidi,MD Shanaka,1,0,1,,,,,,,,,,,,,,,,,,176
+Rajasthan Royals,17,4,0.1,5.7,mandatory,MD Shanaka,L Ngidi,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,,182
+Rajasthan Royals,17,5,0.1,5.7,mandatory,MD Shanaka,L Ngidi,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,182
+Rajasthan Royals,17,6,0.1,5.7,mandatory,MD Shanaka,L Ngidi,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,,182
+Rajasthan Royals,18,1,0.1,5.7,mandatory,Dhruv Jurel,MA Starc,MD Shanaka,1,0,1,,,,,,,,,,,,,,,,,,183
+Rajasthan Royals,18,2,0.1,5.7,mandatory,MD Shanaka,MA Starc,Dhruv Jurel,2,0,2,,,,,,,,,,,,,,,,,,185
+Rajasthan Royals,18,3,0.1,5.7,mandatory,MD Shanaka,MA Starc,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,186
+Rajasthan Royals,18,4,0.1,5.7,mandatory,Dhruv Jurel,MA Starc,MD Shanaka,1,0,1,,,,,,,,,,,,,,,,,,187
+Rajasthan Royals,18,5,0.1,5.7,mandatory,MD Shanaka,MA Starc,Dhruv Jurel,0,0,0,,,,,,,,,MD Shanaka,caught,,,,,T Stubbs,,,187
+Rajasthan Royals,18,6,0.1,5.7,mandatory,JC Archer,MA Starc,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,188
+Rajasthan Royals,19,1,0.1,5.7,mandatory,JC Archer,L Ngidi,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,189
+Rajasthan Royals,19,2,0.1,5.7,mandatory,Dhruv Jurel,L Ngidi,JC Archer,0,0,0,,,,,,,,,,,,,,,,,,189
+Rajasthan Royals,19,3,0.1,5.7,mandatory,Dhruv Jurel,L Ngidi,JC Archer,2,0,2,,,,,,,,,,,,,,,,,,191
+Rajasthan Royals,19,4,0.1,5.7,mandatory,Dhruv Jurel,L Ngidi,JC Archer,0,0,0,,,Rajasthan Royals,Amit Rana,Dhruv Jurel,struck down,wicket,,Dhruv Jurel,lbw,,,,,,,,191
+Rajasthan Royals,19,5,0.1,5.7,mandatory,AF Milne,L Ngidi,JC Archer,0,0,0,,,,,,,,,,,,,,,,,,191
+Rajasthan Royals,19,6,0.1,5.7,mandatory,AF Milne,L Ngidi,JC Archer,2,0,2,,,,,,,,,,,,,,,,,,193
+Delhi Capitals,0,1,0.1,5.6,mandatory,Abishek Porel,JC Archer,KL Rahul,0,5,5,5.0,,,,,,,,,,,,,,,20.0,194.0,5
+Delhi Capitals,0,2,0.1,5.6,mandatory,Abishek Porel,JC Archer,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,6
+Delhi Capitals,0,3,0.1,5.6,mandatory,KL Rahul,JC Archer,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,7
+Delhi Capitals,0,4,0.1,5.6,mandatory,Abishek Porel,JC Archer,KL Rahul,4,0,4,,,,,,,,,,,,,,,,20.0,194.0,11
+Delhi Capitals,0,5,0.1,5.6,mandatory,Abishek Porel,JC Archer,KL Rahul,0,1,1,1.0,,,,,,,,,,,,,,,20.0,194.0,12
+Delhi Capitals,0,6,0.1,5.6,mandatory,Abishek Porel,JC Archer,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,12
+Delhi Capitals,0,7,0.1,5.6,mandatory,Abishek Porel,JC Archer,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,13
+Delhi Capitals,0,8,0.1,5.6,mandatory,KL Rahul,JC Archer,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,14
+Delhi Capitals,1,1,0.1,5.6,mandatory,KL Rahul,AF Milne,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,15
+Delhi Capitals,1,2,0.1,5.6,mandatory,Abishek Porel,AF Milne,KL Rahul,4,0,4,,,,,,,,,,,,,,,,20.0,194.0,19
+Delhi Capitals,1,3,0.1,5.6,mandatory,Abishek Porel,AF Milne,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,20
+Delhi Capitals,1,4,0.1,5.6,mandatory,KL Rahul,AF Milne,Abishek Porel,5,0,5,,,,,,,,,,,,,,,,20.0,194.0,25
+Delhi Capitals,1,5,0.1,5.6,mandatory,Abishek Porel,AF Milne,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,26
+Delhi Capitals,1,6,0.1,5.6,mandatory,KL Rahul,AF Milne,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,27
+Delhi Capitals,2,1,0.1,5.6,mandatory,KL Rahul,JC Archer,Abishek Porel,4,0,4,,,,,,,,,,,,,,,,20.0,194.0,31
+Delhi Capitals,2,2,0.1,5.6,mandatory,KL Rahul,JC Archer,Abishek Porel,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,31
+Delhi Capitals,2,3,0.1,5.6,mandatory,KL Rahul,JC Archer,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,32
+Delhi Capitals,2,4,0.1,5.6,mandatory,Abishek Porel,JC Archer,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,32
+Delhi Capitals,2,5,0.1,5.6,mandatory,Abishek Porel,JC Archer,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,32
+Delhi Capitals,2,6,0.1,5.6,mandatory,Abishek Porel,JC Archer,KL Rahul,6,0,6,,,,,,,,,,,,,,,,20.0,194.0,38
+Delhi Capitals,3,1,0.1,5.6,mandatory,KL Rahul,Brijesh Sharma,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,39
+Delhi Capitals,3,2,0.1,5.6,mandatory,Abishek Porel,Brijesh Sharma,KL Rahul,4,0,4,,,,,,,,,,,,,,,,20.0,194.0,43
+Delhi Capitals,3,3,0.1,5.6,mandatory,Abishek Porel,Brijesh Sharma,KL Rahul,4,0,4,,,,,,,,,,,,,,,,20.0,194.0,47
+Delhi Capitals,3,4,0.1,5.6,mandatory,Abishek Porel,Brijesh Sharma,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,47
+Delhi Capitals,3,5,0.1,5.6,mandatory,Abishek Porel,Brijesh Sharma,KL Rahul,0,1,1,1.0,,,,,,,,,,,,,,,20.0,194.0,48
+Delhi Capitals,3,6,0.1,5.6,mandatory,Abishek Porel,Brijesh Sharma,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,49
+Delhi Capitals,3,7,0.1,5.6,mandatory,KL Rahul,Brijesh Sharma,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,50
+Delhi Capitals,4,1,0.1,5.6,mandatory,KL Rahul,AF Milne,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,51
+Delhi Capitals,4,2,0.1,5.6,mandatory,Abishek Porel,AF Milne,KL Rahul,0,1,1,,,,,,,,1.0,,,,,,,,20.0,194.0,52
+Delhi Capitals,4,3,0.1,5.6,mandatory,KL Rahul,AF Milne,Abishek Porel,6,0,6,,,,,,,,,,,,,,,,20.0,194.0,58
+Delhi Capitals,4,4,0.1,5.6,mandatory,KL Rahul,AF Milne,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,59
+Delhi Capitals,4,5,0.1,5.6,mandatory,Abishek Porel,AF Milne,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,60
+Delhi Capitals,4,6,0.1,5.6,mandatory,KL Rahul,AF Milne,Abishek Porel,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,60
+Delhi Capitals,5,1,0.1,5.6,mandatory,Abishek Porel,Brijesh Sharma,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,61
+Delhi Capitals,5,2,0.1,5.6,mandatory,KL Rahul,Brijesh Sharma,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,62
+Delhi Capitals,5,3,0.1,5.6,mandatory,Abishek Porel,Brijesh Sharma,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,63
+Delhi Capitals,5,4,0.1,5.6,mandatory,KL Rahul,Brijesh Sharma,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,64
+Delhi Capitals,5,5,0.1,5.6,mandatory,Abishek Porel,Brijesh Sharma,KL Rahul,4,0,4,,,,,,,,,,,,,,,,20.0,194.0,68
+Delhi Capitals,5,6,0.1,5.6,mandatory,Abishek Porel,Brijesh Sharma,KL Rahul,4,0,4,,,,,,,,,,,,,,,,20.0,194.0,72
+Delhi Capitals,6,1,0.1,5.6,mandatory,KL Rahul,MD Shanaka,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,73
+Delhi Capitals,6,2,0.1,5.6,mandatory,Abishek Porel,MD Shanaka,KL Rahul,4,0,4,,,,,,,,,,,,,,,,20.0,194.0,77
+Delhi Capitals,6,3,0.1,5.6,mandatory,Abishek Porel,MD Shanaka,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,78
+Delhi Capitals,6,4,0.1,5.6,mandatory,KL Rahul,MD Shanaka,Abishek Porel,6,0,6,,,,,,,,,,,,,,,,20.0,194.0,84
+Delhi Capitals,6,5,0.1,5.6,mandatory,KL Rahul,MD Shanaka,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,85
+Delhi Capitals,6,6,0.1,5.6,mandatory,Abishek Porel,MD Shanaka,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,85
+Delhi Capitals,7,1,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,Abishek Porel,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,85
+Delhi Capitals,7,2,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,Abishek Porel,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,85
+Delhi Capitals,7,3,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,86
+Delhi Capitals,7,4,0.1,5.6,mandatory,Abishek Porel,Yash Raj Punja,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,87
+Delhi Capitals,7,5,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,88
+Delhi Capitals,7,6,0.1,5.6,mandatory,Abishek Porel,Yash Raj Punja,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,89
+Delhi Capitals,8,1,0.1,5.6,mandatory,Abishek Porel,MD Shanaka,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,90
+Delhi Capitals,8,2,0.1,5.6,mandatory,KL Rahul,MD Shanaka,Abishek Porel,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,90
+Delhi Capitals,8,3,0.1,5.6,mandatory,KL Rahul,MD Shanaka,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,91
+Delhi Capitals,8,4,0.1,5.6,mandatory,Abishek Porel,MD Shanaka,KL Rahul,2,0,2,,,,,,,,,,,,,,,,20.0,194.0,93
+Delhi Capitals,8,5,0.1,5.6,mandatory,Abishek Porel,MD Shanaka,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,94
+Delhi Capitals,8,6,0.1,5.6,mandatory,KL Rahul,MD Shanaka,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,95
+Delhi Capitals,9,1,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,Abishek Porel,6,0,6,,,,,,,,,,,,,,,,20.0,194.0,101
+Delhi Capitals,9,2,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,102
+Delhi Capitals,9,3,0.1,5.6,mandatory,Abishek Porel,Yash Raj Punja,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,103
+Delhi Capitals,9,4,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,Abishek Porel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,104
+Delhi Capitals,9,5,0.1,5.6,mandatory,Abishek Porel,Yash Raj Punja,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,105
+Delhi Capitals,9,6,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,Abishek Porel,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,105
+Delhi Capitals,10,1,0.1,5.6,mandatory,Abishek Porel,Brijesh Sharma,KL Rahul,0,0,0,,,,,,,,,Abishek Porel,caught,,,,,D Ferreira,20.0,194.0,105
+Delhi Capitals,10,2,0.1,5.6,mandatory,SU Parakh,Brijesh Sharma,KL Rahul,2,0,2,,,,,,,,,,,,,,,,20.0,194.0,107
+Delhi Capitals,10,3,0.1,5.6,mandatory,SU Parakh,Brijesh Sharma,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,108
+Delhi Capitals,10,4,0.1,5.6,mandatory,KL Rahul,Brijesh Sharma,SU Parakh,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,109
+Delhi Capitals,10,5,0.1,5.6,mandatory,SU Parakh,Brijesh Sharma,KL Rahul,4,0,4,,,,,,,,,,,,,,,,20.0,194.0,113
+Delhi Capitals,10,6,0.1,5.6,mandatory,SU Parakh,Brijesh Sharma,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,113
+Delhi Capitals,11,1,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,SU Parakh,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,114
+Delhi Capitals,11,2,0.1,5.6,mandatory,SU Parakh,Yash Raj Punja,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,115
+Delhi Capitals,11,3,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,SU Parakh,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,116
+Delhi Capitals,11,4,0.1,5.6,mandatory,SU Parakh,Yash Raj Punja,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,117
+Delhi Capitals,11,5,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,SU Parakh,2,0,2,,,,,,,,,,,,,,,,20.0,194.0,119
+Delhi Capitals,11,6,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,SU Parakh,0,1,1,1.0,,,,,,,,,,,,,,,20.0,194.0,120
+Delhi Capitals,11,7,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,SU Parakh,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,121
+Delhi Capitals,12,1,0.1,5.6,mandatory,KL Rahul,JC Archer,SU Parakh,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,122
+Delhi Capitals,12,2,0.1,5.6,mandatory,SU Parakh,JC Archer,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,122
+Delhi Capitals,12,3,0.1,5.6,mandatory,SU Parakh,JC Archer,KL Rahul,0,0,0,,,,,,,,,SU Parakh,caught,,,,,Dhruv Jurel,20.0,194.0,122
+Delhi Capitals,12,4,0.1,5.6,mandatory,AR Patel,JC Archer,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,122
+Delhi Capitals,12,5,0.1,5.6,mandatory,AR Patel,JC Archer,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,123
+Delhi Capitals,12,6,0.1,5.6,mandatory,KL Rahul,JC Archer,AR Patel,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,123
+Delhi Capitals,13,1,0.1,5.6,mandatory,AR Patel,Yash Raj Punja,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,124
+Delhi Capitals,13,2,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,AR Patel,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,124
+Delhi Capitals,13,3,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,AR Patel,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,124
+Delhi Capitals,13,4,0.1,5.6,mandatory,KL Rahul,Yash Raj Punja,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,125
+Delhi Capitals,13,5,0.1,5.6,mandatory,AR Patel,Yash Raj Punja,KL Rahul,4,0,4,,,,,,,,,,,,,,,,20.0,194.0,129
+Delhi Capitals,13,6,0.1,5.6,mandatory,AR Patel,Yash Raj Punja,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,130
+Delhi Capitals,14,1,0.1,5.6,mandatory,AR Patel,MD Shanaka,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,131
+Delhi Capitals,14,2,0.1,5.6,mandatory,KL Rahul,MD Shanaka,AR Patel,2,0,2,,,,,,,,,,,,,,,,20.0,194.0,133
+Delhi Capitals,14,3,0.1,5.6,mandatory,KL Rahul,MD Shanaka,AR Patel,0,0,0,,,,,,,,,KL Rahul,bowled,,,,,,20.0,194.0,133
+Delhi Capitals,14,4,0.1,5.6,mandatory,T Stubbs,MD Shanaka,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,134
+Delhi Capitals,14,5,0.1,5.6,mandatory,AR Patel,MD Shanaka,T Stubbs,6,0,6,,,,,,,,,,,,,,,,20.0,194.0,140
+Delhi Capitals,14,6,0.1,5.6,mandatory,AR Patel,MD Shanaka,T Stubbs,0,2,2,,2.0,,,,,,,,,,,,,,20.0,194.0,142
+Delhi Capitals,15,1,0.1,5.6,mandatory,T Stubbs,AF Milne,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,143
+Delhi Capitals,15,2,0.1,5.6,mandatory,AR Patel,AF Milne,T Stubbs,3,0,3,,,,,,,,,,,,,,,,20.0,194.0,146
+Delhi Capitals,15,3,0.1,5.6,mandatory,T Stubbs,AF Milne,AR Patel,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,146
+Delhi Capitals,15,4,0.1,5.6,mandatory,T Stubbs,AF Milne,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,147
+Delhi Capitals,15,5,0.1,5.6,mandatory,AR Patel,AF Milne,T Stubbs,0,2,2,2.0,,,,,,,,,,,,,,,20.0,194.0,149
+Delhi Capitals,15,6,0.1,5.6,mandatory,T Stubbs,AF Milne,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,150
+Delhi Capitals,15,7,0.1,5.6,mandatory,AR Patel,AF Milne,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,151
+Delhi Capitals,16,1,0.1,5.6,mandatory,AR Patel,JC Archer,T Stubbs,0,1,1,1.0,,Rajasthan Royals,Amit Rana,AR Patel,struck down,wicket,,,,,,,,,20.0,194.0,152
+Delhi Capitals,16,2,0.1,5.6,mandatory,AR Patel,JC Archer,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,153
+Delhi Capitals,16,3,0.1,5.6,mandatory,T Stubbs,JC Archer,AR Patel,0,0,0,,,,,,,,,T Stubbs,caught,,,,,YBK Jaiswal,20.0,194.0,153
+Delhi Capitals,16,4,0.1,5.6,mandatory,DA Miller,JC Archer,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,154
+Delhi Capitals,16,5,0.1,5.6,mandatory,AR Patel,JC Archer,DA Miller,4,0,4,,,,,,,,,,,,,,,,20.0,194.0,158
+Delhi Capitals,16,6,0.1,5.6,mandatory,AR Patel,JC Archer,DA Miller,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,159
+Delhi Capitals,16,7,0.1,5.6,mandatory,DA Miller,JC Archer,AR Patel,0,0,0,,,,,,,,,,,,,,,,20.0,194.0,159
+Delhi Capitals,17,1,0.1,5.6,mandatory,AR Patel,D Ferreira,DA Miller,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,160
+Delhi Capitals,17,2,0.1,5.6,mandatory,DA Miller,D Ferreira,AR Patel,6,0,6,,,,,,,,,,,,,,,,20.0,194.0,166
+Delhi Capitals,17,3,0.1,5.6,mandatory,DA Miller,D Ferreira,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,167
+Delhi Capitals,17,4,0.1,5.6,mandatory,AR Patel,D Ferreira,DA Miller,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,168
+Delhi Capitals,17,5,0.1,5.6,mandatory,DA Miller,D Ferreira,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,169
+Delhi Capitals,17,6,0.1,5.6,mandatory,AR Patel,D Ferreira,DA Miller,6,0,6,,,,,,,,,,,,,,,,20.0,194.0,175
+Delhi Capitals,18,1,0.1,5.6,mandatory,DA Miller,Brijesh Sharma,AR Patel,0,0,0,,,,,,,,,DA Miller,caught,,,,,MD Shanaka,20.0,194.0,175
+Delhi Capitals,18,2,0.1,5.6,mandatory,Ashutosh Sharma,Brijesh Sharma,AR Patel,1,0,1,,,,,,,,,,,Ashutosh Sharma,Mukesh Kumar,Delhi Capitals,impact_player,,20.0,194.0,176
+Delhi Capitals,18,3,0.1,5.6,mandatory,AR Patel,Brijesh Sharma,Ashutosh Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,177
+Delhi Capitals,18,4,0.1,5.6,mandatory,Ashutosh Sharma,Brijesh Sharma,AR Patel,0,2,2,2.0,,,,,,,,,,,,,,,20.0,194.0,179
+Delhi Capitals,18,5,0.1,5.6,mandatory,AR Patel,Brijesh Sharma,Ashutosh Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,180
+Delhi Capitals,18,6,0.1,5.6,mandatory,Ashutosh Sharma,Brijesh Sharma,AR Patel,6,0,6,,,,,,,,,,,,,,,,20.0,194.0,186
+Delhi Capitals,18,7,0.1,5.6,mandatory,Ashutosh Sharma,Brijesh Sharma,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,194.0,187
+Delhi Capitals,19,1,0.1,5.6,mandatory,Ashutosh Sharma,AF Milne,AR Patel,4,0,4,,,,,,,,,,,,,,,,20.0,194.0,191
+Delhi Capitals,19,2,0.1,5.6,mandatory,Ashutosh Sharma,AF Milne,AR Patel,6,0,6,,,,,,,,,,,,,,,,20.0,194.0,197

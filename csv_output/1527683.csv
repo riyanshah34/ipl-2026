@@ -1,0 +1,243 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,legbyes,byes,review_by,review_umpire,review_batter,review_decision,review_type,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Sunrisers Hyderabad,0,1,0.1,5.6,mandatory,TM Head,Mohammed Shami,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,0
+Sunrisers Hyderabad,0,2,0.1,5.6,mandatory,TM Head,Mohammed Shami,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,0
+Sunrisers Hyderabad,0,3,0.1,5.6,mandatory,TM Head,Mohammed Shami,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,,,,0
+Sunrisers Hyderabad,0,4,0.1,5.6,mandatory,TM Head,Mohammed Shami,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,,,,1
+Sunrisers Hyderabad,0,5,0.1,5.6,mandatory,Abhishek Sharma,Mohammed Shami,TM Head,0,0,0,,,,,,,,,,,,,,,,,,1
+Sunrisers Hyderabad,0,6,0.1,5.6,mandatory,Abhishek Sharma,Mohammed Shami,TM Head,0,0,0,,,,,,,,,Abhishek Sharma,caught,,,,,M Siddharth,,,1
+Sunrisers Hyderabad,1,1,0.1,5.6,mandatory,TM Head,DS Rathi,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,,,,5
+Sunrisers Hyderabad,1,2,0.1,5.6,mandatory,TM Head,DS Rathi,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,6
+Sunrisers Hyderabad,1,3,0.1,5.6,mandatory,Ishan Kishan,DS Rathi,TM Head,0,0,0,,,,,,,,,,,,,,,,,,6
+Sunrisers Hyderabad,1,4,0.1,5.6,mandatory,Ishan Kishan,DS Rathi,TM Head,0,0,0,,,,,,,,,,,,,,,,,,6
+Sunrisers Hyderabad,1,5,0.1,5.6,mandatory,Ishan Kishan,DS Rathi,TM Head,1,0,1,,,,,,,,,,,,,,,,,,7
+Sunrisers Hyderabad,1,6,0.1,5.6,mandatory,TM Head,DS Rathi,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,8
+Sunrisers Hyderabad,2,1,0.1,5.6,mandatory,TM Head,Mohammed Shami,Ishan Kishan,0,0,0,,,,,,,,,TM Head,caught,,,,,AK Markram,,,8
+Sunrisers Hyderabad,2,2,0.1,5.6,mandatory,LS Livingstone,Mohammed Shami,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,8
+Sunrisers Hyderabad,2,3,0.1,5.6,mandatory,LS Livingstone,Mohammed Shami,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,,,,9
+Sunrisers Hyderabad,2,4,0.1,5.6,mandatory,LS Livingstone,Mohammed Shami,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,9
+Sunrisers Hyderabad,2,5,0.1,5.6,mandatory,LS Livingstone,Mohammed Shami,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,9
+Sunrisers Hyderabad,2,6,0.1,5.6,mandatory,LS Livingstone,Mohammed Shami,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,9
+Sunrisers Hyderabad,2,7,0.1,5.6,mandatory,LS Livingstone,Mohammed Shami,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,10
+Sunrisers Hyderabad,3,1,0.1,5.6,mandatory,LS Livingstone,Prince Yadav,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,,,,10
+Sunrisers Hyderabad,3,2,0.1,5.6,mandatory,LS Livingstone,Prince Yadav,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,,,,11
+Sunrisers Hyderabad,3,3,0.1,5.6,mandatory,Ishan Kishan,Prince Yadav,LS Livingstone,0,0,0,,,,,,,,,Ishan Kishan,bowled,,,,,,,,11
+Sunrisers Hyderabad,3,4,0.1,5.6,mandatory,H Klaasen,Prince Yadav,LS Livingstone,0,0,0,,,,,,,,,,,,,,,,,,11
+Sunrisers Hyderabad,3,5,0.1,5.6,mandatory,H Klaasen,Prince Yadav,LS Livingstone,0,0,0,,,,,,,,,,,,,,,,,,11
+Sunrisers Hyderabad,3,6,0.1,5.6,mandatory,H Klaasen,Prince Yadav,LS Livingstone,0,0,0,,,,,,,,,,,,,,,,,,11
+Sunrisers Hyderabad,4,1,0.1,5.6,mandatory,LS Livingstone,Mohammed Shami,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,11
+Sunrisers Hyderabad,4,2,0.1,5.6,mandatory,LS Livingstone,Mohammed Shami,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,11
+Sunrisers Hyderabad,4,3,0.1,5.6,mandatory,LS Livingstone,Mohammed Shami,H Klaasen,2,0,2,,,,,,,,,,,,,,,,,,13
+Sunrisers Hyderabad,4,4,0.1,5.6,mandatory,LS Livingstone,Mohammed Shami,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,13
+Sunrisers Hyderabad,4,5,0.1,5.6,mandatory,LS Livingstone,Mohammed Shami,H Klaasen,2,0,2,,,,,,,,,,,,,,,,,,15
+Sunrisers Hyderabad,4,6,0.1,5.6,mandatory,LS Livingstone,Mohammed Shami,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,15
+Sunrisers Hyderabad,5,1,0.1,5.6,mandatory,H Klaasen,M Siddharth,LS Livingstone,0,0,0,,,,,,,,,,,,,,,,,,15
+Sunrisers Hyderabad,5,2,0.1,5.6,mandatory,H Klaasen,M Siddharth,LS Livingstone,0,0,0,,,,,,,,,,,,,,,,,,15
+Sunrisers Hyderabad,5,3,0.1,5.6,mandatory,H Klaasen,M Siddharth,LS Livingstone,1,0,1,,,,,,,,,,,,,,,,,,16
+Sunrisers Hyderabad,5,4,0.1,5.6,mandatory,LS Livingstone,M Siddharth,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,16
+Sunrisers Hyderabad,5,5,0.1,5.6,mandatory,LS Livingstone,M Siddharth,H Klaasen,6,0,6,,,,,,,,,,,,,,,,,,22
+Sunrisers Hyderabad,5,6,0.1,5.6,mandatory,LS Livingstone,M Siddharth,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,22
+Sunrisers Hyderabad,6,1,0.1,5.6,mandatory,H Klaasen,Avesh Khan,LS Livingstone,0,0,0,,,,,,,,,,,,,,,,,,22
+Sunrisers Hyderabad,6,2,0.1,5.6,mandatory,H Klaasen,Avesh Khan,LS Livingstone,1,0,1,,,,,,,,,,,,,,,,,,23
+Sunrisers Hyderabad,6,3,0.1,5.6,mandatory,LS Livingstone,Avesh Khan,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,24
+Sunrisers Hyderabad,6,4,0.1,5.6,mandatory,H Klaasen,Avesh Khan,LS Livingstone,1,0,1,,,,,,,,,,,,,,,,,,25
+Sunrisers Hyderabad,6,5,0.1,5.6,mandatory,LS Livingstone,Avesh Khan,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,25
+Sunrisers Hyderabad,6,6,0.1,5.6,mandatory,LS Livingstone,Avesh Khan,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,26
+Sunrisers Hyderabad,7,1,0.1,5.6,mandatory,LS Livingstone,DS Rathi,H Klaasen,0,0,0,,,,,,,,,LS Livingstone,caught,,,,,RR Pant,,,26
+Sunrisers Hyderabad,7,2,0.1,5.6,mandatory,Nithish Kumar Reddy,DS Rathi,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,26
+Sunrisers Hyderabad,7,3,0.1,5.6,mandatory,Nithish Kumar Reddy,DS Rathi,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,27
+Sunrisers Hyderabad,7,4,0.1,5.6,mandatory,H Klaasen,DS Rathi,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,28
+Sunrisers Hyderabad,7,5,0.1,5.6,mandatory,Nithish Kumar Reddy,DS Rathi,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,28
+Sunrisers Hyderabad,7,6,0.1,5.6,mandatory,Nithish Kumar Reddy,DS Rathi,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,29
+Sunrisers Hyderabad,8,1,0.1,5.6,mandatory,Nithish Kumar Reddy,Mohammed Shami,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,29
+Sunrisers Hyderabad,8,2,0.1,5.6,mandatory,Nithish Kumar Reddy,Mohammed Shami,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,29
+Sunrisers Hyderabad,8,3,0.1,5.6,mandatory,Nithish Kumar Reddy,Mohammed Shami,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,29
+Sunrisers Hyderabad,8,4,0.1,5.6,mandatory,Nithish Kumar Reddy,Mohammed Shami,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,30
+Sunrisers Hyderabad,8,5,0.1,5.6,mandatory,H Klaasen,Mohammed Shami,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,31
+Sunrisers Hyderabad,8,6,0.1,5.6,mandatory,Nithish Kumar Reddy,Mohammed Shami,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,31
+Sunrisers Hyderabad,9,1,0.1,5.6,mandatory,H Klaasen,M Siddharth,Nithish Kumar Reddy,3,0,3,,,,,,,,,,,,,,,,,,34
+Sunrisers Hyderabad,9,2,0.1,5.6,mandatory,Nithish Kumar Reddy,M Siddharth,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,34
+Sunrisers Hyderabad,9,3,0.1,5.6,mandatory,Nithish Kumar Reddy,M Siddharth,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,34
+Sunrisers Hyderabad,9,4,0.1,5.6,mandatory,Nithish Kumar Reddy,M Siddharth,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,34
+Sunrisers Hyderabad,9,5,0.1,5.6,mandatory,Nithish Kumar Reddy,M Siddharth,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,35
+Sunrisers Hyderabad,9,6,0.1,5.6,mandatory,H Klaasen,M Siddharth,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,,,,35
+Sunrisers Hyderabad,10,1,0.1,5.6,mandatory,Nithish Kumar Reddy,Prince Yadav,H Klaasen,6,0,6,,,,,,,,,,,,,,,,,,41
+Sunrisers Hyderabad,10,2,0.1,5.6,mandatory,Nithish Kumar Reddy,Prince Yadav,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,42
+Sunrisers Hyderabad,10,3,0.1,5.6,mandatory,H Klaasen,Prince Yadav,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,43
+Sunrisers Hyderabad,10,4,0.1,5.6,mandatory,Nithish Kumar Reddy,Prince Yadav,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,44
+Sunrisers Hyderabad,10,5,0.1,5.6,mandatory,H Klaasen,Prince Yadav,Nithish Kumar Reddy,6,0,6,,,,,,,,,,,,,,,,,,50
+Sunrisers Hyderabad,10,6,0.1,5.6,mandatory,H Klaasen,Prince Yadav,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,51
+Sunrisers Hyderabad,11,1,0.1,5.6,mandatory,H Klaasen,DS Rathi,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,52
+Sunrisers Hyderabad,11,2,0.1,5.6,mandatory,Nithish Kumar Reddy,DS Rathi,H Klaasen,4,0,4,,,,,,,,,,,,,,,,,,56
+Sunrisers Hyderabad,11,3,0.1,5.6,mandatory,Nithish Kumar Reddy,DS Rathi,H Klaasen,4,0,4,,,,,,,,,,,,,,,,,,60
+Sunrisers Hyderabad,11,4,0.1,5.6,mandatory,Nithish Kumar Reddy,DS Rathi,H Klaasen,2,0,2,,,,,,,,,,,,,,,,,,62
+Sunrisers Hyderabad,11,5,0.1,5.6,mandatory,Nithish Kumar Reddy,DS Rathi,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,63
+Sunrisers Hyderabad,11,6,0.1,5.6,mandatory,H Klaasen,DS Rathi,Nithish Kumar Reddy,2,0,2,,,,,,,,,,,,,,,,,,65
+Sunrisers Hyderabad,12,1,0.1,5.6,mandatory,Nithish Kumar Reddy,M Siddharth,H Klaasen,4,0,4,,,,,,,,,,,A Badoni,Mohammed Shami,Lucknow Super Giants,impact_player,,,,69
+Sunrisers Hyderabad,12,2,0.1,5.6,mandatory,Nithish Kumar Reddy,M Siddharth,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,70
+Sunrisers Hyderabad,12,3,0.1,5.6,mandatory,H Klaasen,M Siddharth,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,71
+Sunrisers Hyderabad,12,4,0.1,5.6,mandatory,Nithish Kumar Reddy,M Siddharth,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,72
+Sunrisers Hyderabad,12,5,0.1,5.6,mandatory,H Klaasen,M Siddharth,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,,,,72
+Sunrisers Hyderabad,12,6,0.1,5.6,mandatory,H Klaasen,M Siddharth,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,73
+Sunrisers Hyderabad,13,1,0.1,5.6,mandatory,H Klaasen,Avesh Khan,Nithish Kumar Reddy,4,0,4,,,,,,,,,,,,,,,,,,77
+Sunrisers Hyderabad,13,2,0.1,5.6,mandatory,H Klaasen,Avesh Khan,Nithish Kumar Reddy,4,0,4,,,,,,,,,,,,,,,,,,81
+Sunrisers Hyderabad,13,3,0.1,5.6,mandatory,H Klaasen,Avesh Khan,Nithish Kumar Reddy,2,0,2,,,,,,,,,,,,,,,,,,83
+Sunrisers Hyderabad,13,4,0.1,5.6,mandatory,H Klaasen,Avesh Khan,Nithish Kumar Reddy,4,0,4,,,,,,,,,,,,,,,,,,87
+Sunrisers Hyderabad,13,5,0.1,5.6,mandatory,H Klaasen,Avesh Khan,Nithish Kumar Reddy,4,0,4,,,,,,,,,,,,,,,,,,91
+Sunrisers Hyderabad,13,6,0.1,5.6,mandatory,H Klaasen,Avesh Khan,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,92
+Sunrisers Hyderabad,14,1,0.1,5.6,mandatory,H Klaasen,DS Rathi,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,93
+Sunrisers Hyderabad,14,2,0.1,5.6,mandatory,Nithish Kumar Reddy,DS Rathi,H Klaasen,6,0,6,,,,,,,,,,,,,,,,,,99
+Sunrisers Hyderabad,14,3,0.1,5.6,mandatory,Nithish Kumar Reddy,DS Rathi,H Klaasen,6,0,6,,,,,,,,,,,,,,,,,,105
+Sunrisers Hyderabad,14,4,0.1,5.6,mandatory,Nithish Kumar Reddy,DS Rathi,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,106
+Sunrisers Hyderabad,14,5,0.1,5.6,mandatory,H Klaasen,DS Rathi,Nithish Kumar Reddy,0,1,1,1.0,,,,,,,,,,,,,,,,,107
+Sunrisers Hyderabad,14,6,0.1,5.6,mandatory,H Klaasen,DS Rathi,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,108
+Sunrisers Hyderabad,14,7,0.1,5.6,mandatory,Nithish Kumar Reddy,DS Rathi,H Klaasen,6,0,6,,,,,,,,,,,,,,,,,,114
+Sunrisers Hyderabad,15,1,0.1,5.6,mandatory,H Klaasen,Prince Yadav,Nithish Kumar Reddy,6,0,6,,,,,,,,,,,,,,,,,,120
+Sunrisers Hyderabad,15,2,0.1,5.6,mandatory,H Klaasen,Prince Yadav,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,121
+Sunrisers Hyderabad,15,3,0.1,5.6,mandatory,Nithish Kumar Reddy,Prince Yadav,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,121
+Sunrisers Hyderabad,15,4,0.1,5.6,mandatory,Nithish Kumar Reddy,Prince Yadav,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,122
+Sunrisers Hyderabad,15,5,0.1,5.6,mandatory,H Klaasen,Prince Yadav,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,,,,122
+Sunrisers Hyderabad,15,6,0.1,5.6,mandatory,H Klaasen,Prince Yadav,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,123
+Sunrisers Hyderabad,16,1,0.1,5.6,mandatory,H Klaasen,Avesh Khan,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,124
+Sunrisers Hyderabad,16,2,0.1,5.6,mandatory,Nithish Kumar Reddy,Avesh Khan,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,125
+Sunrisers Hyderabad,16,3,0.1,5.6,mandatory,H Klaasen,Avesh Khan,Nithish Kumar Reddy,2,0,2,,,,,,,,,,,,,,,,,,127
+Sunrisers Hyderabad,16,4,0.1,5.6,mandatory,H Klaasen,Avesh Khan,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,128
+Sunrisers Hyderabad,16,5,0.1,5.6,mandatory,Nithish Kumar Reddy,Avesh Khan,H Klaasen,0,0,0,,,,,,,,,,,,,,,,,,128
+Sunrisers Hyderabad,16,6,0.1,5.6,mandatory,Nithish Kumar Reddy,Avesh Khan,H Klaasen,6,0,6,,,,,,,,,,,,,,,,,,134
+Sunrisers Hyderabad,17,1,0.1,5.6,mandatory,H Klaasen,M Siddharth,Nithish Kumar Reddy,4,0,4,,,,,,,,,,,,,,,,,,138
+Sunrisers Hyderabad,17,2,0.1,5.6,mandatory,H Klaasen,M Siddharth,Nithish Kumar Reddy,2,0,2,,,,,,,,,,,,,,,,,,140
+Sunrisers Hyderabad,17,3,0.1,5.6,mandatory,H Klaasen,M Siddharth,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,,,,141
+Sunrisers Hyderabad,17,4,0.1,5.6,mandatory,Nithish Kumar Reddy,M Siddharth,H Klaasen,0,1,1,1.0,,,,,,,,,,,,,,,,,142
+Sunrisers Hyderabad,17,5,0.1,5.6,mandatory,Nithish Kumar Reddy,M Siddharth,H Klaasen,0,0,0,,,,,,,,,Nithish Kumar Reddy,caught,,,,,Prince Yadav,,,142
+Sunrisers Hyderabad,17,6,0.1,5.6,mandatory,Aniket Verma,M Siddharth,H Klaasen,1,0,1,,,,,,,,,,,,,,,,,,143
+Sunrisers Hyderabad,17,7,0.1,5.6,mandatory,H Klaasen,M Siddharth,Aniket Verma,1,0,1,,,,,,,,,,,,,,,,,,144
+Sunrisers Hyderabad,18,1,0.1,5.6,mandatory,H Klaasen,Avesh Khan,Aniket Verma,0,0,0,,,,,,,,,H Klaasen,caught,,,,,RR Pant,,,144
+Sunrisers Hyderabad,18,2,0.1,5.6,mandatory,Harsh Dubey,Avesh Khan,Aniket Verma,0,0,0,,,,,,,,,Harsh Dubey,bowled,,,,,,,,144
+Sunrisers Hyderabad,18,3,0.1,5.6,mandatory,Shivang Kumar,Avesh Khan,Aniket Verma,0,0,0,,,,,,,,,,,,,,,,,,144
+Sunrisers Hyderabad,18,4,0.1,5.6,mandatory,Shivang Kumar,Avesh Khan,Aniket Verma,1,0,1,,,,,,,,,,,,,,,,,,145
+Sunrisers Hyderabad,18,5,0.1,5.6,mandatory,Aniket Verma,Avesh Khan,Shivang Kumar,0,0,0,,,,,,,,,,,,,,,,,,145
+Sunrisers Hyderabad,18,6,0.1,5.6,mandatory,Aniket Verma,Avesh Khan,Shivang Kumar,1,0,1,,,,,,,,,,,,,,,,,,146
+Sunrisers Hyderabad,19,1,0.1,5.6,mandatory,Aniket Verma,Prince Yadav,Shivang Kumar,0,1,1,,1.0,,,,,,,,,,,,,,,,147
+Sunrisers Hyderabad,19,2,0.1,5.6,mandatory,Shivang Kumar,Prince Yadav,Aniket Verma,4,0,4,,,,,,,,,,,,,,,,,,151
+Sunrisers Hyderabad,19,3,0.1,5.6,mandatory,Shivang Kumar,Prince Yadav,Aniket Verma,0,0,0,,,,,,,,,Shivang Kumar,bowled,,,,,,,,151
+Sunrisers Hyderabad,19,4,0.1,5.6,mandatory,HV Patel,Prince Yadav,Aniket Verma,4,0,4,,,,,,,,,,,,,,,,,,155
+Sunrisers Hyderabad,19,5,0.1,5.6,mandatory,HV Patel,Prince Yadav,Aniket Verma,0,1,1,,,1.0,,,,,,,,,,,,,,,156
+Sunrisers Hyderabad,19,6,0.1,5.6,mandatory,Aniket Verma,Prince Yadav,HV Patel,0,0,0,,,,,,,,,HV Patel,run out,,,,,RR Pant,,,156
+Lucknow Super Giants,0,1,0.1,5.6,mandatory,AK Markram,Harsh Dubey,MR Marsh,1,0,1,,,,,,,,,,,E Malinga,TM Head,Sunrisers Hyderabad,impact_player,,20.0,157.0,1
+Lucknow Super Giants,0,2,0.1,5.6,mandatory,MR Marsh,Harsh Dubey,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,2
+Lucknow Super Giants,0,3,0.1,5.6,mandatory,AK Markram,Harsh Dubey,MR Marsh,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,2
+Lucknow Super Giants,0,4,0.1,5.6,mandatory,AK Markram,Harsh Dubey,MR Marsh,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,2
+Lucknow Super Giants,0,5,0.1,5.6,mandatory,AK Markram,Harsh Dubey,MR Marsh,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,2
+Lucknow Super Giants,0,6,0.1,5.6,mandatory,AK Markram,Harsh Dubey,MR Marsh,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,2
+Lucknow Super Giants,1,1,0.1,5.6,mandatory,MR Marsh,Nithish Kumar Reddy,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,3
+Lucknow Super Giants,1,2,0.1,5.6,mandatory,AK Markram,Nithish Kumar Reddy,MR Marsh,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,3
+Lucknow Super Giants,1,3,0.1,5.6,mandatory,AK Markram,Nithish Kumar Reddy,MR Marsh,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,7
+Lucknow Super Giants,1,4,0.1,5.6,mandatory,AK Markram,Nithish Kumar Reddy,MR Marsh,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,11
+Lucknow Super Giants,1,5,0.1,5.6,mandatory,AK Markram,Nithish Kumar Reddy,MR Marsh,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,12
+Lucknow Super Giants,1,6,0.1,5.6,mandatory,MR Marsh,Nithish Kumar Reddy,AK Markram,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,16
+Lucknow Super Giants,2,1,0.1,5.6,mandatory,AK Markram,Harsh Dubey,MR Marsh,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,17
+Lucknow Super Giants,2,2,0.1,5.6,mandatory,MR Marsh,Harsh Dubey,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,18
+Lucknow Super Giants,2,3,0.1,5.6,mandatory,AK Markram,Harsh Dubey,MR Marsh,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,22
+Lucknow Super Giants,2,4,0.1,5.6,mandatory,AK Markram,Harsh Dubey,MR Marsh,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,23
+Lucknow Super Giants,2,5,0.1,5.6,mandatory,MR Marsh,Harsh Dubey,AK Markram,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,23
+Lucknow Super Giants,2,6,0.1,5.6,mandatory,MR Marsh,Harsh Dubey,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,24
+Lucknow Super Giants,3,1,0.1,5.6,mandatory,MR Marsh,JD Unadkat,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,25
+Lucknow Super Giants,3,2,0.1,5.6,mandatory,AK Markram,JD Unadkat,MR Marsh,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,25
+Lucknow Super Giants,3,3,0.1,5.6,mandatory,AK Markram,JD Unadkat,MR Marsh,6,0,6,,,,,,,,,,,,,,,,20.0,157.0,31
+Lucknow Super Giants,3,4,0.1,5.6,mandatory,AK Markram,JD Unadkat,MR Marsh,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,31
+Lucknow Super Giants,3,5,0.1,5.6,mandatory,AK Markram,JD Unadkat,MR Marsh,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,32
+Lucknow Super Giants,3,6,0.1,5.6,mandatory,MR Marsh,JD Unadkat,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,33
+Lucknow Super Giants,4,1,0.1,5.6,mandatory,MR Marsh,E Malinga,AK Markram,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,33
+Lucknow Super Giants,4,2,0.1,5.6,mandatory,MR Marsh,E Malinga,AK Markram,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,33
+Lucknow Super Giants,4,3,0.1,5.6,mandatory,MR Marsh,E Malinga,AK Markram,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,37
+Lucknow Super Giants,4,4,0.1,5.6,mandatory,MR Marsh,E Malinga,AK Markram,0,0,0,,,,,,,,,MR Marsh,caught,,,,,Nithish Kumar Reddy,20.0,157.0,37
+Lucknow Super Giants,4,5,0.1,5.6,mandatory,RR Pant,E Malinga,AK Markram,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,37
+Lucknow Super Giants,4,6,0.1,5.6,mandatory,RR Pant,E Malinga,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,38
+Lucknow Super Giants,5,1,0.1,5.6,mandatory,RR Pant,JD Unadkat,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,39
+Lucknow Super Giants,5,2,0.1,5.6,mandatory,AK Markram,JD Unadkat,RR Pant,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,43
+Lucknow Super Giants,5,3,0.1,5.6,mandatory,AK Markram,JD Unadkat,RR Pant,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,43
+Lucknow Super Giants,5,4,0.1,5.6,mandatory,AK Markram,JD Unadkat,RR Pant,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,47
+Lucknow Super Giants,5,5,0.1,5.6,mandatory,AK Markram,JD Unadkat,RR Pant,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,47
+Lucknow Super Giants,5,6,0.1,5.6,mandatory,AK Markram,JD Unadkat,RR Pant,6,0,6,,,,,,,,,,,,,,,,20.0,157.0,53
+Lucknow Super Giants,6,1,0.1,5.6,mandatory,RR Pant,HV Patel,AK Markram,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,53
+Lucknow Super Giants,6,2,0.1,5.6,mandatory,RR Pant,HV Patel,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,54
+Lucknow Super Giants,6,3,0.1,5.6,mandatory,AK Markram,HV Patel,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,55
+Lucknow Super Giants,6,4,0.1,5.6,mandatory,RR Pant,HV Patel,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,56
+Lucknow Super Giants,6,5,0.1,5.6,mandatory,AK Markram,HV Patel,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,57
+Lucknow Super Giants,6,6,0.1,5.6,mandatory,RR Pant,HV Patel,AK Markram,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,57
+Lucknow Super Giants,7,1,0.1,5.6,mandatory,AK Markram,Shivang Kumar,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,58
+Lucknow Super Giants,7,2,0.1,5.6,mandatory,RR Pant,Shivang Kumar,AK Markram,2,0,2,,,,,,,,,,,,,,,,20.0,157.0,60
+Lucknow Super Giants,7,3,0.1,5.6,mandatory,RR Pant,Shivang Kumar,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,61
+Lucknow Super Giants,7,4,0.1,5.6,mandatory,AK Markram,Shivang Kumar,RR Pant,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,65
+Lucknow Super Giants,7,5,0.1,5.6,mandatory,AK Markram,Shivang Kumar,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,66
+Lucknow Super Giants,7,6,0.1,5.6,mandatory,RR Pant,Shivang Kumar,AK Markram,0,1,1,,,1.0,,,,,,,,,,,,,20.0,157.0,67
+Lucknow Super Giants,8,1,0.1,5.6,mandatory,RR Pant,E Malinga,AK Markram,2,0,2,,,,,,,,,,,,,,,,20.0,157.0,69
+Lucknow Super Giants,8,2,0.1,5.6,mandatory,RR Pant,E Malinga,AK Markram,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,73
+Lucknow Super Giants,8,3,0.1,5.6,mandatory,RR Pant,E Malinga,AK Markram,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,73
+Lucknow Super Giants,8,4,0.1,5.6,mandatory,RR Pant,E Malinga,AK Markram,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,73
+Lucknow Super Giants,8,5,0.1,5.6,mandatory,RR Pant,E Malinga,AK Markram,2,0,2,,,,,,,,,,,,,,,,20.0,157.0,75
+Lucknow Super Giants,8,6,0.1,5.6,mandatory,RR Pant,E Malinga,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,76
+Lucknow Super Giants,9,1,0.1,5.6,mandatory,RR Pant,Shivang Kumar,AK Markram,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,77
+Lucknow Super Giants,9,2,0.1,5.6,mandatory,AK Markram,Shivang Kumar,RR Pant,0,0,0,,,,,,,,,AK Markram,caught,,,,,LS Livingstone,20.0,157.0,77
+Lucknow Super Giants,9,3,0.1,5.6,mandatory,A Badoni,Shivang Kumar,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,78
+Lucknow Super Giants,9,4,0.1,5.6,mandatory,RR Pant,Shivang Kumar,A Badoni,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,79
+Lucknow Super Giants,9,5,0.1,5.6,mandatory,A Badoni,Shivang Kumar,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,80
+Lucknow Super Giants,9,6,0.1,5.6,mandatory,RR Pant,Shivang Kumar,A Badoni,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,81
+Lucknow Super Giants,10,1,0.1,5.6,mandatory,RR Pant,HV Patel,A Badoni,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,82
+Lucknow Super Giants,10,2,0.1,5.6,mandatory,A Badoni,HV Patel,RR Pant,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,86
+Lucknow Super Giants,10,3,0.1,5.6,mandatory,A Badoni,HV Patel,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,87
+Lucknow Super Giants,10,4,0.1,5.6,mandatory,RR Pant,HV Patel,A Badoni,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,87
+Lucknow Super Giants,10,5,0.1,5.6,mandatory,RR Pant,HV Patel,A Badoni,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,88
+Lucknow Super Giants,10,6,0.1,5.6,mandatory,A Badoni,HV Patel,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,89
+Lucknow Super Giants,11,1,0.1,5.6,mandatory,A Badoni,Shivang Kumar,RR Pant,2,0,2,,,,,,,,,,,,,,,,20.0,157.0,91
+Lucknow Super Giants,11,2,0.1,5.6,mandatory,A Badoni,Shivang Kumar,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,92
+Lucknow Super Giants,11,3,0.1,5.6,mandatory,RR Pant,Shivang Kumar,A Badoni,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,93
+Lucknow Super Giants,11,4,0.1,5.6,mandatory,A Badoni,Shivang Kumar,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,94
+Lucknow Super Giants,11,5,0.1,5.6,mandatory,RR Pant,Shivang Kumar,A Badoni,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,98
+Lucknow Super Giants,11,6,0.1,5.6,mandatory,RR Pant,Shivang Kumar,A Badoni,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,102
+Lucknow Super Giants,12,1,0.1,5.6,mandatory,A Badoni,Harsh Dubey,RR Pant,0,0,0,,,,,,,,,A Badoni,stumped,,,,,Ishan Kishan,20.0,157.0,102
+Lucknow Super Giants,12,2,0.1,5.6,mandatory,N Pooran,Harsh Dubey,RR Pant,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,102
+Lucknow Super Giants,12,3,0.1,5.6,mandatory,N Pooran,Harsh Dubey,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,103
+Lucknow Super Giants,12,4,0.1,5.6,mandatory,RR Pant,Harsh Dubey,N Pooran,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,104
+Lucknow Super Giants,12,5,0.1,5.6,mandatory,N Pooran,Harsh Dubey,RR Pant,0,1,1,,1.0,,,,,,,,,,,,,,20.0,157.0,105
+Lucknow Super Giants,12,6,0.1,5.6,mandatory,RR Pant,Harsh Dubey,N Pooran,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,105
+Lucknow Super Giants,13,1,0.1,5.6,mandatory,N Pooran,Shivang Kumar,RR Pant,0,0,0,,,,,,,,,N Pooran,run out,,,,,Ishan Kishan,20.0,157.0,105
+Lucknow Super Giants,13,2,0.1,5.6,mandatory,Abdul Samad,Shivang Kumar,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,106
+Lucknow Super Giants,13,3,0.1,5.6,mandatory,RR Pant,Shivang Kumar,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,106
+Lucknow Super Giants,13,4,0.1,5.6,mandatory,RR Pant,Shivang Kumar,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,106
+Lucknow Super Giants,13,5,0.1,5.6,mandatory,RR Pant,Shivang Kumar,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,107
+Lucknow Super Giants,13,6,0.1,5.6,mandatory,Abdul Samad,Shivang Kumar,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,108
+Lucknow Super Giants,14,1,0.1,5.6,mandatory,Abdul Samad,E Malinga,RR Pant,2,0,2,,,,,,,,,,,,,,,,20.0,157.0,110
+Lucknow Super Giants,14,2,0.1,5.6,mandatory,Abdul Samad,E Malinga,RR Pant,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,110
+Lucknow Super Giants,14,3,0.1,5.6,mandatory,Abdul Samad,E Malinga,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,111
+Lucknow Super Giants,14,4,0.1,5.6,mandatory,RR Pant,E Malinga,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,112
+Lucknow Super Giants,14,5,0.1,5.6,mandatory,Abdul Samad,E Malinga,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,113
+Lucknow Super Giants,14,6,0.1,5.6,mandatory,RR Pant,E Malinga,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,114
+Lucknow Super Giants,15,1,0.1,5.6,mandatory,RR Pant,JD Unadkat,Abdul Samad,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,118
+Lucknow Super Giants,15,2,0.1,5.6,mandatory,RR Pant,JD Unadkat,Abdul Samad,2,0,2,,,,,,,,,,,,,,,,20.0,157.0,120
+Lucknow Super Giants,15,3,0.1,5.6,mandatory,RR Pant,JD Unadkat,Abdul Samad,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,124
+Lucknow Super Giants,15,4,0.1,5.6,mandatory,RR Pant,JD Unadkat,Abdul Samad,2,0,2,,,,,,,,,,,,,,,,20.0,157.0,126
+Lucknow Super Giants,15,5,0.1,5.6,mandatory,RR Pant,JD Unadkat,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,127
+Lucknow Super Giants,15,6,0.1,5.6,mandatory,Abdul Samad,JD Unadkat,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,128
+Lucknow Super Giants,16,1,0.1,5.6,mandatory,Abdul Samad,E Malinga,RR Pant,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,132
+Lucknow Super Giants,16,2,0.1,5.6,mandatory,Abdul Samad,E Malinga,RR Pant,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,132
+Lucknow Super Giants,16,3,0.1,5.6,mandatory,Abdul Samad,E Malinga,RR Pant,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,136
+Lucknow Super Giants,16,4,0.1,5.6,mandatory,Abdul Samad,E Malinga,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,137
+Lucknow Super Giants,16,5,0.1,5.6,mandatory,RR Pant,E Malinga,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,137
+Lucknow Super Giants,16,6,0.1,5.6,mandatory,RR Pant,E Malinga,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,138
+Lucknow Super Giants,17,1,0.1,5.6,mandatory,RR Pant,Harsh Dubey,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,138
+Lucknow Super Giants,17,2,0.1,5.6,mandatory,RR Pant,Harsh Dubey,Abdul Samad,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,138
+Lucknow Super Giants,17,3,0.1,5.6,mandatory,RR Pant,Harsh Dubey,Abdul Samad,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,139
+Lucknow Super Giants,17,4,0.1,5.6,mandatory,Abdul Samad,Harsh Dubey,RR Pant,0,0,0,,,,,,,,,Abdul Samad,caught,,,,,LS Livingstone,20.0,157.0,139
+Lucknow Super Giants,17,5,0.1,5.6,mandatory,MD Choudhary,Harsh Dubey,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,140
+Lucknow Super Giants,17,6,0.1,5.6,mandatory,RR Pant,Harsh Dubey,MD Choudhary,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,144
+Lucknow Super Giants,18,1,0.1,5.6,mandatory,MD Choudhary,HV Patel,RR Pant,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,145
+Lucknow Super Giants,18,2,0.1,5.6,mandatory,RR Pant,HV Patel,MD Choudhary,2,0,2,,,,,,,,,,,,,,,,20.0,157.0,147
+Lucknow Super Giants,18,3,0.1,5.6,mandatory,RR Pant,HV Patel,MD Choudhary,1,0,1,,,,,,,,,,,,,,,,20.0,157.0,148
+Lucknow Super Giants,18,4,0.1,5.6,mandatory,MD Choudhary,HV Patel,RR Pant,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,148
+Lucknow Super Giants,18,5,0.1,5.6,mandatory,MD Choudhary,HV Patel,RR Pant,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,148
+Lucknow Super Giants,18,6,0.1,5.6,mandatory,MD Choudhary,HV Patel,RR Pant,0,0,0,,,,Lucknow Super Giants,MV Saidharshan Kumar,MD Choudhary,upheld,wicket,,,,,,,,20.0,157.0,148
+Lucknow Super Giants,19,1,0.1,5.6,mandatory,RR Pant,JD Unadkat,MD Choudhary,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,152
+Lucknow Super Giants,19,2,0.1,5.6,mandatory,RR Pant,JD Unadkat,MD Choudhary,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,156
+Lucknow Super Giants,19,3,0.1,5.6,mandatory,RR Pant,JD Unadkat,MD Choudhary,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,156
+Lucknow Super Giants,19,4,0.1,5.6,mandatory,RR Pant,JD Unadkat,MD Choudhary,0,0,0,,,,,,,,,,,,,,,,20.0,157.0,156
+Lucknow Super Giants,19,5,0.1,5.6,mandatory,RR Pant,JD Unadkat,MD Choudhary,4,0,4,,,,,,,,,,,,,,,,20.0,157.0,160

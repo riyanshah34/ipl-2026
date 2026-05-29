@@ -1,0 +1,253 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,legbyes,noballs,review_by,review_umpire,review_batter,review_decision,review_type,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Royal Challengers Bengaluru,0,1,0.1,5.6,mandatory,PD Salt,Auqib Nabi,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,1
+Royal Challengers Bengaluru,0,2,0.1,5.6,mandatory,V Kohli,Auqib Nabi,PD Salt,0,1,1,1.0,,,,,,,,,,,,,,,,,2
+Royal Challengers Bengaluru,0,3,0.1,5.6,mandatory,V Kohli,Auqib Nabi,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,3
+Royal Challengers Bengaluru,0,4,0.1,5.6,mandatory,PD Salt,Auqib Nabi,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,7
+Royal Challengers Bengaluru,0,5,0.1,5.6,mandatory,PD Salt,Auqib Nabi,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,8
+Royal Challengers Bengaluru,0,6,0.1,5.6,mandatory,V Kohli,Auqib Nabi,PD Salt,4,0,4,,,,,,,,,,,,,,,,,,12
+Royal Challengers Bengaluru,0,7,0.1,5.6,mandatory,V Kohli,Auqib Nabi,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,13
+Royal Challengers Bengaluru,1,1,0.1,5.6,mandatory,V Kohli,Mukesh Kumar,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,14
+Royal Challengers Bengaluru,1,2,0.1,5.6,mandatory,PD Salt,Mukesh Kumar,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,14
+Royal Challengers Bengaluru,1,3,0.1,5.6,mandatory,PD Salt,Mukesh Kumar,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,15
+Royal Challengers Bengaluru,1,4,0.1,5.6,mandatory,V Kohli,Mukesh Kumar,PD Salt,4,0,4,,,,,,,,,,,,,,,,,,19
+Royal Challengers Bengaluru,1,5,0.1,5.6,mandatory,V Kohli,Mukesh Kumar,PD Salt,0,1,1,1.0,,,,,,,,,,,,,,,,,20
+Royal Challengers Bengaluru,1,6,0.1,5.6,mandatory,V Kohli,Mukesh Kumar,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,21
+Royal Challengers Bengaluru,1,7,0.1,5.6,mandatory,PD Salt,Mukesh Kumar,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,21
+Royal Challengers Bengaluru,2,1,0.1,5.6,mandatory,V Kohli,Auqib Nabi,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,22
+Royal Challengers Bengaluru,2,2,0.1,5.6,mandatory,PD Salt,Auqib Nabi,V Kohli,2,0,2,,,,,,,,,,,,,,,,,,24
+Royal Challengers Bengaluru,2,3,0.1,5.6,mandatory,PD Salt,Auqib Nabi,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,24
+Royal Challengers Bengaluru,2,4,0.1,5.6,mandatory,PD Salt,Auqib Nabi,V Kohli,0,1,1,,1.0,,,,,,,,,,,,,,,,25
+Royal Challengers Bengaluru,2,5,0.1,5.6,mandatory,V Kohli,Auqib Nabi,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,26
+Royal Challengers Bengaluru,2,6,0.1,5.6,mandatory,PD Salt,Auqib Nabi,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,27
+Royal Challengers Bengaluru,3,1,0.1,5.6,mandatory,PD Salt,Mukesh Kumar,V Kohli,2,0,2,,,,,,,,,,,,,,,,,,29
+Royal Challengers Bengaluru,3,2,0.1,5.6,mandatory,PD Salt,Mukesh Kumar,V Kohli,0,0,0,,,,,,,,,,,,,,,,,,29
+Royal Challengers Bengaluru,3,3,0.1,5.6,mandatory,PD Salt,Mukesh Kumar,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,30
+Royal Challengers Bengaluru,3,4,0.1,5.6,mandatory,V Kohli,Mukesh Kumar,PD Salt,4,0,4,,,,,,,,,,,,,,,,,,34
+Royal Challengers Bengaluru,3,5,0.1,5.6,mandatory,V Kohli,Mukesh Kumar,PD Salt,0,0,0,,,,,,,,,,,,,,,,,,34
+Royal Challengers Bengaluru,3,6,0.1,5.6,mandatory,V Kohli,Mukesh Kumar,PD Salt,0,0,0,,,,,,,,,,,,,,,,,,34
+Royal Challengers Bengaluru,4,1,0.1,5.6,mandatory,PD Salt,Auqib Nabi,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,38
+Royal Challengers Bengaluru,4,2,0.1,5.6,mandatory,PD Salt,Auqib Nabi,V Kohli,1,0,1,,,,,,,,,,,,,,,,,,39
+Royal Challengers Bengaluru,4,3,0.1,5.6,mandatory,V Kohli,Auqib Nabi,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,40
+Royal Challengers Bengaluru,4,4,0.1,5.6,mandatory,PD Salt,Auqib Nabi,V Kohli,6,0,6,,,,,,,,,,,,,,,,,,46
+Royal Challengers Bengaluru,4,5,0.1,5.6,mandatory,PD Salt,Auqib Nabi,V Kohli,2,0,2,,,,,,,,,,,,,,,,,,48
+Royal Challengers Bengaluru,4,6,0.1,5.6,mandatory,PD Salt,Auqib Nabi,V Kohli,4,0,4,,,,,,,,,,,,,,,,,,52
+Royal Challengers Bengaluru,5,1,0.1,5.6,mandatory,V Kohli,L Ngidi,PD Salt,0,0,0,,,,,,,,,V Kohli,caught,,,,,P Nissanka,,,52
+Royal Challengers Bengaluru,5,2,0.1,5.6,mandatory,D Padikkal,L Ngidi,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,53
+Royal Challengers Bengaluru,5,3,0.1,5.6,mandatory,PD Salt,L Ngidi,D Padikkal,2,0,2,,,,,,,,,,,,,,,,,,55
+Royal Challengers Bengaluru,5,4,0.1,5.6,mandatory,PD Salt,L Ngidi,D Padikkal,0,0,0,,,,,,,,,,,,,,,,,,55
+Royal Challengers Bengaluru,5,5,0.1,5.6,mandatory,PD Salt,L Ngidi,D Padikkal,2,0,2,,,,,,,,,,,,,,,,,,57
+Royal Challengers Bengaluru,5,6,0.1,5.6,mandatory,PD Salt,L Ngidi,D Padikkal,2,0,2,,,,,,,,,,,,,,,,,,59
+Royal Challengers Bengaluru,6,1,0.1,5.6,mandatory,D Padikkal,Kuldeep Yadav,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,60
+Royal Challengers Bengaluru,6,2,0.1,5.6,mandatory,PD Salt,Kuldeep Yadav,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,61
+Royal Challengers Bengaluru,6,3,0.1,5.6,mandatory,D Padikkal,Kuldeep Yadav,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,62
+Royal Challengers Bengaluru,6,4,0.1,5.6,mandatory,PD Salt,Kuldeep Yadav,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,63
+Royal Challengers Bengaluru,6,5,0.1,5.6,mandatory,D Padikkal,Kuldeep Yadav,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,64
+Royal Challengers Bengaluru,6,6,0.1,5.6,mandatory,PD Salt,Kuldeep Yadav,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,65
+Royal Challengers Bengaluru,7,1,0.1,5.6,mandatory,PD Salt,T Natarajan,D Padikkal,4,0,4,,,,,,,,,,,,,,,,,,69
+Royal Challengers Bengaluru,7,2,0.1,5.6,mandatory,PD Salt,T Natarajan,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,70
+Royal Challengers Bengaluru,7,3,0.1,5.6,mandatory,D Padikkal,T Natarajan,PD Salt,6,0,6,,,,,,,,,,,,,,,,,,76
+Royal Challengers Bengaluru,7,4,0.1,5.6,mandatory,D Padikkal,T Natarajan,PD Salt,0,0,0,,,,,,,,,,,,,,,,,,76
+Royal Challengers Bengaluru,7,5,0.1,5.6,mandatory,D Padikkal,T Natarajan,PD Salt,0,1,1,1.0,,,,,,,,,,,,,,,,,77
+Royal Challengers Bengaluru,7,6,0.1,5.6,mandatory,D Padikkal,T Natarajan,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,78
+Royal Challengers Bengaluru,7,7,0.1,5.6,mandatory,PD Salt,T Natarajan,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,79
+Royal Challengers Bengaluru,8,1,0.1,5.6,mandatory,PD Salt,Kuldeep Yadav,D Padikkal,2,0,2,,,,,,,,,,,,,,,,,,81
+Royal Challengers Bengaluru,8,2,0.1,5.6,mandatory,PD Salt,Kuldeep Yadav,D Padikkal,6,0,6,,,,,,,,,,,,,,,,,,87
+Royal Challengers Bengaluru,8,3,0.1,5.6,mandatory,PD Salt,Kuldeep Yadav,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,88
+Royal Challengers Bengaluru,8,4,0.1,5.6,mandatory,D Padikkal,Kuldeep Yadav,PD Salt,0,1,1,,1.0,,,,,,,,,,,,,,,,89
+Royal Challengers Bengaluru,8,5,0.1,5.6,mandatory,PD Salt,Kuldeep Yadav,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,90
+Royal Challengers Bengaluru,8,6,0.1,5.6,mandatory,D Padikkal,Kuldeep Yadav,PD Salt,0,0,0,,,,,,,,,,,,,,,,,,90
+Royal Challengers Bengaluru,9,1,0.1,5.6,mandatory,PD Salt,AR Patel,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,91
+Royal Challengers Bengaluru,9,2,0.1,5.6,mandatory,D Padikkal,AR Patel,PD Salt,2,0,2,,,,,,,,,,,,,,,,,,93
+Royal Challengers Bengaluru,9,3,0.1,5.6,mandatory,D Padikkal,AR Patel,PD Salt,4,0,4,,,,,,,,,,,,,,,,,,97
+Royal Challengers Bengaluru,9,4,0.1,5.6,mandatory,D Padikkal,AR Patel,PD Salt,1,0,1,,,,,,,,,,,,,,,,,,98
+Royal Challengers Bengaluru,9,5,0.1,5.6,mandatory,PD Salt,AR Patel,D Padikkal,1,0,1,,,,,,,,,,,,,,,,,,99
+Royal Challengers Bengaluru,9,6,0.1,5.6,mandatory,D Padikkal,AR Patel,PD Salt,0,0,0,,,,,,,,,D Padikkal,caught,,,,,DA Miller,,,99
+Royal Challengers Bengaluru,10,1,0.1,5.6,mandatory,PD Salt,Kuldeep Yadav,RM Patidar,6,0,6,,,,,,,,,,,,,,,,,,105
+Royal Challengers Bengaluru,10,2,0.1,5.6,mandatory,PD Salt,Kuldeep Yadav,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,105
+Royal Challengers Bengaluru,10,3,0.1,5.6,mandatory,PD Salt,Kuldeep Yadav,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,105
+Royal Challengers Bengaluru,10,4,0.1,5.6,mandatory,PD Salt,Kuldeep Yadav,RM Patidar,0,0,0,,,,,,,,,PD Salt,caught,,,,,T Stubbs,,,105
+Royal Challengers Bengaluru,10,5,0.1,5.6,mandatory,TH David,Kuldeep Yadav,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,,109
+Royal Challengers Bengaluru,10,6,0.1,5.6,mandatory,TH David,Kuldeep Yadav,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,110
+Royal Challengers Bengaluru,11,1,0.1,5.6,mandatory,TH David,L Ngidi,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,110
+Royal Challengers Bengaluru,11,2,0.1,5.6,mandatory,TH David,L Ngidi,RM Patidar,6,0,6,,,,,,,,,,,,,,,,,,116
+Royal Challengers Bengaluru,11,3,0.1,5.6,mandatory,TH David,L Ngidi,RM Patidar,0,0,0,,,,,,,,,,,,,,,,,,116
+Royal Challengers Bengaluru,11,4,0.1,5.6,mandatory,TH David,L Ngidi,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,117
+Royal Challengers Bengaluru,11,5,0.1,5.6,mandatory,RM Patidar,L Ngidi,TH David,1,0,1,,,,,,,,,,,,,,,,,,118
+Royal Challengers Bengaluru,11,6,0.1,5.6,mandatory,TH David,L Ngidi,RM Patidar,4,0,4,,,,,,,,,,,,,,,,,,122
+Royal Challengers Bengaluru,12,1,0.1,5.6,mandatory,RM Patidar,Mukesh Kumar,TH David,1,0,1,,,,,,,,,,,,,,,,,,123
+Royal Challengers Bengaluru,12,2,0.1,5.6,mandatory,TH David,Mukesh Kumar,RM Patidar,1,0,1,,,,,,,,,,,,,,,,,,124
+Royal Challengers Bengaluru,12,3,0.1,5.6,mandatory,RM Patidar,Mukesh Kumar,TH David,6,0,6,,,,,,,,,,,,,,,,,,130
+Royal Challengers Bengaluru,12,4,0.1,5.6,mandatory,RM Patidar,Mukesh Kumar,TH David,0,1,1,1.0,,,,,,,,,,,,,,,,,131
+Royal Challengers Bengaluru,12,5,0.1,5.6,mandatory,RM Patidar,Mukesh Kumar,TH David,0,0,0,,,,,,,,,RM Patidar,caught,,,,,KL Rahul,,,131
+Royal Challengers Bengaluru,12,6,0.1,5.6,mandatory,JM Sharma,Mukesh Kumar,TH David,0,0,0,,,,,,,,,,,,,,,,,,131
+Royal Challengers Bengaluru,12,7,0.1,5.6,mandatory,JM Sharma,Mukesh Kumar,TH David,0,1,1,1.0,,,,,,,,,,,,,,,,,132
+Royal Challengers Bengaluru,12,8,0.1,5.6,mandatory,JM Sharma,Mukesh Kumar,TH David,0,0,0,,,,,,,,,,,,,,,,,,132
+Royal Challengers Bengaluru,13,1,0.1,5.6,mandatory,TH David,AR Patel,JM Sharma,4,0,4,,,,,,,,,,,,,,,,,,136
+Royal Challengers Bengaluru,13,2,0.1,5.6,mandatory,TH David,AR Patel,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,137
+Royal Challengers Bengaluru,13,3,0.1,5.6,mandatory,JM Sharma,AR Patel,TH David,0,0,0,,,,,,,,,,,,,,,,,,137
+Royal Challengers Bengaluru,13,4,0.1,5.6,mandatory,JM Sharma,AR Patel,TH David,0,0,0,,,,,,,,,,,,,,,,,,137
+Royal Challengers Bengaluru,13,5,0.1,5.6,mandatory,JM Sharma,AR Patel,TH David,1,0,1,,,,,,,,,,,,,,,,,,138
+Royal Challengers Bengaluru,13,6,0.1,5.6,mandatory,TH David,AR Patel,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,139
+Royal Challengers Bengaluru,14,1,0.1,5.6,mandatory,TH David,Mukesh Kumar,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,140
+Royal Challengers Bengaluru,14,2,0.1,5.6,mandatory,JM Sharma,Mukesh Kumar,TH David,1,0,1,,,,,,,,,,,,,,,,,,141
+Royal Challengers Bengaluru,14,3,0.1,5.6,mandatory,TH David,Mukesh Kumar,JM Sharma,0,0,0,,,,,,,,,,,,,,,,,,141
+Royal Challengers Bengaluru,14,4,0.1,5.6,mandatory,TH David,Mukesh Kumar,JM Sharma,0,1,1,1.0,,,,,,,,,,,,,,,,,142
+Royal Challengers Bengaluru,14,5,0.1,5.6,mandatory,TH David,Mukesh Kumar,JM Sharma,1,1,2,,,1.0,,,,,,,,,,,,,,,144
+Royal Challengers Bengaluru,14,6,0.1,5.6,mandatory,JM Sharma,Mukesh Kumar,TH David,1,0,1,,,,,,,,,,,,,,,,,,145
+Royal Challengers Bengaluru,14,7,0.1,5.6,mandatory,TH David,Mukesh Kumar,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,146
+Royal Challengers Bengaluru,14,8,0.1,5.6,mandatory,JM Sharma,Mukesh Kumar,TH David,0,0,0,,,,,,,,,,,,,,,,,,146
+Royal Challengers Bengaluru,15,1,0.1,5.6,mandatory,TH David,AR Patel,JM Sharma,0,0,0,,,,,,,,,,,,,,,,,,146
+Royal Challengers Bengaluru,15,2,0.1,5.6,mandatory,TH David,AR Patel,JM Sharma,0,0,0,,,,,,,,,TH David,caught,,,,,T Natarajan,,,146
+Royal Challengers Bengaluru,15,3,0.1,5.6,mandatory,R Shepherd,AR Patel,JM Sharma,0,0,0,,,,,,,,,,,,,,,,,,146
+Royal Challengers Bengaluru,15,4,0.1,5.6,mandatory,R Shepherd,AR Patel,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,147
+Royal Challengers Bengaluru,15,5,0.1,5.6,mandatory,JM Sharma,AR Patel,R Shepherd,1,0,1,,,,,,,,,,,,,,,,,,148
+Royal Challengers Bengaluru,15,6,0.1,5.6,mandatory,R Shepherd,AR Patel,JM Sharma,0,0,0,,,,,,,,,,,,,,,,,,148
+Royal Challengers Bengaluru,16,1,0.1,5.6,mandatory,JM Sharma,Kuldeep Yadav,R Shepherd,0,0,0,,,,,,,,,,,,,,,,,,148
+Royal Challengers Bengaluru,16,2,0.1,5.6,mandatory,JM Sharma,Kuldeep Yadav,R Shepherd,1,0,1,,,,,,,,,,,,,,,,,,149
+Royal Challengers Bengaluru,16,3,0.1,5.6,mandatory,R Shepherd,Kuldeep Yadav,JM Sharma,0,0,0,,,,Royal Challengers Bengaluru,Bhavesh Patel,R Shepherd,struck down,wicket,R Shepherd,lbw,,,,,,,,149
+Royal Challengers Bengaluru,16,4,0.1,5.6,mandatory,KH Pandya,Kuldeep Yadav,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,150
+Royal Challengers Bengaluru,16,5,0.1,5.6,mandatory,JM Sharma,Kuldeep Yadav,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,,151
+Royal Challengers Bengaluru,16,6,0.1,5.6,mandatory,KH Pandya,Kuldeep Yadav,JM Sharma,0,1,1,1.0,,,,,,,,,,,,,,,,,152
+Royal Challengers Bengaluru,16,7,0.1,5.6,mandatory,KH Pandya,Kuldeep Yadav,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,153
+Royal Challengers Bengaluru,17,1,0.1,5.6,mandatory,KH Pandya,L Ngidi,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,154
+Royal Challengers Bengaluru,17,2,0.1,5.6,mandatory,JM Sharma,L Ngidi,KH Pandya,4,0,4,,,,,,,,,,,,,,,,,,158
+Royal Challengers Bengaluru,17,3,0.1,5.6,mandatory,JM Sharma,L Ngidi,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,,159
+Royal Challengers Bengaluru,17,4,0.1,5.6,mandatory,KH Pandya,L Ngidi,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,160
+Royal Challengers Bengaluru,17,5,0.1,5.6,mandatory,JM Sharma,L Ngidi,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,,161
+Royal Challengers Bengaluru,17,6,0.1,5.6,mandatory,KH Pandya,L Ngidi,JM Sharma,6,0,6,,,,,,,,,,,,,,,,,,167
+Royal Challengers Bengaluru,18,1,0.1,5.6,mandatory,JM Sharma,T Natarajan,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,,168
+Royal Challengers Bengaluru,18,2,0.1,5.6,mandatory,KH Pandya,T Natarajan,JM Sharma,0,0,0,,,,,,,,,,,,,,,,,,168
+Royal Challengers Bengaluru,18,3,0.1,5.6,mandatory,KH Pandya,T Natarajan,JM Sharma,0,0,0,,,,,,,,,,,,,,,,,,168
+Royal Challengers Bengaluru,18,4,0.1,5.6,mandatory,KH Pandya,T Natarajan,JM Sharma,0,0,0,,,,,,,,,,,,,,,,,,168
+Royal Challengers Bengaluru,18,5,0.1,5.6,mandatory,KH Pandya,T Natarajan,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,169
+Royal Challengers Bengaluru,18,6,0.1,5.6,mandatory,JM Sharma,T Natarajan,KH Pandya,0,0,0,,,,Delhi Capitals,Bhavesh Patel,JM Sharma,struck down,wicket,,,,,,,,,,169
+Royal Challengers Bengaluru,19,1,0.1,5.6,mandatory,KH Pandya,L Ngidi,JM Sharma,1,0,1,,,,,,,,,,,,,,,,,,170
+Royal Challengers Bengaluru,19,2,0.1,5.6,mandatory,JM Sharma,L Ngidi,KH Pandya,1,0,1,,,,,,,,,,,,,,,,,,171
+Royal Challengers Bengaluru,19,3,0.1,5.6,mandatory,KH Pandya,L Ngidi,JM Sharma,0,1,1,1.0,,,,,,,,KH Pandya,run out,,,,,KL Rahul,,,172
+Royal Challengers Bengaluru,19,4,0.1,5.6,mandatory,KH Pandya,L Ngidi,JM Sharma,0,1,1,1.0,,,,,,,,KH Pandya,run out,,,,,L Ngidi,,,173
+Royal Challengers Bengaluru,19,5,0.1,5.6,mandatory,JM Sharma,L Ngidi,Rasikh Salam,0,0,0,,,,,,,,,,,Rasikh Salam,D Padikkal,Royal Challengers Bengaluru,impact_player,,,,173
+Royal Challengers Bengaluru,19,6,0.1,5.6,mandatory,JM Sharma,L Ngidi,Rasikh Salam,0,0,0,,,,,,,,,JM Sharma,caught,,,,,DA Miller,,,173
+Royal Challengers Bengaluru,19,7,0.1,5.6,mandatory,B Kumar,L Ngidi,Rasikh Salam,2,0,2,,,,,,,,,,,,,,,,,,175
+Royal Challengers Bengaluru,19,8,0.1,5.6,mandatory,B Kumar,L Ngidi,Rasikh Salam,1,0,1,,,,,,,,,,,,,,,,,,176
+Delhi Capitals,0,1,0.1,5.6,mandatory,P Nissanka,B Kumar,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,1
+Delhi Capitals,0,2,0.1,5.6,mandatory,KL Rahul,B Kumar,P Nissanka,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,1
+Delhi Capitals,0,3,0.1,5.6,mandatory,KL Rahul,B Kumar,P Nissanka,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,2
+Delhi Capitals,0,4,0.1,5.6,mandatory,P Nissanka,B Kumar,KL Rahul,0,0,0,,,,Royal Challengers Bengaluru,Abhijit Bhattacharya,P Nissanka,upheld,wicket,P Nissanka,lbw,,,,,,20.0,176.0,2
+Delhi Capitals,0,5,0.1,5.6,mandatory,KK Nair,B Kumar,KL Rahul,0,0,0,,,,,,,,,,,KK Nair,Mukesh Kumar,Delhi Capitals,impact_player,,20.0,176.0,2
+Delhi Capitals,0,6,0.1,5.6,mandatory,KK Nair,B Kumar,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,2
+Delhi Capitals,1,1,0.1,5.6,mandatory,KL Rahul,JR Hazlewood,KK Nair,6,0,6,,,,,,,,,,,,,,,,20.0,176.0,8
+Delhi Capitals,1,2,0.1,5.6,mandatory,KL Rahul,JR Hazlewood,KK Nair,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,9
+Delhi Capitals,1,3,0.1,5.6,mandatory,KK Nair,JR Hazlewood,KL Rahul,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,13
+Delhi Capitals,1,4,0.1,5.6,mandatory,KK Nair,JR Hazlewood,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,14
+Delhi Capitals,1,5,0.1,5.6,mandatory,KL Rahul,JR Hazlewood,KK Nair,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,14
+Delhi Capitals,1,6,0.1,5.6,mandatory,KL Rahul,JR Hazlewood,KK Nair,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,15
+Delhi Capitals,2,1,0.1,5.6,mandatory,KL Rahul,B Kumar,KK Nair,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,16
+Delhi Capitals,2,2,0.1,5.6,mandatory,KK Nair,B Kumar,KL Rahul,0,0,0,,,,,,,,,KK Nair,caught,,,,,PD Salt,20.0,176.0,16
+Delhi Capitals,2,3,0.1,5.6,mandatory,Sameer Rizvi,B Kumar,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,16
+Delhi Capitals,2,4,0.1,5.6,mandatory,Sameer Rizvi,B Kumar,KL Rahul,2,0,2,,,,,,,,,,,,,,,,20.0,176.0,18
+Delhi Capitals,2,5,0.1,5.6,mandatory,Sameer Rizvi,B Kumar,KL Rahul,0,0,0,,,,,,,,,Sameer Rizvi,caught,,,,,JM Sharma,20.0,176.0,18
+Delhi Capitals,2,6,0.1,5.6,mandatory,T Stubbs,B Kumar,KL Rahul,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,22
+Delhi Capitals,3,1,0.1,5.6,mandatory,KL Rahul,Rasikh Salam,T Stubbs,0,1,1,1.0,,,,,,,,,,,,,,,20.0,176.0,23
+Delhi Capitals,3,2,0.1,5.6,mandatory,KL Rahul,Rasikh Salam,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,27
+Delhi Capitals,3,3,0.1,5.6,mandatory,KL Rahul,Rasikh Salam,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,28
+Delhi Capitals,3,4,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,28
+Delhi Capitals,3,5,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,KL Rahul,0,1,1,1.0,,,,,,,,,,,,,,,20.0,176.0,29
+Delhi Capitals,3,6,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,29
+Delhi Capitals,3,7,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,30
+Delhi Capitals,3,8,0.1,5.6,mandatory,KL Rahul,Rasikh Salam,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,31
+Delhi Capitals,4,1,0.1,5.6,mandatory,KL Rahul,JR Hazlewood,T Stubbs,6,0,6,,,,,,,,,,,,,,,,20.0,176.0,37
+Delhi Capitals,4,2,0.1,5.6,mandatory,KL Rahul,JR Hazlewood,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,37
+Delhi Capitals,4,3,0.1,5.6,mandatory,KL Rahul,JR Hazlewood,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,41
+Delhi Capitals,4,4,0.1,5.6,mandatory,KL Rahul,JR Hazlewood,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,45
+Delhi Capitals,4,5,0.1,5.6,mandatory,KL Rahul,JR Hazlewood,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,45
+Delhi Capitals,4,6,0.1,5.6,mandatory,KL Rahul,JR Hazlewood,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,45
+Delhi Capitals,5,1,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,46
+Delhi Capitals,5,2,0.1,5.6,mandatory,KL Rahul,Rasikh Salam,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,46
+Delhi Capitals,5,3,0.1,5.6,mandatory,KL Rahul,Rasikh Salam,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,47
+Delhi Capitals,5,4,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,KL Rahul,2,0,2,,,,,,,,,,,,,,,,20.0,176.0,49
+Delhi Capitals,5,5,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,49
+Delhi Capitals,5,6,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,50
+Delhi Capitals,6,1,0.1,5.6,mandatory,T Stubbs,KH Pandya,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,51
+Delhi Capitals,6,2,0.1,5.6,mandatory,KL Rahul,KH Pandya,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,52
+Delhi Capitals,6,3,0.1,5.6,mandatory,T Stubbs,KH Pandya,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,53
+Delhi Capitals,6,4,0.1,5.6,mandatory,KL Rahul,KH Pandya,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,54
+Delhi Capitals,6,5,0.1,5.6,mandatory,T Stubbs,KH Pandya,KL Rahul,2,0,2,,,,,,,,,,,,,,,,20.0,176.0,56
+Delhi Capitals,6,6,0.1,5.6,mandatory,T Stubbs,KH Pandya,KL Rahul,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,56
+Delhi Capitals,7,1,0.1,5.6,mandatory,KL Rahul,Suyash Sharma,T Stubbs,2,0,2,,,,,,,,,,,,,,,,20.0,176.0,58
+Delhi Capitals,7,2,0.1,5.6,mandatory,KL Rahul,Suyash Sharma,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,62
+Delhi Capitals,7,3,0.1,5.6,mandatory,KL Rahul,Suyash Sharma,T Stubbs,0,2,2,,2.0,,,,,,,,,,,,,,20.0,176.0,64
+Delhi Capitals,7,4,0.1,5.6,mandatory,KL Rahul,Suyash Sharma,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,68
+Delhi Capitals,7,5,0.1,5.6,mandatory,KL Rahul,Suyash Sharma,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,69
+Delhi Capitals,7,6,0.1,5.6,mandatory,T Stubbs,Suyash Sharma,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,70
+Delhi Capitals,8,1,0.1,5.6,mandatory,T Stubbs,KH Pandya,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,71
+Delhi Capitals,8,2,0.1,5.6,mandatory,KL Rahul,KH Pandya,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,72
+Delhi Capitals,8,3,0.1,5.6,mandatory,T Stubbs,KH Pandya,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,73
+Delhi Capitals,8,4,0.1,5.6,mandatory,KL Rahul,KH Pandya,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,74
+Delhi Capitals,8,5,0.1,5.6,mandatory,T Stubbs,KH Pandya,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,75
+Delhi Capitals,8,6,0.1,5.6,mandatory,KL Rahul,KH Pandya,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,76
+Delhi Capitals,9,1,0.1,5.6,mandatory,KL Rahul,Suyash Sharma,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,77
+Delhi Capitals,9,2,0.1,5.6,mandatory,T Stubbs,Suyash Sharma,KL Rahul,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,78
+Delhi Capitals,9,3,0.1,5.6,mandatory,KL Rahul,Suyash Sharma,T Stubbs,2,0,2,,,,,,,,,,,,,,,,20.0,176.0,80
+Delhi Capitals,9,4,0.1,5.6,mandatory,KL Rahul,Suyash Sharma,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,84
+Delhi Capitals,9,5,0.1,5.6,mandatory,KL Rahul,Suyash Sharma,T Stubbs,2,0,2,,,,,,,,,,,,,,,,20.0,176.0,86
+Delhi Capitals,9,6,0.1,5.6,mandatory,KL Rahul,Suyash Sharma,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,87
+Delhi Capitals,10,1,0.1,5.6,mandatory,KL Rahul,KH Pandya,T Stubbs,0,0,0,,,,,,,,,KL Rahul,caught,,,,,V Kohli,20.0,176.0,87
+Delhi Capitals,10,2,0.1,5.6,mandatory,AR Patel,KH Pandya,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,91
+Delhi Capitals,10,3,0.1,5.6,mandatory,AR Patel,KH Pandya,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,91
+Delhi Capitals,10,4,0.1,5.6,mandatory,AR Patel,KH Pandya,T Stubbs,2,0,2,,,,,,,,,,,,,,,,20.0,176.0,93
+Delhi Capitals,10,5,0.1,5.6,mandatory,AR Patel,KH Pandya,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,94
+Delhi Capitals,10,6,0.1,5.6,mandatory,T Stubbs,KH Pandya,AR Patel,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,94
+Delhi Capitals,11,1,0.1,5.6,mandatory,AR Patel,JR Hazlewood,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,95
+Delhi Capitals,11,2,0.1,5.6,mandatory,T Stubbs,JR Hazlewood,AR Patel,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,95
+Delhi Capitals,11,3,0.1,5.6,mandatory,T Stubbs,JR Hazlewood,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,96
+Delhi Capitals,11,4,0.1,5.6,mandatory,AR Patel,JR Hazlewood,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,96
+Delhi Capitals,11,5,0.1,5.6,mandatory,AR Patel,JR Hazlewood,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,100
+Delhi Capitals,11,6,0.1,5.6,mandatory,AR Patel,JR Hazlewood,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,101
+Delhi Capitals,12,1,0.1,5.6,mandatory,AR Patel,Rasikh Salam,T Stubbs,4,1,5,,,1.0,,,,,,,,,,,,,20.0,176.0,106
+Delhi Capitals,12,2,0.1,5.6,mandatory,AR Patel,Rasikh Salam,T Stubbs,2,0,2,,,,,,,,,,,,,,,,20.0,176.0,108
+Delhi Capitals,12,3,0.1,5.6,mandatory,AR Patel,Rasikh Salam,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,109
+Delhi Capitals,12,4,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,110
+Delhi Capitals,12,5,0.1,5.6,mandatory,AR Patel,Rasikh Salam,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,111
+Delhi Capitals,12,6,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,AR Patel,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,115
+Delhi Capitals,12,7,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,AR Patel,2,0,2,,,,,,,,,,,,,,,,20.0,176.0,117
+Delhi Capitals,13,1,0.1,5.6,mandatory,AR Patel,Suyash Sharma,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,118
+Delhi Capitals,13,2,0.1,5.6,mandatory,T Stubbs,Suyash Sharma,AR Patel,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,118
+Delhi Capitals,13,3,0.1,5.6,mandatory,T Stubbs,Suyash Sharma,AR Patel,2,0,2,,,,,,,,,,,,,,,,20.0,176.0,120
+Delhi Capitals,13,4,0.1,5.6,mandatory,T Stubbs,Suyash Sharma,AR Patel,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,124
+Delhi Capitals,13,5,0.1,5.6,mandatory,T Stubbs,Suyash Sharma,AR Patel,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,124
+Delhi Capitals,13,6,0.1,5.6,mandatory,T Stubbs,Suyash Sharma,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,125
+Delhi Capitals,14,1,0.1,5.6,mandatory,T Stubbs,KH Pandya,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,126
+Delhi Capitals,14,2,0.1,5.6,mandatory,AR Patel,KH Pandya,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,127
+Delhi Capitals,14,3,0.1,5.6,mandatory,T Stubbs,KH Pandya,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,128
+Delhi Capitals,14,4,0.1,5.6,mandatory,AR Patel,KH Pandya,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,129
+Delhi Capitals,14,5,0.1,5.6,mandatory,T Stubbs,KH Pandya,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,130
+Delhi Capitals,14,6,0.1,5.6,mandatory,AR Patel,KH Pandya,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,130
+Delhi Capitals,15,1,0.1,5.6,mandatory,T Stubbs,B Kumar,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,131
+Delhi Capitals,15,2,0.1,5.6,mandatory,AR Patel,B Kumar,T Stubbs,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,131
+Delhi Capitals,15,3,0.1,5.6,mandatory,AR Patel,B Kumar,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,132
+Delhi Capitals,15,4,0.1,5.6,mandatory,T Stubbs,B Kumar,AR Patel,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,133
+Delhi Capitals,15,5,0.1,5.6,mandatory,AR Patel,B Kumar,T Stubbs,1,0,1,,,,,,,,,AR Patel,retired hurt,,,,,,20.0,176.0,134
+Delhi Capitals,15,6,0.1,5.6,mandatory,T Stubbs,B Kumar,DA Miller,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,135
+Delhi Capitals,16,1,0.1,5.6,mandatory,T Stubbs,JR Hazlewood,DA Miller,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,136
+Delhi Capitals,16,2,0.1,5.6,mandatory,DA Miller,JR Hazlewood,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,137
+Delhi Capitals,16,3,0.1,5.6,mandatory,T Stubbs,JR Hazlewood,DA Miller,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,138
+Delhi Capitals,16,4,0.1,5.6,mandatory,DA Miller,JR Hazlewood,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,139
+Delhi Capitals,16,5,0.1,5.6,mandatory,T Stubbs,JR Hazlewood,DA Miller,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,139
+Delhi Capitals,16,6,0.1,5.6,mandatory,T Stubbs,JR Hazlewood,DA Miller,0,0,0,,,,,,,,,,,,,,,,20.0,176.0,139
+Delhi Capitals,17,1,0.1,5.6,mandatory,DA Miller,B Kumar,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,140
+Delhi Capitals,17,2,0.1,5.6,mandatory,T Stubbs,B Kumar,DA Miller,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,141
+Delhi Capitals,17,3,0.1,5.6,mandatory,DA Miller,B Kumar,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,142
+Delhi Capitals,17,4,0.1,5.6,mandatory,T Stubbs,B Kumar,DA Miller,6,0,6,,,,,,,,,,,,,,,,20.0,176.0,148
+Delhi Capitals,17,5,0.1,5.6,mandatory,T Stubbs,B Kumar,DA Miller,2,0,2,,,,,,,,,,,,,,,,20.0,176.0,150
+Delhi Capitals,17,6,0.1,5.6,mandatory,T Stubbs,B Kumar,DA Miller,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,151
+Delhi Capitals,18,1,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,DA Miller,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,155
+Delhi Capitals,18,2,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,DA Miller,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,156
+Delhi Capitals,18,3,0.1,5.6,mandatory,DA Miller,Rasikh Salam,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,157
+Delhi Capitals,18,4,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,DA Miller,2,0,2,,,,,,,,,,,,,,,,20.0,176.0,159
+Delhi Capitals,18,5,0.1,5.6,mandatory,T Stubbs,Rasikh Salam,DA Miller,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,160
+Delhi Capitals,18,6,0.1,5.6,mandatory,DA Miller,Rasikh Salam,T Stubbs,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,161
+Delhi Capitals,19,1,0.1,5.6,mandatory,DA Miller,R Shepherd,T Stubbs,0,1,1,,1.0,,,,,,,,,,,,,,20.0,176.0,162
+Delhi Capitals,19,2,0.1,5.6,mandatory,T Stubbs,R Shepherd,DA Miller,1,0,1,,,,,,,,,,,,,,,,20.0,176.0,163
+Delhi Capitals,19,3,0.1,5.6,mandatory,DA Miller,R Shepherd,T Stubbs,6,0,6,,,,,,,,,,,,,,,,20.0,176.0,169
+Delhi Capitals,19,4,0.1,5.6,mandatory,DA Miller,R Shepherd,T Stubbs,6,0,6,,,,,,,,,,,,,,,,20.0,176.0,175
+Delhi Capitals,19,5,0.1,5.6,mandatory,DA Miller,R Shepherd,T Stubbs,4,0,4,,,,,,,,,,,,,,,,20.0,176.0,179

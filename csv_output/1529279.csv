@@ -1,0 +1,247 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,review_by,review_umpire,review_batter,review_decision,review_type,legbyes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Rajasthan Royals,0,1,0.1,5.7,mandatory,YBK Jaiswal,PP Hinge,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,1
+Rajasthan Royals,0,2,0.1,5.7,mandatory,V Suryavanshi,PP Hinge,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,1
+Rajasthan Royals,0,3,0.1,5.7,mandatory,V Suryavanshi,PP Hinge,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,7
+Rajasthan Royals,0,4,0.1,5.7,mandatory,V Suryavanshi,PP Hinge,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,13
+Rajasthan Royals,0,5,0.1,5.7,mandatory,V Suryavanshi,PP Hinge,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,19
+Rajasthan Royals,0,6,0.1,5.7,mandatory,V Suryavanshi,PP Hinge,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,25
+Rajasthan Royals,1,1,0.1,5.7,mandatory,YBK Jaiswal,PJ Cummins,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,29
+Rajasthan Royals,1,2,0.1,5.7,mandatory,YBK Jaiswal,PJ Cummins,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,29
+Rajasthan Royals,1,3,0.1,5.7,mandatory,YBK Jaiswal,PJ Cummins,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,29
+Rajasthan Royals,1,4,0.1,5.7,mandatory,YBK Jaiswal,PJ Cummins,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,29
+Rajasthan Royals,1,5,0.1,5.7,mandatory,YBK Jaiswal,PJ Cummins,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,30
+Rajasthan Royals,1,6,0.1,5.7,mandatory,V Suryavanshi,PJ Cummins,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,36
+Rajasthan Royals,2,1,0.1,5.7,mandatory,YBK Jaiswal,E Malinga,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,40
+Rajasthan Royals,2,2,0.1,5.7,mandatory,YBK Jaiswal,E Malinga,V Suryavanshi,0,0,0,,,,,,,,YBK Jaiswal,caught,,,,,H Klaasen,,,40
+Rajasthan Royals,2,3,0.1,5.7,mandatory,Dhruv Jurel,E Malinga,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,40
+Rajasthan Royals,2,4,0.1,5.7,mandatory,Dhruv Jurel,E Malinga,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,40
+Rajasthan Royals,2,5,0.1,5.7,mandatory,Dhruv Jurel,E Malinga,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,41
+Rajasthan Royals,2,6,0.1,5.7,mandatory,V Suryavanshi,E Malinga,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,42
+Rajasthan Royals,3,1,0.1,5.7,mandatory,V Suryavanshi,PJ Cummins,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,43
+Rajasthan Royals,3,2,0.1,5.7,mandatory,Dhruv Jurel,PJ Cummins,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,43
+Rajasthan Royals,3,3,0.1,5.7,mandatory,Dhruv Jurel,PJ Cummins,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,47
+Rajasthan Royals,3,4,0.1,5.7,mandatory,Dhruv Jurel,PJ Cummins,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,47
+Rajasthan Royals,3,5,0.1,5.7,mandatory,Dhruv Jurel,PJ Cummins,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,47
+Rajasthan Royals,3,6,0.1,5.7,mandatory,Dhruv Jurel,PJ Cummins,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,51
+Rajasthan Royals,4,1,0.1,5.7,mandatory,V Suryavanshi,E Malinga,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,55
+Rajasthan Royals,4,2,0.1,5.7,mandatory,V Suryavanshi,E Malinga,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,55
+Rajasthan Royals,4,3,0.1,5.7,mandatory,V Suryavanshi,E Malinga,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,55
+Rajasthan Royals,4,4,0.1,5.7,mandatory,V Suryavanshi,E Malinga,Dhruv Jurel,2,0,2,,,,,,,,,,,,,,,,,57
+Rajasthan Royals,4,5,0.1,5.7,mandatory,V Suryavanshi,E Malinga,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,63
+Rajasthan Royals,4,6,0.1,5.7,mandatory,V Suryavanshi,E Malinga,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,63
+Rajasthan Royals,5,1,0.1,5.7,mandatory,Dhruv Jurel,Sakib Hussain,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,63
+Rajasthan Royals,5,2,0.1,5.7,mandatory,Dhruv Jurel,Sakib Hussain,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,67
+Rajasthan Royals,5,3,0.1,5.7,mandatory,Dhruv Jurel,Sakib Hussain,V Suryavanshi,0,1,1,1.0,,,,,,,,,,,,,,,,68
+Rajasthan Royals,5,4,0.1,5.7,mandatory,Dhruv Jurel,Sakib Hussain,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,69
+Rajasthan Royals,5,5,0.1,5.7,mandatory,V Suryavanshi,Sakib Hussain,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,75
+Rajasthan Royals,5,6,0.1,5.7,mandatory,V Suryavanshi,Sakib Hussain,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,76
+Rajasthan Royals,5,7,0.1,5.7,mandatory,Dhruv Jurel,Sakib Hussain,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,76
+Rajasthan Royals,6,1,0.1,5.7,mandatory,V Suryavanshi,Shivang Kumar,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,77
+Rajasthan Royals,6,2,0.1,5.7,mandatory,Dhruv Jurel,Shivang Kumar,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,81
+Rajasthan Royals,6,3,0.1,5.7,mandatory,Dhruv Jurel,Shivang Kumar,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,81
+Rajasthan Royals,6,4,0.1,5.7,mandatory,Dhruv Jurel,Shivang Kumar,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,82
+Rajasthan Royals,6,5,0.1,5.7,mandatory,V Suryavanshi,Shivang Kumar,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,88
+Rajasthan Royals,6,6,0.1,5.7,mandatory,V Suryavanshi,Shivang Kumar,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,92
+Rajasthan Royals,7,1,0.1,5.7,mandatory,Dhruv Jurel,PJ Cummins,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,92
+Rajasthan Royals,7,2,0.1,5.7,mandatory,Dhruv Jurel,PJ Cummins,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,92
+Rajasthan Royals,7,3,0.1,5.7,mandatory,Dhruv Jurel,PJ Cummins,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,93
+Rajasthan Royals,7,4,0.1,5.7,mandatory,V Suryavanshi,PJ Cummins,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,94
+Rajasthan Royals,7,5,0.1,5.7,mandatory,Dhruv Jurel,PJ Cummins,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,95
+Rajasthan Royals,7,6,0.1,5.7,mandatory,V Suryavanshi,PJ Cummins,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,95
+Rajasthan Royals,8,1,0.1,5.7,mandatory,Dhruv Jurel,Sakib Hussain,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,96
+Rajasthan Royals,8,2,0.1,5.7,mandatory,V Suryavanshi,Sakib Hussain,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,96
+Rajasthan Royals,8,3,0.1,5.7,mandatory,V Suryavanshi,Sakib Hussain,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,96
+Rajasthan Royals,8,4,0.1,5.7,mandatory,V Suryavanshi,Sakib Hussain,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,97
+Rajasthan Royals,8,5,0.1,5.7,mandatory,Dhruv Jurel,Sakib Hussain,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,98
+Rajasthan Royals,8,6,0.1,5.7,mandatory,V Suryavanshi,Sakib Hussain,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,104
+Rajasthan Royals,9,1,0.1,5.7,mandatory,Dhruv Jurel,PP Hinge,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,105
+Rajasthan Royals,9,2,0.1,5.7,mandatory,V Suryavanshi,PP Hinge,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,106
+Rajasthan Royals,9,3,0.1,5.7,mandatory,Dhruv Jurel,PP Hinge,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,107
+Rajasthan Royals,9,4,0.1,5.7,mandatory,V Suryavanshi,PP Hinge,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,111
+Rajasthan Royals,9,5,0.1,5.7,mandatory,V Suryavanshi,PP Hinge,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,111
+Rajasthan Royals,9,6,0.1,5.7,mandatory,V Suryavanshi,PP Hinge,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,112
+Rajasthan Royals,10,1,0.1,5.7,mandatory,V Suryavanshi,E Malinga,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,113
+Rajasthan Royals,10,2,0.1,5.7,mandatory,Dhruv Jurel,E Malinga,V Suryavanshi,0,1,1,1.0,,,,,,,,,,,,,,,,114
+Rajasthan Royals,10,3,0.1,5.7,mandatory,Dhruv Jurel,E Malinga,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,114
+Rajasthan Royals,10,4,0.1,5.7,mandatory,Dhruv Jurel,E Malinga,V Suryavanshi,2,0,2,,,,,,,,,,,,,,,,,116
+Rajasthan Royals,10,5,0.1,5.7,mandatory,Dhruv Jurel,E Malinga,V Suryavanshi,6,0,6,,,,,,,,,,,,,,,,,122
+Rajasthan Royals,10,6,0.1,5.7,mandatory,Dhruv Jurel,E Malinga,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,126
+Rajasthan Royals,10,7,0.1,5.7,mandatory,Dhruv Jurel,E Malinga,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,127
+Rajasthan Royals,11,1,0.1,5.7,mandatory,Dhruv Jurel,Shivang Kumar,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,127
+Rajasthan Royals,11,2,0.1,5.7,mandatory,Dhruv Jurel,Shivang Kumar,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,131
+Rajasthan Royals,11,3,0.1,5.7,mandatory,Dhruv Jurel,Shivang Kumar,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,132
+Rajasthan Royals,11,4,0.1,5.7,mandatory,V Suryavanshi,Shivang Kumar,Dhruv Jurel,4,0,4,,,,,,,,,,,,,,,,,136
+Rajasthan Royals,11,5,0.1,5.7,mandatory,V Suryavanshi,Shivang Kumar,Dhruv Jurel,6,0,6,,,,,,,,,,,,,,,,,142
+Rajasthan Royals,11,6,0.1,5.7,mandatory,V Suryavanshi,Shivang Kumar,Dhruv Jurel,0,0,0,,,,,,,,,,,,,,,,,142
+Rajasthan Royals,12,1,0.1,5.7,mandatory,Dhruv Jurel,Nithish Kumar Reddy,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,146
+Rajasthan Royals,12,2,0.1,5.7,mandatory,Dhruv Jurel,Nithish Kumar Reddy,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,146
+Rajasthan Royals,12,3,0.1,5.7,mandatory,Dhruv Jurel,Nithish Kumar Reddy,V Suryavanshi,0,1,1,1.0,,,,,,,,,,,,,,,,147
+Rajasthan Royals,12,4,0.1,5.7,mandatory,Dhruv Jurel,Nithish Kumar Reddy,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,151
+Rajasthan Royals,12,5,0.1,5.7,mandatory,Dhruv Jurel,Nithish Kumar Reddy,V Suryavanshi,0,1,1,1.0,,,,,,,,,,,,,,,,152
+Rajasthan Royals,12,6,0.1,5.7,mandatory,Dhruv Jurel,Nithish Kumar Reddy,V Suryavanshi,0,0,0,,,,,,,,Dhruv Jurel,caught,,,,,Aniket Verma,,,152
+Rajasthan Royals,12,7,0.1,5.7,mandatory,R Parag,Nithish Kumar Reddy,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,152
+Rajasthan Royals,12,8,0.1,5.7,mandatory,R Parag,Nithish Kumar Reddy,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,153
+Rajasthan Royals,13,1,0.1,5.7,mandatory,R Parag,Sakib Hussain,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,154
+Rajasthan Royals,13,2,0.1,5.7,mandatory,V Suryavanshi,Sakib Hussain,R Parag,6,0,6,,,,,,,,,,,,,,,,,160
+Rajasthan Royals,13,3,0.1,5.7,mandatory,V Suryavanshi,Sakib Hussain,R Parag,4,0,4,,,,,,,,,,,,,,,,,164
+Rajasthan Royals,13,4,0.1,5.7,mandatory,V Suryavanshi,Sakib Hussain,R Parag,6,0,6,,,,,,,,,,,,,,,,,170
+Rajasthan Royals,13,5,0.1,5.7,mandatory,V Suryavanshi,Sakib Hussain,R Parag,0,0,0,,Rajasthan Royals,KM Gandhi,V Suryavanshi,struck down,wicket,,V Suryavanshi,lbw,,,,,,,,170
+Rajasthan Royals,13,6,0.1,5.7,mandatory,D Ferreira,Sakib Hussain,R Parag,0,1,1,1.0,,,,,,,,,,,,,,,,171
+Rajasthan Royals,13,7,0.1,5.7,mandatory,D Ferreira,Sakib Hussain,R Parag,4,0,4,,,,,,,,,,,,,,,,,175
+Rajasthan Royals,14,1,0.1,5.7,mandatory,R Parag,Nithish Kumar Reddy,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,176
+Rajasthan Royals,14,2,0.1,5.7,mandatory,D Ferreira,Nithish Kumar Reddy,R Parag,1,0,1,,,,,,,,,,,,,,,,,177
+Rajasthan Royals,14,3,0.1,5.7,mandatory,R Parag,Nithish Kumar Reddy,D Ferreira,2,0,2,,,,,,,,,,,,,,,,,179
+Rajasthan Royals,14,4,0.1,5.7,mandatory,R Parag,Nithish Kumar Reddy,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,180
+Rajasthan Royals,14,5,0.1,5.7,mandatory,D Ferreira,Nithish Kumar Reddy,R Parag,4,0,4,,,,,,,,,,,,,,,,,184
+Rajasthan Royals,14,6,0.1,5.7,mandatory,D Ferreira,Nithish Kumar Reddy,R Parag,0,0,0,,,,,,,,,,,,,,,,,184
+Rajasthan Royals,15,1,0.1,5.7,mandatory,R Parag,PP Hinge,D Ferreira,0,0,0,,,,,,,,,,,,,,,,,184
+Rajasthan Royals,15,2,0.1,5.7,mandatory,R Parag,PP Hinge,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,185
+Rajasthan Royals,15,3,0.1,5.7,mandatory,D Ferreira,PP Hinge,R Parag,0,0,0,,,,,,,,,,,,,,,,,185
+Rajasthan Royals,15,4,0.1,5.7,mandatory,D Ferreira,PP Hinge,R Parag,6,0,6,,,,,,,,,,,,,,,,,191
+Rajasthan Royals,15,5,0.1,5.7,mandatory,D Ferreira,PP Hinge,R Parag,0,0,0,,,,,,,,,,,,,,,,,191
+Rajasthan Royals,15,6,0.1,5.7,mandatory,D Ferreira,PP Hinge,R Parag,0,0,0,,,,,,,,,,,,,,,,,191
+Rajasthan Royals,16,1,0.1,5.7,mandatory,R Parag,PJ Cummins,D Ferreira,0,0,0,,,,,,,,R Parag,bowled,,,,,,,,191
+Rajasthan Royals,16,2,0.1,5.7,mandatory,SO Hetmyer,PJ Cummins,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,192
+Rajasthan Royals,16,3,0.1,5.7,mandatory,D Ferreira,PJ Cummins,SO Hetmyer,0,0,0,,,,,,,,,,,,,,,,,192
+Rajasthan Royals,16,4,0.1,5.7,mandatory,D Ferreira,PJ Cummins,SO Hetmyer,1,0,1,,,,,,,,,,,,,,,,,193
+Rajasthan Royals,16,5,0.1,5.7,mandatory,SO Hetmyer,PJ Cummins,D Ferreira,2,0,2,,,,,,,,,,,,,,,,,195
+Rajasthan Royals,16,6,0.1,5.7,mandatory,SO Hetmyer,PJ Cummins,D Ferreira,0,0,0,,,,,,,,,,,,,,,,,195
+Rajasthan Royals,17,1,0.1,5.7,mandatory,D Ferreira,Sakib Hussain,SO Hetmyer,6,0,6,,,,,,,,,,,,,,,,,201
+Rajasthan Royals,17,2,0.1,5.7,mandatory,D Ferreira,Sakib Hussain,SO Hetmyer,0,0,0,,,,,,,,,,,,,,,,,201
+Rajasthan Royals,17,3,0.1,5.7,mandatory,D Ferreira,Sakib Hussain,SO Hetmyer,4,0,4,,,,,,,,,,,,,,,,,205
+Rajasthan Royals,17,4,0.1,5.7,mandatory,D Ferreira,Sakib Hussain,SO Hetmyer,6,0,6,,,,,,,,,,,,,,,,,211
+Rajasthan Royals,17,5,0.1,5.7,mandatory,D Ferreira,Sakib Hussain,SO Hetmyer,1,0,1,,,,,,,,,,,,,,,,,212
+Rajasthan Royals,17,6,0.1,5.7,mandatory,SO Hetmyer,Sakib Hussain,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,213
+Rajasthan Royals,18,1,0.1,5.7,mandatory,SO Hetmyer,E Malinga,D Ferreira,0,0,0,,,,,,,,,,TM Head,Sakib Hussain,Sunrisers Hyderabad,impact_player,,,,213
+Rajasthan Royals,18,2,0.1,5.7,mandatory,SO Hetmyer,E Malinga,D Ferreira,0,0,0,,Sunrisers Hyderabad,Nitin Menon,SO Hetmyer,struck down,wicket,,,,,,,,,,,213
+Rajasthan Royals,18,3,0.1,5.7,mandatory,SO Hetmyer,E Malinga,D Ferreira,1,0,1,,,,,,,,,,,,,,,,,214
+Rajasthan Royals,18,4,0.1,5.7,mandatory,D Ferreira,E Malinga,SO Hetmyer,0,0,0,,,,,,,,D Ferreira,caught,,,,,H Klaasen,,,214
+Rajasthan Royals,18,5,0.1,5.7,mandatory,RA Jadeja,E Malinga,SO Hetmyer,0,0,0,,,,,,,,,,,,,,,,,214
+Rajasthan Royals,18,6,0.1,5.7,mandatory,RA Jadeja,E Malinga,SO Hetmyer,4,0,4,,,,,,,,,,,,,,,,,218
+Rajasthan Royals,19,1,0.1,5.7,mandatory,SO Hetmyer,PP Hinge,RA Jadeja,0,1,1,1.0,,,,,,,,,,,,,,,,219
+Rajasthan Royals,19,2,0.1,5.7,mandatory,SO Hetmyer,PP Hinge,RA Jadeja,4,0,4,,,,,,,,,,,,,,,,,223
+Rajasthan Royals,19,3,0.1,5.7,mandatory,SO Hetmyer,PP Hinge,RA Jadeja,2,0,2,,,,,,,,,,,,,,,,,225
+Rajasthan Royals,19,4,0.1,5.7,mandatory,SO Hetmyer,PP Hinge,RA Jadeja,0,0,0,,,,,,,,SO Hetmyer,caught,,,,,Nithish Kumar Reddy,,,225
+Rajasthan Royals,19,5,0.1,5.7,mandatory,JC Archer,PP Hinge,RA Jadeja,2,0,2,,,,,,,,,,,,,,,,,227
+Rajasthan Royals,19,6,0.1,5.7,mandatory,JC Archer,PP Hinge,RA Jadeja,0,1,1,,,,,,,1.0,,,,,,,,,,228
+Rajasthan Royals,19,7,0.1,5.7,mandatory,RA Jadeja,PP Hinge,JC Archer,0,0,0,,,,,,,,,,,,,,,,,228
+Sunrisers Hyderabad,0,1,0.1,5.8,mandatory,TM Head,JC Archer,Abhishek Sharma,0,0,0,,,,,,,,,,Ravi Bishnoi,YBK Jaiswal,Rajasthan Royals,impact_player,,20.0,229.0,0
+Sunrisers Hyderabad,0,2,0.1,5.8,mandatory,TM Head,JC Archer,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,20.0,229.0,0
+Sunrisers Hyderabad,0,3,0.1,5.8,mandatory,TM Head,JC Archer,Abhishek Sharma,0,1,1,1.0,,,,,,,,,,,,,,20.0,229.0,1
+Sunrisers Hyderabad,0,4,0.1,5.8,mandatory,TM Head,JC Archer,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,20.0,229.0,1
+Sunrisers Hyderabad,0,5,0.1,5.8,mandatory,TM Head,JC Archer,Abhishek Sharma,6,0,6,,,,,,,,,,,,,,,20.0,229.0,7
+Sunrisers Hyderabad,0,6,0.1,5.8,mandatory,TM Head,JC Archer,Abhishek Sharma,0,0,0,,,,,,,,TM Head,caught,,,,,Dhruv Jurel,20.0,229.0,7
+Sunrisers Hyderabad,0,7,0.1,5.8,mandatory,Ishan Kishan,JC Archer,Abhishek Sharma,6,0,6,,,,,,,,,,,,,,,20.0,229.0,13
+Sunrisers Hyderabad,1,1,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,229.0,13
+Sunrisers Hyderabad,1,2,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,0,4,4,,,,,,,4.0,,,,,,,,20.0,229.0,17
+Sunrisers Hyderabad,1,3,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,229.0,17
+Sunrisers Hyderabad,1,4,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,0,5,5,5.0,,,,,,,,,,,,,,20.0,229.0,22
+Sunrisers Hyderabad,1,5,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,229.0,22
+Sunrisers Hyderabad,1,6,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,26
+Sunrisers Hyderabad,1,7,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,229.0,26
+Sunrisers Hyderabad,2,1,0.1,5.8,mandatory,Ishan Kishan,JC Archer,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,20.0,229.0,30
+Sunrisers Hyderabad,2,2,0.1,5.8,mandatory,Ishan Kishan,JC Archer,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,20.0,229.0,30
+Sunrisers Hyderabad,2,3,0.1,5.8,mandatory,Ishan Kishan,JC Archer,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,20.0,229.0,34
+Sunrisers Hyderabad,2,4,0.1,5.8,mandatory,Ishan Kishan,JC Archer,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,20.0,229.0,34
+Sunrisers Hyderabad,2,5,0.1,5.8,mandatory,Ishan Kishan,JC Archer,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,20.0,229.0,34
+Sunrisers Hyderabad,2,6,0.1,5.8,mandatory,Ishan Kishan,JC Archer,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,20.0,229.0,38
+Sunrisers Hyderabad,3,1,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,229.0,38
+Sunrisers Hyderabad,3,2,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,42
+Sunrisers Hyderabad,3,3,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,6,0,6,,,,,,,,,,,,,,,20.0,229.0,48
+Sunrisers Hyderabad,3,4,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,229.0,48
+Sunrisers Hyderabad,3,5,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,52
+Sunrisers Hyderabad,3,6,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,20.0,229.0,53
+Sunrisers Hyderabad,3,7,0.1,5.8,mandatory,Abhishek Sharma,N Burger,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,57
+Sunrisers Hyderabad,4,1,0.1,5.8,mandatory,Ishan Kishan,TU Deshpande,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,20.0,229.0,57
+Sunrisers Hyderabad,4,2,0.1,5.8,mandatory,Ishan Kishan,TU Deshpande,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,20.0,229.0,61
+Sunrisers Hyderabad,4,3,0.1,5.8,mandatory,Ishan Kishan,TU Deshpande,Abhishek Sharma,0,1,1,,,,,,,1.0,,,,,,,,20.0,229.0,62
+Sunrisers Hyderabad,4,4,0.1,5.8,mandatory,Abhishek Sharma,TU Deshpande,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,66
+Sunrisers Hyderabad,4,5,0.1,5.8,mandatory,Abhishek Sharma,TU Deshpande,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,70
+Sunrisers Hyderabad,4,6,0.1,5.8,mandatory,Abhishek Sharma,TU Deshpande,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,229.0,70
+Sunrisers Hyderabad,5,1,0.1,5.8,mandatory,Ishan Kishan,Brijesh Sharma,Abhishek Sharma,0,1,1,1.0,,,,,,,,,,,,,,20.0,229.0,71
+Sunrisers Hyderabad,5,2,0.1,5.8,mandatory,Ishan Kishan,Brijesh Sharma,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,20.0,229.0,75
+Sunrisers Hyderabad,5,3,0.1,5.8,mandatory,Ishan Kishan,Brijesh Sharma,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,20.0,229.0,79
+Sunrisers Hyderabad,5,4,0.1,5.8,mandatory,Ishan Kishan,Brijesh Sharma,Abhishek Sharma,0,1,1,1.0,,,,,,,,,,,,,,20.0,229.0,80
+Sunrisers Hyderabad,5,5,0.1,5.8,mandatory,Ishan Kishan,Brijesh Sharma,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,20.0,229.0,84
+Sunrisers Hyderabad,5,6,0.1,5.8,mandatory,Ishan Kishan,Brijesh Sharma,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,20.0,229.0,85
+Sunrisers Hyderabad,5,7,0.1,5.8,mandatory,Abhishek Sharma,Brijesh Sharma,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,89
+Sunrisers Hyderabad,5,8,0.1,5.8,mandatory,Abhishek Sharma,Brijesh Sharma,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,229.0,89
+Sunrisers Hyderabad,6,1,0.1,5.8,mandatory,Ishan Kishan,R Parag,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,20.0,229.0,93
+Sunrisers Hyderabad,6,2,0.1,5.8,mandatory,Ishan Kishan,R Parag,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,20.0,229.0,94
+Sunrisers Hyderabad,6,3,0.1,5.8,mandatory,Abhishek Sharma,R Parag,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,20.0,229.0,95
+Sunrisers Hyderabad,6,4,0.1,5.8,mandatory,Ishan Kishan,R Parag,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,20.0,229.0,96
+Sunrisers Hyderabad,6,5,0.1,5.8,mandatory,Abhishek Sharma,R Parag,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,100
+Sunrisers Hyderabad,6,6,0.1,5.8,mandatory,Abhishek Sharma,R Parag,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,20.0,229.0,101
+Sunrisers Hyderabad,7,1,0.1,5.8,mandatory,Abhishek Sharma,TU Deshpande,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,20.0,229.0,102
+Sunrisers Hyderabad,7,2,0.1,5.8,mandatory,Abhishek Sharma,TU Deshpande,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,106
+Sunrisers Hyderabad,7,3,0.1,5.8,mandatory,Abhishek Sharma,TU Deshpande,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,20.0,229.0,107
+Sunrisers Hyderabad,7,4,0.1,5.8,mandatory,Ishan Kishan,TU Deshpande,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,20.0,229.0,107
+Sunrisers Hyderabad,7,5,0.1,5.8,mandatory,Ishan Kishan,TU Deshpande,Abhishek Sharma,0,0,0,,,,,,,,,,,,,,,20.0,229.0,107
+Sunrisers Hyderabad,7,6,0.1,5.8,mandatory,Ishan Kishan,TU Deshpande,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,20.0,229.0,111
+Sunrisers Hyderabad,7,7,0.1,5.8,mandatory,Ishan Kishan,TU Deshpande,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,20.0,229.0,112
+Sunrisers Hyderabad,8,1,0.1,5.8,mandatory,Ishan Kishan,Brijesh Sharma,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,20.0,229.0,113
+Sunrisers Hyderabad,8,2,0.1,5.8,mandatory,Abhishek Sharma,Brijesh Sharma,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,117
+Sunrisers Hyderabad,8,3,0.1,5.8,mandatory,Abhishek Sharma,Brijesh Sharma,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,121
+Sunrisers Hyderabad,8,4,0.1,5.8,mandatory,Abhishek Sharma,Brijesh Sharma,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,229.0,121
+Sunrisers Hyderabad,8,5,0.1,5.8,mandatory,Abhishek Sharma,Brijesh Sharma,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,20.0,229.0,122
+Sunrisers Hyderabad,8,6,0.1,5.8,mandatory,Abhishek Sharma,Brijesh Sharma,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,20.0,229.0,123
+Sunrisers Hyderabad,8,7,0.1,5.8,mandatory,Ishan Kishan,Brijesh Sharma,Abhishek Sharma,2,0,2,,,,,,,,,,,,,,,20.0,229.0,125
+Sunrisers Hyderabad,9,1,0.1,5.8,mandatory,Abhishek Sharma,D Ferreira,Ishan Kishan,2,0,2,,,,,,,,,,,,,,,20.0,229.0,127
+Sunrisers Hyderabad,9,2,0.1,5.8,mandatory,Abhishek Sharma,D Ferreira,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,20.0,229.0,128
+Sunrisers Hyderabad,9,3,0.1,5.8,mandatory,Ishan Kishan,D Ferreira,Abhishek Sharma,4,0,4,,,,,,,,,,,,,,,20.0,229.0,132
+Sunrisers Hyderabad,9,4,0.1,5.8,mandatory,Ishan Kishan,D Ferreira,Abhishek Sharma,6,0,6,,,,,,,,,,,,,,,20.0,229.0,138
+Sunrisers Hyderabad,9,5,0.1,5.8,mandatory,Ishan Kishan,D Ferreira,Abhishek Sharma,1,0,1,,,,,,,,,,,,,,,20.0,229.0,139
+Sunrisers Hyderabad,9,6,0.1,5.8,mandatory,Abhishek Sharma,D Ferreira,Ishan Kishan,0,0,0,,,,,,,,Abhishek Sharma,caught,,,,,JC Archer,20.0,229.0,139
+Sunrisers Hyderabad,10,1,0.1,5.8,mandatory,Ishan Kishan,Ravi Bishnoi,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,229.0,140
+Sunrisers Hyderabad,10,2,0.1,5.8,mandatory,H Klaasen,Ravi Bishnoi,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,144
+Sunrisers Hyderabad,10,3,0.1,5.8,mandatory,H Klaasen,Ravi Bishnoi,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,229.0,144
+Sunrisers Hyderabad,10,4,0.1,5.8,mandatory,H Klaasen,Ravi Bishnoi,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,20.0,229.0,145
+Sunrisers Hyderabad,10,5,0.1,5.8,mandatory,Ishan Kishan,Ravi Bishnoi,H Klaasen,6,0,6,,,,,,,,,,,,,,,20.0,229.0,151
+Sunrisers Hyderabad,10,6,0.1,5.8,mandatory,Ishan Kishan,Ravi Bishnoi,H Klaasen,4,0,4,,,,,,,,,,,,,,,20.0,229.0,155
+Sunrisers Hyderabad,11,1,0.1,5.8,mandatory,H Klaasen,RA Jadeja,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,229.0,155
+Sunrisers Hyderabad,11,2,0.1,5.8,mandatory,H Klaasen,RA Jadeja,Ishan Kishan,1,0,1,,,,,,,,,,,,,,,20.0,229.0,156
+Sunrisers Hyderabad,11,3,0.1,5.8,mandatory,Ishan Kishan,RA Jadeja,H Klaasen,3,0,3,,,,,,,,,,,,,,,20.0,229.0,159
+Sunrisers Hyderabad,11,4,0.1,5.8,mandatory,H Klaasen,RA Jadeja,Ishan Kishan,0,0,0,,,,,,,,,,,,,,,20.0,229.0,159
+Sunrisers Hyderabad,11,5,0.1,5.8,mandatory,H Klaasen,RA Jadeja,Ishan Kishan,2,0,2,,,,,,,,,,,,,,,20.0,229.0,161
+Sunrisers Hyderabad,11,6,0.1,5.8,mandatory,H Klaasen,RA Jadeja,Ishan Kishan,0,1,1,1.0,,,,,,,,,,,,,,20.0,229.0,162
+Sunrisers Hyderabad,11,7,0.1,5.8,mandatory,H Klaasen,RA Jadeja,Ishan Kishan,4,0,4,,,,,,,,,,,,,,,20.0,229.0,166
+Sunrisers Hyderabad,12,1,0.1,5.8,mandatory,Ishan Kishan,JC Archer,H Klaasen,0,0,0,,,,,,,,Ishan Kishan,caught,,,,,D Ferreira,20.0,229.0,166
+Sunrisers Hyderabad,12,2,0.1,5.8,mandatory,Nithish Kumar Reddy,JC Archer,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,229.0,166
+Sunrisers Hyderabad,12,3,0.1,5.8,mandatory,Nithish Kumar Reddy,JC Archer,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,229.0,166
+Sunrisers Hyderabad,12,4,0.1,5.8,mandatory,Nithish Kumar Reddy,JC Archer,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,229.0,167
+Sunrisers Hyderabad,12,5,0.1,5.8,mandatory,H Klaasen,JC Archer,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,20.0,229.0,167
+Sunrisers Hyderabad,12,6,0.1,5.8,mandatory,H Klaasen,JC Archer,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,20.0,229.0,167
+Sunrisers Hyderabad,13,1,0.1,5.8,mandatory,Nithish Kumar Reddy,N Burger,H Klaasen,6,0,6,,,,,,,,,,,,,,,20.0,229.0,173
+Sunrisers Hyderabad,13,2,0.1,5.8,mandatory,Nithish Kumar Reddy,N Burger,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,229.0,173
+Sunrisers Hyderabad,13,3,0.1,5.8,mandatory,Nithish Kumar Reddy,N Burger,H Klaasen,2,0,2,,,,,,,,,,,,,,,20.0,229.0,175
+Sunrisers Hyderabad,13,4,0.1,5.8,mandatory,Nithish Kumar Reddy,N Burger,H Klaasen,4,0,4,,,,,,,,,,,,,,,20.0,229.0,179
+Sunrisers Hyderabad,13,5,0.1,5.8,mandatory,Nithish Kumar Reddy,N Burger,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,229.0,180
+Sunrisers Hyderabad,13,6,0.1,5.8,mandatory,H Klaasen,N Burger,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,20.0,229.0,180
+Sunrisers Hyderabad,14,1,0.1,5.8,mandatory,Nithish Kumar Reddy,JC Archer,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,229.0,181
+Sunrisers Hyderabad,14,2,0.1,5.8,mandatory,H Klaasen,JC Archer,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,20.0,229.0,182
+Sunrisers Hyderabad,14,3,0.1,5.8,mandatory,Nithish Kumar Reddy,JC Archer,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,229.0,183
+Sunrisers Hyderabad,14,4,0.1,5.8,mandatory,H Klaasen,JC Archer,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,20.0,229.0,184
+Sunrisers Hyderabad,14,5,0.1,5.8,mandatory,Nithish Kumar Reddy,JC Archer,H Klaasen,0,0,0,,,,,,,,,,,,,,,20.0,229.0,184
+Sunrisers Hyderabad,14,6,0.1,5.8,mandatory,Nithish Kumar Reddy,JC Archer,H Klaasen,4,0,4,,,,,,,,,,,,,,,20.0,229.0,188
+Sunrisers Hyderabad,15,1,0.1,5.8,mandatory,H Klaasen,Brijesh Sharma,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,20.0,229.0,189
+Sunrisers Hyderabad,15,2,0.1,5.8,mandatory,Nithish Kumar Reddy,Brijesh Sharma,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,229.0,190
+Sunrisers Hyderabad,15,3,0.1,5.8,mandatory,H Klaasen,Brijesh Sharma,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,20.0,229.0,190
+Sunrisers Hyderabad,15,4,0.1,5.8,mandatory,H Klaasen,Brijesh Sharma,Nithish Kumar Reddy,0,0,0,,,,,,,,,,,,,,,20.0,229.0,190
+Sunrisers Hyderabad,15,5,0.1,5.8,mandatory,H Klaasen,Brijesh Sharma,Nithish Kumar Reddy,2,0,2,,,,,,,,,,,,,,,20.0,229.0,192
+Sunrisers Hyderabad,15,6,0.1,5.8,mandatory,H Klaasen,Brijesh Sharma,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,20.0,229.0,193
+Sunrisers Hyderabad,16,1,0.1,5.8,mandatory,H Klaasen,TU Deshpande,Nithish Kumar Reddy,6,0,6,,,,,,,,,,,,,,,20.0,229.0,199
+Sunrisers Hyderabad,16,2,0.1,5.8,mandatory,H Klaasen,TU Deshpande,Nithish Kumar Reddy,1,0,1,,,,,,,,,,,,,,,20.0,229.0,200
+Sunrisers Hyderabad,16,3,0.1,5.8,mandatory,Nithish Kumar Reddy,TU Deshpande,H Klaasen,2,0,2,,,,,,,,,,,,,,,20.0,229.0,202
+Sunrisers Hyderabad,16,4,0.1,5.8,mandatory,Nithish Kumar Reddy,TU Deshpande,H Klaasen,6,0,6,,,,,,,,,,,,,,,20.0,229.0,208
+Sunrisers Hyderabad,16,5,0.1,5.8,mandatory,Nithish Kumar Reddy,TU Deshpande,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,229.0,209
+Sunrisers Hyderabad,16,6,0.1,5.8,mandatory,H Klaasen,TU Deshpande,Nithish Kumar Reddy,4,0,4,,,,,,,,,,,,,,,20.0,229.0,213
+Sunrisers Hyderabad,17,1,0.1,5.8,mandatory,Nithish Kumar Reddy,Brijesh Sharma,H Klaasen,6,0,6,,,,,,,,,,,,,,,20.0,229.0,219
+Sunrisers Hyderabad,17,2,0.1,5.8,mandatory,Nithish Kumar Reddy,Brijesh Sharma,H Klaasen,0,0,0,,Sunrisers Hyderabad,KM Gandhi,Nithish Kumar Reddy,struck down,wicket,,Nithish Kumar Reddy,lbw,,,,,,20.0,229.0,219
+Sunrisers Hyderabad,17,3,0.1,5.8,mandatory,S Arora,Brijesh Sharma,H Klaasen,1,0,1,,,,,,,,,,,,,,,20.0,229.0,220
+Sunrisers Hyderabad,17,4,0.1,5.8,mandatory,H Klaasen,Brijesh Sharma,S Arora,0,0,0,,,,,,,,,,,,,,,20.0,229.0,220
+Sunrisers Hyderabad,17,5,0.1,5.8,mandatory,H Klaasen,Brijesh Sharma,S Arora,0,0,0,,,,,,,,,,,,,,,20.0,229.0,220
+Sunrisers Hyderabad,17,6,0.1,5.8,mandatory,H Klaasen,Brijesh Sharma,S Arora,0,0,0,,,,,,,,H Klaasen,caught,,,,,Ravi Bishnoi,20.0,229.0,220
+Sunrisers Hyderabad,18,1,0.1,5.8,mandatory,S Arora,N Burger,Aniket Verma,1,0,1,,,,,,,,,,,,,,,20.0,229.0,221
+Sunrisers Hyderabad,18,2,0.1,5.8,mandatory,Aniket Verma,N Burger,S Arora,0,1,1,1.0,,,,,,,,,,,,,,20.0,229.0,222
+Sunrisers Hyderabad,18,3,0.1,5.8,mandatory,Aniket Verma,N Burger,S Arora,1,0,1,,,,,,,,,,,,,,,20.0,229.0,223
+Sunrisers Hyderabad,18,4,0.1,5.8,mandatory,S Arora,N Burger,Aniket Verma,6,0,6,,,,,,,,,,,,,,,20.0,229.0,229

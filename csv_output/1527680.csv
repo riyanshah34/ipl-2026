@@ -1,0 +1,253 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,wides,batter_runs,extra_runs,total_runs,noballs,review_by,review_umpire,review_batter,review_decision,review_type,byes,legbyes,umpires_call,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Chennai Super Kings,0,1,0.1,5.7,mandatory,SV Samson,Arshdeep Singh,RD Gaikwad,1.0,0,1,1,,,,,,,,,,,,,,,,,,,1
+Chennai Super Kings,0,2,0.1,5.7,mandatory,SV Samson,Arshdeep Singh,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,1
+Chennai Super Kings,0,3,0.1,5.7,mandatory,SV Samson,Arshdeep Singh,RD Gaikwad,,3,0,3,,,,,,,,,,,,,,,,,,,4
+Chennai Super Kings,0,4,0.1,5.7,mandatory,RD Gaikwad,Arshdeep Singh,SV Samson,,0,0,0,,,,,,,,,,,,,,,,,,,4
+Chennai Super Kings,0,5,0.1,5.7,mandatory,RD Gaikwad,Arshdeep Singh,SV Samson,,1,0,1,,,,,,,,,,,,,,,,,,,5
+Chennai Super Kings,0,6,0.1,5.7,mandatory,SV Samson,Arshdeep Singh,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,5
+Chennai Super Kings,0,7,0.1,5.7,mandatory,SV Samson,Arshdeep Singh,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,5
+Chennai Super Kings,1,1,0.1,5.7,mandatory,RD Gaikwad,XC Bartlett,SV Samson,,4,0,4,,,,,,,,,,,,,,,,,,,9
+Chennai Super Kings,1,2,0.1,5.7,mandatory,RD Gaikwad,XC Bartlett,SV Samson,,0,0,0,,,,,,,,,,,,,,,,,,,9
+Chennai Super Kings,1,3,0.1,5.7,mandatory,RD Gaikwad,XC Bartlett,SV Samson,,1,0,1,,,,,,,,,,,,,,,,,,,10
+Chennai Super Kings,1,4,0.1,5.7,mandatory,SV Samson,XC Bartlett,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,10
+Chennai Super Kings,1,5,0.1,5.7,mandatory,SV Samson,XC Bartlett,RD Gaikwad,,4,0,4,,,,,,,,,,,,,,,,,,,14
+Chennai Super Kings,1,6,0.1,5.7,mandatory,SV Samson,XC Bartlett,RD Gaikwad,,0,0,0,,,,,,,,,,SV Samson,caught,,,,,P Simran Singh,,,14
+Chennai Super Kings,2,1,0.1,5.7,mandatory,RD Gaikwad,M Jansen,A Mhatre,,4,0,4,,,,,,,,,,,,,,,,,,,18
+Chennai Super Kings,2,2,0.1,5.7,mandatory,RD Gaikwad,M Jansen,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,19
+Chennai Super Kings,2,3,0.1,5.7,mandatory,A Mhatre,M Jansen,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,19
+Chennai Super Kings,2,4,0.1,5.7,mandatory,A Mhatre,M Jansen,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,19
+Chennai Super Kings,2,5,0.1,5.7,mandatory,A Mhatre,M Jansen,RD Gaikwad,5.0,0,5,5,,,,,,,,,,,,,,,,,,,24
+Chennai Super Kings,2,6,0.1,5.7,mandatory,A Mhatre,M Jansen,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,24
+Chennai Super Kings,2,7,0.1,5.7,mandatory,A Mhatre,M Jansen,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,24
+Chennai Super Kings,3,1,0.1,5.7,mandatory,RD Gaikwad,XC Bartlett,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,25
+Chennai Super Kings,3,2,0.1,5.7,mandatory,A Mhatre,XC Bartlett,RD Gaikwad,,4,0,4,,,,,,,,,,,,,,,,,,,29
+Chennai Super Kings,3,3,0.1,5.7,mandatory,A Mhatre,XC Bartlett,RD Gaikwad,,4,0,4,,,,,,,,,,,,,,,,,,,33
+Chennai Super Kings,3,4,0.1,5.7,mandatory,A Mhatre,XC Bartlett,RD Gaikwad,,4,0,4,,,,,,,,,,,,,,,,,,,37
+Chennai Super Kings,3,5,0.1,5.7,mandatory,A Mhatre,XC Bartlett,RD Gaikwad,,2,0,2,,,,,,,,,,,,,,,,,,,39
+Chennai Super Kings,3,6,0.1,5.7,mandatory,A Mhatre,XC Bartlett,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,39
+Chennai Super Kings,4,1,0.1,5.7,mandatory,RD Gaikwad,Vijaykumar Vyshak,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,40
+Chennai Super Kings,4,2,0.1,5.7,mandatory,A Mhatre,Vijaykumar Vyshak,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,40
+Chennai Super Kings,4,3,0.1,5.7,mandatory,A Mhatre,Vijaykumar Vyshak,RD Gaikwad,,6,0,6,,,,,,,,,,,,,,,,,,,46
+Chennai Super Kings,4,4,0.1,5.7,mandatory,A Mhatre,Vijaykumar Vyshak,RD Gaikwad,,2,0,2,,,,,,,,,,,,,,,,,,,48
+Chennai Super Kings,4,5,0.1,5.7,mandatory,A Mhatre,Vijaykumar Vyshak,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,48
+Chennai Super Kings,4,6,0.1,5.7,mandatory,A Mhatre,Vijaykumar Vyshak,RD Gaikwad,,1,0,1,,,,,,,,,,,,,,,,,,,49
+Chennai Super Kings,5,1,0.1,5.7,mandatory,A Mhatre,Arshdeep Singh,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,49
+Chennai Super Kings,5,2,0.1,5.7,mandatory,A Mhatre,Arshdeep Singh,RD Gaikwad,1.0,0,1,1,,,,,,,,,,,,,,,,,,,50
+Chennai Super Kings,5,3,0.1,5.7,mandatory,A Mhatre,Arshdeep Singh,RD Gaikwad,,4,0,4,,,,,,,,,,,,,,,,,,,54
+Chennai Super Kings,5,4,0.1,5.7,mandatory,A Mhatre,Arshdeep Singh,RD Gaikwad,,1,0,1,,,,,,,,,,,,,,,,,,,55
+Chennai Super Kings,5,5,0.1,5.7,mandatory,RD Gaikwad,Arshdeep Singh,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,56
+Chennai Super Kings,5,6,0.1,5.7,mandatory,A Mhatre,Arshdeep Singh,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,56
+Chennai Super Kings,5,7,0.1,5.7,mandatory,A Mhatre,Arshdeep Singh,RD Gaikwad,,1,0,1,,,,,,,,,,,,,,,,,,,57
+Chennai Super Kings,6,1,0.1,5.7,mandatory,A Mhatre,M Jansen,RD Gaikwad,,6,0,6,,,,,,,,,,,,,,,,,,,63
+Chennai Super Kings,6,2,0.1,5.7,mandatory,A Mhatre,M Jansen,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,63
+Chennai Super Kings,6,3,0.1,5.7,mandatory,A Mhatre,M Jansen,RD Gaikwad,,2,0,2,,,,,,,,,,,,,,,,,,,65
+Chennai Super Kings,6,4,0.1,5.7,mandatory,A Mhatre,M Jansen,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,65
+Chennai Super Kings,6,5,0.1,5.7,mandatory,A Mhatre,M Jansen,RD Gaikwad,,6,0,6,,,,,,,,,,,,,,,,,,,71
+Chennai Super Kings,6,6,0.1,5.7,mandatory,A Mhatre,M Jansen,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,71
+Chennai Super Kings,7,1,0.1,5.7,mandatory,RD Gaikwad,YS Chahal,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,72
+Chennai Super Kings,7,2,0.1,5.7,mandatory,A Mhatre,YS Chahal,RD Gaikwad,,1,0,1,,,,,,,,,,,,,,,,,,,73
+Chennai Super Kings,7,3,0.1,5.7,mandatory,RD Gaikwad,YS Chahal,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,74
+Chennai Super Kings,7,4,0.1,5.7,mandatory,A Mhatre,YS Chahal,RD Gaikwad,,1,0,1,,,,,,,,,,,,,,,,,,,75
+Chennai Super Kings,7,5,0.1,5.7,mandatory,RD Gaikwad,YS Chahal,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,76
+Chennai Super Kings,7,6,0.1,5.7,mandatory,A Mhatre,YS Chahal,RD Gaikwad,,1,0,1,,,,,,,,,,,,,,,,,,,77
+Chennai Super Kings,8,1,0.1,5.7,mandatory,A Mhatre,MP Stoinis,RD Gaikwad,,6,0,6,,,,,,,,,,,,,,,,,,,83
+Chennai Super Kings,8,2,0.1,5.7,mandatory,A Mhatre,MP Stoinis,RD Gaikwad,,6,0,6,,,,,,,,,,,,,,,,,,,89
+Chennai Super Kings,8,3,0.1,5.7,mandatory,A Mhatre,MP Stoinis,RD Gaikwad,1.0,0,1,1,,,,,,,,,,,,,,,,,,,90
+Chennai Super Kings,8,4,0.1,5.7,mandatory,A Mhatre,MP Stoinis,RD Gaikwad,,1,0,1,,,,,,,,,,,,,,,,,,,91
+Chennai Super Kings,8,5,0.1,5.7,mandatory,RD Gaikwad,MP Stoinis,A Mhatre,,2,0,2,,,,,,,,,,,,,,,,,,,93
+Chennai Super Kings,8,6,0.1,5.7,mandatory,RD Gaikwad,MP Stoinis,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,94
+Chennai Super Kings,8,7,0.1,5.7,mandatory,A Mhatre,MP Stoinis,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,94
+Chennai Super Kings,9,1,0.1,5.7,mandatory,RD Gaikwad,YS Chahal,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,95
+Chennai Super Kings,9,2,0.1,5.7,mandatory,A Mhatre,YS Chahal,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,95
+Chennai Super Kings,9,3,0.1,5.7,mandatory,A Mhatre,YS Chahal,RD Gaikwad,,2,0,2,,,,,,,,,,,,,,,,,,,97
+Chennai Super Kings,9,4,0.1,5.7,mandatory,A Mhatre,YS Chahal,RD Gaikwad,,1,0,1,,,,,,,,,,,,,,,,,,,98
+Chennai Super Kings,9,5,0.1,5.7,mandatory,RD Gaikwad,YS Chahal,A Mhatre,,2,0,2,,,,,,,,,,,,,,,,,,,100
+Chennai Super Kings,9,6,0.1,5.7,mandatory,RD Gaikwad,YS Chahal,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,101
+Chennai Super Kings,10,1,0.1,5.7,mandatory,RD Gaikwad,Vijaykumar Vyshak,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,102
+Chennai Super Kings,10,2,0.1,5.7,mandatory,A Mhatre,Vijaykumar Vyshak,RD Gaikwad,,1,0,1,,,,,,,,,,,,,,,,,,,103
+Chennai Super Kings,10,3,0.1,5.7,mandatory,RD Gaikwad,Vijaykumar Vyshak,A Mhatre,,2,0,2,,,,,,,,,,,,,,,,,,,105
+Chennai Super Kings,10,4,0.1,5.7,mandatory,RD Gaikwad,Vijaykumar Vyshak,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,106
+Chennai Super Kings,10,5,0.1,5.7,mandatory,A Mhatre,Vijaykumar Vyshak,RD Gaikwad,,4,0,4,,,,,,,,,,,,,,,,,,,110
+Chennai Super Kings,10,6,0.1,5.7,mandatory,A Mhatre,Vijaykumar Vyshak,RD Gaikwad,,0,0,0,,,,,,,,,,,,,,,,,,,110
+Chennai Super Kings,11,1,0.1,5.7,mandatory,RD Gaikwad,YS Chahal,A Mhatre,,0,0,0,,,,,,,,,,RD Gaikwad,caught,,,,,N Wadhera,,,110
+Chennai Super Kings,11,2,0.1,5.7,mandatory,S Dube,YS Chahal,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,111
+Chennai Super Kings,11,3,0.1,5.7,mandatory,A Mhatre,YS Chahal,S Dube,,0,0,0,,,,,,,,,,,,,,,,,,,111
+Chennai Super Kings,11,4,0.1,5.7,mandatory,A Mhatre,YS Chahal,S Dube,,1,0,1,,,,,,,,,,,,,,,,,,,112
+Chennai Super Kings,11,5,0.1,5.7,mandatory,S Dube,YS Chahal,A Mhatre,,0,0,0,,,,,,,,,,,,,,,,,,,112
+Chennai Super Kings,11,6,0.1,5.7,mandatory,S Dube,YS Chahal,A Mhatre,2.0,0,2,2,,,,,,,,,,,,,,,,,,,114
+Chennai Super Kings,11,7,0.1,5.7,mandatory,A Mhatre,YS Chahal,S Dube,,1,1,2,1.0,,,,,,,,,,,,,,,,,,116
+Chennai Super Kings,11,8,0.1,5.7,mandatory,S Dube,YS Chahal,A Mhatre,1.0,0,1,1,,,,,,,,,,,,,,,,,,,117
+Chennai Super Kings,11,9,0.1,5.7,mandatory,S Dube,YS Chahal,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,118
+Chennai Super Kings,12,1,0.1,5.7,mandatory,S Dube,Vijaykumar Vyshak,A Mhatre,,1,0,1,,,,,,,,,,,,,,,,,,,119
+Chennai Super Kings,12,2,0.1,5.7,mandatory,A Mhatre,Vijaykumar Vyshak,S Dube,,4,0,4,,,,,,,,,,,,,,,,,,,123
+Chennai Super Kings,12,3,0.1,5.7,mandatory,A Mhatre,Vijaykumar Vyshak,S Dube,,0,0,0,,,,,,,,,,A Mhatre,caught,,,,,YS Chahal,,,123
+Chennai Super Kings,12,4,0.1,5.7,mandatory,Kartik Sharma,Vijaykumar Vyshak,S Dube,,0,0,0,,,,,,,,,,,,,,,,,,,123
+Chennai Super Kings,12,5,0.1,5.7,mandatory,Kartik Sharma,Vijaykumar Vyshak,S Dube,,1,0,1,,,,,,,,,,,,,,,,,,,124
+Chennai Super Kings,12,6,0.1,5.7,mandatory,S Dube,Vijaykumar Vyshak,Kartik Sharma,,1,0,1,,,,,,,,,,,,,,,,,,,125
+Chennai Super Kings,13,1,0.1,5.7,mandatory,S Dube,M Jansen,Kartik Sharma,,2,0,2,,,,,,,,,,,,,,,,,,,127
+Chennai Super Kings,13,2,0.1,5.7,mandatory,S Dube,M Jansen,Kartik Sharma,,2,0,2,,,,,,,,,,,,,,,,,,,129
+Chennai Super Kings,13,3,0.1,5.7,mandatory,S Dube,M Jansen,Kartik Sharma,,1,0,1,,,,,,,,,,,,,,,,,,,130
+Chennai Super Kings,13,4,0.1,5.7,mandatory,Kartik Sharma,M Jansen,S Dube,,0,0,0,,Punjab Kings,Abhijit Bhattacharya,Kartik Sharma,upheld,wicket,,,,Kartik Sharma,lbw,,,,,,,,130
+Chennai Super Kings,13,5,0.1,5.7,mandatory,SN Khan,M Jansen,S Dube,,0,0,0,,,,,,,,,,,,,,,,,,,130
+Chennai Super Kings,13,6,0.1,5.7,mandatory,SN Khan,M Jansen,S Dube,,0,0,0,,,,,,,,,,,,,,,,,,,130
+Chennai Super Kings,14,1,0.1,5.7,mandatory,S Dube,Arshdeep Singh,SN Khan,,1,0,1,,,,,,,,,,,,,,,,,,,131
+Chennai Super Kings,14,2,0.1,5.7,mandatory,SN Khan,Arshdeep Singh,S Dube,,4,0,4,,,,,,,,,,,,,,,,,,,135
+Chennai Super Kings,14,3,0.1,5.7,mandatory,SN Khan,Arshdeep Singh,S Dube,,4,0,4,,,,,,,,,,,,,,,,,,,139
+Chennai Super Kings,14,4,0.1,5.7,mandatory,SN Khan,Arshdeep Singh,S Dube,,4,0,4,,,,,,,,,,,,,,,,,,,143
+Chennai Super Kings,14,5,0.1,5.7,mandatory,SN Khan,Arshdeep Singh,S Dube,,1,0,1,,,,,,,,,,,,,,,,,,,144
+Chennai Super Kings,14,6,0.1,5.7,mandatory,S Dube,Arshdeep Singh,SN Khan,,1,0,1,,,,,,,,,,,,,,,,,,,145
+Chennai Super Kings,15,1,0.1,5.7,mandatory,S Dube,XC Bartlett,SN Khan,,2,0,2,,,,,,,,,,,,,,,,,,,147
+Chennai Super Kings,15,2,0.1,5.7,mandatory,S Dube,XC Bartlett,SN Khan,,0,0,0,,,,,,,,,,,,,,,,,,,147
+Chennai Super Kings,15,3,0.1,5.7,mandatory,S Dube,XC Bartlett,SN Khan,,0,0,0,,,,,,,,,,,,,,,,,,,147
+Chennai Super Kings,15,4,0.1,5.7,mandatory,S Dube,XC Bartlett,SN Khan,,1,0,1,,,,,,,,,,,,,,,,,,,148
+Chennai Super Kings,15,5,0.1,5.7,mandatory,SN Khan,XC Bartlett,S Dube,1.0,0,1,1,,,,,,,,,,,,,,,,,,,149
+Chennai Super Kings,15,6,0.1,5.7,mandatory,SN Khan,XC Bartlett,S Dube,,6,0,6,,,,,,,,,,,,,,,,,,,155
+Chennai Super Kings,15,7,0.1,5.7,mandatory,SN Khan,XC Bartlett,S Dube,,1,0,1,,,,,,,,,,,,,,,,,,,156
+Chennai Super Kings,16,1,0.1,5.7,mandatory,SN Khan,Vijaykumar Vyshak,S Dube,,4,0,4,,,,,,,,,,,,,,,,,,,160
+Chennai Super Kings,16,2,0.1,5.7,mandatory,SN Khan,Vijaykumar Vyshak,S Dube,,4,0,4,,,,,,,,,,,,,,,,,,,164
+Chennai Super Kings,16,3,0.1,5.7,mandatory,SN Khan,Vijaykumar Vyshak,S Dube,,4,0,4,,,,,,,,,,,,,,,,,,,168
+Chennai Super Kings,16,4,0.1,5.7,mandatory,SN Khan,Vijaykumar Vyshak,S Dube,,0,0,0,,,,,,,,,,SN Khan,caught,,,,,N Wadhera,,,168
+Chennai Super Kings,16,5,0.1,5.7,mandatory,PR Veer,Vijaykumar Vyshak,S Dube,,0,0,0,,,,,,,,,,,,,,,,,,,168
+Chennai Super Kings,16,6,0.1,5.7,mandatory,PR Veer,Vijaykumar Vyshak,S Dube,,0,0,0,,,,,,,,,,,,,,,,,,,168
+Chennai Super Kings,17,1,0.1,5.7,mandatory,S Dube,M Jansen,PR Veer,1.0,0,1,1,,,,,,,,,,,,,,,,,,,169
+Chennai Super Kings,17,2,0.1,5.7,mandatory,S Dube,M Jansen,PR Veer,,6,0,6,,,,,,,,,,,,,,,,,,,175
+Chennai Super Kings,17,3,0.1,5.7,mandatory,S Dube,M Jansen,PR Veer,,1,0,1,,,,,,,,,,,,,,,,,,,176
+Chennai Super Kings,17,4,0.1,5.7,mandatory,PR Veer,M Jansen,S Dube,,4,0,4,,,,,,,,,,,,,,,,,,,180
+Chennai Super Kings,17,5,0.1,5.7,mandatory,PR Veer,M Jansen,S Dube,,0,0,0,,Punjab Kings,Abhijit Bhattacharya,PR Veer,struck down,wicket,,,,,,,,,,,,,180
+Chennai Super Kings,17,6,0.1,5.7,mandatory,PR Veer,M Jansen,S Dube,,1,0,1,,,,,,,,,,,,,,,,,,,181
+Chennai Super Kings,17,7,0.1,5.7,mandatory,S Dube,M Jansen,PR Veer,,1,0,1,,,,,,,,,,,,,,,,,,,182
+Chennai Super Kings,18,1,0.1,5.7,mandatory,S Dube,XC Bartlett,PR Veer,,4,0,4,,,,,,,,,,,,Priyansh Arya,YS Chahal,Punjab Kings,impact_player,,,,186
+Chennai Super Kings,18,2,0.1,5.7,mandatory,S Dube,XC Bartlett,PR Veer,,2,0,2,,,,,,,,,,,,,,,,,,,188
+Chennai Super Kings,18,3,0.1,5.7,mandatory,S Dube,XC Bartlett,PR Veer,,1,0,1,,,,,,,,,,,,,,,,,,,189
+Chennai Super Kings,18,4,0.1,5.7,mandatory,PR Veer,XC Bartlett,S Dube,,1,0,1,,,,,,,,,,,,,,,,,,,190
+Chennai Super Kings,18,5,0.1,5.7,mandatory,S Dube,XC Bartlett,PR Veer,,4,0,4,,,,,,,,,,,,,,,,,,,194
+Chennai Super Kings,18,6,0.1,5.7,mandatory,S Dube,XC Bartlett,PR Veer,1.0,0,1,1,,,,,,,,,,,,,,,,,,,195
+Chennai Super Kings,18,7,0.1,5.7,mandatory,S Dube,XC Bartlett,PR Veer,,0,0,0,,,,,,,,,,,,,,,,,,,195
+Chennai Super Kings,19,1,0.1,5.7,mandatory,PR Veer,Arshdeep Singh,S Dube,,0,1,1,,,,,,,1.0,,,,,,,,,,,,196
+Chennai Super Kings,19,2,0.1,5.7,mandatory,S Dube,Arshdeep Singh,PR Veer,1.0,0,1,1,,,,,,,,,,,,,,,,,,,197
+Chennai Super Kings,19,3,0.1,5.7,mandatory,S Dube,Arshdeep Singh,PR Veer,,4,0,4,,,,,,,,,,,,,,,,,,,201
+Chennai Super Kings,19,4,0.1,5.7,mandatory,S Dube,Arshdeep Singh,PR Veer,,0,0,0,,,,,,,,,,,,,,,,,,,201
+Chennai Super Kings,19,5,0.1,5.7,mandatory,S Dube,Arshdeep Singh,PR Veer,,0,0,0,,,,,,,,,,,,,,,,,,,201
+Chennai Super Kings,19,6,0.1,5.7,mandatory,S Dube,Arshdeep Singh,PR Veer,,4,0,4,,,,,,,,,,,,,,,,,,,205
+Chennai Super Kings,19,7,0.1,5.7,mandatory,S Dube,Arshdeep Singh,PR Veer,,4,0,4,,,,,,,,,,,,,,,,,,,209
+Punjab Kings,0,1,0.1,5.6,mandatory,Priyansh Arya,KK Ahmed,P Simran Singh,1.0,0,1,1,,,,,,,,,,,,RD Chahar,Kartik Sharma,Chennai Super Kings,impact_player,,20.0,210.0,1
+Punjab Kings,0,2,0.1,5.6,mandatory,Priyansh Arya,KK Ahmed,P Simran Singh,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,5
+Punjab Kings,0,3,0.1,5.6,mandatory,Priyansh Arya,KK Ahmed,P Simran Singh,,6,0,6,,,,,,,,,,,,,,,,,20.0,210.0,11
+Punjab Kings,0,4,0.1,5.6,mandatory,Priyansh Arya,KK Ahmed,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,12
+Punjab Kings,0,5,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,12
+Punjab Kings,0,6,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,12
+Punjab Kings,0,7,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,Priyansh Arya,1.0,0,1,1,,,,,,,,,,,,,,,,,20.0,210.0,13
+Punjab Kings,0,8,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,Priyansh Arya,1.0,0,1,1,,,,,,,,,,,,,,,,,20.0,210.0,14
+Punjab Kings,0,9,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,14
+Punjab Kings,1,1,0.1,5.6,mandatory,Priyansh Arya,MJ Henry,P Simran Singh,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,18
+Punjab Kings,1,2,0.1,5.6,mandatory,Priyansh Arya,MJ Henry,P Simran Singh,,6,0,6,,,,,,,,,,,,,,,,,20.0,210.0,24
+Punjab Kings,1,3,0.1,5.6,mandatory,Priyansh Arya,MJ Henry,P Simran Singh,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,28
+Punjab Kings,1,4,0.1,5.6,mandatory,Priyansh Arya,MJ Henry,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,29
+Punjab Kings,1,5,0.1,5.6,mandatory,P Simran Singh,MJ Henry,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,33
+Punjab Kings,1,6,0.1,5.6,mandatory,P Simran Singh,MJ Henry,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,34
+Punjab Kings,2,1,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,34
+Punjab Kings,2,2,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,35
+Punjab Kings,2,3,0.1,5.6,mandatory,Priyansh Arya,KK Ahmed,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,36
+Punjab Kings,2,4,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,36
+Punjab Kings,2,5,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,Priyansh Arya,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,37
+Punjab Kings,2,6,0.1,5.6,mandatory,Priyansh Arya,KK Ahmed,P Simran Singh,,6,0,6,,,,,,,,,,,,,,,,,20.0,210.0,43
+Punjab Kings,3,1,0.1,5.6,mandatory,P Simran Singh,A Kamboj,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,47
+Punjab Kings,3,2,0.1,5.6,mandatory,P Simran Singh,A Kamboj,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,51
+Punjab Kings,3,3,0.1,5.6,mandatory,P Simran Singh,A Kamboj,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,51
+Punjab Kings,3,4,0.1,5.6,mandatory,P Simran Singh,A Kamboj,Priyansh Arya,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,55
+Punjab Kings,3,5,0.1,5.6,mandatory,P Simran Singh,A Kamboj,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,55
+Punjab Kings,3,6,0.1,5.6,mandatory,P Simran Singh,A Kamboj,Priyansh Arya,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,55
+Punjab Kings,4,1,0.1,5.6,mandatory,Priyansh Arya,MJ Henry,P Simran Singh,,6,0,6,,,,,,,,,,,,,,,,,20.0,210.0,61
+Punjab Kings,4,2,0.1,5.6,mandatory,Priyansh Arya,MJ Henry,P Simran Singh,,0,0,0,,,,,,,,,,Priyansh Arya,bowled,,,,,,20.0,210.0,61
+Punjab Kings,4,3,0.1,5.6,mandatory,C Connolly,MJ Henry,P Simran Singh,,0,1,1,,,,,,,,1.0,,,,,,,,,20.0,210.0,62
+Punjab Kings,4,4,0.1,5.6,mandatory,P Simran Singh,MJ Henry,C Connolly,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,62
+Punjab Kings,4,5,0.1,5.6,mandatory,P Simran Singh,MJ Henry,C Connolly,,0,0,0,,Chennai Super Kings,Abhijit Bhattacharya,P Simran Singh,struck down,wicket,,,True,,,,,,,,20.0,210.0,62
+Punjab Kings,4,6,0.1,5.6,mandatory,P Simran Singh,MJ Henry,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,63
+Punjab Kings,5,1,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,C Connolly,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,63
+Punjab Kings,5,2,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,C Connolly,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,67
+Punjab Kings,5,3,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,C Connolly,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,67
+Punjab Kings,5,4,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,C Connolly,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,67
+Punjab Kings,5,5,0.1,5.6,mandatory,P Simran Singh,KK Ahmed,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,68
+Punjab Kings,5,6,0.1,5.6,mandatory,C Connolly,KK Ahmed,P Simran Singh,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,68
+Punjab Kings,6,1,0.1,5.6,mandatory,P Simran Singh,Noor Ahmad,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,69
+Punjab Kings,6,2,0.1,5.6,mandatory,C Connolly,Noor Ahmad,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,70
+Punjab Kings,6,3,0.1,5.6,mandatory,P Simran Singh,Noor Ahmad,C Connolly,,6,0,6,,,,,,,,,,,,,,,,,20.0,210.0,76
+Punjab Kings,6,4,0.1,5.6,mandatory,P Simran Singh,Noor Ahmad,C Connolly,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,76
+Punjab Kings,6,5,0.1,5.6,mandatory,P Simran Singh,Noor Ahmad,C Connolly,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,76
+Punjab Kings,6,6,0.1,5.6,mandatory,P Simran Singh,Noor Ahmad,C Connolly,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,80
+Punjab Kings,7,1,0.1,5.6,mandatory,C Connolly,RD Chahar,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,81
+Punjab Kings,7,2,0.1,5.6,mandatory,P Simran Singh,RD Chahar,C Connolly,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,81
+Punjab Kings,7,3,0.1,5.6,mandatory,P Simran Singh,RD Chahar,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,82
+Punjab Kings,7,4,0.1,5.6,mandatory,C Connolly,RD Chahar,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,83
+Punjab Kings,7,5,0.1,5.6,mandatory,P Simran Singh,RD Chahar,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,84
+Punjab Kings,7,6,0.1,5.6,mandatory,C Connolly,RD Chahar,P Simran Singh,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,88
+Punjab Kings,8,1,0.1,5.6,mandatory,P Simran Singh,Noor Ahmad,C Connolly,,3,0,3,,,,,,,,,,,,,,,,,20.0,210.0,91
+Punjab Kings,8,2,0.1,5.6,mandatory,C Connolly,Noor Ahmad,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,92
+Punjab Kings,8,3,0.1,5.6,mandatory,P Simran Singh,Noor Ahmad,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,93
+Punjab Kings,8,4,0.1,5.6,mandatory,C Connolly,Noor Ahmad,P Simran Singh,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,94
+Punjab Kings,8,5,0.1,5.6,mandatory,P Simran Singh,Noor Ahmad,C Connolly,,1,0,1,,,,,,,,,,P Simran Singh,run out,,,,,RD Gaikwad,20.0,210.0,95
+Punjab Kings,8,6,0.1,5.6,mandatory,P Simran Singh,Noor Ahmad,C Connolly,,1,0,1,,,,,,,,,,P Simran Singh,run out,,,,,SN Khan,20.0,210.0,96
+Punjab Kings,8,7,0.1,5.6,mandatory,C Connolly,Noor Ahmad,SS Iyer,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,96
+Punjab Kings,9,1,0.1,5.6,mandatory,SS Iyer,RD Chahar,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,97
+Punjab Kings,9,2,0.1,5.6,mandatory,C Connolly,RD Chahar,SS Iyer,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,97
+Punjab Kings,9,3,0.1,5.6,mandatory,C Connolly,RD Chahar,SS Iyer,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,98
+Punjab Kings,9,4,0.1,5.6,mandatory,SS Iyer,RD Chahar,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,99
+Punjab Kings,9,5,0.1,5.6,mandatory,C Connolly,RD Chahar,SS Iyer,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,103
+Punjab Kings,9,6,0.1,5.6,mandatory,C Connolly,RD Chahar,SS Iyer,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,104
+Punjab Kings,10,1,0.1,5.6,mandatory,C Connolly,Noor Ahmad,SS Iyer,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,108
+Punjab Kings,10,2,0.1,5.6,mandatory,C Connolly,Noor Ahmad,SS Iyer,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,109
+Punjab Kings,10,3,0.1,5.6,mandatory,SS Iyer,Noor Ahmad,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,110
+Punjab Kings,10,4,0.1,5.6,mandatory,C Connolly,Noor Ahmad,SS Iyer,,4,1,5,1.0,,,,,,,,,,,,,,,,20.0,210.0,115
+Punjab Kings,10,5,0.1,5.6,mandatory,C Connolly,Noor Ahmad,SS Iyer,,2,0,2,,,,,,,,,,,,,,,,,20.0,210.0,117
+Punjab Kings,10,6,0.1,5.6,mandatory,C Connolly,Noor Ahmad,SS Iyer,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,118
+Punjab Kings,10,7,0.1,5.6,mandatory,SS Iyer,Noor Ahmad,C Connolly,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,118
+Punjab Kings,11,1,0.1,5.6,mandatory,C Connolly,A Kamboj,SS Iyer,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,122
+Punjab Kings,11,2,0.1,5.6,mandatory,C Connolly,A Kamboj,SS Iyer,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,123
+Punjab Kings,11,3,0.1,5.6,mandatory,SS Iyer,A Kamboj,C Connolly,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,124
+Punjab Kings,11,4,0.1,5.6,mandatory,C Connolly,A Kamboj,SS Iyer,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,128
+Punjab Kings,11,5,0.1,5.6,mandatory,C Connolly,A Kamboj,SS Iyer,,0,0,0,,,,,,,,,,C Connolly,caught,,,,,MJ Henry,20.0,210.0,128
+Punjab Kings,11,6,0.1,5.6,mandatory,N Wadhera,A Kamboj,SS Iyer,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,128
+Punjab Kings,12,1,0.1,5.6,mandatory,SS Iyer,RD Chahar,N Wadhera,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,128
+Punjab Kings,12,2,0.1,5.6,mandatory,SS Iyer,RD Chahar,N Wadhera,,2,0,2,,,,,,,,,,,,,,,,,20.0,210.0,130
+Punjab Kings,12,3,0.1,5.6,mandatory,SS Iyer,RD Chahar,N Wadhera,,6,0,6,,,,,,,,,,,,,,,,,20.0,210.0,136
+Punjab Kings,12,4,0.1,5.6,mandatory,SS Iyer,RD Chahar,N Wadhera,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,137
+Punjab Kings,12,5,0.1,5.6,mandatory,N Wadhera,RD Chahar,SS Iyer,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,138
+Punjab Kings,12,6,0.1,5.6,mandatory,SS Iyer,RD Chahar,N Wadhera,,6,0,6,,,,,,,,,,,,,,,,,20.0,210.0,144
+Punjab Kings,13,1,0.1,5.6,mandatory,N Wadhera,Noor Ahmad,SS Iyer,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,145
+Punjab Kings,13,2,0.1,5.6,mandatory,SS Iyer,Noor Ahmad,N Wadhera,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,145
+Punjab Kings,13,3,0.1,5.6,mandatory,SS Iyer,Noor Ahmad,N Wadhera,1.0,0,1,1,,,,,,,,,,,,,,,,,20.0,210.0,146
+Punjab Kings,13,4,0.1,5.6,mandatory,SS Iyer,Noor Ahmad,N Wadhera,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,147
+Punjab Kings,13,5,0.1,5.6,mandatory,N Wadhera,Noor Ahmad,SS Iyer,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,148
+Punjab Kings,13,6,0.1,5.6,mandatory,SS Iyer,Noor Ahmad,N Wadhera,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,149
+Punjab Kings,13,7,0.1,5.6,mandatory,N Wadhera,Noor Ahmad,SS Iyer,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,149
+Punjab Kings,14,1,0.1,5.6,mandatory,SS Iyer,MJ Henry,N Wadhera,,2,0,2,,,,,,,,,,,,,,,,,20.0,210.0,151
+Punjab Kings,14,2,0.1,5.6,mandatory,SS Iyer,MJ Henry,N Wadhera,,2,0,2,,,,,,,,,,,,,,,,,20.0,210.0,153
+Punjab Kings,14,3,0.1,5.6,mandatory,SS Iyer,MJ Henry,N Wadhera,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,153
+Punjab Kings,14,4,0.1,5.6,mandatory,SS Iyer,MJ Henry,N Wadhera,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,157
+Punjab Kings,14,5,0.1,5.6,mandatory,SS Iyer,MJ Henry,N Wadhera,,6,0,6,,,,,,,,,,,,,,,,,20.0,210.0,163
+Punjab Kings,14,6,0.1,5.6,mandatory,SS Iyer,MJ Henry,N Wadhera,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,164
+Punjab Kings,15,1,0.1,5.6,mandatory,SS Iyer,RD Chahar,N Wadhera,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,168
+Punjab Kings,15,2,0.1,5.6,mandatory,SS Iyer,RD Chahar,N Wadhera,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,169
+Punjab Kings,15,3,0.1,5.6,mandatory,N Wadhera,RD Chahar,SS Iyer,,6,0,6,,,,,,,,,,,,,,,,,20.0,210.0,175
+Punjab Kings,15,4,0.1,5.6,mandatory,N Wadhera,RD Chahar,SS Iyer,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,176
+Punjab Kings,15,5,0.1,5.6,mandatory,SS Iyer,RD Chahar,N Wadhera,1.0,0,1,1,,,,,,,,,,,,,,,,,20.0,210.0,177
+Punjab Kings,15,6,0.1,5.6,mandatory,SS Iyer,RD Chahar,N Wadhera,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,178
+Punjab Kings,15,7,0.1,5.6,mandatory,N Wadhera,RD Chahar,SS Iyer,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,178
+Punjab Kings,16,1,0.1,5.6,mandatory,SS Iyer,A Kamboj,N Wadhera,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,182
+Punjab Kings,16,2,0.1,5.6,mandatory,SS Iyer,A Kamboj,N Wadhera,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,182
+Punjab Kings,16,3,0.1,5.6,mandatory,SS Iyer,A Kamboj,N Wadhera,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,182
+Punjab Kings,16,4,0.1,5.6,mandatory,SS Iyer,A Kamboj,N Wadhera,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,186
+Punjab Kings,16,5,0.1,5.6,mandatory,SS Iyer,A Kamboj,N Wadhera,,0,1,1,1.0,,,,,,,,,,,,,,,,20.0,210.0,187
+Punjab Kings,16,6,0.1,5.6,mandatory,SS Iyer,A Kamboj,N Wadhera,,0,0,0,,,,,,,,,,,,,,,,,20.0,210.0,187
+Punjab Kings,16,7,0.1,5.6,mandatory,SS Iyer,A Kamboj,N Wadhera,,0,0,0,,,,,,,,,,SS Iyer,caught,,,,,RD Chahar,20.0,210.0,187
+Punjab Kings,17,1,0.1,5.6,mandatory,N Wadhera,MJ Henry,Shashank Singh,,0,0,0,,,,,,,,,,N Wadhera,caught,,,,,Noor Ahmad,20.0,210.0,187
+Punjab Kings,17,2,0.1,5.6,mandatory,MP Stoinis,MJ Henry,Shashank Singh,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,191
+Punjab Kings,17,3,0.1,5.6,mandatory,MP Stoinis,MJ Henry,Shashank Singh,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,192
+Punjab Kings,17,4,0.1,5.6,mandatory,Shashank Singh,MJ Henry,MP Stoinis,,2,0,2,,,,,,,,,,,,,,,,,20.0,210.0,194
+Punjab Kings,17,5,0.1,5.6,mandatory,Shashank Singh,MJ Henry,MP Stoinis,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,198
+Punjab Kings,17,6,0.1,5.6,mandatory,Shashank Singh,MJ Henry,MP Stoinis,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,199
+Punjab Kings,18,1,0.1,5.6,mandatory,Shashank Singh,A Kamboj,MP Stoinis,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,203
+Punjab Kings,18,2,0.1,5.6,mandatory,Shashank Singh,A Kamboj,MP Stoinis,,2,0,2,,,,,,,,,,,,,,,,,20.0,210.0,205
+Punjab Kings,18,3,0.1,5.6,mandatory,Shashank Singh,A Kamboj,MP Stoinis,1.0,0,1,1,,,,,,,,,,,,,,,,,20.0,210.0,206
+Punjab Kings,18,4,0.1,5.6,mandatory,Shashank Singh,A Kamboj,MP Stoinis,,1,0,1,,,,,,,,,,,,,,,,,20.0,210.0,207
+Punjab Kings,18,5,0.1,5.6,mandatory,MP Stoinis,A Kamboj,Shashank Singh,,4,0,4,,,,,,,,,,,,,,,,,20.0,210.0,211

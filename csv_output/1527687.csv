@@ -1,0 +1,255 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,noballs,review_by,review_umpire,review_batter,review_decision,review_type,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,overs_deliveries_replacements.role_in,overs_deliveries_replacements.role_out,overs_deliveries_replacements.role_reason,overs_deliveries_replacements.role_role,fielders_name,target_overs,target_runs,current_team_total
+Gujarat Titans,0,1,0.1,5.6,mandatory,B Sai Sudharsan,Mukesh Kumar,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,,4
+Gujarat Titans,0,2,0.1,5.6,mandatory,B Sai Sudharsan,Mukesh Kumar,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,5
+Gujarat Titans,0,3,0.1,5.6,mandatory,Shubman Gill,Mukesh Kumar,B Sai Sudharsan,4,0,4,,,,,,,,,,,,,,,,,,,,,9
+Gujarat Titans,0,4,0.1,5.6,mandatory,Shubman Gill,Mukesh Kumar,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,,10
+Gujarat Titans,0,5,0.1,5.6,mandatory,B Sai Sudharsan,Mukesh Kumar,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,11
+Gujarat Titans,0,6,0.1,5.6,mandatory,Shubman Gill,Mukesh Kumar,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,,,,,11
+Gujarat Titans,1,1,0.1,5.6,mandatory,B Sai Sudharsan,L Ngidi,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,,15
+Gujarat Titans,1,2,0.1,5.6,mandatory,B Sai Sudharsan,L Ngidi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,16
+Gujarat Titans,1,3,0.1,5.6,mandatory,Shubman Gill,L Ngidi,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,,,,,16
+Gujarat Titans,1,4,0.1,5.6,mandatory,Shubman Gill,L Ngidi,B Sai Sudharsan,0,0,0,,,,,,,,,,,,,,,,,,,,,16
+Gujarat Titans,1,5,0.1,5.6,mandatory,Shubman Gill,L Ngidi,B Sai Sudharsan,1,0,1,,,,,,,,,,,,,,,,,,,,,17
+Gujarat Titans,1,6,0.1,5.6,mandatory,B Sai Sudharsan,L Ngidi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,18
+Gujarat Titans,2,1,0.1,5.6,mandatory,B Sai Sudharsan,Mukesh Kumar,Shubman Gill,0,1,1,1.0,,,,,,,,,,,,,,,,,,,,19
+Gujarat Titans,2,2,0.1,5.6,mandatory,B Sai Sudharsan,Mukesh Kumar,Shubman Gill,0,0,0,,,,,,,,B Sai Sudharsan,bowled,,,,,,,,,,,,19
+Gujarat Titans,2,3,0.1,5.6,mandatory,JC Buttler,Mukesh Kumar,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,,19
+Gujarat Titans,2,4,0.1,5.6,mandatory,JC Buttler,Mukesh Kumar,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,,19
+Gujarat Titans,2,5,0.1,5.6,mandatory,JC Buttler,Mukesh Kumar,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,,19
+Gujarat Titans,2,6,0.1,5.6,mandatory,JC Buttler,Mukesh Kumar,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,,,,,25
+Gujarat Titans,2,7,0.1,5.6,mandatory,JC Buttler,Mukesh Kumar,Shubman Gill,0,1,1,1.0,,,,,,,,,,,,,,,,,,,,26
+Gujarat Titans,2,8,0.1,5.6,mandatory,JC Buttler,Mukesh Kumar,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,27
+Gujarat Titans,3,1,0.1,5.6,mandatory,JC Buttler,AR Patel,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,,31
+Gujarat Titans,3,2,0.1,5.6,mandatory,JC Buttler,AR Patel,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,,,,,37
+Gujarat Titans,3,3,0.1,5.6,mandatory,JC Buttler,AR Patel,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,,37
+Gujarat Titans,3,4,0.1,5.6,mandatory,JC Buttler,AR Patel,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,38
+Gujarat Titans,3,5,0.1,5.6,mandatory,Shubman Gill,AR Patel,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,,,,39
+Gujarat Titans,3,6,0.1,5.6,mandatory,JC Buttler,AR Patel,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,40
+Gujarat Titans,4,1,0.1,5.6,mandatory,JC Buttler,Mukesh Kumar,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,,,,,46
+Gujarat Titans,4,2,0.1,5.6,mandatory,JC Buttler,Mukesh Kumar,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,,,,,52
+Gujarat Titans,4,3,0.1,5.6,mandatory,JC Buttler,Mukesh Kumar,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,,56
+Gujarat Titans,4,4,0.1,5.6,mandatory,JC Buttler,Mukesh Kumar,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,,56
+Gujarat Titans,4,5,0.1,5.6,mandatory,JC Buttler,Mukesh Kumar,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,,,,,62
+Gujarat Titans,4,6,0.1,5.6,mandatory,JC Buttler,Mukesh Kumar,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,63
+Gujarat Titans,5,1,0.1,5.6,mandatory,JC Buttler,L Ngidi,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,,63
+Gujarat Titans,5,2,0.1,5.6,mandatory,JC Buttler,L Ngidi,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,,63
+Gujarat Titans,5,3,0.1,5.6,mandatory,JC Buttler,L Ngidi,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,,67
+Gujarat Titans,5,4,0.1,5.6,mandatory,JC Buttler,L Ngidi,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,,67
+Gujarat Titans,5,5,0.1,5.6,mandatory,JC Buttler,L Ngidi,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,,67
+Gujarat Titans,5,6,0.1,5.6,mandatory,JC Buttler,L Ngidi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,68
+Gujarat Titans,6,1,0.1,5.6,mandatory,JC Buttler,AR Patel,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,69
+Gujarat Titans,6,2,0.1,5.6,mandatory,Shubman Gill,AR Patel,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,,,,70
+Gujarat Titans,6,3,0.1,5.6,mandatory,JC Buttler,AR Patel,Shubman Gill,2,0,2,,,,,,,,,,,,,,,,,,,,,72
+Gujarat Titans,6,4,0.1,5.6,mandatory,JC Buttler,AR Patel,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,73
+Gujarat Titans,6,5,0.1,5.6,mandatory,Shubman Gill,AR Patel,JC Buttler,4,0,4,,,,,,,,,,,,,,,,,,,,,77
+Gujarat Titans,6,6,0.1,5.6,mandatory,Shubman Gill,AR Patel,JC Buttler,0,0,0,,,,,,,,,,,,,,,,,,,,,77
+Gujarat Titans,7,1,0.1,5.6,mandatory,JC Buttler,Kuldeep Yadav,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,78
+Gujarat Titans,7,2,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,JC Buttler,1,0,1,,,,,,,,,,,,,,,,,,,,,79
+Gujarat Titans,7,3,0.1,5.6,mandatory,JC Buttler,Kuldeep Yadav,Shubman Gill,0,0,0,,,,,,,,JC Buttler,bowled,,,,,,,,,,,,79
+Gujarat Titans,7,4,0.1,5.6,mandatory,Washington Sundar,Kuldeep Yadav,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,80
+Gujarat Titans,7,5,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,81
+Gujarat Titans,7,6,0.1,5.6,mandatory,Washington Sundar,Kuldeep Yadav,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,,85
+Gujarat Titans,8,1,0.1,5.6,mandatory,Shubman Gill,T Natarajan,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,,,,85
+Gujarat Titans,8,2,0.1,5.6,mandatory,Shubman Gill,T Natarajan,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,86
+Gujarat Titans,8,3,0.1,5.6,mandatory,Washington Sundar,T Natarajan,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,87
+Gujarat Titans,8,4,0.1,5.6,mandatory,Shubman Gill,T Natarajan,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,88
+Gujarat Titans,8,5,0.1,5.6,mandatory,Washington Sundar,T Natarajan,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,89
+Gujarat Titans,8,6,0.1,5.6,mandatory,Shubman Gill,T Natarajan,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,90
+Gujarat Titans,9,1,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,,,,,96
+Gujarat Titans,9,2,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,97
+Gujarat Titans,9,3,0.1,5.6,mandatory,Washington Sundar,Kuldeep Yadav,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,98
+Gujarat Titans,9,4,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,99
+Gujarat Titans,9,5,0.1,5.6,mandatory,Washington Sundar,Kuldeep Yadav,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,100
+Gujarat Titans,9,6,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,101
+Gujarat Titans,10,1,0.1,5.6,mandatory,Shubman Gill,T Natarajan,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,102
+Gujarat Titans,10,2,0.1,5.6,mandatory,Washington Sundar,T Natarajan,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,103
+Gujarat Titans,10,3,0.1,5.6,mandatory,Shubman Gill,T Natarajan,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,104
+Gujarat Titans,10,4,0.1,5.6,mandatory,Washington Sundar,T Natarajan,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,,108
+Gujarat Titans,10,5,0.1,5.6,mandatory,Washington Sundar,T Natarajan,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,109
+Gujarat Titans,10,6,0.1,5.6,mandatory,Shubman Gill,T Natarajan,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,110
+Gujarat Titans,11,1,0.1,5.6,mandatory,Shubman Gill,V Nigam,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,111
+Gujarat Titans,11,2,0.1,5.6,mandatory,Washington Sundar,V Nigam,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,,115
+Gujarat Titans,11,3,0.1,5.6,mandatory,Washington Sundar,V Nigam,Shubman Gill,4,1,5,,1.0,,,,,,,,,,,,,,,,,,,120
+Gujarat Titans,11,4,0.1,5.6,mandatory,Washington Sundar,V Nigam,Shubman Gill,6,0,6,,,,,,,,,,,,,,,,,,,,,126
+Gujarat Titans,11,5,0.1,5.6,mandatory,Washington Sundar,V Nigam,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,127
+Gujarat Titans,11,6,0.1,5.6,mandatory,Shubman Gill,V Nigam,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,,,,,133
+Gujarat Titans,11,7,0.1,5.6,mandatory,Shubman Gill,V Nigam,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,,,,133
+Gujarat Titans,12,1,0.1,5.6,mandatory,Washington Sundar,Kuldeep Yadav,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,134
+Gujarat Titans,12,2,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,,,,134
+Gujarat Titans,12,3,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,,,,,140
+Gujarat Titans,12,4,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,141
+Gujarat Titans,12,5,0.1,5.6,mandatory,Washington Sundar,Kuldeep Yadav,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,,141
+Gujarat Titans,12,6,0.1,5.6,mandatory,Washington Sundar,Kuldeep Yadav,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,142
+Gujarat Titans,13,1,0.1,5.6,mandatory,Washington Sundar,AR Patel,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,143
+Gujarat Titans,13,2,0.1,5.6,mandatory,Shubman Gill,AR Patel,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,144
+Gujarat Titans,13,3,0.1,5.6,mandatory,Washington Sundar,AR Patel,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,145
+Gujarat Titans,13,4,0.1,5.6,mandatory,Shubman Gill,AR Patel,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,146
+Gujarat Titans,13,5,0.1,5.6,mandatory,Washington Sundar,AR Patel,Shubman Gill,4,0,4,,,,,,,,,,,,,,,,,,,,,150
+Gujarat Titans,13,6,0.1,5.6,mandatory,Washington Sundar,AR Patel,Shubman Gill,0,1,1,1.0,,,,,,,,,,,,,,,,,,,,151
+Gujarat Titans,13,7,0.1,5.6,mandatory,Washington Sundar,AR Patel,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,152
+Gujarat Titans,14,1,0.1,5.6,mandatory,Washington Sundar,L Ngidi,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,,152
+Gujarat Titans,14,2,0.1,5.6,mandatory,Washington Sundar,L Ngidi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,153
+Gujarat Titans,14,3,0.1,5.6,mandatory,Shubman Gill,L Ngidi,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,154
+Gujarat Titans,14,4,0.1,5.6,mandatory,Washington Sundar,L Ngidi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,155
+Gujarat Titans,14,5,0.1,5.6,mandatory,Shubman Gill,L Ngidi,Washington Sundar,0,1,1,1.0,,,,,,,,,,,,,,,,,,,,156
+Gujarat Titans,14,6,0.1,5.6,mandatory,Shubman Gill,L Ngidi,Washington Sundar,4,0,4,,,,,,,,,,,,,,,,,,,,,160
+Gujarat Titans,14,7,0.1,5.6,mandatory,Shubman Gill,L Ngidi,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,161
+Gujarat Titans,15,1,0.1,5.6,mandatory,Shubman Gill,T Natarajan,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,162
+Gujarat Titans,15,2,0.1,5.6,mandatory,Washington Sundar,T Natarajan,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,163
+Gujarat Titans,15,3,0.1,5.6,mandatory,Shubman Gill,T Natarajan,Washington Sundar,4,0,4,,,,,,,,,,,,,,,,,,,,,167
+Gujarat Titans,15,4,0.1,5.6,mandatory,Shubman Gill,T Natarajan,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,,,,167
+Gujarat Titans,15,5,0.1,5.6,mandatory,Shubman Gill,T Natarajan,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,168
+Gujarat Titans,15,6,0.1,5.6,mandatory,Washington Sundar,T Natarajan,Shubman Gill,0,0,0,,,,,,,,,,,,,,,,,,,,,168
+Gujarat Titans,16,1,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,,,,,174
+Gujarat Titans,16,2,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,175
+Gujarat Titans,16,3,0.1,5.6,mandatory,Washington Sundar,Kuldeep Yadav,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,176
+Gujarat Titans,16,4,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,,,,,182
+Gujarat Titans,16,5,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,,,,182
+Gujarat Titans,16,6,0.1,5.6,mandatory,Shubman Gill,Kuldeep Yadav,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,,,,182
+Gujarat Titans,17,1,0.1,5.6,mandatory,Washington Sundar,L Ngidi,Shubman Gill,1,0,1,,,,,,,,,,,,,,,,,,,,,183
+Gujarat Titans,17,2,0.1,5.6,mandatory,Shubman Gill,L Ngidi,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,,,,183
+Gujarat Titans,17,3,0.1,5.6,mandatory,Shubman Gill,L Ngidi,Washington Sundar,0,0,0,,,,,,,,Shubman Gill,caught,,,,,,,,,N Rana,,,183
+Gujarat Titans,17,4,0.1,5.6,mandatory,GD Phillips,L Ngidi,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,,,,183
+Gujarat Titans,17,5,0.1,5.6,mandatory,GD Phillips,L Ngidi,Washington Sundar,0,1,1,1.0,,,,,,,,,,,,,,,,,,,,184
+Gujarat Titans,17,6,0.1,5.6,mandatory,GD Phillips,L Ngidi,Washington Sundar,0,0,0,,,,,,,,,,,,,,,,,,,,,184
+Gujarat Titans,17,7,0.1,5.6,mandatory,GD Phillips,L Ngidi,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,185
+Gujarat Titans,18,1,0.1,5.6,mandatory,GD Phillips,T Natarajan,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,186
+Gujarat Titans,18,2,0.1,5.6,mandatory,Washington Sundar,T Natarajan,GD Phillips,0,0,0,,,,,,,,,,,,,,,,,,,,,186
+Gujarat Titans,18,3,0.1,5.6,mandatory,Washington Sundar,T Natarajan,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,,,,,187
+Gujarat Titans,18,4,0.1,5.6,mandatory,GD Phillips,T Natarajan,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,188
+Gujarat Titans,18,5,0.1,5.6,mandatory,Washington Sundar,T Natarajan,GD Phillips,6,0,6,,,,,,,,,,,,,,,,,,,,,194
+Gujarat Titans,18,6,0.1,5.6,mandatory,Washington Sundar,T Natarajan,GD Phillips,4,0,4,,,,,,,,,,,,,,,,,,,,,198
+Gujarat Titans,19,1,0.1,5.6,mandatory,GD Phillips,Mukesh Kumar,Washington Sundar,6,0,6,,,,,,,,,,,,,,,,,,,,,204
+Gujarat Titans,19,2,0.1,5.6,mandatory,GD Phillips,Mukesh Kumar,Washington Sundar,1,0,1,,,,,,,,,,,,,,,,,,,,,205
+Gujarat Titans,19,3,0.1,5.6,mandatory,Washington Sundar,Mukesh Kumar,GD Phillips,0,0,0,,,,,,,,Washington Sundar,caught,,,,,,,,,N Rana,,,205
+Gujarat Titans,19,4,0.1,5.6,mandatory,R Tewatia,Mukesh Kumar,GD Phillips,1,0,1,,,,,,,,,,,,,,,,,,,,,206
+Gujarat Titans,19,5,0.1,5.6,mandatory,GD Phillips,Mukesh Kumar,R Tewatia,0,0,0,,,,,,,,,,,,,,,,,,,,,206
+Gujarat Titans,19,6,0.1,5.6,mandatory,GD Phillips,Mukesh Kumar,R Tewatia,4,0,4,,,,,,,,,,,,,,,,,,,,,210
+Delhi Capitals,0,1,0.1,5.6,mandatory,P Nissanka,Mohammed Siraj,KL Rahul,0,0,0,,,,,,,,,,M Prasidh Krishna,M Shahrukh Khan,Gujarat Titans,impact_player,,,,,,20.0,211.0,0
+Delhi Capitals,0,2,0.1,5.6,mandatory,P Nissanka,Mohammed Siraj,KL Rahul,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,4
+Delhi Capitals,0,3,0.1,5.6,mandatory,P Nissanka,Mohammed Siraj,KL Rahul,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,8
+Delhi Capitals,0,4,0.1,5.6,mandatory,P Nissanka,Mohammed Siraj,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,9
+Delhi Capitals,0,5,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,P Nissanka,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,10
+Delhi Capitals,0,6,0.1,5.6,mandatory,P Nissanka,Mohammed Siraj,KL Rahul,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,14
+Delhi Capitals,1,1,0.1,5.6,mandatory,KL Rahul,K Rabada,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,14
+Delhi Capitals,1,2,0.1,5.6,mandatory,KL Rahul,K Rabada,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,14
+Delhi Capitals,1,3,0.1,5.6,mandatory,KL Rahul,K Rabada,P Nissanka,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,18
+Delhi Capitals,1,4,0.1,5.6,mandatory,KL Rahul,K Rabada,P Nissanka,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,19
+Delhi Capitals,1,5,0.1,5.6,mandatory,P Nissanka,K Rabada,KL Rahul,0,1,1,1.0,,,,,,,,,,,,,,,,,,20.0,211.0,20
+Delhi Capitals,1,6,0.1,5.6,mandatory,P Nissanka,K Rabada,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,20
+Delhi Capitals,1,7,0.1,5.6,mandatory,P Nissanka,K Rabada,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,20
+Delhi Capitals,2,1,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,P Nissanka,2,0,2,,,,,,,,,,,,,,,,,,,20.0,211.0,22
+Delhi Capitals,2,2,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,22
+Delhi Capitals,2,3,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,22
+Delhi Capitals,2,4,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,P Nissanka,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,26
+Delhi Capitals,2,5,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,26
+Delhi Capitals,2,6,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,P Nissanka,0,1,1,1.0,,,,,,,,,,,,,,,,,,20.0,211.0,27
+Delhi Capitals,2,7,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,27
+Delhi Capitals,3,1,0.1,5.6,mandatory,P Nissanka,K Rabada,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,28
+Delhi Capitals,3,2,0.1,5.6,mandatory,KL Rahul,K Rabada,P Nissanka,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,29
+Delhi Capitals,3,3,0.1,5.6,mandatory,P Nissanka,K Rabada,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,30
+Delhi Capitals,3,4,0.1,5.6,mandatory,KL Rahul,K Rabada,P Nissanka,6,0,6,,,,,,,,,,,,,,,,,,,20.0,211.0,36
+Delhi Capitals,3,5,0.1,5.6,mandatory,KL Rahul,K Rabada,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,36
+Delhi Capitals,3,6,0.1,5.6,mandatory,KL Rahul,K Rabada,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,36
+Delhi Capitals,4,1,0.1,5.6,mandatory,P Nissanka,Rashid Khan,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,36
+Delhi Capitals,4,2,0.1,5.6,mandatory,P Nissanka,Rashid Khan,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,37
+Delhi Capitals,4,3,0.1,5.6,mandatory,KL Rahul,Rashid Khan,P Nissanka,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,38
+Delhi Capitals,4,4,0.1,5.6,mandatory,P Nissanka,Rashid Khan,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,39
+Delhi Capitals,4,5,0.1,5.6,mandatory,KL Rahul,Rashid Khan,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,39
+Delhi Capitals,4,6,0.1,5.6,mandatory,KL Rahul,Rashid Khan,P Nissanka,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,40
+Delhi Capitals,5,1,0.1,5.6,mandatory,KL Rahul,Ashok Sharma,P Nissanka,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,44
+Delhi Capitals,5,2,0.1,5.6,mandatory,KL Rahul,Ashok Sharma,P Nissanka,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,45
+Delhi Capitals,5,3,0.1,5.6,mandatory,P Nissanka,Ashok Sharma,KL Rahul,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,49
+Delhi Capitals,5,4,0.1,5.6,mandatory,P Nissanka,Ashok Sharma,KL Rahul,6,0,6,,,,,,,,,,,,,,,,,,,20.0,211.0,55
+Delhi Capitals,5,5,0.1,5.6,mandatory,P Nissanka,Ashok Sharma,KL Rahul,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,59
+Delhi Capitals,5,6,0.1,5.6,mandatory,P Nissanka,Ashok Sharma,KL Rahul,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,63
+Delhi Capitals,6,1,0.1,5.6,mandatory,KL Rahul,M Prasidh Krishna,P Nissanka,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,64
+Delhi Capitals,6,2,0.1,5.6,mandatory,P Nissanka,M Prasidh Krishna,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,64
+Delhi Capitals,6,3,0.1,5.6,mandatory,P Nissanka,M Prasidh Krishna,KL Rahul,2,0,2,,,,,,,,,,,,,,,,,,,20.0,211.0,66
+Delhi Capitals,6,4,0.1,5.6,mandatory,P Nissanka,M Prasidh Krishna,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,66
+Delhi Capitals,6,5,0.1,5.6,mandatory,P Nissanka,M Prasidh Krishna,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,67
+Delhi Capitals,6,6,0.1,5.6,mandatory,KL Rahul,M Prasidh Krishna,P Nissanka,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,71
+Delhi Capitals,7,1,0.1,5.6,mandatory,P Nissanka,Rashid Khan,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,72
+Delhi Capitals,7,2,0.1,5.6,mandatory,KL Rahul,Rashid Khan,P Nissanka,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,73
+Delhi Capitals,7,3,0.1,5.6,mandatory,P Nissanka,Rashid Khan,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,74
+Delhi Capitals,7,4,0.1,5.6,mandatory,KL Rahul,Rashid Khan,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,74
+Delhi Capitals,7,5,0.1,5.6,mandatory,KL Rahul,Rashid Khan,P Nissanka,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,75
+Delhi Capitals,7,6,0.1,5.6,mandatory,P Nissanka,Rashid Khan,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,76
+Delhi Capitals,8,1,0.1,5.6,mandatory,P Nissanka,M Prasidh Krishna,KL Rahul,0,0,0,,,,,,,,P Nissanka,caught,,,,,,,,,R Tewatia,20.0,211.0,76
+Delhi Capitals,8,2,0.1,5.6,mandatory,N Rana,M Prasidh Krishna,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,77
+Delhi Capitals,8,3,0.1,5.6,mandatory,KL Rahul,M Prasidh Krishna,N Rana,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,81
+Delhi Capitals,8,4,0.1,5.6,mandatory,KL Rahul,M Prasidh Krishna,N Rana,6,0,6,,,,,,,,,,,,,,,,,,,20.0,211.0,87
+Delhi Capitals,8,5,0.1,5.6,mandatory,KL Rahul,M Prasidh Krishna,N Rana,6,0,6,,,,,,,,,,,,,,,,,,,20.0,211.0,93
+Delhi Capitals,8,6,0.1,5.6,mandatory,KL Rahul,M Prasidh Krishna,N Rana,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,97
+Delhi Capitals,9,1,0.1,5.6,mandatory,N Rana,Rashid Khan,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,97
+Delhi Capitals,9,2,0.1,5.6,mandatory,N Rana,Rashid Khan,KL Rahul,0,0,0,,,Delhi Capitals,Anish Sahasrabudhe,N Rana,upheld,wicket,,,,,,,,,,,,20.0,211.0,97
+Delhi Capitals,9,3,0.1,5.6,mandatory,N Rana,Rashid Khan,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,97
+Delhi Capitals,9,4,0.1,5.6,mandatory,N Rana,Rashid Khan,KL Rahul,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,101
+Delhi Capitals,9,5,0.1,5.6,mandatory,N Rana,Rashid Khan,KL Rahul,0,0,0,,,,,,,,N Rana,caught,,,,,,,,,B Sai Sudharsan,20.0,211.0,101
+Delhi Capitals,9,6,0.1,5.6,mandatory,Sameer Rizvi,Rashid Khan,KL Rahul,0,0,0,,,,,,,,Sameer Rizvi,bowled,Sameer Rizvi,Mukesh Kumar,Delhi Capitals,impact_player,,,,,,20.0,211.0,101
+Delhi Capitals,10,1,0.1,5.6,mandatory,KL Rahul,Washington Sundar,DA Miller,6,0,6,,,,,,,,,,,,,,,,,,,20.0,211.0,107
+Delhi Capitals,10,2,0.1,5.6,mandatory,KL Rahul,Washington Sundar,DA Miller,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,108
+Delhi Capitals,10,3,0.1,5.6,mandatory,DA Miller,Washington Sundar,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,109
+Delhi Capitals,10,4,0.1,5.6,mandatory,KL Rahul,Washington Sundar,DA Miller,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,110
+Delhi Capitals,10,5,0.1,5.6,mandatory,DA Miller,Washington Sundar,KL Rahul,2,0,2,,,,,,,,,,,,,,,,,,,20.0,211.0,112
+Delhi Capitals,10,6,0.1,5.6,mandatory,DA Miller,Washington Sundar,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,112
+Delhi Capitals,11,1,0.1,5.6,mandatory,KL Rahul,Ashok Sharma,DA Miller,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,113
+Delhi Capitals,11,2,0.1,5.6,mandatory,DA Miller,Ashok Sharma,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,113
+Delhi Capitals,11,3,0.1,5.6,mandatory,DA Miller,Ashok Sharma,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,114
+Delhi Capitals,11,4,0.1,5.6,mandatory,KL Rahul,Ashok Sharma,DA Miller,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,115
+Delhi Capitals,11,5,0.1,5.6,mandatory,DA Miller,Ashok Sharma,KL Rahul,0,1,1,1.0,,,,,,,,,,,,,,,,,,20.0,211.0,116
+Delhi Capitals,11,6,0.1,5.6,mandatory,DA Miller,Ashok Sharma,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,117
+Delhi Capitals,11,7,0.1,5.6,mandatory,KL Rahul,Ashok Sharma,DA Miller,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,118
+Delhi Capitals,12,1,0.1,5.6,mandatory,KL Rahul,M Prasidh Krishna,DA Miller,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,119
+Delhi Capitals,12,2,0.1,5.6,mandatory,DA Miller,M Prasidh Krishna,KL Rahul,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,123
+Delhi Capitals,12,3,0.1,5.6,mandatory,DA Miller,M Prasidh Krishna,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,123
+Delhi Capitals,12,4,0.1,5.6,mandatory,DA Miller,M Prasidh Krishna,KL Rahul,2,0,2,,,,,,,,,,,,,,,,,,,20.0,211.0,125
+Delhi Capitals,12,5,0.1,5.6,mandatory,DA Miller,M Prasidh Krishna,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,126
+Delhi Capitals,12,6,0.1,5.6,mandatory,KL Rahul,M Prasidh Krishna,DA Miller,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,130
+Delhi Capitals,13,1,0.1,5.6,mandatory,AR Patel,Rashid Khan,KL Rahul,1,0,1,,,,,,,,,,,,,,AR Patel,DA Miller,injury,batter,,20.0,211.0,131
+Delhi Capitals,13,2,0.1,5.6,mandatory,KL Rahul,Rashid Khan,AR Patel,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,132
+Delhi Capitals,13,3,0.1,5.6,mandatory,AR Patel,Rashid Khan,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,133
+Delhi Capitals,13,4,0.1,5.6,mandatory,KL Rahul,Rashid Khan,AR Patel,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,133
+Delhi Capitals,13,5,0.1,5.6,mandatory,KL Rahul,Rashid Khan,AR Patel,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,134
+Delhi Capitals,13,6,0.1,5.6,mandatory,AR Patel,Rashid Khan,KL Rahul,0,0,0,,,,,,,,AR Patel,caught,,,,,,,,,GD Phillips,20.0,211.0,134
+Delhi Capitals,14,1,0.1,5.6,mandatory,KL Rahul,K Rabada,T Stubbs,0,1,1,1.0,,,,,,,,,,,,,,,,,,20.0,211.0,135
+Delhi Capitals,14,2,0.1,5.6,mandatory,KL Rahul,K Rabada,T Stubbs,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,139
+Delhi Capitals,14,3,0.1,5.6,mandatory,KL Rahul,K Rabada,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,140
+Delhi Capitals,14,4,0.1,5.6,mandatory,T Stubbs,K Rabada,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,141
+Delhi Capitals,14,5,0.1,5.6,mandatory,KL Rahul,K Rabada,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,142
+Delhi Capitals,14,6,0.1,5.6,mandatory,T Stubbs,K Rabada,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,142
+Delhi Capitals,14,7,0.1,5.6,mandatory,T Stubbs,K Rabada,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,142
+Delhi Capitals,15,1,0.1,5.6,mandatory,KL Rahul,Ashok Sharma,T Stubbs,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,146
+Delhi Capitals,15,2,0.1,5.6,mandatory,KL Rahul,Ashok Sharma,T Stubbs,0,1,1,1.0,,,,,,,,,,,,,,,,,,20.0,211.0,147
+Delhi Capitals,15,3,0.1,5.6,mandatory,KL Rahul,Ashok Sharma,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,148
+Delhi Capitals,15,4,0.1,5.6,mandatory,T Stubbs,Ashok Sharma,KL Rahul,5,0,5,,,,,,,,,,,,,,,,,,,20.0,211.0,153
+Delhi Capitals,15,5,0.1,5.6,mandatory,KL Rahul,Ashok Sharma,T Stubbs,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,157
+Delhi Capitals,15,6,0.1,5.6,mandatory,KL Rahul,Ashok Sharma,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,158
+Delhi Capitals,15,7,0.1,5.6,mandatory,T Stubbs,Ashok Sharma,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,158
+Delhi Capitals,16,1,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,159
+Delhi Capitals,16,2,0.1,5.6,mandatory,T Stubbs,Mohammed Siraj,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,160
+Delhi Capitals,16,3,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,T Stubbs,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,160
+Delhi Capitals,16,4,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,T Stubbs,0,0,0,,,,,,,,T Stubbs,run out,,,,,,,,,B Sai Sudharsan,20.0,211.0,160
+Delhi Capitals,16,5,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,V Nigam,0,1,1,1.0,,,,,,,,,,,,,,,,,,20.0,211.0,161
+Delhi Capitals,16,6,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,V Nigam,0,1,1,1.0,,,,,,,,,,,,,,,,,,20.0,211.0,162
+Delhi Capitals,16,7,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,V Nigam,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,166
+Delhi Capitals,16,8,0.1,5.6,mandatory,KL Rahul,Mohammed Siraj,V Nigam,0,0,0,,,,,,,,KL Rahul,caught,,,,,,,,,JC Buttler,20.0,211.0,166
+Delhi Capitals,17,1,0.1,5.6,mandatory,DA Miller,K Rabada,V Nigam,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,167
+Delhi Capitals,17,2,0.1,5.6,mandatory,V Nigam,K Rabada,DA Miller,2,0,2,,,,,,,,,,,,,,,,,,,20.0,211.0,169
+Delhi Capitals,17,3,0.1,5.6,mandatory,V Nigam,K Rabada,DA Miller,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,169
+Delhi Capitals,17,4,0.1,5.6,mandatory,V Nigam,K Rabada,DA Miller,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,170
+Delhi Capitals,17,5,0.1,5.6,mandatory,DA Miller,K Rabada,V Nigam,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,174
+Delhi Capitals,17,6,0.1,5.6,mandatory,DA Miller,K Rabada,V Nigam,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,175
+Delhi Capitals,18,1,0.1,5.6,mandatory,DA Miller,Mohammed Siraj,V Nigam,0,1,1,1.0,,,,,,,,,,,,,,,,,,20.0,211.0,176
+Delhi Capitals,18,2,0.1,5.6,mandatory,DA Miller,Mohammed Siraj,V Nigam,6,0,6,,,,,,,,,,,,,,,,,,,20.0,211.0,182
+Delhi Capitals,18,3,0.1,5.6,mandatory,DA Miller,Mohammed Siraj,V Nigam,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,186
+Delhi Capitals,18,4,0.1,5.6,mandatory,DA Miller,Mohammed Siraj,V Nigam,6,0,6,,,,,,,,,,,,,,,,,,,20.0,211.0,192
+Delhi Capitals,18,5,0.1,5.6,mandatory,DA Miller,Mohammed Siraj,V Nigam,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,193
+Delhi Capitals,18,6,0.1,5.6,mandatory,V Nigam,Mohammed Siraj,DA Miller,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,197
+Delhi Capitals,18,7,0.1,5.6,mandatory,V Nigam,Mohammed Siraj,DA Miller,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,198
+Delhi Capitals,19,1,0.1,5.6,mandatory,V Nigam,M Prasidh Krishna,DA Miller,4,0,4,,,,,,,,,,,,,,,,,,,20.0,211.0,202
+Delhi Capitals,19,2,0.1,5.6,mandatory,V Nigam,M Prasidh Krishna,DA Miller,0,0,0,,,,,,,,V Nigam,caught,,,,,,,,,Shubman Gill,20.0,211.0,202
+Delhi Capitals,19,3,0.1,5.6,mandatory,Kuldeep Yadav,M Prasidh Krishna,DA Miller,1,0,1,,,,,,,,,,,,,,,,,,,20.0,211.0,203
+Delhi Capitals,19,4,0.1,5.6,mandatory,DA Miller,M Prasidh Krishna,Kuldeep Yadav,6,0,6,,,,,,,,,,,,,,,,,,,20.0,211.0,209
+Delhi Capitals,19,5,0.1,5.6,mandatory,DA Miller,M Prasidh Krishna,Kuldeep Yadav,0,0,0,,,,,,,,,,,,,,,,,,,20.0,211.0,209
+Delhi Capitals,19,6,0.1,5.6,mandatory,DA Miller,M Prasidh Krishna,Kuldeep Yadav,0,0,0,,,,,,,,Kuldeep Yadav,run out,,,,,,,,,JC Buttler,20.0,211.0,209

@@ -1,0 +1,248 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,legbyes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Mumbai Indians,0,1,0.1,5.6,mandatory,WG Jacks,PJ Cummins,RD Rickelton,1,0,1,,,,,,,,,,,,1
+Mumbai Indians,0,2,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,WG Jacks,0,0,0,,,,,,,,,,,,1
+Mumbai Indians,0,3,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,WG Jacks,0,0,0,,,,,,,,,,,,1
+Mumbai Indians,0,4,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,WG Jacks,0,0,0,,,,,,,,,,,,1
+Mumbai Indians,0,5,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,WG Jacks,1,0,1,,,,,,,,,,,,2
+Mumbai Indians,0,6,0.1,5.6,mandatory,WG Jacks,PJ Cummins,RD Rickelton,4,0,4,,,,,,,,,,,,6
+Mumbai Indians,1,1,0.1,5.6,mandatory,RD Rickelton,PP Hinge,WG Jacks,6,0,6,,,,,,,,,,,,12
+Mumbai Indians,1,2,0.1,5.6,mandatory,RD Rickelton,PP Hinge,WG Jacks,1,0,1,,,,,,,,,,,,13
+Mumbai Indians,1,3,0.1,5.6,mandatory,WG Jacks,PP Hinge,RD Rickelton,4,0,4,,,,,,,,,,,,17
+Mumbai Indians,1,4,0.1,5.6,mandatory,WG Jacks,PP Hinge,RD Rickelton,4,0,4,,,,,,,,,,,,21
+Mumbai Indians,1,5,0.1,5.6,mandatory,WG Jacks,PP Hinge,RD Rickelton,0,0,0,,,,,,,,,,,,21
+Mumbai Indians,1,6,0.1,5.6,mandatory,WG Jacks,PP Hinge,RD Rickelton,0,0,0,,,,,,,,,,,,21
+Mumbai Indians,2,1,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,WG Jacks,4,0,4,,,,,,,,,,,,25
+Mumbai Indians,2,2,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,WG Jacks,4,0,4,,,,,,,,,,,,29
+Mumbai Indians,2,3,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,WG Jacks,0,1,1,1.0,,,,,,,,,,,30
+Mumbai Indians,2,4,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,WG Jacks,2,0,2,,,,,,,,,,,,32
+Mumbai Indians,2,5,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,WG Jacks,1,0,1,,,,,,,,,,,,33
+Mumbai Indians,2,6,0.1,5.6,mandatory,WG Jacks,PJ Cummins,RD Rickelton,4,0,4,,,,,,,,,,,,37
+Mumbai Indians,2,7,0.1,5.6,mandatory,WG Jacks,PJ Cummins,RD Rickelton,0,0,0,,,,,,,,,,,,37
+Mumbai Indians,3,1,0.1,5.6,mandatory,RD Rickelton,E Malinga,WG Jacks,0,0,0,,,,,,,,,,,,37
+Mumbai Indians,3,2,0.1,5.6,mandatory,RD Rickelton,E Malinga,WG Jacks,0,1,1,,1.0,,,,,,,,,,38
+Mumbai Indians,3,3,0.1,5.6,mandatory,WG Jacks,E Malinga,RD Rickelton,1,0,1,,,,,,,,,,,,39
+Mumbai Indians,3,4,0.1,5.6,mandatory,RD Rickelton,E Malinga,WG Jacks,1,0,1,,,,,,,,,,,,40
+Mumbai Indians,3,5,0.1,5.6,mandatory,WG Jacks,E Malinga,RD Rickelton,2,0,2,,,,,,,,,,,,42
+Mumbai Indians,3,6,0.1,5.6,mandatory,WG Jacks,E Malinga,RD Rickelton,0,1,1,1.0,,,,,,,,,,,43
+Mumbai Indians,3,7,0.1,5.6,mandatory,WG Jacks,E Malinga,RD Rickelton,1,0,1,,,,,,,,,,,,44
+Mumbai Indians,4,1,0.1,5.6,mandatory,WG Jacks,Harsh Dubey,RD Rickelton,6,0,6,,,,,,,,,,,,50
+Mumbai Indians,4,2,0.1,5.6,mandatory,WG Jacks,Harsh Dubey,RD Rickelton,0,0,0,,,,,,,,,,,,50
+Mumbai Indians,4,3,0.1,5.6,mandatory,WG Jacks,Harsh Dubey,RD Rickelton,0,0,0,,,,,,,,,,,,50
+Mumbai Indians,4,4,0.1,5.6,mandatory,WG Jacks,Harsh Dubey,RD Rickelton,6,0,6,,,,,,,,,,,,56
+Mumbai Indians,4,5,0.1,5.6,mandatory,WG Jacks,Harsh Dubey,RD Rickelton,0,0,0,,,,,,,,,,,,56
+Mumbai Indians,4,6,0.1,5.6,mandatory,WG Jacks,Harsh Dubey,RD Rickelton,4,0,4,,,,,,,,,,,,60
+Mumbai Indians,5,1,0.1,5.6,mandatory,RD Rickelton,Sakib Hussain,WG Jacks,6,0,6,,,,,,,,,,,,66
+Mumbai Indians,5,2,0.1,5.6,mandatory,RD Rickelton,Sakib Hussain,WG Jacks,0,0,0,,,,,,,,,,,,66
+Mumbai Indians,5,3,0.1,5.6,mandatory,RD Rickelton,Sakib Hussain,WG Jacks,6,0,6,,,,,,,,,,,,72
+Mumbai Indians,5,4,0.1,5.6,mandatory,RD Rickelton,Sakib Hussain,WG Jacks,4,0,4,,,,,,,,,,,,76
+Mumbai Indians,5,5,0.1,5.6,mandatory,RD Rickelton,Sakib Hussain,WG Jacks,1,0,1,,,,,,,,,,,,77
+Mumbai Indians,5,6,0.1,5.6,mandatory,WG Jacks,Sakib Hussain,RD Rickelton,1,0,1,,,,,,,,,,,,78
+Mumbai Indians,6,1,0.1,5.6,mandatory,WG Jacks,Harsh Dubey,RD Rickelton,1,0,1,,,,,,,,,,,,79
+Mumbai Indians,6,2,0.1,5.6,mandatory,RD Rickelton,Harsh Dubey,WG Jacks,2,0,2,,,,,,,,,,,,81
+Mumbai Indians,6,3,0.1,5.6,mandatory,RD Rickelton,Harsh Dubey,WG Jacks,1,0,1,,,,,,,,,,,,82
+Mumbai Indians,6,4,0.1,5.6,mandatory,WG Jacks,Harsh Dubey,RD Rickelton,6,0,6,,,,,,,,,,,,88
+Mumbai Indians,6,5,0.1,5.6,mandatory,WG Jacks,Harsh Dubey,RD Rickelton,1,0,1,,,,,,,,,,,,89
+Mumbai Indians,6,6,0.1,5.6,mandatory,RD Rickelton,Harsh Dubey,WG Jacks,4,0,4,,,,,,,,,,,,93
+Mumbai Indians,7,1,0.1,5.6,mandatory,WG Jacks,Nithish Kumar Reddy,RD Rickelton,0,0,0,,,WG Jacks,caught,,,,,Ishan Kishan,,,93
+Mumbai Indians,7,2,0.1,5.6,mandatory,SA Yadav,Nithish Kumar Reddy,RD Rickelton,4,0,4,,,,,,,,,,,,97
+Mumbai Indians,7,3,0.1,5.6,mandatory,SA Yadav,Nithish Kumar Reddy,RD Rickelton,1,0,1,,,,,,,,,,,,98
+Mumbai Indians,7,4,0.1,5.6,mandatory,RD Rickelton,Nithish Kumar Reddy,SA Yadav,4,0,4,,,,,,,,,,,,102
+Mumbai Indians,7,5,0.1,5.6,mandatory,RD Rickelton,Nithish Kumar Reddy,SA Yadav,6,0,6,,,,,,,,,,,,108
+Mumbai Indians,7,6,0.1,5.6,mandatory,RD Rickelton,Nithish Kumar Reddy,SA Yadav,2,0,2,,,,,,,,,,,,110
+Mumbai Indians,8,1,0.1,5.6,mandatory,SA Yadav,E Malinga,RD Rickelton,0,0,0,,,,,,,,,,,,110
+Mumbai Indians,8,2,0.1,5.6,mandatory,SA Yadav,E Malinga,RD Rickelton,0,0,0,,,,,,,,,,,,110
+Mumbai Indians,8,3,0.1,5.6,mandatory,SA Yadav,E Malinga,RD Rickelton,0,0,0,,,SA Yadav,caught,,,,,Abhishek Sharma,,,110
+Mumbai Indians,8,4,0.1,5.6,mandatory,Naman Dhir,E Malinga,RD Rickelton,1,0,1,,,,,,,,,,,,111
+Mumbai Indians,8,5,0.1,5.6,mandatory,RD Rickelton,E Malinga,Naman Dhir,1,0,1,,,,,,,,,,,,112
+Mumbai Indians,8,6,0.1,5.6,mandatory,Naman Dhir,E Malinga,RD Rickelton,1,0,1,,,,,,,,,,,,113
+Mumbai Indians,9,1,0.1,5.6,mandatory,Naman Dhir,PJ Cummins,RD Rickelton,0,0,0,,,,,,,,,,,,113
+Mumbai Indians,9,2,0.1,5.6,mandatory,Naman Dhir,PJ Cummins,RD Rickelton,1,0,1,,,,,,,,,,,,114
+Mumbai Indians,9,3,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,Naman Dhir,1,0,1,,,,,,,,,,,,115
+Mumbai Indians,9,4,0.1,5.6,mandatory,Naman Dhir,PJ Cummins,RD Rickelton,4,0,4,,,,,,,,,,,,119
+Mumbai Indians,9,5,0.1,5.6,mandatory,Naman Dhir,PJ Cummins,RD Rickelton,1,0,1,,,,,,,,,,,,120
+Mumbai Indians,9,6,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,Naman Dhir,4,0,4,,,,,,,,,,,,124
+Mumbai Indians,10,1,0.1,5.6,mandatory,Naman Dhir,Sakib Hussain,RD Rickelton,1,0,1,,,,,,,,,,,,125
+Mumbai Indians,10,2,0.1,5.6,mandatory,RD Rickelton,Sakib Hussain,Naman Dhir,0,1,1,1.0,,,,,,,,,,,126
+Mumbai Indians,10,3,0.1,5.6,mandatory,RD Rickelton,Sakib Hussain,Naman Dhir,1,0,1,,,,,,,,,,,,127
+Mumbai Indians,10,4,0.1,5.6,mandatory,Naman Dhir,Sakib Hussain,RD Rickelton,1,0,1,,,,,,,,,,,,128
+Mumbai Indians,10,5,0.1,5.6,mandatory,RD Rickelton,Sakib Hussain,Naman Dhir,4,0,4,,,,,,,,,,,,132
+Mumbai Indians,10,6,0.1,5.6,mandatory,RD Rickelton,Sakib Hussain,Naman Dhir,1,0,1,,,,,,,,,,,,133
+Mumbai Indians,10,7,0.1,5.6,mandatory,Naman Dhir,Sakib Hussain,RD Rickelton,4,0,4,,,,,,,,,,,,137
+Mumbai Indians,11,1,0.1,5.6,mandatory,RD Rickelton,Harsh Dubey,Naman Dhir,6,0,6,,,,,,,,,,,,143
+Mumbai Indians,11,2,0.1,5.6,mandatory,RD Rickelton,Harsh Dubey,Naman Dhir,6,0,6,,,,,,,,,,,,149
+Mumbai Indians,11,3,0.1,5.6,mandatory,RD Rickelton,Harsh Dubey,Naman Dhir,2,0,2,,,,,,,,,,,,151
+Mumbai Indians,11,4,0.1,5.6,mandatory,RD Rickelton,Harsh Dubey,Naman Dhir,1,0,1,,,,,,,,,,,,152
+Mumbai Indians,11,5,0.1,5.6,mandatory,Naman Dhir,Harsh Dubey,RD Rickelton,0,0,0,,,,,,,,,,,,152
+Mumbai Indians,11,6,0.1,5.6,mandatory,Naman Dhir,Harsh Dubey,RD Rickelton,4,0,4,,,,,,,,,,,,156
+Mumbai Indians,12,1,0.1,5.6,mandatory,RD Rickelton,E Malinga,Naman Dhir,1,0,1,,,,,,,,,,,,157
+Mumbai Indians,12,2,0.1,5.6,mandatory,Naman Dhir,E Malinga,RD Rickelton,1,0,1,,,,,,,,,,,,158
+Mumbai Indians,12,3,0.1,5.6,mandatory,RD Rickelton,E Malinga,Naman Dhir,1,0,1,,,,,,,,,,,,159
+Mumbai Indians,12,4,0.1,5.6,mandatory,Naman Dhir,E Malinga,RD Rickelton,1,0,1,,,,,,,,,,,,160
+Mumbai Indians,12,5,0.1,5.6,mandatory,RD Rickelton,E Malinga,Naman Dhir,1,0,1,,,,,,,,,,,,161
+Mumbai Indians,12,6,0.1,5.6,mandatory,Naman Dhir,E Malinga,RD Rickelton,0,1,1,1.0,,,,,,,,,,,162
+Mumbai Indians,12,7,0.1,5.6,mandatory,Naman Dhir,E Malinga,RD Rickelton,1,0,1,,,,,,,,,,,,163
+Mumbai Indians,13,1,0.1,5.6,mandatory,Naman Dhir,PP Hinge,RD Rickelton,1,0,1,,,,,,,,,,,,164
+Mumbai Indians,13,2,0.1,5.6,mandatory,RD Rickelton,PP Hinge,Naman Dhir,1,0,1,,,,,,,,,,,,165
+Mumbai Indians,13,3,0.1,5.6,mandatory,Naman Dhir,PP Hinge,RD Rickelton,0,0,0,,,,,,,,,,,,165
+Mumbai Indians,13,4,0.1,5.6,mandatory,Naman Dhir,PP Hinge,RD Rickelton,0,0,0,,,Naman Dhir,caught,,,,,Harsh Dubey,,,165
+Mumbai Indians,13,5,0.1,5.6,mandatory,HH Pandya,PP Hinge,RD Rickelton,1,0,1,,,,,,,,,,,,166
+Mumbai Indians,13,6,0.1,5.6,mandatory,RD Rickelton,PP Hinge,HH Pandya,1,0,1,,,,,,,,,,,,167
+Mumbai Indians,14,1,0.1,5.6,mandatory,RD Rickelton,Nithish Kumar Reddy,HH Pandya,1,0,1,,,,,,,,,,,,168
+Mumbai Indians,14,2,0.1,5.6,mandatory,HH Pandya,Nithish Kumar Reddy,RD Rickelton,1,0,1,,,,,,,,,,,,169
+Mumbai Indians,14,3,0.1,5.6,mandatory,RD Rickelton,Nithish Kumar Reddy,HH Pandya,4,0,4,,,,,,,,,,,,173
+Mumbai Indians,14,4,0.1,5.6,mandatory,RD Rickelton,Nithish Kumar Reddy,HH Pandya,6,0,6,,,,,,,,,,,,179
+Mumbai Indians,14,5,0.1,5.6,mandatory,RD Rickelton,Nithish Kumar Reddy,HH Pandya,0,0,0,,,,,,,,,,,,179
+Mumbai Indians,14,6,0.1,5.6,mandatory,RD Rickelton,Nithish Kumar Reddy,HH Pandya,0,1,1,1.0,,,,,,,,,,,180
+Mumbai Indians,14,7,0.1,5.6,mandatory,RD Rickelton,Nithish Kumar Reddy,HH Pandya,1,0,1,,,,,,,,,,,,181
+Mumbai Indians,15,1,0.1,5.6,mandatory,RD Rickelton,PP Hinge,HH Pandya,4,0,4,,,,,,,,,,,,185
+Mumbai Indians,15,2,0.1,5.6,mandatory,RD Rickelton,PP Hinge,HH Pandya,1,0,1,,,,,,,,,,,,186
+Mumbai Indians,15,3,0.1,5.6,mandatory,HH Pandya,PP Hinge,RD Rickelton,4,0,4,,,,,,,,,,,,190
+Mumbai Indians,15,4,0.1,5.6,mandatory,HH Pandya,PP Hinge,RD Rickelton,6,0,6,,,,,,,,,,,,196
+Mumbai Indians,15,5,0.1,5.6,mandatory,HH Pandya,PP Hinge,RD Rickelton,4,0,4,,,,,,,,,,,,200
+Mumbai Indians,15,6,0.1,5.6,mandatory,HH Pandya,PP Hinge,RD Rickelton,2,0,2,,,,,,,,,,,,202
+Mumbai Indians,16,1,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,HH Pandya,1,0,1,,,,,,,,,,,,203
+Mumbai Indians,16,2,0.1,5.6,mandatory,HH Pandya,PJ Cummins,RD Rickelton,1,0,1,,,,,,,,,,,,204
+Mumbai Indians,16,3,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,HH Pandya,1,0,1,,,,,,,,,,,,205
+Mumbai Indians,16,4,0.1,5.6,mandatory,HH Pandya,PJ Cummins,RD Rickelton,1,0,1,,,,,,,,,,,,206
+Mumbai Indians,16,5,0.1,5.6,mandatory,RD Rickelton,PJ Cummins,HH Pandya,1,0,1,,,,,,,,,,,,207
+Mumbai Indians,16,6,0.1,5.6,mandatory,HH Pandya,PJ Cummins,RD Rickelton,1,0,1,,,,,,,,,,,,208
+Mumbai Indians,17,1,0.1,5.6,mandatory,HH Pandya,E Malinga,RD Rickelton,6,0,6,,,,,,,,,,,,214
+Mumbai Indians,17,2,0.1,5.6,mandatory,HH Pandya,E Malinga,RD Rickelton,2,0,2,,,,,,,,,,,,216
+Mumbai Indians,17,3,0.1,5.6,mandatory,HH Pandya,E Malinga,RD Rickelton,0,1,1,1.0,,,,,,,,,,,217
+Mumbai Indians,17,4,0.1,5.6,mandatory,HH Pandya,E Malinga,RD Rickelton,1,0,1,,,,,,,,,,,,218
+Mumbai Indians,17,5,0.1,5.6,mandatory,RD Rickelton,E Malinga,HH Pandya,0,1,1,1.0,,,,,,,,,,,219
+Mumbai Indians,17,6,0.1,5.6,mandatory,RD Rickelton,E Malinga,HH Pandya,1,0,1,,,,,,,,,,,,220
+Mumbai Indians,17,7,0.1,5.6,mandatory,HH Pandya,E Malinga,RD Rickelton,0,0,0,,,,,,,,,,,,220
+Mumbai Indians,17,8,0.1,5.6,mandatory,HH Pandya,E Malinga,RD Rickelton,1,0,1,,,,,,,,,,,,221
+Mumbai Indians,18,1,0.1,5.6,mandatory,HH Pandya,Sakib Hussain,RD Rickelton,0,0,0,,,HH Pandya,caught,,,,,H Klaasen,,,221
+Mumbai Indians,18,2,0.1,5.6,mandatory,Tilak Varma,Sakib Hussain,RD Rickelton,6,0,6,,,,,,,,,,,,227
+Mumbai Indians,18,3,0.1,5.6,mandatory,Tilak Varma,Sakib Hussain,RD Rickelton,0,0,0,,,,,,,,,,,,227
+Mumbai Indians,18,4,0.1,5.6,mandatory,Tilak Varma,Sakib Hussain,RD Rickelton,1,0,1,,,,,,,,,,,,228
+Mumbai Indians,18,5,0.1,5.6,mandatory,RD Rickelton,Sakib Hussain,Tilak Varma,1,0,1,,,,,,,,,,,,229
+Mumbai Indians,18,6,0.1,5.6,mandatory,Tilak Varma,Sakib Hussain,RD Rickelton,0,0,0,,,,,,,,,,,,229
+Mumbai Indians,19,1,0.1,5.6,mandatory,RD Rickelton,PP Hinge,Tilak Varma,2,0,2,,,,,Aniket Verma,Sakib Hussain,Sunrisers Hyderabad,impact_player,,,,231
+Mumbai Indians,19,2,0.1,5.6,mandatory,RD Rickelton,PP Hinge,Tilak Varma,1,0,1,,,,,,,,,,,,232
+Mumbai Indians,19,3,0.1,5.6,mandatory,Tilak Varma,PP Hinge,RD Rickelton,0,0,0,,,Tilak Varma,caught,,,,,H Klaasen,,,232
+Mumbai Indians,19,4,0.1,5.6,mandatory,R Minz,PP Hinge,RD Rickelton,1,0,1,,,,,,,,,,,,233
+Mumbai Indians,19,5,0.1,5.6,mandatory,RD Rickelton,PP Hinge,R Minz,6,0,6,,,,,,,,,,,,239
+Mumbai Indians,19,6,0.1,5.6,mandatory,RD Rickelton,PP Hinge,R Minz,4,0,4,,,,,,,,,,,,243
+Sunrisers Hyderabad,0,1,0.1,5.6,mandatory,Abhishek Sharma,TA Boult,TM Head,0,0,0,,,,,,,,,,20.0,244.0,0
+Sunrisers Hyderabad,0,2,0.1,5.6,mandatory,Abhishek Sharma,TA Boult,TM Head,6,0,6,,,,,,,,,,20.0,244.0,6
+Sunrisers Hyderabad,0,3,0.1,5.6,mandatory,Abhishek Sharma,TA Boult,TM Head,0,1,1,1.0,,,,,,,,,20.0,244.0,7
+Sunrisers Hyderabad,0,4,0.1,5.6,mandatory,Abhishek Sharma,TA Boult,TM Head,0,1,1,1.0,,,,,,,,,20.0,244.0,8
+Sunrisers Hyderabad,0,5,0.1,5.6,mandatory,Abhishek Sharma,TA Boult,TM Head,1,0,1,,,,,,,,,,20.0,244.0,9
+Sunrisers Hyderabad,0,6,0.1,5.6,mandatory,TM Head,TA Boult,Abhishek Sharma,0,0,0,,,,,,,,,,20.0,244.0,9
+Sunrisers Hyderabad,0,7,0.1,5.6,mandatory,TM Head,TA Boult,Abhishek Sharma,1,0,1,,,,,,,,,,20.0,244.0,10
+Sunrisers Hyderabad,0,8,0.1,5.6,mandatory,Abhishek Sharma,TA Boult,TM Head,1,0,1,,,,,,,,,,20.0,244.0,11
+Sunrisers Hyderabad,1,1,0.1,5.6,mandatory,Abhishek Sharma,JJ Bumrah,TM Head,1,0,1,,,,,,,,,,20.0,244.0,12
+Sunrisers Hyderabad,1,2,0.1,5.6,mandatory,TM Head,JJ Bumrah,Abhishek Sharma,0,0,0,,,,,,,,,,20.0,244.0,12
+Sunrisers Hyderabad,1,3,0.1,5.6,mandatory,TM Head,JJ Bumrah,Abhishek Sharma,1,0,1,,,,,,,,,,20.0,244.0,13
+Sunrisers Hyderabad,1,4,0.1,5.6,mandatory,Abhishek Sharma,JJ Bumrah,TM Head,0,1,1,1.0,,,,,,,,,20.0,244.0,14
+Sunrisers Hyderabad,1,5,0.1,5.6,mandatory,Abhishek Sharma,JJ Bumrah,TM Head,0,1,1,1.0,,,,,,,,,20.0,244.0,15
+Sunrisers Hyderabad,1,6,0.1,5.6,mandatory,Abhishek Sharma,JJ Bumrah,TM Head,6,0,6,,,,,,,,,,20.0,244.0,21
+Sunrisers Hyderabad,1,7,0.1,5.6,mandatory,Abhishek Sharma,JJ Bumrah,TM Head,0,4,4,,4.0,,,,,,,,20.0,244.0,25
+Sunrisers Hyderabad,1,8,0.1,5.6,mandatory,Abhishek Sharma,JJ Bumrah,TM Head,0,0,0,,,,,,,,,,20.0,244.0,25
+Sunrisers Hyderabad,2,1,0.1,5.6,mandatory,TM Head,TA Boult,Abhishek Sharma,6,0,6,,,,,,,,,,20.0,244.0,31
+Sunrisers Hyderabad,2,2,0.1,5.6,mandatory,TM Head,TA Boult,Abhishek Sharma,0,0,0,,,,,,,,,,20.0,244.0,31
+Sunrisers Hyderabad,2,3,0.1,5.6,mandatory,TM Head,TA Boult,Abhishek Sharma,0,0,0,,,,,,,,,,20.0,244.0,31
+Sunrisers Hyderabad,2,4,0.1,5.6,mandatory,TM Head,TA Boult,Abhishek Sharma,6,0,6,,,,,,,,,,20.0,244.0,37
+Sunrisers Hyderabad,2,5,0.1,5.6,mandatory,TM Head,TA Boult,Abhishek Sharma,6,0,6,,,,,,,,,,20.0,244.0,43
+Sunrisers Hyderabad,2,6,0.1,5.6,mandatory,TM Head,TA Boult,Abhishek Sharma,0,0,0,,,,,,,,,,20.0,244.0,43
+Sunrisers Hyderabad,3,1,0.1,5.6,mandatory,Abhishek Sharma,WG Jacks,TM Head,4,0,4,,,,,,,,,,20.0,244.0,47
+Sunrisers Hyderabad,3,2,0.1,5.6,mandatory,Abhishek Sharma,WG Jacks,TM Head,0,0,0,,,,,,,,,,20.0,244.0,47
+Sunrisers Hyderabad,3,3,0.1,5.6,mandatory,Abhishek Sharma,WG Jacks,TM Head,4,0,4,,,,,,,,,,20.0,244.0,51
+Sunrisers Hyderabad,3,4,0.1,5.6,mandatory,Abhishek Sharma,WG Jacks,TM Head,1,0,1,,,,,,,,,,20.0,244.0,52
+Sunrisers Hyderabad,3,5,0.1,5.6,mandatory,TM Head,WG Jacks,Abhishek Sharma,6,0,6,,,,,,,,,,20.0,244.0,58
+Sunrisers Hyderabad,3,6,0.1,5.6,mandatory,TM Head,WG Jacks,Abhishek Sharma,4,0,4,,,,,,,,,,20.0,244.0,62
+Sunrisers Hyderabad,4,1,0.1,5.6,mandatory,Abhishek Sharma,AM Ghazanfar,TM Head,1,0,1,,,,,,,,,,20.0,244.0,63
+Sunrisers Hyderabad,4,2,0.1,5.6,mandatory,TM Head,AM Ghazanfar,Abhishek Sharma,0,0,0,,,,,,,,,,20.0,244.0,63
+Sunrisers Hyderabad,4,3,0.1,5.6,mandatory,TM Head,AM Ghazanfar,Abhishek Sharma,2,0,2,,,,,,,,,,20.0,244.0,65
+Sunrisers Hyderabad,4,4,0.1,5.6,mandatory,TM Head,AM Ghazanfar,Abhishek Sharma,4,0,4,,,,,,,,,,20.0,244.0,69
+Sunrisers Hyderabad,4,5,0.1,5.6,mandatory,TM Head,AM Ghazanfar,Abhishek Sharma,1,0,1,,,,,,,,,,20.0,244.0,70
+Sunrisers Hyderabad,4,6,0.1,5.6,mandatory,Abhishek Sharma,AM Ghazanfar,TM Head,4,0,4,,,,,,,,,,20.0,244.0,74
+Sunrisers Hyderabad,5,1,0.1,5.6,mandatory,TM Head,JJ Bumrah,Abhishek Sharma,6,0,6,,,,,,,,,,20.0,244.0,80
+Sunrisers Hyderabad,5,2,0.1,5.6,mandatory,TM Head,JJ Bumrah,Abhishek Sharma,4,0,4,,,,,,,,,,20.0,244.0,84
+Sunrisers Hyderabad,5,3,0.1,5.6,mandatory,TM Head,JJ Bumrah,Abhishek Sharma,1,0,1,,,,,,,,,,20.0,244.0,85
+Sunrisers Hyderabad,5,4,0.1,5.6,mandatory,Abhishek Sharma,JJ Bumrah,TM Head,0,0,0,,,,,,,,,,20.0,244.0,85
+Sunrisers Hyderabad,5,5,0.1,5.6,mandatory,Abhishek Sharma,JJ Bumrah,TM Head,6,0,6,,,,,,,,,,20.0,244.0,91
+Sunrisers Hyderabad,5,6,0.1,5.6,mandatory,Abhishek Sharma,JJ Bumrah,TM Head,1,0,1,,,,,,,,,,20.0,244.0,92
+Sunrisers Hyderabad,6,1,0.1,5.6,mandatory,Abhishek Sharma,Ashwani Kumar,TM Head,0,1,1,1.0,,,,,,,,,20.0,244.0,93
+Sunrisers Hyderabad,6,2,0.1,5.6,mandatory,Abhishek Sharma,Ashwani Kumar,TM Head,4,0,4,,,,,,,,,,20.0,244.0,97
+Sunrisers Hyderabad,6,3,0.1,5.6,mandatory,Abhishek Sharma,Ashwani Kumar,TM Head,1,0,1,,,,,,,,,,20.0,244.0,98
+Sunrisers Hyderabad,6,4,0.1,5.6,mandatory,TM Head,Ashwani Kumar,Abhishek Sharma,6,0,6,,,,,,,,,,20.0,244.0,104
+Sunrisers Hyderabad,6,5,0.1,5.6,mandatory,TM Head,Ashwani Kumar,Abhishek Sharma,6,0,6,,,,,,,,,,20.0,244.0,110
+Sunrisers Hyderabad,6,6,0.1,5.6,mandatory,TM Head,Ashwani Kumar,Abhishek Sharma,4,0,4,,,,,,,,,,20.0,244.0,114
+Sunrisers Hyderabad,6,7,0.1,5.6,mandatory,TM Head,Ashwani Kumar,Abhishek Sharma,1,0,1,,,,,,,,,,20.0,244.0,115
+Sunrisers Hyderabad,7,1,0.1,5.6,mandatory,TM Head,HH Pandya,Abhishek Sharma,1,0,1,,,,,SN Thakur,R Minz,Mumbai Indians,impact_player,,20.0,244.0,116
+Sunrisers Hyderabad,7,2,0.1,5.6,mandatory,Abhishek Sharma,HH Pandya,TM Head,1,0,1,,,,,,,,,,20.0,244.0,117
+Sunrisers Hyderabad,7,3,0.1,5.6,mandatory,TM Head,HH Pandya,Abhishek Sharma,1,0,1,,,,,,,,,,20.0,244.0,118
+Sunrisers Hyderabad,7,4,0.1,5.6,mandatory,Abhishek Sharma,HH Pandya,TM Head,1,0,1,,,,,,,,,,20.0,244.0,119
+Sunrisers Hyderabad,7,5,0.1,5.6,mandatory,TM Head,HH Pandya,Abhishek Sharma,6,0,6,,,,,,,,,,20.0,244.0,125
+Sunrisers Hyderabad,7,6,0.1,5.6,mandatory,TM Head,HH Pandya,Abhishek Sharma,1,0,1,,,,,,,,,,20.0,244.0,126
+Sunrisers Hyderabad,8,1,0.1,5.6,mandatory,TM Head,AM Ghazanfar,Abhishek Sharma,1,0,1,,,,,,,,,,20.0,244.0,127
+Sunrisers Hyderabad,8,2,0.1,5.6,mandatory,Abhishek Sharma,AM Ghazanfar,TM Head,0,0,0,,,,,,,,,,20.0,244.0,127
+Sunrisers Hyderabad,8,3,0.1,5.6,mandatory,Abhishek Sharma,AM Ghazanfar,TM Head,2,0,2,,,,,,,,,,20.0,244.0,129
+Sunrisers Hyderabad,8,4,0.1,5.6,mandatory,Abhishek Sharma,AM Ghazanfar,TM Head,0,0,0,,,Abhishek Sharma,caught,,,,,TA Boult,20.0,244.0,129
+Sunrisers Hyderabad,8,5,0.1,5.6,mandatory,Ishan Kishan,AM Ghazanfar,TM Head,0,0,0,,,Ishan Kishan,bowled,,,,,,20.0,244.0,129
+Sunrisers Hyderabad,8,6,0.1,5.6,mandatory,H Klaasen,AM Ghazanfar,TM Head,1,0,1,,,,,,,,,,20.0,244.0,130
+Sunrisers Hyderabad,9,1,0.1,5.6,mandatory,H Klaasen,HH Pandya,TM Head,1,0,1,,,,,,,,,,20.0,244.0,131
+Sunrisers Hyderabad,9,2,0.1,5.6,mandatory,TM Head,HH Pandya,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,132
+Sunrisers Hyderabad,9,3,0.1,5.6,mandatory,H Klaasen,HH Pandya,TM Head,1,0,1,,,,,,,,,,20.0,244.0,133
+Sunrisers Hyderabad,9,4,0.1,5.6,mandatory,TM Head,HH Pandya,H Klaasen,0,0,0,,,TM Head,caught,,,,,WG Jacks,20.0,244.0,133
+Sunrisers Hyderabad,9,5,0.1,5.6,mandatory,Nithish Kumar Reddy,HH Pandya,H Klaasen,0,0,0,,,,,,,,,,20.0,244.0,133
+Sunrisers Hyderabad,9,6,0.1,5.6,mandatory,Nithish Kumar Reddy,HH Pandya,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,134
+Sunrisers Hyderabad,10,1,0.1,5.6,mandatory,Nithish Kumar Reddy,AM Ghazanfar,H Klaasen,4,0,4,,,,,,,,,,20.0,244.0,138
+Sunrisers Hyderabad,10,2,0.1,5.6,mandatory,Nithish Kumar Reddy,AM Ghazanfar,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,139
+Sunrisers Hyderabad,10,3,0.1,5.6,mandatory,H Klaasen,AM Ghazanfar,Nithish Kumar Reddy,0,0,0,,,,,,,,,,20.0,244.0,139
+Sunrisers Hyderabad,10,4,0.1,5.6,mandatory,H Klaasen,AM Ghazanfar,Nithish Kumar Reddy,4,0,4,,,,,,,,,,20.0,244.0,143
+Sunrisers Hyderabad,10,5,0.1,5.6,mandatory,H Klaasen,AM Ghazanfar,Nithish Kumar Reddy,6,0,6,,,,,,,,,,20.0,244.0,149
+Sunrisers Hyderabad,10,6,0.1,5.6,mandatory,H Klaasen,AM Ghazanfar,Nithish Kumar Reddy,1,0,1,,,,,,,,,,20.0,244.0,150
+Sunrisers Hyderabad,11,1,0.1,5.6,mandatory,H Klaasen,Ashwani Kumar,Nithish Kumar Reddy,4,0,4,,,,,,,,,,20.0,244.0,154
+Sunrisers Hyderabad,11,2,0.1,5.6,mandatory,H Klaasen,Ashwani Kumar,Nithish Kumar Reddy,1,0,1,,,,,,,,,,20.0,244.0,155
+Sunrisers Hyderabad,11,3,0.1,5.6,mandatory,Nithish Kumar Reddy,Ashwani Kumar,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,156
+Sunrisers Hyderabad,11,4,0.1,5.6,mandatory,H Klaasen,Ashwani Kumar,Nithish Kumar Reddy,4,0,4,,,,,,,,,,20.0,244.0,160
+Sunrisers Hyderabad,11,5,0.1,5.6,mandatory,H Klaasen,Ashwani Kumar,Nithish Kumar Reddy,4,0,4,,,,,,,,,,20.0,244.0,164
+Sunrisers Hyderabad,11,6,0.1,5.6,mandatory,H Klaasen,Ashwani Kumar,Nithish Kumar Reddy,4,0,4,,,,,,,,,,20.0,244.0,168
+Sunrisers Hyderabad,12,1,0.1,5.6,mandatory,Nithish Kumar Reddy,HH Pandya,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,169
+Sunrisers Hyderabad,12,2,0.1,5.6,mandatory,H Klaasen,HH Pandya,Nithish Kumar Reddy,0,0,0,,,,,,,,,,20.0,244.0,169
+Sunrisers Hyderabad,12,3,0.1,5.6,mandatory,H Klaasen,HH Pandya,Nithish Kumar Reddy,0,0,0,,,,,,,,,,20.0,244.0,169
+Sunrisers Hyderabad,12,4,0.1,5.6,mandatory,H Klaasen,HH Pandya,Nithish Kumar Reddy,0,0,0,,,,,,,,,,20.0,244.0,169
+Sunrisers Hyderabad,12,5,0.1,5.6,mandatory,H Klaasen,HH Pandya,Nithish Kumar Reddy,0,1,1,1.0,,,,,,,,,20.0,244.0,170
+Sunrisers Hyderabad,12,6,0.1,5.6,mandatory,H Klaasen,HH Pandya,Nithish Kumar Reddy,0,1,1,1.0,,,,,,,,,20.0,244.0,171
+Sunrisers Hyderabad,12,7,0.1,5.6,mandatory,H Klaasen,HH Pandya,Nithish Kumar Reddy,0,1,1,1.0,,,,,,,,,20.0,244.0,172
+Sunrisers Hyderabad,12,8,0.1,5.6,mandatory,H Klaasen,HH Pandya,Nithish Kumar Reddy,0,0,0,,,,,,,,,,20.0,244.0,172
+Sunrisers Hyderabad,12,9,0.1,5.6,mandatory,H Klaasen,HH Pandya,Nithish Kumar Reddy,4,0,4,,,,,,,,,,20.0,244.0,176
+Sunrisers Hyderabad,13,1,0.1,5.6,mandatory,Nithish Kumar Reddy,JJ Bumrah,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,177
+Sunrisers Hyderabad,13,2,0.1,5.6,mandatory,H Klaasen,JJ Bumrah,Nithish Kumar Reddy,6,0,6,,,,,,,,,,20.0,244.0,183
+Sunrisers Hyderabad,13,3,0.1,5.6,mandatory,H Klaasen,JJ Bumrah,Nithish Kumar Reddy,1,0,1,,,,,,,,,,20.0,244.0,184
+Sunrisers Hyderabad,13,4,0.1,5.6,mandatory,Nithish Kumar Reddy,JJ Bumrah,H Klaasen,0,0,0,,,,,,,,,,20.0,244.0,184
+Sunrisers Hyderabad,13,5,0.1,5.6,mandatory,Nithish Kumar Reddy,JJ Bumrah,H Klaasen,4,0,4,,,,,,,,,,20.0,244.0,188
+Sunrisers Hyderabad,13,6,0.1,5.6,mandatory,Nithish Kumar Reddy,JJ Bumrah,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,189
+Sunrisers Hyderabad,14,1,0.1,5.6,mandatory,Nithish Kumar Reddy,TA Boult,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,190
+Sunrisers Hyderabad,14,2,0.1,5.6,mandatory,H Klaasen,TA Boult,Nithish Kumar Reddy,1,0,1,,,,,,,,,,20.0,244.0,191
+Sunrisers Hyderabad,14,3,0.1,5.6,mandatory,Nithish Kumar Reddy,TA Boult,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,192
+Sunrisers Hyderabad,14,4,0.1,5.6,mandatory,H Klaasen,TA Boult,Nithish Kumar Reddy,1,0,1,,,,,,,,,,20.0,244.0,193
+Sunrisers Hyderabad,14,5,0.1,5.6,mandatory,Nithish Kumar Reddy,TA Boult,H Klaasen,0,0,0,,,,,,,,,,20.0,244.0,193
+Sunrisers Hyderabad,14,6,0.1,5.6,mandatory,Nithish Kumar Reddy,TA Boult,H Klaasen,0,0,0,,,,,,,,,,20.0,244.0,193
+Sunrisers Hyderabad,15,1,0.1,5.6,mandatory,H Klaasen,AM Ghazanfar,Nithish Kumar Reddy,6,0,6,,,,,,,,,,20.0,244.0,199
+Sunrisers Hyderabad,15,2,0.1,5.6,mandatory,H Klaasen,AM Ghazanfar,Nithish Kumar Reddy,1,0,1,,,,,,,,,,20.0,244.0,200
+Sunrisers Hyderabad,15,3,0.1,5.6,mandatory,Nithish Kumar Reddy,AM Ghazanfar,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,201
+Sunrisers Hyderabad,15,4,0.1,5.6,mandatory,H Klaasen,AM Ghazanfar,Nithish Kumar Reddy,6,0,6,,,,,,,,,,20.0,244.0,207
+Sunrisers Hyderabad,15,5,0.1,5.6,mandatory,H Klaasen,AM Ghazanfar,Nithish Kumar Reddy,1,0,1,,,,,,,,,,20.0,244.0,208
+Sunrisers Hyderabad,15,6,0.1,5.6,mandatory,Nithish Kumar Reddy,AM Ghazanfar,H Klaasen,4,0,4,,,,,,,,,,20.0,244.0,212
+Sunrisers Hyderabad,16,1,0.1,5.6,mandatory,H Klaasen,TA Boult,Nithish Kumar Reddy,1,0,1,,,,,,,,,,20.0,244.0,213
+Sunrisers Hyderabad,16,2,0.1,5.6,mandatory,Nithish Kumar Reddy,TA Boult,H Klaasen,0,0,0,,,Nithish Kumar Reddy,caught,,,,,SA Yadav,20.0,244.0,213
+Sunrisers Hyderabad,16,3,0.1,5.6,mandatory,S Arora,TA Boult,H Klaasen,4,0,4,,,,,,,,,,20.0,244.0,217
+Sunrisers Hyderabad,16,4,0.1,5.6,mandatory,S Arora,TA Boult,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,218
+Sunrisers Hyderabad,16,5,0.1,5.6,mandatory,H Klaasen,TA Boult,S Arora,1,0,1,,,,,,,,,,20.0,244.0,219
+Sunrisers Hyderabad,16,6,0.1,5.6,mandatory,S Arora,TA Boult,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,220
+Sunrisers Hyderabad,17,1,0.1,5.6,mandatory,S Arora,JJ Bumrah,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,221
+Sunrisers Hyderabad,17,2,0.1,5.6,mandatory,H Klaasen,JJ Bumrah,S Arora,4,0,4,,,,,,,,,,20.0,244.0,225
+Sunrisers Hyderabad,17,3,0.1,5.6,mandatory,H Klaasen,JJ Bumrah,S Arora,0,0,0,,,,,,,,,,20.0,244.0,225
+Sunrisers Hyderabad,17,4,0.1,5.6,mandatory,H Klaasen,JJ Bumrah,S Arora,1,0,1,,,,,,,,,,20.0,244.0,226
+Sunrisers Hyderabad,17,5,0.1,5.6,mandatory,S Arora,JJ Bumrah,H Klaasen,6,0,6,,,,,,,,,,20.0,244.0,232
+Sunrisers Hyderabad,17,6,0.1,5.6,mandatory,S Arora,JJ Bumrah,H Klaasen,1,0,1,,,,,,,,,,20.0,244.0,233
+Sunrisers Hyderabad,18,1,0.1,5.6,mandatory,S Arora,HH Pandya,H Klaasen,4,0,4,,,,,,,,,,20.0,244.0,237
+Sunrisers Hyderabad,18,2,0.1,5.6,mandatory,S Arora,HH Pandya,H Klaasen,6,0,6,,,,,,,,,,20.0,244.0,243
+Sunrisers Hyderabad,18,3,0.1,5.6,mandatory,S Arora,HH Pandya,H Klaasen,0,0,0,,,,,,,,,,20.0,244.0,243
+Sunrisers Hyderabad,18,4,0.1,5.6,mandatory,S Arora,HH Pandya,H Klaasen,6,0,6,,,,,,,,,,20.0,244.0,249

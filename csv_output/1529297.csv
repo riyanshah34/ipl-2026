@@ -1,0 +1,255 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,legbyes,wides,review_by,review_umpire,review_batter,review_decision,review_type,noballs,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Mumbai Indians,0,1,0.1,5.6,mandatory,RD Rickelton,B Kumar,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,,1
+Mumbai Indians,0,2,0.1,5.6,mandatory,RG Sharma,B Kumar,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,,,2
+Mumbai Indians,0,3,0.1,5.6,mandatory,RD Rickelton,B Kumar,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,,3
+Mumbai Indians,0,4,0.1,5.6,mandatory,RG Sharma,B Kumar,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,,,4
+Mumbai Indians,0,5,0.1,5.6,mandatory,RD Rickelton,B Kumar,RG Sharma,0,0,0,,,,,,,,,,,,,,,,,,4
+Mumbai Indians,0,6,0.1,5.6,mandatory,RD Rickelton,B Kumar,RG Sharma,0,0,0,,,,,,,,,RD Rickelton,caught,,,,,RM Patidar,,,4
+Mumbai Indians,1,1,0.1,5.6,mandatory,RG Sharma,JR Hazlewood,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,4
+Mumbai Indians,1,2,0.1,5.6,mandatory,RG Sharma,JR Hazlewood,Naman Dhir,4,0,4,,,,,,,,,,,,,,,,,,8
+Mumbai Indians,1,3,0.1,5.6,mandatory,RG Sharma,JR Hazlewood,Naman Dhir,0,2,2,2.0,,,,,,,,,,,,,,,,,10
+Mumbai Indians,1,4,0.1,5.6,mandatory,RG Sharma,JR Hazlewood,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,10
+Mumbai Indians,1,5,0.1,5.6,mandatory,RG Sharma,JR Hazlewood,Naman Dhir,6,0,6,,,,,,,,,,,,,,,,,,16
+Mumbai Indians,1,6,0.1,5.6,mandatory,RG Sharma,JR Hazlewood,Naman Dhir,6,0,6,,,,,,,,,,,,,,,,,,22
+Mumbai Indians,2,1,0.1,5.6,mandatory,Naman Dhir,B Kumar,RG Sharma,0,1,1,,1.0,,,,,,,,,,,,,,,,23
+Mumbai Indians,2,2,0.1,5.6,mandatory,Naman Dhir,B Kumar,RG Sharma,0,0,0,,,,,,,,,,,,,,,,,,23
+Mumbai Indians,2,3,0.1,5.6,mandatory,Naman Dhir,B Kumar,RG Sharma,0,0,0,,,,,,,,,,,,,,,,,,23
+Mumbai Indians,2,4,0.1,5.6,mandatory,Naman Dhir,B Kumar,RG Sharma,1,0,1,,,,,,,,,,,,,,,,,,24
+Mumbai Indians,2,5,0.1,5.6,mandatory,RG Sharma,B Kumar,Naman Dhir,4,0,4,,,,,,,,,,,,,,,,,,28
+Mumbai Indians,2,6,0.1,5.6,mandatory,RG Sharma,B Kumar,Naman Dhir,0,0,0,,,,,,,,,RG Sharma,caught,,,,,JM Sharma,,,28
+Mumbai Indians,2,7,0.1,5.6,mandatory,SA Yadav,B Kumar,Naman Dhir,0,0,0,,,,,,,,,SA Yadav,caught,,,,,V Kohli,,,28
+Mumbai Indians,3,1,0.1,5.6,mandatory,Naman Dhir,JR Hazlewood,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,28
+Mumbai Indians,3,2,0.1,5.6,mandatory,Naman Dhir,JR Hazlewood,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,28
+Mumbai Indians,3,3,0.1,5.6,mandatory,Naman Dhir,JR Hazlewood,Tilak Varma,0,1,1,1.0,,,,,,,,,,,,,,,,,29
+Mumbai Indians,3,4,0.1,5.6,mandatory,Tilak Varma,JR Hazlewood,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,30
+Mumbai Indians,3,5,0.1,5.6,mandatory,Naman Dhir,JR Hazlewood,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,,34
+Mumbai Indians,3,6,0.1,5.6,mandatory,Naman Dhir,JR Hazlewood,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,34
+Mumbai Indians,4,1,0.1,5.6,mandatory,Tilak Varma,B Kumar,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,34
+Mumbai Indians,4,2,0.1,5.6,mandatory,Tilak Varma,B Kumar,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,34
+Mumbai Indians,4,3,0.1,5.6,mandatory,Tilak Varma,B Kumar,Naman Dhir,2,0,2,,,,,,,,,,,,,,,,,,36
+Mumbai Indians,4,4,0.1,5.6,mandatory,Tilak Varma,B Kumar,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,37
+Mumbai Indians,4,5,0.1,5.6,mandatory,Naman Dhir,B Kumar,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,,41
+Mumbai Indians,4,6,0.1,5.6,mandatory,Naman Dhir,B Kumar,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,41
+Mumbai Indians,5,1,0.1,5.6,mandatory,Tilak Varma,Rasikh Salam,Naman Dhir,4,0,4,,,,,,,,,,,,,,,,,,45
+Mumbai Indians,5,2,0.1,5.6,mandatory,Tilak Varma,Rasikh Salam,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,46
+Mumbai Indians,5,3,0.1,5.6,mandatory,Naman Dhir,Rasikh Salam,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,,50
+Mumbai Indians,5,4,0.1,5.6,mandatory,Naman Dhir,Rasikh Salam,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,51
+Mumbai Indians,5,5,0.1,5.6,mandatory,Tilak Varma,Rasikh Salam,Naman Dhir,2,0,2,,,,,,,,,,,,,,,,,,53
+Mumbai Indians,5,6,0.1,5.6,mandatory,Tilak Varma,Rasikh Salam,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,53
+Mumbai Indians,6,1,0.1,5.6,mandatory,Naman Dhir,R Shepherd,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,54
+Mumbai Indians,6,2,0.1,5.6,mandatory,Tilak Varma,R Shepherd,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,54
+Mumbai Indians,6,3,0.1,5.6,mandatory,Tilak Varma,R Shepherd,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,54
+Mumbai Indians,6,4,0.1,5.6,mandatory,Tilak Varma,R Shepherd,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,55
+Mumbai Indians,6,5,0.1,5.6,mandatory,Naman Dhir,R Shepherd,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,56
+Mumbai Indians,6,6,0.1,5.6,mandatory,Tilak Varma,R Shepherd,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,57
+Mumbai Indians,7,1,0.1,5.6,mandatory,Tilak Varma,KH Pandya,Naman Dhir,2,0,2,,,,,,,,,,,,,,,,,,59
+Mumbai Indians,7,2,0.1,5.6,mandatory,Tilak Varma,KH Pandya,Naman Dhir,2,0,2,,,,,,,,,,,,,,,,,,61
+Mumbai Indians,7,3,0.1,5.6,mandatory,Tilak Varma,KH Pandya,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,61
+Mumbai Indians,7,4,0.1,5.6,mandatory,Tilak Varma,KH Pandya,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,62
+Mumbai Indians,7,5,0.1,5.6,mandatory,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,63
+Mumbai Indians,7,6,0.1,5.6,mandatory,Tilak Varma,KH Pandya,Naman Dhir,0,1,1,,1.0,,,,,,,,,,,,,,,,64
+Mumbai Indians,7,7,0.1,5.6,mandatory,Tilak Varma,KH Pandya,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,65
+Mumbai Indians,8,1,0.1,5.6,mandatory,Tilak Varma,Suyash Sharma,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,66
+Mumbai Indians,8,2,0.1,5.6,mandatory,Naman Dhir,Suyash Sharma,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,67
+Mumbai Indians,8,3,0.1,5.6,mandatory,Tilak Varma,Suyash Sharma,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,68
+Mumbai Indians,8,4,0.1,5.6,mandatory,Naman Dhir,Suyash Sharma,Tilak Varma,6,0,6,,,,,,,,,,,,,,,,,,74
+Mumbai Indians,8,5,0.1,5.6,mandatory,Naman Dhir,Suyash Sharma,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,74
+Mumbai Indians,8,6,0.1,5.6,mandatory,Naman Dhir,Suyash Sharma,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,75
+Mumbai Indians,9,1,0.1,5.6,mandatory,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,76
+Mumbai Indians,9,2,0.1,5.6,mandatory,Tilak Varma,KH Pandya,Naman Dhir,2,0,2,,,,,,,,,,,,,,,,,,78
+Mumbai Indians,9,3,0.1,5.6,mandatory,Tilak Varma,KH Pandya,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,79
+Mumbai Indians,9,4,0.1,5.6,mandatory,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,80
+Mumbai Indians,9,5,0.1,5.6,mandatory,Tilak Varma,KH Pandya,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,81
+Mumbai Indians,9,6,0.1,5.6,mandatory,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,82
+Mumbai Indians,10,1,0.1,5.6,mandatory,Naman Dhir,R Shepherd,Tilak Varma,6,0,6,,,,,,,,,,,,,,,,,,88
+Mumbai Indians,10,2,0.1,5.6,mandatory,Naman Dhir,R Shepherd,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,88
+Mumbai Indians,10,3,0.1,5.6,mandatory,Naman Dhir,R Shepherd,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,89
+Mumbai Indians,10,4,0.1,5.6,mandatory,Tilak Varma,R Shepherd,Naman Dhir,0,0,0,,,,,,,,,,,,,,,,,,89
+Mumbai Indians,10,5,0.1,5.6,mandatory,Tilak Varma,R Shepherd,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,90
+Mumbai Indians,10,6,0.1,5.6,mandatory,Naman Dhir,R Shepherd,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,91
+Mumbai Indians,11,1,0.1,5.6,mandatory,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,92
+Mumbai Indians,11,2,0.1,5.6,mandatory,Tilak Varma,KH Pandya,Naman Dhir,6,0,6,,,,,,,,,,,,,,,,,,98
+Mumbai Indians,11,3,0.1,5.6,mandatory,Tilak Varma,KH Pandya,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,99
+Mumbai Indians,11,4,0.1,5.6,mandatory,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,100
+Mumbai Indians,11,5,0.1,5.6,mandatory,Tilak Varma,KH Pandya,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,,,101
+Mumbai Indians,11,6,0.1,5.6,mandatory,Naman Dhir,KH Pandya,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,102
+Mumbai Indians,12,1,0.1,5.6,mandatory,Naman Dhir,Rasikh Salam,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,,106
+Mumbai Indians,12,2,0.1,5.6,mandatory,Naman Dhir,Rasikh Salam,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,,110
+Mumbai Indians,12,3,0.1,5.6,mandatory,Naman Dhir,Rasikh Salam,Tilak Varma,0,0,0,,,,,,,,,Naman Dhir,bowled,,,,,,,,110
+Mumbai Indians,12,4,0.1,5.6,mandatory,WG Jacks,Rasikh Salam,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,110
+Mumbai Indians,12,5,0.1,5.6,mandatory,WG Jacks,Rasikh Salam,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,110
+Mumbai Indians,12,6,0.1,5.6,mandatory,WG Jacks,Rasikh Salam,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,,114
+Mumbai Indians,13,1,0.1,5.6,mandatory,Tilak Varma,Suyash Sharma,WG Jacks,1,0,1,,,,,,,,,,,,,,,,,,115
+Mumbai Indians,13,2,0.1,5.6,mandatory,WG Jacks,Suyash Sharma,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,116
+Mumbai Indians,13,3,0.1,5.6,mandatory,Tilak Varma,Suyash Sharma,WG Jacks,6,0,6,,,,,,,,,,,,,,,,,,122
+Mumbai Indians,13,4,0.1,5.6,mandatory,Tilak Varma,Suyash Sharma,WG Jacks,1,0,1,,,,,,,,,,,,,,,,,,123
+Mumbai Indians,13,5,0.1,5.6,mandatory,WG Jacks,Suyash Sharma,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,124
+Mumbai Indians,13,6,0.1,5.6,mandatory,Tilak Varma,Suyash Sharma,WG Jacks,1,0,1,,,,,,,,,,,,,,,,,,125
+Mumbai Indians,14,1,0.1,5.6,mandatory,Tilak Varma,JR Hazlewood,WG Jacks,0,0,0,,,,,,,,,,,,,,,,,,125
+Mumbai Indians,14,2,0.1,5.6,mandatory,Tilak Varma,JR Hazlewood,WG Jacks,0,1,1,,1.0,,,,,,,,,,,,,,,,126
+Mumbai Indians,14,3,0.1,5.6,mandatory,Tilak Varma,JR Hazlewood,WG Jacks,1,0,1,,,,,,,,,,,,,,,,,,127
+Mumbai Indians,14,4,0.1,5.6,mandatory,WG Jacks,JR Hazlewood,Tilak Varma,2,0,2,,,,,,,,,,,,,,,,,,129
+Mumbai Indians,14,5,0.1,5.6,mandatory,WG Jacks,JR Hazlewood,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,129
+Mumbai Indians,14,6,0.1,5.6,mandatory,WG Jacks,JR Hazlewood,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,129
+Mumbai Indians,14,7,0.1,5.6,mandatory,WG Jacks,JR Hazlewood,Tilak Varma,2,0,2,,,,,,,,,,,,,,,,,,131
+Mumbai Indians,15,1,0.1,5.6,mandatory,Tilak Varma,R Shepherd,WG Jacks,1,0,1,,,,,,,,,,,,,,,,,,132
+Mumbai Indians,15,2,0.1,5.6,mandatory,WG Jacks,R Shepherd,Tilak Varma,0,0,0,,,,,,,,,WG Jacks,caught,,,,,JG Bethell,,,132
+Mumbai Indians,15,3,0.1,5.6,mandatory,RA Bawa,R Shepherd,Tilak Varma,0,0,0,,,,,,,,,,,D Padikkal,Suyash Sharma,Royal Challengers Bengaluru,impact_player,,,,132
+Mumbai Indians,15,4,0.1,5.6,mandatory,RA Bawa,R Shepherd,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,132
+Mumbai Indians,15,5,0.1,5.6,mandatory,RA Bawa,R Shepherd,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,132
+Mumbai Indians,15,6,0.1,5.6,mandatory,RA Bawa,R Shepherd,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,,,136
+Mumbai Indians,16,1,0.1,5.6,mandatory,Tilak Varma,Rasikh Salam,RA Bawa,2,0,2,,,,,,,,,,,,,,,,,,138
+Mumbai Indians,16,2,0.1,5.6,mandatory,Tilak Varma,Rasikh Salam,RA Bawa,4,0,4,,,,,,,,,,,,,,,,,,142
+Mumbai Indians,16,3,0.1,5.6,mandatory,Tilak Varma,Rasikh Salam,RA Bawa,1,0,1,,,,,,,,,,,,,,,,,,143
+Mumbai Indians,16,4,0.1,5.6,mandatory,RA Bawa,Rasikh Salam,Tilak Varma,2,0,2,,,,,,,,,,,,,,,,,,145
+Mumbai Indians,16,5,0.1,5.6,mandatory,RA Bawa,Rasikh Salam,Tilak Varma,2,0,2,,,,,,,,,,,,,,,,,,147
+Mumbai Indians,16,6,0.1,5.6,mandatory,RA Bawa,Rasikh Salam,Tilak Varma,2,0,2,,,,,,,,,,,,,,,,,,149
+Mumbai Indians,17,1,0.1,5.6,mandatory,Tilak Varma,B Kumar,RA Bawa,0,0,0,,,,,,,,,,,,,,,,,,149
+Mumbai Indians,17,2,0.1,5.6,mandatory,Tilak Varma,B Kumar,RA Bawa,4,0,4,,,,,,,,,,,,,,,,,,153
+Mumbai Indians,17,3,0.1,5.6,mandatory,Tilak Varma,B Kumar,RA Bawa,1,0,1,,,,,,,,,,,,,,,,,,154
+Mumbai Indians,17,4,0.1,5.6,mandatory,RA Bawa,B Kumar,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,,,154
+Mumbai Indians,17,5,0.1,5.6,mandatory,RA Bawa,B Kumar,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,,,155
+Mumbai Indians,17,6,0.1,5.6,mandatory,Tilak Varma,B Kumar,RA Bawa,0,0,0,,,,,,,,,Tilak Varma,bowled,,,,,,,,155
+Mumbai Indians,18,1,0.1,5.6,mandatory,RA Bawa,JR Hazlewood,C Bosch,2,0,2,,,,,,,,,,,,,,,,,,157
+Mumbai Indians,18,2,0.1,5.6,mandatory,RA Bawa,JR Hazlewood,C Bosch,2,0,2,,,,,,,,,,,,,,,,,,159
+Mumbai Indians,18,3,0.1,5.6,mandatory,RA Bawa,JR Hazlewood,C Bosch,0,0,0,,,,,,,,,,,,,,,,,,159
+Mumbai Indians,18,4,0.1,5.6,mandatory,RA Bawa,JR Hazlewood,C Bosch,1,0,1,,,,,,,,,,,,,,,,,,160
+Mumbai Indians,18,5,0.1,5.6,mandatory,C Bosch,JR Hazlewood,RA Bawa,1,0,1,,,,,,,,,,,,,,,,,,161
+Mumbai Indians,18,6,0.1,5.6,mandatory,RA Bawa,JR Hazlewood,C Bosch,0,0,0,,,,,,,,,RA Bawa,caught,,,,,RM Patidar,,,161
+Mumbai Indians,19,1,0.1,5.6,mandatory,C Bosch,Rasikh Salam,DL Chahar,1,0,1,,,,,,,,,,,,,,,,,,162
+Mumbai Indians,19,2,0.1,5.6,mandatory,DL Chahar,Rasikh Salam,C Bosch,1,0,1,,,,,,,,,,,,,,,,,,163
+Mumbai Indians,19,3,0.1,5.6,mandatory,C Bosch,Rasikh Salam,DL Chahar,2,0,2,,,,,,,,,,,,,,,,,,165
+Mumbai Indians,19,4,0.1,5.6,mandatory,C Bosch,Rasikh Salam,DL Chahar,0,0,0,,,,,,,,,,,,,,,,,,165
+Mumbai Indians,19,5,0.1,5.6,mandatory,C Bosch,Rasikh Salam,DL Chahar,1,0,1,,,,,,,,,,,,,,,,,,166
+Mumbai Indians,19,6,0.1,5.6,mandatory,DL Chahar,Rasikh Salam,C Bosch,0,0,0,,,,,,,,,,,,,,,,,,166
+Royal Challengers Bengaluru,0,1,0.1,5.6,mandatory,JG Bethell,DL Chahar,V Kohli,4,0,4,,,,,,,,,,,Raghu Sharma,RG Sharma,Mumbai Indians,impact_player,,20.0,167.0,4
+Royal Challengers Bengaluru,0,2,0.1,5.6,mandatory,JG Bethell,DL Chahar,V Kohli,4,0,4,,,,,,,,,,,,,,,,20.0,167.0,8
+Royal Challengers Bengaluru,0,3,0.1,5.6,mandatory,JG Bethell,DL Chahar,V Kohli,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,9
+Royal Challengers Bengaluru,0,4,0.1,5.6,mandatory,V Kohli,DL Chahar,JG Bethell,0,1,1,,1.0,,,,,,,,,,,,,,20.0,167.0,10
+Royal Challengers Bengaluru,0,5,0.1,5.6,mandatory,V Kohli,DL Chahar,JG Bethell,0,0,0,,,,,,,,,V Kohli,caught,,,,,RA Bawa,20.0,167.0,10
+Royal Challengers Bengaluru,0,6,0.1,5.6,mandatory,D Padikkal,DL Chahar,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,10
+Royal Challengers Bengaluru,0,7,0.1,5.6,mandatory,D Padikkal,DL Chahar,JG Bethell,4,0,4,,,,,,,,,,,,,,,,20.0,167.0,14
+Royal Challengers Bengaluru,1,1,0.1,5.6,mandatory,JG Bethell,JJ Bumrah,D Padikkal,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,14
+Royal Challengers Bengaluru,1,2,0.1,5.6,mandatory,JG Bethell,JJ Bumrah,D Padikkal,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,15
+Royal Challengers Bengaluru,1,3,0.1,5.6,mandatory,D Padikkal,JJ Bumrah,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,16
+Royal Challengers Bengaluru,1,4,0.1,5.6,mandatory,JG Bethell,JJ Bumrah,D Padikkal,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,17
+Royal Challengers Bengaluru,1,5,0.1,5.6,mandatory,D Padikkal,JJ Bumrah,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,17
+Royal Challengers Bengaluru,1,6,0.1,5.6,mandatory,D Padikkal,JJ Bumrah,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,18
+Royal Challengers Bengaluru,2,1,0.1,5.6,mandatory,D Padikkal,DL Chahar,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,18
+Royal Challengers Bengaluru,2,2,0.1,5.6,mandatory,D Padikkal,DL Chahar,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,18
+Royal Challengers Bengaluru,2,3,0.1,5.6,mandatory,D Padikkal,DL Chahar,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,18
+Royal Challengers Bengaluru,2,4,0.1,5.6,mandatory,D Padikkal,DL Chahar,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,18
+Royal Challengers Bengaluru,2,5,0.1,5.6,mandatory,D Padikkal,DL Chahar,JG Bethell,6,0,6,,,,,,,,,,,,,,,,20.0,167.0,24
+Royal Challengers Bengaluru,2,6,0.1,5.6,mandatory,D Padikkal,DL Chahar,JG Bethell,0,0,0,,,,,,,,,D Padikkal,caught,,,,,RD Rickelton,20.0,167.0,24
+Royal Challengers Bengaluru,3,1,0.1,5.6,mandatory,JG Bethell,JJ Bumrah,RM Patidar,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,25
+Royal Challengers Bengaluru,3,2,0.1,5.6,mandatory,RM Patidar,JJ Bumrah,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,26
+Royal Challengers Bengaluru,3,3,0.1,5.6,mandatory,JG Bethell,JJ Bumrah,RM Patidar,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,27
+Royal Challengers Bengaluru,3,4,0.1,5.6,mandatory,RM Patidar,JJ Bumrah,JG Bethell,0,1,1,,1.0,,,,,,,,,,,,,,20.0,167.0,28
+Royal Challengers Bengaluru,3,5,0.1,5.6,mandatory,RM Patidar,JJ Bumrah,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,29
+Royal Challengers Bengaluru,3,6,0.1,5.6,mandatory,JG Bethell,JJ Bumrah,RM Patidar,0,2,2,2.0,,,,,,,,,,,,,,,20.0,167.0,31
+Royal Challengers Bengaluru,3,7,0.1,5.6,mandatory,JG Bethell,JJ Bumrah,RM Patidar,0,1,1,,1.0,,,,,,,,,,,,,,20.0,167.0,32
+Royal Challengers Bengaluru,3,8,0.1,5.6,mandatory,JG Bethell,JJ Bumrah,RM Patidar,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,32
+Royal Challengers Bengaluru,4,1,0.1,5.6,mandatory,RM Patidar,DL Chahar,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,32
+Royal Challengers Bengaluru,4,2,0.1,5.6,mandatory,RM Patidar,DL Chahar,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,32
+Royal Challengers Bengaluru,4,3,0.1,5.6,mandatory,RM Patidar,DL Chahar,JG Bethell,4,0,4,,,,,,,,,,,,,,,,20.0,167.0,36
+Royal Challengers Bengaluru,4,4,0.1,5.6,mandatory,RM Patidar,DL Chahar,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,37
+Royal Challengers Bengaluru,4,5,0.1,5.6,mandatory,JG Bethell,DL Chahar,RM Patidar,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,38
+Royal Challengers Bengaluru,4,6,0.1,5.6,mandatory,RM Patidar,DL Chahar,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,39
+Royal Challengers Bengaluru,5,1,0.1,5.6,mandatory,RM Patidar,C Bosch,JG Bethell,0,0,0,,,,,,,,,RM Patidar,caught,,,,,RD Rickelton,20.0,167.0,39
+Royal Challengers Bengaluru,5,2,0.1,5.6,mandatory,KH Pandya,C Bosch,JG Bethell,2,0,2,,,,,,,,,,,,,,,,20.0,167.0,41
+Royal Challengers Bengaluru,5,3,0.1,5.6,mandatory,KH Pandya,C Bosch,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,41
+Royal Challengers Bengaluru,5,4,0.1,5.6,mandatory,KH Pandya,C Bosch,JG Bethell,6,0,6,,,,,,,,,,,,,,,,20.0,167.0,47
+Royal Challengers Bengaluru,5,5,0.1,5.6,mandatory,KH Pandya,C Bosch,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,47
+Royal Challengers Bengaluru,5,6,0.1,5.6,mandatory,KH Pandya,C Bosch,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,47
+Royal Challengers Bengaluru,6,1,0.1,5.6,mandatory,JG Bethell,WG Jacks,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,48
+Royal Challengers Bengaluru,6,2,0.1,5.6,mandatory,KH Pandya,WG Jacks,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,48
+Royal Challengers Bengaluru,6,3,0.1,5.6,mandatory,KH Pandya,WG Jacks,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,49
+Royal Challengers Bengaluru,6,4,0.1,5.6,mandatory,JG Bethell,WG Jacks,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,50
+Royal Challengers Bengaluru,6,5,0.1,5.6,mandatory,KH Pandya,WG Jacks,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,50
+Royal Challengers Bengaluru,6,6,0.1,5.6,mandatory,KH Pandya,WG Jacks,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,51
+Royal Challengers Bengaluru,7,1,0.1,5.6,mandatory,KH Pandya,C Bosch,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,52
+Royal Challengers Bengaluru,7,2,0.1,5.6,mandatory,JG Bethell,C Bosch,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,53
+Royal Challengers Bengaluru,7,3,0.1,5.6,mandatory,KH Pandya,C Bosch,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,54
+Royal Challengers Bengaluru,7,4,0.1,5.6,mandatory,JG Bethell,C Bosch,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,55
+Royal Challengers Bengaluru,7,5,0.1,5.6,mandatory,KH Pandya,C Bosch,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,56
+Royal Challengers Bengaluru,7,6,0.1,5.6,mandatory,JG Bethell,C Bosch,KH Pandya,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,56
+Royal Challengers Bengaluru,8,1,0.1,5.6,mandatory,KH Pandya,WG Jacks,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,57
+Royal Challengers Bengaluru,8,2,0.1,5.6,mandatory,JG Bethell,WG Jacks,KH Pandya,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,57
+Royal Challengers Bengaluru,8,3,0.1,5.6,mandatory,JG Bethell,WG Jacks,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,58
+Royal Challengers Bengaluru,8,4,0.1,5.6,mandatory,KH Pandya,WG Jacks,JG Bethell,4,0,4,,,,,,,,,,,,,,,,20.0,167.0,62
+Royal Challengers Bengaluru,8,5,0.1,5.6,mandatory,KH Pandya,WG Jacks,JG Bethell,0,1,1,,1.0,,,,,,,,,,,,,,20.0,167.0,63
+Royal Challengers Bengaluru,8,6,0.1,5.6,mandatory,KH Pandya,WG Jacks,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,64
+Royal Challengers Bengaluru,8,7,0.1,5.6,mandatory,JG Bethell,WG Jacks,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,65
+Royal Challengers Bengaluru,9,1,0.1,5.6,mandatory,JG Bethell,AM Ghazanfar,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,66
+Royal Challengers Bengaluru,9,2,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,67
+Royal Challengers Bengaluru,9,3,0.1,5.6,mandatory,JG Bethell,AM Ghazanfar,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,68
+Royal Challengers Bengaluru,9,4,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,JG Bethell,4,0,4,,,,,,,,,,,,,,,,20.0,167.0,72
+Royal Challengers Bengaluru,9,5,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,JG Bethell,1,0,1,,,Mumbai Indians,TM Srivastava,KH Pandya,struck down,wicket,,,,,,,,,20.0,167.0,73
+Royal Challengers Bengaluru,9,6,0.1,5.6,mandatory,JG Bethell,AM Ghazanfar,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,74
+Royal Challengers Bengaluru,10,1,0.1,5.6,mandatory,JG Bethell,RA Bawa,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,75
+Royal Challengers Bengaluru,10,2,0.1,5.6,mandatory,KH Pandya,RA Bawa,JG Bethell,4,0,4,,,,,,,,,,,,,,,,20.0,167.0,79
+Royal Challengers Bengaluru,10,3,0.1,5.6,mandatory,KH Pandya,RA Bawa,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,80
+Royal Challengers Bengaluru,10,4,0.1,5.6,mandatory,JG Bethell,RA Bawa,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,81
+Royal Challengers Bengaluru,10,5,0.1,5.6,mandatory,KH Pandya,RA Bawa,JG Bethell,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,81
+Royal Challengers Bengaluru,10,6,0.1,5.6,mandatory,KH Pandya,RA Bawa,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,82
+Royal Challengers Bengaluru,11,1,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,JG Bethell,2,0,2,,,,,,,,,,,,,,,,20.0,167.0,84
+Royal Challengers Bengaluru,11,2,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,JG Bethell,6,0,6,,,,,,,,,,,,,,,,20.0,167.0,90
+Royal Challengers Bengaluru,11,3,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,91
+Royal Challengers Bengaluru,11,4,0.1,5.6,mandatory,JG Bethell,AM Ghazanfar,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,92
+Royal Challengers Bengaluru,11,5,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,JG Bethell,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,93
+Royal Challengers Bengaluru,11,6,0.1,5.6,mandatory,JG Bethell,AM Ghazanfar,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,94
+Royal Challengers Bengaluru,12,1,0.1,5.6,mandatory,JG Bethell,C Bosch,KH Pandya,0,0,0,,,,,,,,,JG Bethell,caught,,,,,Tilak Varma,20.0,167.0,94
+Royal Challengers Bengaluru,12,2,0.1,5.6,mandatory,JM Sharma,C Bosch,KH Pandya,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,94
+Royal Challengers Bengaluru,12,3,0.1,5.6,mandatory,JM Sharma,C Bosch,KH Pandya,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,94
+Royal Challengers Bengaluru,12,4,0.1,5.6,mandatory,JM Sharma,C Bosch,KH Pandya,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,94
+Royal Challengers Bengaluru,12,5,0.1,5.6,mandatory,JM Sharma,C Bosch,KH Pandya,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,94
+Royal Challengers Bengaluru,12,6,0.1,5.6,mandatory,JM Sharma,C Bosch,KH Pandya,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,94
+Royal Challengers Bengaluru,13,1,0.1,5.6,mandatory,KH Pandya,RA Bawa,JM Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,95
+Royal Challengers Bengaluru,13,2,0.1,5.6,mandatory,JM Sharma,RA Bawa,KH Pandya,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,95
+Royal Challengers Bengaluru,13,3,0.1,5.6,mandatory,JM Sharma,RA Bawa,KH Pandya,6,0,6,,,,,,,,,,,,,,,,20.0,167.0,101
+Royal Challengers Bengaluru,13,4,0.1,5.6,mandatory,JM Sharma,RA Bawa,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,102
+Royal Challengers Bengaluru,13,5,0.1,5.6,mandatory,KH Pandya,RA Bawa,JM Sharma,4,0,4,,,,,,,,,,,,,,,,20.0,167.0,106
+Royal Challengers Bengaluru,13,6,0.1,5.6,mandatory,KH Pandya,RA Bawa,JM Sharma,0,1,1,,1.0,,,,,,,,,,,,,,20.0,167.0,107
+Royal Challengers Bengaluru,13,7,0.1,5.6,mandatory,KH Pandya,RA Bawa,JM Sharma,0,1,1,,1.0,,,,,,,,,,,,,,20.0,167.0,108
+Royal Challengers Bengaluru,13,8,0.1,5.6,mandatory,KH Pandya,RA Bawa,JM Sharma,2,0,2,,,,,,,,,,,,,,,,20.0,167.0,110
+Royal Challengers Bengaluru,14,1,0.1,5.6,mandatory,JM Sharma,JJ Bumrah,KH Pandya,4,0,4,,,,,,,,,,,,,,,,20.0,167.0,114
+Royal Challengers Bengaluru,14,2,0.1,5.6,mandatory,JM Sharma,JJ Bumrah,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,115
+Royal Challengers Bengaluru,14,3,0.1,5.6,mandatory,KH Pandya,JJ Bumrah,JM Sharma,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,115
+Royal Challengers Bengaluru,14,4,0.1,5.6,mandatory,KH Pandya,JJ Bumrah,JM Sharma,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,115
+Royal Challengers Bengaluru,14,5,0.1,5.6,mandatory,KH Pandya,JJ Bumrah,JM Sharma,2,0,2,,,,,,,,,,,,,,,,20.0,167.0,117
+Royal Challengers Bengaluru,14,6,0.1,5.6,mandatory,KH Pandya,JJ Bumrah,JM Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,118
+Royal Challengers Bengaluru,15,1,0.1,5.6,mandatory,KH Pandya,C Bosch,JM Sharma,6,0,6,,,,,,,,,,,,,,,,20.0,167.0,124
+Royal Challengers Bengaluru,15,2,0.1,5.6,mandatory,KH Pandya,C Bosch,JM Sharma,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,124
+Royal Challengers Bengaluru,15,3,0.1,5.6,mandatory,KH Pandya,C Bosch,JM Sharma,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,125
+Royal Challengers Bengaluru,15,4,0.1,5.6,mandatory,JM Sharma,C Bosch,KH Pandya,6,0,6,,,,,,,,,,,,,,,,20.0,167.0,131
+Royal Challengers Bengaluru,15,5,0.1,5.6,mandatory,JM Sharma,C Bosch,KH Pandya,0,0,0,,,,,,,,,JM Sharma,caught,,,,,Naman Dhir,20.0,167.0,131
+Royal Challengers Bengaluru,15,6,0.1,5.6,mandatory,TH David,C Bosch,KH Pandya,0,0,0,,,,,,,,,TH David,caught,,,,,RD Rickelton,20.0,167.0,131
+Royal Challengers Bengaluru,16,1,0.1,5.6,mandatory,KH Pandya,DL Chahar,R Shepherd,0,1,1,,1.0,,,,,,,,,,,,,,20.0,167.0,132
+Royal Challengers Bengaluru,16,2,0.1,5.6,mandatory,KH Pandya,DL Chahar,R Shepherd,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,132
+Royal Challengers Bengaluru,16,3,0.1,5.6,mandatory,KH Pandya,DL Chahar,R Shepherd,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,133
+Royal Challengers Bengaluru,16,4,0.1,5.6,mandatory,R Shepherd,DL Chahar,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,134
+Royal Challengers Bengaluru,16,5,0.1,5.6,mandatory,KH Pandya,DL Chahar,R Shepherd,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,135
+Royal Challengers Bengaluru,16,6,0.1,5.6,mandatory,R Shepherd,DL Chahar,KH Pandya,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,136
+Royal Challengers Bengaluru,16,7,0.1,5.6,mandatory,KH Pandya,DL Chahar,R Shepherd,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,137
+Royal Challengers Bengaluru,17,1,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,R Shepherd,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,137
+Royal Challengers Bengaluru,17,2,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,R Shepherd,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,137
+Royal Challengers Bengaluru,17,3,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,R Shepherd,6,0,6,,,,,,,,,,,,,,,,20.0,167.0,143
+Royal Challengers Bengaluru,17,4,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,R Shepherd,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,143
+Royal Challengers Bengaluru,17,5,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,R Shepherd,6,0,6,,,,,,,,,,,,,,,,20.0,167.0,149
+Royal Challengers Bengaluru,17,6,0.1,5.6,mandatory,KH Pandya,AM Ghazanfar,R Shepherd,0,0,0,,,,,,,,,KH Pandya,caught,,,,,Tilak Varma,20.0,167.0,149
+Royal Challengers Bengaluru,18,1,0.1,5.6,mandatory,R Shepherd,JJ Bumrah,Rasikh Salam,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,150
+Royal Challengers Bengaluru,18,2,0.1,5.6,mandatory,Rasikh Salam,JJ Bumrah,R Shepherd,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,151
+Royal Challengers Bengaluru,18,3,0.1,5.6,mandatory,R Shepherd,JJ Bumrah,Rasikh Salam,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,151
+Royal Challengers Bengaluru,18,4,0.1,5.6,mandatory,R Shepherd,JJ Bumrah,Rasikh Salam,0,0,0,,,Mumbai Indians,R Pandit,R Shepherd,struck down,wicket,,,,,,,,,20.0,167.0,151
+Royal Challengers Bengaluru,18,5,0.1,5.6,mandatory,R Shepherd,JJ Bumrah,Rasikh Salam,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,151
+Royal Challengers Bengaluru,18,6,0.1,5.6,mandatory,R Shepherd,JJ Bumrah,Rasikh Salam,0,1,1,1.0,,,,,,,,,,,,,,,20.0,167.0,152
+Royal Challengers Bengaluru,19,1,0.1,5.6,mandatory,R Shepherd,RA Bawa,Rasikh Salam,0,1,1,,1.0,,,,,,,,,,,,,,20.0,167.0,153
+Royal Challengers Bengaluru,19,2,0.1,5.6,mandatory,R Shepherd,RA Bawa,Rasikh Salam,0,1,1,,,,,,,,1.0,,,,,,,,20.0,167.0,154
+Royal Challengers Bengaluru,19,3,0.1,5.6,mandatory,R Shepherd,RA Bawa,Rasikh Salam,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,155
+Royal Challengers Bengaluru,19,4,0.1,5.6,mandatory,Rasikh Salam,RA Bawa,R Shepherd,0,2,2,,2.0,,,,,,,,,,,,,,20.0,167.0,157
+Royal Challengers Bengaluru,19,5,0.1,5.6,mandatory,R Shepherd,RA Bawa,Rasikh Salam,0,0,0,,,,,,,,,,,,,,,,20.0,167.0,157
+Royal Challengers Bengaluru,19,6,0.1,5.6,mandatory,R Shepherd,RA Bawa,Rasikh Salam,0,0,0,,,,,,,,,R Shepherd,caught,,,,,Tilak Varma,20.0,167.0,157
+Royal Challengers Bengaluru,19,7,0.1,5.6,mandatory,B Kumar,RA Bawa,Rasikh Salam,0,1,1,,1.0,,,,,,,,,,,,,,20.0,167.0,158
+Royal Challengers Bengaluru,19,8,0.1,5.6,mandatory,B Kumar,RA Bawa,Rasikh Salam,6,0,6,,,,,,,,,,,,,,,,20.0,167.0,164
+Royal Challengers Bengaluru,19,9,0.1,5.6,mandatory,B Kumar,RA Bawa,Rasikh Salam,1,0,1,,,,,,,,,,,,,,,,20.0,167.0,165
+Royal Challengers Bengaluru,19,10,0.1,5.6,mandatory,Rasikh Salam,RA Bawa,B Kumar,2,0,2,,,,,,,,,,,,,,,,20.0,167.0,167

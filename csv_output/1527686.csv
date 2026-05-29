@@ -1,0 +1,145 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,review_by,review_umpire,review_batter,review_decision,review_type,byes,legbyes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Rajasthan Royals,0,1,0.1,3.2,mandatory,YBK Jaiswal,DL Chahar,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,,4
+Rajasthan Royals,0,2,0.1,3.2,mandatory,YBK Jaiswal,DL Chahar,V Suryavanshi,6,0,6,,,,,,,,,,,,,,,,,,10
+Rajasthan Royals,0,3,0.1,3.2,mandatory,YBK Jaiswal,DL Chahar,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,,14
+Rajasthan Royals,0,4,0.1,3.2,mandatory,YBK Jaiswal,DL Chahar,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,14
+Rajasthan Royals,0,5,0.1,3.2,mandatory,YBK Jaiswal,DL Chahar,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,,18
+Rajasthan Royals,0,6,0.1,3.2,mandatory,YBK Jaiswal,DL Chahar,V Suryavanshi,4,0,4,,,,,,,,,,,,,,,,,,22
+Rajasthan Royals,1,1,0.1,3.2,mandatory,V Suryavanshi,JJ Bumrah,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,,28
+Rajasthan Royals,1,2,0.1,3.2,mandatory,V Suryavanshi,JJ Bumrah,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,29
+Rajasthan Royals,1,3,0.1,3.2,mandatory,YBK Jaiswal,JJ Bumrah,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,,30
+Rajasthan Royals,1,4,0.1,3.2,mandatory,V Suryavanshi,JJ Bumrah,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,,36
+Rajasthan Royals,1,5,0.1,3.2,mandatory,V Suryavanshi,JJ Bumrah,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,,36
+Rajasthan Royals,1,6,0.1,3.2,mandatory,V Suryavanshi,JJ Bumrah,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,,36
+Rajasthan Royals,2,1,0.1,3.2,mandatory,YBK Jaiswal,TA Boult,V Suryavanshi,6,0,6,,,,,,,,,,,,,,,,,,42
+Rajasthan Royals,2,2,0.1,3.2,mandatory,YBK Jaiswal,TA Boult,V Suryavanshi,6,0,6,,,,,,,,,,,,,,,,,,48
+Rajasthan Royals,2,3,0.1,3.2,mandatory,YBK Jaiswal,TA Boult,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,,49
+Rajasthan Royals,2,4,0.1,3.2,mandatory,V Suryavanshi,TA Boult,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,,55
+Rajasthan Royals,2,5,0.1,3.2,mandatory,V Suryavanshi,TA Boult,YBK Jaiswal,0,1,1,1.0,,,,,,,,,,,,,,,,,56
+Rajasthan Royals,2,6,0.1,3.2,mandatory,V Suryavanshi,TA Boult,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,57
+Rajasthan Royals,2,7,0.1,3.2,mandatory,YBK Jaiswal,TA Boult,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,,58
+Rajasthan Royals,3,1,0.1,3.2,mandatory,YBK Jaiswal,HH Pandya,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,58
+Rajasthan Royals,3,2,0.1,3.2,mandatory,YBK Jaiswal,HH Pandya,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,,59
+Rajasthan Royals,3,3,0.1,3.2,mandatory,V Suryavanshi,HH Pandya,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,60
+Rajasthan Royals,3,4,0.1,3.2,mandatory,YBK Jaiswal,HH Pandya,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,,61
+Rajasthan Royals,3,5,0.1,3.2,mandatory,V Suryavanshi,HH Pandya,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,62
+Rajasthan Royals,3,6,0.1,3.2,mandatory,YBK Jaiswal,HH Pandya,V Suryavanshi,0,0,0,,,,,,,,,,,,,,,,,,62
+Rajasthan Royals,4,1,0.1,3.2,mandatory,V Suryavanshi,SN Thakur,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,,68
+Rajasthan Royals,4,2,0.1,3.2,mandatory,V Suryavanshi,SN Thakur,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,,72
+Rajasthan Royals,4,3,0.1,3.2,mandatory,V Suryavanshi,SN Thakur,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,73
+Rajasthan Royals,4,4,0.1,3.2,mandatory,YBK Jaiswal,SN Thakur,V Suryavanshi,1,0,1,,,,,,,,,,,,,,,,,,74
+Rajasthan Royals,4,5,0.1,3.2,mandatory,V Suryavanshi,SN Thakur,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,,80
+Rajasthan Royals,4,6,0.1,3.2,mandatory,V Suryavanshi,SN Thakur,YBK Jaiswal,0,0,0,,,,,,,,,V Suryavanshi,caught,,,,,Tilak Varma,,,80
+Rajasthan Royals,5,1,0.1,3.2,mandatory,YBK Jaiswal,AM Ghazanfar,Dhruv Jurel,0,1,1,1.0,,,,,,,,,,,,,,,,,81
+Rajasthan Royals,5,2,0.1,3.2,mandatory,YBK Jaiswal,AM Ghazanfar,Dhruv Jurel,1,0,1,,,,,,,,,,,,,,,,,,82
+Rajasthan Royals,5,3,0.1,3.2,mandatory,Dhruv Jurel,AM Ghazanfar,YBK Jaiswal,2,0,2,,,,,,,,,,,,,,,,,,84
+Rajasthan Royals,5,4,0.1,3.2,mandatory,Dhruv Jurel,AM Ghazanfar,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,,84
+Rajasthan Royals,5,5,0.1,3.2,mandatory,Dhruv Jurel,AM Ghazanfar,YBK Jaiswal,0,0,0,,Rajasthan Royals,M Krishnadas,Dhruv Jurel,struck down,wicket,,,Dhruv Jurel,lbw,,,,,,,,84
+Rajasthan Royals,5,6,0.1,3.2,mandatory,R Parag,AM Ghazanfar,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,85
+Rajasthan Royals,5,7,0.1,3.2,mandatory,YBK Jaiswal,AM Ghazanfar,R Parag,4,0,4,,,,,,,,,,,,,,,,,,89
+Rajasthan Royals,6,1,0.1,3.2,mandatory,R Parag,JJ Bumrah,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,90
+Rajasthan Royals,6,2,0.1,3.2,mandatory,YBK Jaiswal,JJ Bumrah,R Parag,0,0,0,,,,,,,,,,,,,,,,,,90
+Rajasthan Royals,6,3,0.1,3.2,mandatory,YBK Jaiswal,JJ Bumrah,R Parag,1,0,1,,,,,,,,,,,,,,,,,,91
+Rajasthan Royals,6,4,0.1,3.2,mandatory,R Parag,JJ Bumrah,YBK Jaiswal,4,0,4,,,,,,,,,,,,,,,,,,95
+Rajasthan Royals,6,5,0.1,3.2,mandatory,R Parag,JJ Bumrah,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,96
+Rajasthan Royals,6,6,0.1,3.2,mandatory,YBK Jaiswal,JJ Bumrah,R Parag,1,0,1,,,,,,,,,,,,,,,,,,97
+Rajasthan Royals,7,1,0.1,3.2,mandatory,YBK Jaiswal,HH Pandya,R Parag,1,0,1,,,,,,,,,,,,,,,,,,98
+Rajasthan Royals,7,2,0.1,3.2,mandatory,R Parag,HH Pandya,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,99
+Rajasthan Royals,7,3,0.1,3.2,mandatory,YBK Jaiswal,HH Pandya,R Parag,4,0,4,,,,,,,,,,,,,,,,,,103
+Rajasthan Royals,7,4,0.1,3.2,mandatory,YBK Jaiswal,HH Pandya,R Parag,1,0,1,,,,,,,,,,,,,,,,,,104
+Rajasthan Royals,7,5,0.1,3.2,mandatory,R Parag,HH Pandya,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,,104
+Rajasthan Royals,7,6,0.1,3.2,mandatory,R Parag,HH Pandya,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,,110
+Rajasthan Royals,8,1,0.1,3.2,mandatory,YBK Jaiswal,AM Ghazanfar,R Parag,4,0,4,,,,,,,,,,,,,,,,,,114
+Rajasthan Royals,8,2,0.1,3.2,mandatory,YBK Jaiswal,AM Ghazanfar,R Parag,1,0,1,,,,,,,,,,,,,,,,,,115
+Rajasthan Royals,8,3,0.1,3.2,mandatory,R Parag,AM Ghazanfar,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,,115
+Rajasthan Royals,8,4,0.1,3.2,mandatory,R Parag,AM Ghazanfar,YBK Jaiswal,6,0,6,,,,,,,,,,,,,,,,,,121
+Rajasthan Royals,8,5,0.1,3.2,mandatory,R Parag,AM Ghazanfar,YBK Jaiswal,0,0,0,,,,,,,,,R Parag,caught,,,,,Tilak Varma,,,121
+Rajasthan Royals,8,6,0.1,3.2,mandatory,SO Hetmyer,AM Ghazanfar,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,122
+Rajasthan Royals,9,1,0.1,3.2,mandatory,SO Hetmyer,JJ Bumrah,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,,122
+Rajasthan Royals,9,2,0.1,3.2,mandatory,SO Hetmyer,JJ Bumrah,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,123
+Rajasthan Royals,9,3,0.1,3.2,mandatory,YBK Jaiswal,JJ Bumrah,SO Hetmyer,0,1,1,1.0,,,,,,,,,,,,,,,,,124
+Rajasthan Royals,9,4,0.1,3.2,mandatory,YBK Jaiswal,JJ Bumrah,SO Hetmyer,6,0,6,,,,,,,,,,,,,,,,,,130
+Rajasthan Royals,9,5,0.1,3.2,mandatory,YBK Jaiswal,JJ Bumrah,SO Hetmyer,1,0,1,,,,,,,,,,,,,,,,,,131
+Rajasthan Royals,9,6,0.1,3.2,mandatory,SO Hetmyer,JJ Bumrah,YBK Jaiswal,0,0,0,,,,,,,,,,,,,,,,,,131
+Rajasthan Royals,9,7,0.1,3.2,mandatory,SO Hetmyer,JJ Bumrah,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,132
+Rajasthan Royals,10,1,0.1,3.2,mandatory,SO Hetmyer,SN Thakur,YBK Jaiswal,2,0,2,,,,,,,,,,,,,,,,,,134
+Rajasthan Royals,10,2,0.1,3.2,mandatory,SO Hetmyer,SN Thakur,YBK Jaiswal,0,1,1,1.0,,,,,,,,,,,,,,,,,135
+Rajasthan Royals,10,3,0.1,3.2,mandatory,SO Hetmyer,SN Thakur,YBK Jaiswal,1,0,1,,,,,,,,,,,,,,,,,,136
+Rajasthan Royals,10,4,0.1,3.2,mandatory,YBK Jaiswal,SN Thakur,SO Hetmyer,4,0,4,,,,,,,,,,,,,,,,,,140
+Rajasthan Royals,10,5,0.1,3.2,mandatory,YBK Jaiswal,SN Thakur,SO Hetmyer,0,1,1,1.0,,,,,,,,,,,,,,,,,141
+Rajasthan Royals,10,6,0.1,3.2,mandatory,YBK Jaiswal,SN Thakur,SO Hetmyer,0,0,0,,,,,,,,,,,,,,,,,,141
+Rajasthan Royals,10,7,0.1,3.2,mandatory,YBK Jaiswal,SN Thakur,SO Hetmyer,4,0,4,,,,,,,,,,,,,,,,,,145
+Rajasthan Royals,10,8,0.1,3.2,mandatory,YBK Jaiswal,SN Thakur,SO Hetmyer,0,1,1,1.0,,,,,,,,,,,,,,,,,146
+Rajasthan Royals,10,9,0.1,3.2,mandatory,YBK Jaiswal,SN Thakur,SO Hetmyer,4,0,4,,,,,,,,,,,,,,,,,,150
+Mumbai Indians,0,1,0.1,3.2,mandatory,RD Rickelton,JC Archer,RG Sharma,1,0,1,,,,,,,,,,,Ravi Bishnoi,D Ferreira,Rajasthan Royals,impact_player,,11.0,151.0,1
+Mumbai Indians,0,2,0.1,3.2,mandatory,RG Sharma,JC Archer,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,2
+Mumbai Indians,0,3,0.1,3.2,mandatory,RD Rickelton,JC Archer,RG Sharma,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,3
+Mumbai Indians,0,4,0.1,3.2,mandatory,RG Sharma,JC Archer,RD Rickelton,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,4
+Mumbai Indians,0,5,0.1,3.2,mandatory,RD Rickelton,JC Archer,RG Sharma,6,0,6,,,,,,,,,,,,,,,,11.0,151.0,10
+Mumbai Indians,0,6,0.1,3.2,mandatory,RD Rickelton,JC Archer,RG Sharma,0,0,0,,,,,,,,,RD Rickelton,caught,,,,,Dhruv Jurel,11.0,151.0,10
+Mumbai Indians,1,1,0.1,3.2,mandatory,RG Sharma,N Burger,SA Yadav,3,0,3,,,,,,,,,,,,,,,,11.0,151.0,13
+Mumbai Indians,1,2,0.1,3.2,mandatory,SA Yadav,N Burger,RG Sharma,6,0,6,,,,,,,,,,,,,,,,11.0,151.0,19
+Mumbai Indians,1,3,0.1,3.2,mandatory,SA Yadav,N Burger,RG Sharma,0,1,1,1.0,,,,,,,,,,,,,,,11.0,151.0,20
+Mumbai Indians,1,4,0.1,3.2,mandatory,SA Yadav,N Burger,RG Sharma,0,0,0,,,,,,,,,,,,,,,,11.0,151.0,20
+Mumbai Indians,1,5,0.1,3.2,mandatory,SA Yadav,N Burger,RG Sharma,0,0,0,,,,,,,,,SA Yadav,caught,,,,,JC Archer,11.0,151.0,20
+Mumbai Indians,1,6,0.1,3.2,mandatory,Tilak Varma,N Burger,RG Sharma,2,0,2,,,,,,,,,,,,,,,,11.0,151.0,22
+Mumbai Indians,1,7,0.1,3.2,mandatory,Tilak Varma,N Burger,RG Sharma,0,0,0,,,,,,,,,,,,,,,,11.0,151.0,22
+Mumbai Indians,2,1,0.1,3.2,mandatory,RG Sharma,Sandeep Sharma,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,11.0,151.0,22
+Mumbai Indians,2,2,0.1,3.2,mandatory,RG Sharma,Sandeep Sharma,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,11.0,151.0,22
+Mumbai Indians,2,3,0.1,3.2,mandatory,RG Sharma,Sandeep Sharma,Tilak Varma,0,0,0,,Mumbai Indians,M Krishnadas,RG Sharma,struck down,wicket,,,RG Sharma,lbw,,,,,,11.0,151.0,22
+Mumbai Indians,2,4,0.1,3.2,mandatory,HH Pandya,Sandeep Sharma,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,23
+Mumbai Indians,2,5,0.1,3.2,mandatory,Tilak Varma,Sandeep Sharma,HH Pandya,0,0,0,,,,,,,,,,,,,,,,11.0,151.0,23
+Mumbai Indians,2,6,0.1,3.2,mandatory,Tilak Varma,Sandeep Sharma,HH Pandya,0,1,1,1.0,,,,,,,,,,,,,,,11.0,151.0,24
+Mumbai Indians,2,7,0.1,3.2,mandatory,Tilak Varma,Sandeep Sharma,HH Pandya,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,25
+Mumbai Indians,3,1,0.1,3.2,mandatory,Tilak Varma,TU Deshpande,HH Pandya,4,0,4,,,,,,,,,,,,,,,,11.0,151.0,29
+Mumbai Indians,3,2,0.1,3.2,mandatory,Tilak Varma,TU Deshpande,HH Pandya,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,30
+Mumbai Indians,3,3,0.1,3.2,mandatory,HH Pandya,TU Deshpande,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,11.0,151.0,34
+Mumbai Indians,3,4,0.1,3.2,mandatory,HH Pandya,TU Deshpande,Tilak Varma,0,0,0,,,,,,,,,,,,,,,,11.0,151.0,34
+Mumbai Indians,3,5,0.1,3.2,mandatory,HH Pandya,TU Deshpande,Tilak Varma,0,1,1,,,,,,,1.0,,,,,,,,,11.0,151.0,35
+Mumbai Indians,3,6,0.1,3.2,mandatory,Tilak Varma,TU Deshpande,HH Pandya,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,36
+Mumbai Indians,4,1,0.1,3.2,mandatory,Tilak Varma,Ravi Bishnoi,HH Pandya,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,37
+Mumbai Indians,4,2,0.1,3.2,mandatory,HH Pandya,Ravi Bishnoi,Tilak Varma,4,0,4,,,,,,,,,,,,,,,,11.0,151.0,41
+Mumbai Indians,4,3,0.1,3.2,mandatory,HH Pandya,Ravi Bishnoi,Tilak Varma,0,0,0,,,,,,,,,HH Pandya,caught,,,,,YBK Jaiswal,11.0,151.0,41
+Mumbai Indians,4,4,0.1,3.2,mandatory,Naman Dhir,Ravi Bishnoi,Tilak Varma,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,42
+Mumbai Indians,4,5,0.1,3.2,mandatory,Tilak Varma,Ravi Bishnoi,Naman Dhir,4,0,4,,,,,,,,,,,,,,,,11.0,151.0,46
+Mumbai Indians,4,6,0.1,3.2,mandatory,Tilak Varma,Ravi Bishnoi,Naman Dhir,0,0,0,,,,,,,,,Tilak Varma,caught,,,,,SO Hetmyer,11.0,151.0,46
+Mumbai Indians,5,1,0.1,3.2,mandatory,Naman Dhir,Sandeep Sharma,SE Rutherford,0,0,0,,,,,,,,,,,SE Rutherford,AM Ghazanfar,Mumbai Indians,impact_player,,11.0,151.0,46
+Mumbai Indians,5,2,0.1,3.2,mandatory,Naman Dhir,Sandeep Sharma,SE Rutherford,2,0,2,,,,,,,,,,,,,,,,11.0,151.0,48
+Mumbai Indians,5,3,0.1,3.2,mandatory,Naman Dhir,Sandeep Sharma,SE Rutherford,6,0,6,,,,,,,,,,,,,,,,11.0,151.0,54
+Mumbai Indians,5,4,0.1,3.2,mandatory,Naman Dhir,Sandeep Sharma,SE Rutherford,0,0,0,,,,,,,,,,,,,,,,11.0,151.0,54
+Mumbai Indians,5,5,0.1,3.2,mandatory,Naman Dhir,Sandeep Sharma,SE Rutherford,4,0,4,,,,,,,,,,,,,,,,11.0,151.0,58
+Mumbai Indians,5,6,0.1,3.2,mandatory,Naman Dhir,Sandeep Sharma,SE Rutherford,2,0,2,,,,,,,,,,,,,,,,11.0,151.0,60
+Mumbai Indians,6,1,0.1,3.2,mandatory,SE Rutherford,Ravi Bishnoi,Naman Dhir,2,0,2,,,,,,,,,,,,,,,,11.0,151.0,62
+Mumbai Indians,6,2,0.1,3.2,mandatory,SE Rutherford,Ravi Bishnoi,Naman Dhir,2,0,2,,,,,,,,,,,,,,,,11.0,151.0,64
+Mumbai Indians,6,3,0.1,3.2,mandatory,SE Rutherford,Ravi Bishnoi,Naman Dhir,0,1,1,1.0,,,,,,,,,,,,,,,11.0,151.0,65
+Mumbai Indians,6,4,0.1,3.2,mandatory,SE Rutherford,Ravi Bishnoi,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,66
+Mumbai Indians,6,5,0.1,3.2,mandatory,Naman Dhir,Ravi Bishnoi,SE Rutherford,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,67
+Mumbai Indians,6,6,0.1,3.2,mandatory,SE Rutherford,Ravi Bishnoi,Naman Dhir,4,0,4,,,,,,,,,,,,,,,,11.0,151.0,71
+Mumbai Indians,6,7,0.1,3.2,mandatory,SE Rutherford,Ravi Bishnoi,Naman Dhir,4,0,4,,,,,,,,,,,,,,,,11.0,151.0,75
+Mumbai Indians,7,1,0.1,3.2,mandatory,Naman Dhir,TU Deshpande,SE Rutherford,4,0,4,,,,,,,,,,,,,,,,11.0,151.0,79
+Mumbai Indians,7,2,0.1,3.2,mandatory,Naman Dhir,TU Deshpande,SE Rutherford,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,80
+Mumbai Indians,7,3,0.1,3.2,mandatory,SE Rutherford,TU Deshpande,Naman Dhir,6,0,6,,,,,,,,,,,,,,,,11.0,151.0,86
+Mumbai Indians,7,4,0.1,3.2,mandatory,SE Rutherford,TU Deshpande,Naman Dhir,0,1,1,1.0,,,,,,,,,,,,,,,11.0,151.0,87
+Mumbai Indians,7,5,0.1,3.2,mandatory,SE Rutherford,TU Deshpande,Naman Dhir,6,0,6,,,,,,,,,,,,,,,,11.0,151.0,93
+Mumbai Indians,7,6,0.1,3.2,mandatory,SE Rutherford,TU Deshpande,Naman Dhir,0,0,0,,,,,,,,,SE Rutherford,caught,,,,,Sandeep Sharma,11.0,151.0,93
+Mumbai Indians,7,7,0.1,3.2,mandatory,SN Thakur,TU Deshpande,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,94
+Mumbai Indians,8,1,0.1,3.2,mandatory,SN Thakur,N Burger,Naman Dhir,4,0,4,,,,,,,,,,,,,,,,11.0,151.0,98
+Mumbai Indians,8,2,0.1,3.2,mandatory,SN Thakur,N Burger,Naman Dhir,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,99
+Mumbai Indians,8,3,0.1,3.2,mandatory,Naman Dhir,N Burger,SN Thakur,0,0,0,,,,,,,,,,,,,,,,11.0,151.0,99
+Mumbai Indians,8,4,0.1,3.2,mandatory,Naman Dhir,N Burger,SN Thakur,4,0,4,,,,,,,,,,,,,,,,11.0,151.0,103
+Mumbai Indians,8,5,0.1,3.2,mandatory,Naman Dhir,N Burger,SN Thakur,0,0,0,,,,,,,,,Naman Dhir,caught,,,,,Ravi Bishnoi,11.0,151.0,103
+Mumbai Indians,8,6,0.1,3.2,mandatory,DL Chahar,N Burger,SN Thakur,0,4,4,,,,,,,,4.0,,,,,,,,11.0,151.0,107
+Mumbai Indians,9,1,0.1,3.2,mandatory,SN Thakur,Sandeep Sharma,DL Chahar,0,0,0,,,,,,,,,,,,,,,,11.0,151.0,107
+Mumbai Indians,9,2,0.1,3.2,mandatory,SN Thakur,Sandeep Sharma,DL Chahar,0,1,1,1.0,,,,,,,,,,,,,,,11.0,151.0,108
+Mumbai Indians,9,3,0.1,3.2,mandatory,SN Thakur,Sandeep Sharma,DL Chahar,0,0,0,,,,,,,,,,,,,,,,11.0,151.0,108
+Mumbai Indians,9,4,0.1,3.2,mandatory,SN Thakur,Sandeep Sharma,DL Chahar,2,0,2,,,,,,,,,,,,,,,,11.0,151.0,110
+Mumbai Indians,9,5,0.1,3.2,mandatory,SN Thakur,Sandeep Sharma,DL Chahar,0,1,1,1.0,,,,,,,,,,,,,,,11.0,151.0,111
+Mumbai Indians,9,6,0.1,3.2,mandatory,SN Thakur,Sandeep Sharma,DL Chahar,0,0,0,,,,,,,,,SN Thakur,caught,,,,,Dhruv Jurel,11.0,151.0,111
+Mumbai Indians,9,7,0.1,3.2,mandatory,TA Boult,Sandeep Sharma,DL Chahar,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,112
+Mumbai Indians,9,8,0.1,3.2,mandatory,DL Chahar,Sandeep Sharma,TA Boult,4,0,4,,,,,,,,,,,,,,,,11.0,151.0,116
+Mumbai Indians,10,1,0.1,3.2,mandatory,TA Boult,JC Archer,DL Chahar,0,0,0,,,,,,,,,TA Boult,run out,,,,,JC Archer,11.0,151.0,116
+Mumbai Indians,10,2,0.1,3.2,mandatory,DL Chahar,JC Archer,JJ Bumrah,0,0,0,,,,,,,,,,,,,,,,11.0,151.0,116
+Mumbai Indians,10,3,0.1,3.2,mandatory,DL Chahar,JC Archer,JJ Bumrah,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,117
+Mumbai Indians,10,4,0.1,3.2,mandatory,JJ Bumrah,JC Archer,DL Chahar,4,0,4,,,,,,,,,,,,,,,,11.0,151.0,121
+Mumbai Indians,10,5,0.1,3.2,mandatory,JJ Bumrah,JC Archer,DL Chahar,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,122
+Mumbai Indians,10,6,0.1,3.2,mandatory,DL Chahar,JC Archer,JJ Bumrah,1,0,1,,,,,,,,,,,,,,,,11.0,151.0,123

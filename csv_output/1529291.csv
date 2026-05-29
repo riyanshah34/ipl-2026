@@ -1,0 +1,231 @@
+team,over,ball_number,powerplays_from,powerplays_to,powerplays_type,striker,bowler,non_striker,batter_runs,extra_runs,total_runs,wides,review_by,review_umpire,review_batter,review_decision,review_type,legbyes,player_out,wicket_kind,overs_deliveries_replacements.match_in,overs_deliveries_replacements.match_out,overs_deliveries_replacements.match_team,overs_deliveries_replacements.match_reason,fielders_name,target_overs,target_runs,current_team_total
+Delhi Capitals,0,1,0.1,5.6,mandatory,P Nissanka,AJ Hosein,KL Rahul,4,0,4,,,,,,,,,,,,,,,,,4
+Delhi Capitals,0,2,0.1,5.6,mandatory,P Nissanka,AJ Hosein,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,4
+Delhi Capitals,0,3,0.1,5.6,mandatory,P Nissanka,AJ Hosein,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,4
+Delhi Capitals,0,4,0.1,5.6,mandatory,P Nissanka,AJ Hosein,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,4
+Delhi Capitals,0,5,0.1,5.6,mandatory,P Nissanka,AJ Hosein,KL Rahul,4,0,4,,,,,,,,,,,,,,,,,8
+Delhi Capitals,0,6,0.1,5.6,mandatory,P Nissanka,AJ Hosein,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,8
+Delhi Capitals,1,1,0.1,5.6,mandatory,KL Rahul,Mukesh Choudhary,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,8
+Delhi Capitals,1,2,0.1,5.6,mandatory,KL Rahul,Mukesh Choudhary,P Nissanka,4,0,4,,,,,,,,,,,,,,,,,12
+Delhi Capitals,1,3,0.1,5.6,mandatory,KL Rahul,Mukesh Choudhary,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,12
+Delhi Capitals,1,4,0.1,5.6,mandatory,KL Rahul,Mukesh Choudhary,P Nissanka,1,0,1,,,,,,,,,,,,,,,,,13
+Delhi Capitals,1,5,0.1,5.6,mandatory,P Nissanka,Mukesh Choudhary,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,13
+Delhi Capitals,1,6,0.1,5.6,mandatory,P Nissanka,Mukesh Choudhary,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,13
+Delhi Capitals,2,1,0.1,5.6,mandatory,KL Rahul,AJ Hosein,P Nissanka,1,0,1,,,,,,,,,,,,,,,,,14
+Delhi Capitals,2,2,0.1,5.6,mandatory,P Nissanka,AJ Hosein,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,15
+Delhi Capitals,2,3,0.1,5.6,mandatory,KL Rahul,AJ Hosein,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,15
+Delhi Capitals,2,4,0.1,5.6,mandatory,KL Rahul,AJ Hosein,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,15
+Delhi Capitals,2,5,0.1,5.6,mandatory,KL Rahul,AJ Hosein,P Nissanka,0,0,0,,,,,,,,,,,,,,,,,15
+Delhi Capitals,2,6,0.1,5.6,mandatory,KL Rahul,AJ Hosein,P Nissanka,4,0,4,,,,,,,,,,,,,,,,,19
+Delhi Capitals,3,1,0.1,5.6,mandatory,P Nissanka,Mukesh Choudhary,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,19
+Delhi Capitals,3,2,0.1,5.6,mandatory,P Nissanka,Mukesh Choudhary,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,19
+Delhi Capitals,3,3,0.1,5.6,mandatory,P Nissanka,Mukesh Choudhary,KL Rahul,4,0,4,,,,,,,,,,,,,,,,,23
+Delhi Capitals,3,4,0.1,5.6,mandatory,P Nissanka,Mukesh Choudhary,KL Rahul,6,0,6,,,,,,,,,,,,,,,,,29
+Delhi Capitals,3,5,0.1,5.6,mandatory,P Nissanka,Mukesh Choudhary,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,29
+Delhi Capitals,3,6,0.1,5.6,mandatory,P Nissanka,Mukesh Choudhary,KL Rahul,0,0,0,,,,,,,,P Nissanka,caught,,,,,D Brevis,,,29
+Delhi Capitals,4,1,0.1,5.6,mandatory,KL Rahul,A Kamboj,N Rana,1,0,1,,,,,,,,,,,,,,,,,30
+Delhi Capitals,4,2,0.1,5.6,mandatory,N Rana,A Kamboj,KL Rahul,1,0,1,,,,,,,,,,,,,,,,,31
+Delhi Capitals,4,3,0.1,5.6,mandatory,KL Rahul,A Kamboj,N Rana,0,0,0,,,,,,,,,,,,,,,,,31
+Delhi Capitals,4,4,0.1,5.6,mandatory,KL Rahul,A Kamboj,N Rana,1,0,1,,,,,,,,,,,,,,,,,32
+Delhi Capitals,4,5,0.1,5.6,mandatory,N Rana,A Kamboj,KL Rahul,4,0,4,,,,,,,,,,,,,,,,,36
+Delhi Capitals,4,6,0.1,5.6,mandatory,N Rana,A Kamboj,KL Rahul,0,0,0,,,,,,,,,,,,,,,,,36
+Delhi Capitals,5,1,0.1,5.6,mandatory,KL Rahul,AJ Hosein,N Rana,0,0,0,,,,,,,,KL Rahul,caught,,,,,RD Gaikwad,,,36
+Delhi Capitals,5,2,0.1,5.6,mandatory,KK Nair,AJ Hosein,N Rana,0,0,0,,,,,,,,,,,,,,,,,36
+Delhi Capitals,5,3,0.1,5.6,mandatory,KK Nair,AJ Hosein,N Rana,0,0,0,,,,,,,,,,,,,,,,,36
+Delhi Capitals,5,4,0.1,5.6,mandatory,KK Nair,AJ Hosein,N Rana,0,0,0,,,,,,,,,,,,,,,,,36
+Delhi Capitals,5,5,0.1,5.6,mandatory,KK Nair,AJ Hosein,N Rana,1,0,1,,,,,,,,,,,,,,,,,37
+Delhi Capitals,5,6,0.1,5.6,mandatory,N Rana,AJ Hosein,KK Nair,0,0,0,,,,,,,,,,,,,,,,,37
+Delhi Capitals,6,1,0.1,5.6,mandatory,KK Nair,A Kamboj,N Rana,0,0,0,,,,,,,,,,,,,,,,,37
+Delhi Capitals,6,2,0.1,5.6,mandatory,KK Nair,A Kamboj,N Rana,2,0,2,,,,,,,,,,,,,,,,,39
+Delhi Capitals,6,3,0.1,5.6,mandatory,KK Nair,A Kamboj,N Rana,0,0,0,,,,,,,,,,,,,,,,,39
+Delhi Capitals,6,4,0.1,5.6,mandatory,KK Nair,A Kamboj,N Rana,1,0,1,,,,,,,,,,,,,,,,,40
+Delhi Capitals,6,5,0.1,5.6,mandatory,N Rana,A Kamboj,KK Nair,1,0,1,,,,,,,,,,,,,,,,,41
+Delhi Capitals,6,6,0.1,5.6,mandatory,KK Nair,A Kamboj,N Rana,4,0,4,,,,,,,,,,,,,,,,,45
+Delhi Capitals,7,1,0.1,5.6,mandatory,N Rana,Noor Ahmad,KK Nair,1,0,1,,,,,,,,,,,,,,,,,46
+Delhi Capitals,7,2,0.1,5.6,mandatory,KK Nair,Noor Ahmad,N Rana,4,0,4,,,,,,,,,,,,,,,,,50
+Delhi Capitals,7,3,0.1,5.6,mandatory,KK Nair,Noor Ahmad,N Rana,0,0,0,,,,,,,,,,,,,,,,,50
+Delhi Capitals,7,4,0.1,5.6,mandatory,KK Nair,Noor Ahmad,N Rana,1,0,1,,,,,,,,,,,,,,,,,51
+Delhi Capitals,7,5,0.1,5.6,mandatory,N Rana,Noor Ahmad,KK Nair,1,0,1,,,,,,,,,,,,,,,,,52
+Delhi Capitals,7,6,0.1,5.6,mandatory,KK Nair,Noor Ahmad,N Rana,0,0,0,,,,,,,,KK Nair,caught,,,,,Gurjapneet Singh,,,52
+Delhi Capitals,8,1,0.1,5.6,mandatory,N Rana,Gurjapneet Singh,AR Patel,1,0,1,,,,,,,,,,,,,,,,,53
+Delhi Capitals,8,2,0.1,5.6,mandatory,AR Patel,Gurjapneet Singh,N Rana,1,0,1,,,,,,,,,,,,,,,,,54
+Delhi Capitals,8,3,0.1,5.6,mandatory,N Rana,Gurjapneet Singh,AR Patel,1,0,1,,,,,,,,,,,,,,,,,55
+Delhi Capitals,8,4,0.1,5.6,mandatory,AR Patel,Gurjapneet Singh,N Rana,1,0,1,,,,,,,,,,,,,,,,,56
+Delhi Capitals,8,5,0.1,5.6,mandatory,N Rana,Gurjapneet Singh,AR Patel,1,0,1,,,,,,,,,,,,,,,,,57
+Delhi Capitals,8,6,0.1,5.6,mandatory,AR Patel,Gurjapneet Singh,N Rana,0,0,0,,,,,,,,,,,,,,,,,57
+Delhi Capitals,9,1,0.1,5.6,mandatory,N Rana,Noor Ahmad,AR Patel,0,0,0,,,,,,,,,,,,,,,,,57
+Delhi Capitals,9,2,0.1,5.6,mandatory,N Rana,Noor Ahmad,AR Patel,4,0,4,,,,,,,,,,,,,,,,,61
+Delhi Capitals,9,3,0.1,5.6,mandatory,N Rana,Noor Ahmad,AR Patel,0,0,0,,,,,,,,N Rana,caught,,,,,Kartik Sharma,,,61
+Delhi Capitals,9,4,0.1,5.6,mandatory,T Stubbs,Noor Ahmad,AR Patel,0,0,0,,,,,,,,,,,,,,,,,61
+Delhi Capitals,9,5,0.1,5.6,mandatory,T Stubbs,Noor Ahmad,AR Patel,1,0,1,,,,,,,,,,,,,,,,,62
+Delhi Capitals,9,6,0.1,5.6,mandatory,AR Patel,Noor Ahmad,T Stubbs,0,0,0,,,,,,,,,,,,,,,,,62
+Delhi Capitals,10,1,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,AR Patel,0,0,0,,,,,,,,,,,,,,,,,62
+Delhi Capitals,10,2,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,AR Patel,6,0,6,,,,,,,,,,,,,,,,,68
+Delhi Capitals,10,3,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,AR Patel,0,0,0,,,,,,,,,,,,,,,,,68
+Delhi Capitals,10,4,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,AR Patel,1,0,1,,,,,,,,,,,,,,,,,69
+Delhi Capitals,10,5,0.1,5.6,mandatory,AR Patel,Gurjapneet Singh,T Stubbs,0,0,0,,,,,,,,,,,,,,,,,69
+Delhi Capitals,10,6,0.1,5.6,mandatory,AR Patel,Gurjapneet Singh,T Stubbs,0,0,0,,,,,,,,AR Patel,caught,,,,,AJ Hosein,,,69
+Delhi Capitals,11,1,0.1,5.6,mandatory,T Stubbs,AJ Hosein,Sameer Rizvi,1,0,1,,,,,,,,,,Sameer Rizvi,KK Nair,Delhi Capitals,impact_player,,,,70
+Delhi Capitals,11,2,0.1,5.6,mandatory,Sameer Rizvi,AJ Hosein,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,71
+Delhi Capitals,11,3,0.1,5.6,mandatory,T Stubbs,AJ Hosein,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,,71
+Delhi Capitals,11,4,0.1,5.6,mandatory,T Stubbs,AJ Hosein,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,72
+Delhi Capitals,11,5,0.1,5.6,mandatory,Sameer Rizvi,AJ Hosein,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,73
+Delhi Capitals,11,6,0.1,5.6,mandatory,T Stubbs,AJ Hosein,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,,73
+Delhi Capitals,12,1,0.1,5.6,mandatory,Sameer Rizvi,Mukesh Choudhary,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,74
+Delhi Capitals,12,2,0.1,5.6,mandatory,T Stubbs,Mukesh Choudhary,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,75
+Delhi Capitals,12,3,0.1,5.6,mandatory,Sameer Rizvi,Mukesh Choudhary,T Stubbs,0,0,0,,,,,,,,,,,,,,,,,75
+Delhi Capitals,12,4,0.1,5.6,mandatory,Sameer Rizvi,Mukesh Choudhary,T Stubbs,0,0,0,,,,,,,,,,,,,,,,,75
+Delhi Capitals,12,5,0.1,5.6,mandatory,Sameer Rizvi,Mukesh Choudhary,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,76
+Delhi Capitals,12,6,0.1,5.6,mandatory,T Stubbs,Mukesh Choudhary,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,77
+Delhi Capitals,13,1,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,,77
+Delhi Capitals,13,2,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,78
+Delhi Capitals,13,3,0.1,5.6,mandatory,Sameer Rizvi,Gurjapneet Singh,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,79
+Delhi Capitals,13,4,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,Sameer Rizvi,6,0,6,,,,,,,,,,,,,,,,,85
+Delhi Capitals,13,5,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,86
+Delhi Capitals,13,6,0.1,5.6,mandatory,Sameer Rizvi,Gurjapneet Singh,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,87
+Delhi Capitals,14,1,0.1,5.6,mandatory,Sameer Rizvi,Noor Ahmad,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,88
+Delhi Capitals,14,2,0.1,5.6,mandatory,T Stubbs,Noor Ahmad,Sameer Rizvi,2,0,2,,,,,,,,,,,,,,,,,90
+Delhi Capitals,14,3,0.1,5.6,mandatory,T Stubbs,Noor Ahmad,Sameer Rizvi,4,0,4,,,,,,,,,,,,,,,,,94
+Delhi Capitals,14,4,0.1,5.6,mandatory,T Stubbs,Noor Ahmad,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,95
+Delhi Capitals,14,5,0.1,5.6,mandatory,Sameer Rizvi,Noor Ahmad,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,96
+Delhi Capitals,14,6,0.1,5.6,mandatory,T Stubbs,Noor Ahmad,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,97
+Delhi Capitals,15,1,0.1,5.6,mandatory,T Stubbs,Mukesh Choudhary,Sameer Rizvi,0,1,1,1.0,,,,,,,,,,,,,,,,98
+Delhi Capitals,15,2,0.1,5.6,mandatory,T Stubbs,Mukesh Choudhary,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,99
+Delhi Capitals,15,3,0.1,5.6,mandatory,Sameer Rizvi,Mukesh Choudhary,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,100
+Delhi Capitals,15,4,0.1,5.6,mandatory,T Stubbs,Mukesh Choudhary,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,101
+Delhi Capitals,15,5,0.1,5.6,mandatory,Sameer Rizvi,Mukesh Choudhary,T Stubbs,6,0,6,,,,,,,,,,,,,,,,,107
+Delhi Capitals,15,6,0.1,5.6,mandatory,Sameer Rizvi,Mukesh Choudhary,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,108
+Delhi Capitals,15,7,0.1,5.6,mandatory,T Stubbs,Mukesh Choudhary,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,109
+Delhi Capitals,16,1,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,Sameer Rizvi,2,0,2,,,,,,,,,,,,,,,,,111
+Delhi Capitals,16,2,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,Sameer Rizvi,0,1,1,1.0,,,,,,,,,,,,,,,,112
+Delhi Capitals,16,3,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,113
+Delhi Capitals,16,4,0.1,5.6,mandatory,Sameer Rizvi,Gurjapneet Singh,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,114
+Delhi Capitals,16,5,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,Sameer Rizvi,0,0,0,,,,,,,,,,,,,,,,,114
+Delhi Capitals,16,6,0.1,5.6,mandatory,T Stubbs,Gurjapneet Singh,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,115
+Delhi Capitals,16,7,0.1,5.6,mandatory,Sameer Rizvi,Gurjapneet Singh,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,116
+Delhi Capitals,17,1,0.1,5.6,mandatory,Sameer Rizvi,A Kamboj,T Stubbs,0,0,0,,,,,,,,,,,,,,,,,116
+Delhi Capitals,17,2,0.1,5.6,mandatory,Sameer Rizvi,A Kamboj,T Stubbs,0,0,0,,,,,,,,,,,,,,,,,116
+Delhi Capitals,17,3,0.1,5.6,mandatory,Sameer Rizvi,A Kamboj,T Stubbs,6,0,6,,,,,,,,,,,,,,,,,122
+Delhi Capitals,17,4,0.1,5.6,mandatory,Sameer Rizvi,A Kamboj,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,123
+Delhi Capitals,17,5,0.1,5.6,mandatory,T Stubbs,A Kamboj,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,124
+Delhi Capitals,17,6,0.1,5.6,mandatory,Sameer Rizvi,A Kamboj,T Stubbs,6,0,6,,,,,,,,,,,,,,,,,130
+Delhi Capitals,18,1,0.1,5.6,mandatory,T Stubbs,J Overton,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,131
+Delhi Capitals,18,2,0.1,5.6,mandatory,Sameer Rizvi,J Overton,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,132
+Delhi Capitals,18,3,0.1,5.6,mandatory,T Stubbs,J Overton,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,133
+Delhi Capitals,18,4,0.1,5.6,mandatory,Sameer Rizvi,J Overton,T Stubbs,1,0,1,,,,,,,,,,,,,,,,,134
+Delhi Capitals,18,5,0.1,5.6,mandatory,T Stubbs,J Overton,Sameer Rizvi,0,0,0,,,,,,,,T Stubbs,caught,,,,,Mukesh Choudhary,,,134
+Delhi Capitals,18,6,0.1,5.6,mandatory,Ashutosh Sharma,J Overton,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,135
+Delhi Capitals,19,1,0.1,5.6,mandatory,Ashutosh Sharma,A Kamboj,Sameer Rizvi,6,0,6,,,,,,,,,,,,,,,,,141
+Delhi Capitals,19,2,0.1,5.6,mandatory,Ashutosh Sharma,A Kamboj,Sameer Rizvi,1,0,1,,,,,,,,,,,,,,,,,142
+Delhi Capitals,19,3,0.1,5.6,mandatory,Sameer Rizvi,A Kamboj,Ashutosh Sharma,1,0,1,,,,,,,,,,,,,,,,,143
+Delhi Capitals,19,4,0.1,5.6,mandatory,Ashutosh Sharma,A Kamboj,Sameer Rizvi,6,0,6,,,,,,,,,,,,,,,,,149
+Delhi Capitals,19,5,0.1,5.6,mandatory,Ashutosh Sharma,A Kamboj,Sameer Rizvi,0,0,0,,,,,,,,Ashutosh Sharma,run out,,,,,RD Gaikwad,,,149
+Delhi Capitals,19,6,0.1,5.6,mandatory,Sameer Rizvi,A Kamboj,MA Starc,6,0,6,,,,,,,,,,,,,,,,,155
+Chennai Super Kings,0,1,0.1,5.6,mandatory,SV Samson,MA Starc,RD Gaikwad,1,0,1,,,,,,,,,,,,,,,20.0,156.0,1
+Chennai Super Kings,0,2,0.1,5.6,mandatory,RD Gaikwad,MA Starc,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,1
+Chennai Super Kings,0,3,0.1,5.6,mandatory,RD Gaikwad,MA Starc,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,1
+Chennai Super Kings,0,4,0.1,5.6,mandatory,RD Gaikwad,MA Starc,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,2
+Chennai Super Kings,0,5,0.1,5.6,mandatory,SV Samson,MA Starc,RD Gaikwad,1,0,1,,Delhi Capitals,TM Srivastava,SV Samson,struck down,wicket,,,,,,,,,20.0,156.0,3
+Chennai Super Kings,0,6,0.1,5.6,mandatory,RD Gaikwad,MA Starc,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,3
+Chennai Super Kings,1,1,0.1,5.6,mandatory,SV Samson,AR Patel,RD Gaikwad,6,0,6,,,,,,,,,,,,,,,20.0,156.0,9
+Chennai Super Kings,1,2,0.1,5.6,mandatory,SV Samson,AR Patel,RD Gaikwad,1,0,1,,,,,,,,,,,,,,,20.0,156.0,10
+Chennai Super Kings,1,3,0.1,5.6,mandatory,RD Gaikwad,AR Patel,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,10
+Chennai Super Kings,1,4,0.1,5.6,mandatory,RD Gaikwad,AR Patel,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,10
+Chennai Super Kings,1,5,0.1,5.6,mandatory,RD Gaikwad,AR Patel,SV Samson,0,5,5,5.0,,,,,,,,,,,,,,20.0,156.0,15
+Chennai Super Kings,1,6,0.1,5.6,mandatory,RD Gaikwad,AR Patel,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,15
+Chennai Super Kings,1,7,0.1,5.6,mandatory,RD Gaikwad,AR Patel,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,15
+Chennai Super Kings,2,1,0.1,5.6,mandatory,SV Samson,MA Starc,RD Gaikwad,0,0,0,,,,,,,,,,,,,,,20.0,156.0,15
+Chennai Super Kings,2,2,0.1,5.6,mandatory,SV Samson,MA Starc,RD Gaikwad,0,1,1,1.0,,,,,,,,,,,,,,20.0,156.0,16
+Chennai Super Kings,2,3,0.1,5.6,mandatory,SV Samson,MA Starc,RD Gaikwad,0,0,0,,,,,,,,,,,,,,,20.0,156.0,16
+Chennai Super Kings,2,4,0.1,5.6,mandatory,SV Samson,MA Starc,RD Gaikwad,1,0,1,,,,,,,,,,,,,,,20.0,156.0,17
+Chennai Super Kings,2,5,0.1,5.6,mandatory,RD Gaikwad,MA Starc,SV Samson,4,0,4,,,,,,,,,,,,,,,20.0,156.0,21
+Chennai Super Kings,2,6,0.1,5.6,mandatory,RD Gaikwad,MA Starc,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,22
+Chennai Super Kings,2,7,0.1,5.6,mandatory,SV Samson,MA Starc,RD Gaikwad,0,0,0,,,,,,,,,,,,,,,20.0,156.0,22
+Chennai Super Kings,3,1,0.1,5.6,mandatory,RD Gaikwad,L Ngidi,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,22
+Chennai Super Kings,3,2,0.1,5.6,mandatory,RD Gaikwad,L Ngidi,SV Samson,0,1,1,,,,,,,1.0,,,,,,,,20.0,156.0,23
+Chennai Super Kings,3,3,0.1,5.6,mandatory,SV Samson,L Ngidi,RD Gaikwad,0,0,0,,,,,,,,,,,,,,,20.0,156.0,23
+Chennai Super Kings,3,4,0.1,5.6,mandatory,SV Samson,L Ngidi,RD Gaikwad,1,0,1,,,,,,,,,,,,,,,20.0,156.0,24
+Chennai Super Kings,3,5,0.1,5.6,mandatory,RD Gaikwad,L Ngidi,SV Samson,0,0,0,,,,,,,,RD Gaikwad,caught,,,,,Sameer Rizvi,20.0,156.0,24
+Chennai Super Kings,3,6,0.1,5.6,mandatory,Urvil Patel,L Ngidi,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,24
+Chennai Super Kings,4,1,0.1,5.6,mandatory,SV Samson,AR Patel,Urvil Patel,1,0,1,,,,,,,,,,,,,,,20.0,156.0,25
+Chennai Super Kings,4,2,0.1,5.6,mandatory,Urvil Patel,AR Patel,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,26
+Chennai Super Kings,4,3,0.1,5.6,mandatory,SV Samson,AR Patel,Urvil Patel,0,0,0,,,,,,,,,,,,,,,20.0,156.0,26
+Chennai Super Kings,4,4,0.1,5.6,mandatory,SV Samson,AR Patel,Urvil Patel,1,0,1,,,,,,,,,,,,,,,20.0,156.0,27
+Chennai Super Kings,4,5,0.1,5.6,mandatory,Urvil Patel,AR Patel,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,27
+Chennai Super Kings,4,6,0.1,5.6,mandatory,Urvil Patel,AR Patel,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,28
+Chennai Super Kings,5,1,0.1,5.6,mandatory,Urvil Patel,L Ngidi,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,29
+Chennai Super Kings,5,2,0.1,5.6,mandatory,SV Samson,L Ngidi,Urvil Patel,0,0,0,,,,,,,,,,,,,,,20.0,156.0,29
+Chennai Super Kings,5,3,0.1,5.6,mandatory,SV Samson,L Ngidi,Urvil Patel,1,0,1,,,,,,,,,,,,,,,20.0,156.0,30
+Chennai Super Kings,5,4,0.1,5.6,mandatory,Urvil Patel,L Ngidi,SV Samson,2,0,2,,,,,,,,,,,,,,,20.0,156.0,32
+Chennai Super Kings,5,5,0.1,5.6,mandatory,Urvil Patel,L Ngidi,SV Samson,6,0,6,,,,,,,,,,,,,,,20.0,156.0,38
+Chennai Super Kings,5,6,0.1,5.6,mandatory,Urvil Patel,L Ngidi,SV Samson,6,0,6,,,,,,,,,,,,,,,20.0,156.0,44
+Chennai Super Kings,6,1,0.1,5.6,mandatory,SV Samson,AR Patel,Urvil Patel,0,0,0,,,,,,,,,,,,,,,20.0,156.0,44
+Chennai Super Kings,6,2,0.1,5.6,mandatory,SV Samson,AR Patel,Urvil Patel,1,0,1,,,,,,,,,,,,,,,20.0,156.0,45
+Chennai Super Kings,6,3,0.1,5.6,mandatory,Urvil Patel,AR Patel,SV Samson,0,0,0,,,,,,,,Urvil Patel,stumped,,,,,KL Rahul,20.0,156.0,45
+Chennai Super Kings,6,4,0.1,5.6,mandatory,Kartik Sharma,AR Patel,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,45
+Chennai Super Kings,6,5,0.1,5.6,mandatory,Kartik Sharma,AR Patel,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,45
+Chennai Super Kings,6,6,0.1,5.6,mandatory,Kartik Sharma,AR Patel,SV Samson,4,0,4,,,,,,,,,,,,,,,20.0,156.0,49
+Chennai Super Kings,7,1,0.1,5.6,mandatory,SV Samson,Kuldeep Yadav,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,20.0,156.0,49
+Chennai Super Kings,7,2,0.1,5.6,mandatory,SV Samson,Kuldeep Yadav,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,20.0,156.0,50
+Chennai Super Kings,7,3,0.1,5.6,mandatory,Kartik Sharma,Kuldeep Yadav,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,50
+Chennai Super Kings,7,4,0.1,5.6,mandatory,Kartik Sharma,Kuldeep Yadav,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,51
+Chennai Super Kings,7,5,0.1,5.6,mandatory,SV Samson,Kuldeep Yadav,Kartik Sharma,6,0,6,,,,,,,,,,,,,,,20.0,156.0,57
+Chennai Super Kings,7,6,0.1,5.6,mandatory,SV Samson,Kuldeep Yadav,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,20.0,156.0,57
+Chennai Super Kings,8,1,0.1,5.6,mandatory,Kartik Sharma,T Natarajan,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,57
+Chennai Super Kings,8,2,0.1,5.6,mandatory,Kartik Sharma,T Natarajan,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,57
+Chennai Super Kings,8,3,0.1,5.6,mandatory,Kartik Sharma,T Natarajan,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,58
+Chennai Super Kings,8,4,0.1,5.6,mandatory,SV Samson,T Natarajan,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,20.0,156.0,58
+Chennai Super Kings,8,5,0.1,5.6,mandatory,SV Samson,T Natarajan,Kartik Sharma,4,0,4,,,,,,,,,,,,,,,20.0,156.0,62
+Chennai Super Kings,8,6,0.1,5.6,mandatory,SV Samson,T Natarajan,Kartik Sharma,4,0,4,,,,,,,,,,,,,,,20.0,156.0,66
+Chennai Super Kings,9,1,0.1,5.6,mandatory,Kartik Sharma,Kuldeep Yadav,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,66
+Chennai Super Kings,9,2,0.1,5.6,mandatory,Kartik Sharma,Kuldeep Yadav,SV Samson,6,0,6,,,,,,,,,,,,,,,20.0,156.0,72
+Chennai Super Kings,9,3,0.1,5.6,mandatory,Kartik Sharma,Kuldeep Yadav,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,72
+Chennai Super Kings,9,4,0.1,5.6,mandatory,Kartik Sharma,Kuldeep Yadav,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,72
+Chennai Super Kings,9,5,0.1,5.6,mandatory,Kartik Sharma,Kuldeep Yadav,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,73
+Chennai Super Kings,9,6,0.1,5.6,mandatory,SV Samson,Kuldeep Yadav,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,20.0,156.0,74
+Chennai Super Kings,10,1,0.1,5.6,mandatory,SV Samson,AR Patel,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,20.0,156.0,74
+Chennai Super Kings,10,2,0.1,5.6,mandatory,SV Samson,AR Patel,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,20.0,156.0,75
+Chennai Super Kings,10,3,0.1,5.6,mandatory,Kartik Sharma,AR Patel,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,76
+Chennai Super Kings,10,4,0.1,5.6,mandatory,SV Samson,AR Patel,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,20.0,156.0,77
+Chennai Super Kings,10,5,0.1,5.6,mandatory,Kartik Sharma,AR Patel,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,77
+Chennai Super Kings,10,6,0.1,5.6,mandatory,Kartik Sharma,AR Patel,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,78
+Chennai Super Kings,11,1,0.1,5.6,mandatory,Kartik Sharma,Kuldeep Yadav,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,79
+Chennai Super Kings,11,2,0.1,5.6,mandatory,SV Samson,Kuldeep Yadav,Kartik Sharma,6,0,6,,,,,,,,,,,,,,,20.0,156.0,85
+Chennai Super Kings,11,3,0.1,5.6,mandatory,SV Samson,Kuldeep Yadav,Kartik Sharma,6,0,6,,,,,,,,,,,,,,,20.0,156.0,91
+Chennai Super Kings,11,4,0.1,5.6,mandatory,SV Samson,Kuldeep Yadav,Kartik Sharma,4,0,4,,,,,,,,,,,,,,,20.0,156.0,95
+Chennai Super Kings,11,5,0.1,5.6,mandatory,SV Samson,Kuldeep Yadav,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,20.0,156.0,96
+Chennai Super Kings,11,6,0.1,5.6,mandatory,Kartik Sharma,Kuldeep Yadav,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,96
+Chennai Super Kings,12,1,0.1,5.6,mandatory,SV Samson,MA Starc,Kartik Sharma,4,0,4,,,,,,,,,,,,,,,20.0,156.0,100
+Chennai Super Kings,12,2,0.1,5.6,mandatory,SV Samson,MA Starc,Kartik Sharma,4,0,4,,,,,,,,,,,,,,,20.0,156.0,104
+Chennai Super Kings,12,3,0.1,5.6,mandatory,SV Samson,MA Starc,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,20.0,156.0,104
+Chennai Super Kings,12,4,0.1,5.6,mandatory,SV Samson,MA Starc,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,20.0,156.0,104
+Chennai Super Kings,12,5,0.1,5.6,mandatory,SV Samson,MA Starc,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,20.0,156.0,105
+Chennai Super Kings,12,6,0.1,5.6,mandatory,Kartik Sharma,MA Starc,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,105
+Chennai Super Kings,13,1,0.1,5.6,mandatory,SV Samson,L Ngidi,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,20.0,156.0,105
+Chennai Super Kings,13,2,0.1,5.6,mandatory,SV Samson,L Ngidi,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,20.0,156.0,105
+Chennai Super Kings,13,3,0.1,5.6,mandatory,SV Samson,L Ngidi,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,20.0,156.0,105
+Chennai Super Kings,13,4,0.1,5.6,mandatory,SV Samson,L Ngidi,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,20.0,156.0,105
+Chennai Super Kings,13,5,0.1,5.6,mandatory,SV Samson,L Ngidi,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,20.0,156.0,106
+Chennai Super Kings,13,6,0.1,5.6,mandatory,Kartik Sharma,L Ngidi,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,106
+Chennai Super Kings,14,1,0.1,5.6,mandatory,SV Samson,T Natarajan,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,20.0,156.0,107
+Chennai Super Kings,14,2,0.1,5.6,mandatory,Kartik Sharma,T Natarajan,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,108
+Chennai Super Kings,14,3,0.1,5.6,mandatory,SV Samson,T Natarajan,Kartik Sharma,6,0,6,,,,,,,,,,,,,,,20.0,156.0,114
+Chennai Super Kings,14,4,0.1,5.6,mandatory,SV Samson,T Natarajan,Kartik Sharma,6,0,6,,,,,,,,,,,,,,,20.0,156.0,120
+Chennai Super Kings,14,5,0.1,5.6,mandatory,SV Samson,T Natarajan,Kartik Sharma,4,0,4,,,,,,,,,,,,,,,20.0,156.0,124
+Chennai Super Kings,14,6,0.1,5.6,mandatory,SV Samson,T Natarajan,Kartik Sharma,2,0,2,,,,,,,,,,,,,,,20.0,156.0,126
+Chennai Super Kings,15,1,0.1,5.6,mandatory,Kartik Sharma,L Ngidi,SV Samson,4,0,4,,,,,,,,,,,,,,,20.0,156.0,130
+Chennai Super Kings,15,2,0.1,5.6,mandatory,Kartik Sharma,L Ngidi,SV Samson,0,1,1,1.0,,,,,,,,,,,,,,20.0,156.0,131
+Chennai Super Kings,15,3,0.1,5.6,mandatory,Kartik Sharma,L Ngidi,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,132
+Chennai Super Kings,15,4,0.1,5.6,mandatory,SV Samson,L Ngidi,Kartik Sharma,4,0,4,,,,,,,,,,,,,,,20.0,156.0,136
+Chennai Super Kings,15,5,0.1,5.6,mandatory,SV Samson,L Ngidi,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,20.0,156.0,137
+Chennai Super Kings,15,6,0.1,5.6,mandatory,Kartik Sharma,L Ngidi,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,138
+Chennai Super Kings,15,7,0.1,5.6,mandatory,SV Samson,L Ngidi,Kartik Sharma,0,0,0,,,,,,,,,,,,,,,20.0,156.0,138
+Chennai Super Kings,16,1,0.1,5.6,mandatory,Kartik Sharma,MA Starc,SV Samson,2,0,2,,,,,,,,,,,,,,,20.0,156.0,140
+Chennai Super Kings,16,2,0.1,5.6,mandatory,Kartik Sharma,MA Starc,SV Samson,4,0,4,,,,,,,,,,,,,,,20.0,156.0,144
+Chennai Super Kings,16,3,0.1,5.6,mandatory,Kartik Sharma,MA Starc,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,145
+Chennai Super Kings,16,4,0.1,5.6,mandatory,SV Samson,MA Starc,Kartik Sharma,1,0,1,,,,,,,,,,,,,,,20.0,156.0,146
+Chennai Super Kings,16,5,0.1,5.6,mandatory,Kartik Sharma,MA Starc,SV Samson,1,0,1,,,,,,,,,,,,,,,20.0,156.0,147
+Chennai Super Kings,16,6,0.1,5.6,mandatory,SV Samson,MA Starc,Kartik Sharma,2,0,2,,,,,,,,,,,,,,,20.0,156.0,149
+Chennai Super Kings,17,1,0.1,5.6,mandatory,Kartik Sharma,T Natarajan,SV Samson,0,0,0,,,,,,,,,,,,,,,20.0,156.0,149
+Chennai Super Kings,17,2,0.1,5.6,mandatory,Kartik Sharma,T Natarajan,SV Samson,6,0,6,,,,,,,,,,,,,,,20.0,156.0,155
+Chennai Super Kings,17,3,0.1,5.6,mandatory,Kartik Sharma,T Natarajan,SV Samson,4,0,4,,,,,,,,,,,,,,,20.0,156.0,159
